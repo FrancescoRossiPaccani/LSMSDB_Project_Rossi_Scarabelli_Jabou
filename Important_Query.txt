@@ -1,0 +1,60 @@
+Ex of structure of db:
+
+{   
+    User | Document Db.
+        - mandatory: name, surname, document_type, document_id, document_expity
+        - not mandatory: license_id, license_expity, cars_info
+}  
+{
+    Car | Document Db.
+        - mandatory: color, plate, #passangers_max, insurance_info
+        - not mandatory: fuel, engine, ... 
+}
+{
+    Ride | Document Db.
+        ride_id, 
+        driver_id (or user info for faser retrival),
+        trajectory_id,
+        price,
+        passangers_max,
+        incoming_request[]
+        accepted_request[]
+
+        review_ids[]
+}
+{
+    trajectory | document_db
+    es
+    {
+    "route_id": "route_0",
+    "start_point": "Torre",
+    "end_point": "Stazione Pisa Centrale",
+    "points": [
+        {"idx": 0, "lat": 43.723, "lon": 10.39797},
+        {"idx": 1, "lat": 43.72234, "lon": 10.40105},
+        ...
+    ]
+    "number of point": 47,
+}
+}
+{
+    Rewiew | Document Db
+    .
+    .
+    .
+    .
+
+}
+
+// it's seem like a relationship between users and ride IDK how to modify
+
+{   Payment | Document Db.
+    
+    payment_id,
+    state (payed/ not payed/ waiting the end of the ride),
+    import,
+    bank,
+    time, 
+    sender_user_id;
+    ride_id;
+}
