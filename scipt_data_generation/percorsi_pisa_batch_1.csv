@@ -1,0 +1,173 @@
+id,start,end,route_id,lat,lon,idx
+0,Torre,Stazione Pisa Centrale,route_0,43.723,10.39797,0
+1,Torre,Stazione Pisa Centrale,route_0,43.72234,10.40105,1
+2,Torre,Stazione Pisa Centrale,route_0,43.72192,10.40081,2
+3,Torre,Stazione Pisa Centrale,route_0,43.72203,10.40033,3
+4,Torre,Stazione Pisa Centrale,route_0,43.72205,10.40016,4
+5,Torre,Stazione Pisa Centrale,route_0,43.72206,10.40001,5
+6,Torre,Stazione Pisa Centrale,route_0,43.72206,10.39996,6
+7,Torre,Stazione Pisa Centrale,route_0,43.72204,10.39988,7
+8,Torre,Stazione Pisa Centrale,route_0,43.72202,10.39984,8
+9,Torre,Stazione Pisa Centrale,route_0,43.72183,10.3998,9
+10,Torre,Stazione Pisa Centrale,route_0,43.72177,10.39971,10
+11,Torre,Stazione Pisa Centrale,route_0,43.72184,10.3996,11
+12,Torre,Stazione Pisa Centrale,route_0,43.72192,10.39922,12
+13,Torre,Stazione Pisa Centrale,route_0,43.72087,10.39909,13
+14,Torre,Stazione Pisa Centrale,route_0,43.72061,10.39904,14
+15,Torre,Stazione Pisa Centrale,route_0,43.72018,10.39904,15
+16,Torre,Stazione Pisa Centrale,route_0,43.72,10.39899,16
+17,Torre,Stazione Pisa Centrale,route_0,43.71982,10.39891,17
+18,Torre,Stazione Pisa Centrale,route_0,43.71986,10.39878,18
+19,Torre,Stazione Pisa Centrale,route_0,43.7199,10.39829,19
+20,Torre,Stazione Pisa Centrale,route_0,43.71991,10.39776,20
+21,Torre,Stazione Pisa Centrale,route_0,43.71991,10.39756,21
+22,Torre,Stazione Pisa Centrale,route_0,43.71988,10.39736,22
+23,Torre,Stazione Pisa Centrale,route_0,43.71941,10.39745,23
+24,Torre,Stazione Pisa Centrale,route_0,43.71914,10.39747,24
+25,Torre,Stazione Pisa Centrale,route_0,43.71903,10.39744,25
+26,Torre,Stazione Pisa Centrale,route_0,43.71857,10.39719,26
+27,Torre,Stazione Pisa Centrale,route_0,43.71813,10.39693,27
+28,Torre,Stazione Pisa Centrale,route_0,43.71753,10.39652,28
+29,Torre,Stazione Pisa Centrale,route_0,43.71738,10.39644,29
+30,Torre,Stazione Pisa Centrale,route_0,43.71723,10.39637,30
+31,Torre,Stazione Pisa Centrale,route_0,43.71703,10.39635,31
+32,Torre,Stazione Pisa Centrale,route_0,43.7169,10.39635,32
+33,Torre,Stazione Pisa Centrale,route_0,43.71674,10.39637,33
+34,Torre,Stazione Pisa Centrale,route_0,43.71614,10.3966,34
+35,Torre,Stazione Pisa Centrale,route_0,43.71598,10.39605,35
+36,Torre,Stazione Pisa Centrale,route_0,43.71581,10.39552,36
+37,Torre,Stazione Pisa Centrale,route_0,43.7156,10.39498,37
+38,Torre,Stazione Pisa Centrale,route_0,43.71472,10.39571,38
+39,Torre,Stazione Pisa Centrale,route_0,43.71421,10.39466,39
+40,Torre,Stazione Pisa Centrale,route_0,43.71376,10.39381,40
+41,Torre,Stazione Pisa Centrale,route_0,43.71333,10.39296,41
+42,Torre,Stazione Pisa Centrale,route_0,43.7129,10.39217,42
+43,Torre,Stazione Pisa Centrale,route_0,43.71261,10.39159,43
+44,Torre,Stazione Pisa Centrale,route_0,43.71248,10.39131,44
+45,Torre,Stazione Pisa Centrale,route_0,43.71241,10.3912,45
+46,Torre,Stazione Pisa Centrale,route_0,43.71236,10.39115,46
+47,Torre,Stazione Pisa Centrale,route_0,43.71187,10.39133,47
+48,Torre,Stazione Pisa Centrale,route_0,43.71179,10.39138,48
+49,Torre,Stazione Pisa Centrale,route_0,43.71169,10.39143,49
+50,Torre,Stazione Pisa Centrale,route_0,43.71166,10.3914,50
+51,Torre,Stazione Pisa Centrale,route_0,43.71162,10.39139,51
+52,Torre,Stazione Pisa Centrale,route_0,43.71158,10.39142,52
+53,Torre,Stazione Pisa Centrale,route_0,43.71133,10.39152,53
+54,Torre,Stazione Pisa Centrale,route_0,43.71093,10.39162,54
+55,Torre,Stazione Pisa Centrale,route_0,43.71082,10.39166,55
+56,Torre,Stazione Pisa Centrale,route_0,43.71072,10.39173,56
+57,Torre,Stazione Pisa Centrale,route_0,43.71067,10.39179,57
+58,Torre,Stazione Pisa Centrale,route_0,43.71063,10.39186,58
+59,Torre,Stazione Pisa Centrale,route_0,43.71061,10.39193,59
+60,Torre,Stazione Pisa Centrale,route_0,43.7106,10.39206,60
+61,Torre,Stazione Pisa Centrale,route_0,43.71058,10.39434,61
+62,Torre,Stazione Pisa Centrale,route_0,43.71057,10.39451,62
+63,Torre,Stazione Pisa Centrale,route_0,43.71054,10.39481,63
+64,Torre,Stazione Pisa Centrale,route_0,43.71041,10.39568,64
+65,Torre,Stazione Pisa Centrale,route_0,43.71036,10.39568,65
+66,Torre,Stazione Pisa Centrale,route_0,43.71033,10.39573,66
+67,Torre,Stazione Pisa Centrale,route_0,43.71032,10.3958,67
+68,Torre,Stazione Pisa Centrale,route_0,43.71034,10.39585,68
+69,Torre,Stazione Pisa Centrale,route_0,43.71038,10.39588,69
+70,Torre,Stazione Pisa Centrale,route_0,43.71033,10.39616,70
+71,Torre,Stazione Pisa Centrale,route_0,43.71012,10.39608,71
+72,Torre,Stazione Pisa Centrale,route_0,43.70953,10.39581,72
+73,Torre,Stazione Pisa Centrale,route_0,43.70918,10.39565,73
+74,Torre,Stazione Pisa Centrale,route_0,43.70897,10.39558,74
+75,Torre,Stazione Pisa Centrale,route_0,43.70892,10.39609,75
+76,Torre,Stazione Pisa Centrale,route_0,43.70892,10.3962,76
+77,Torre,Stazione Pisa Centrale,route_0,43.70894,10.3963,77
+78,Torre,Stazione Pisa Centrale,route_0,43.70875,10.39738,78
+79,Torre,Universita di Pisa,route_1,43.723,10.39797,0
+80,Torre,Universita di Pisa,route_1,43.72234,10.40105,1
+81,Torre,Universita di Pisa,route_1,43.72221,10.40159,2
+82,Torre,Universita di Pisa,route_1,43.72219,10.4017,3
+83,Torre,Universita di Pisa,route_1,43.72265,10.40173,4
+84,Torre,Universita di Pisa,route_1,43.72284,10.40176,5
+85,Torre,Universita di Pisa,route_1,43.72371,10.40559,6
+86,Torre,Universita di Pisa,route_1,43.72414,10.40742,7
+87,Torre,Universita di Pisa,route_1,43.7241,10.40746,8
+88,Torre,Universita di Pisa,route_1,43.72384,10.40783,9
+89,Torre,Universita di Pisa,route_1,43.72372,10.40793,10
+90,Torre,Universita di Pisa,route_1,43.72367,10.40794,11
+91,Torre,Universita di Pisa,route_1,43.72365,10.40796,12
+92,Torre,Universita di Pisa,route_1,43.72363,10.40801,13
+93,Torre,Universita di Pisa,route_1,43.72363,10.40807,14
+94,Torre,Universita di Pisa,route_1,43.72364,10.4081,15
+95,Torre,Universita di Pisa,route_1,43.72367,10.40814,16
+96,Torre,Universita di Pisa,route_1,43.72374,10.40833,17
+97,Torre,Universita di Pisa,route_1,43.72374,10.40862,18
+98,Torre,Universita di Pisa,route_1,43.72373,10.40865,19
+99,Torre,Universita di Pisa,route_1,43.72368,10.40868,20
+100,Torre,Universita di Pisa,route_1,43.72211,10.40906,21
+101,Torre,Universita di Pisa,route_1,43.722,10.4091,22
+102,Torre,Universita di Pisa,route_1,43.72194,10.40914,23
+103,Torre,Universita di Pisa,route_1,43.72187,10.4092,24
+104,Torre,Universita di Pisa,route_1,43.72155,10.40964,25
+105,Torre,Universita di Pisa,route_1,43.72097,10.4105,26
+106,Torre,Universita di Pisa,route_1,43.7207,10.41088,27
+107,Torre,Universita di Pisa,route_1,43.72017,10.41165,28
+108,Torre,Universita di Pisa,route_1,43.72015,10.41164,29
+109,Torre,Universita di Pisa,route_1,43.72012,10.41164,30
+110,Torre,Universita di Pisa,route_1,43.72002,10.41157,31
+111,Torre,Universita di Pisa,route_1,43.71902,10.41072,32
+112,Torre,Universita di Pisa,route_1,43.71886,10.41055,33
+113,Torre,Universita di Pisa,route_1,43.71879,10.41046,34
+114,Torre,Universita di Pisa,route_1,43.71868,10.40905,35
+115,Torre,Universita di Pisa,route_1,43.7186,10.40806,36
+116,Torre,Via Aretino Spinello 11,route_2,43.723,10.39797,0
+117,Torre,Via Aretino Spinello 11,route_2,43.72234,10.40105,1
+118,Torre,Via Aretino Spinello 11,route_2,43.72192,10.40081,2
+119,Torre,Via Aretino Spinello 11,route_2,43.72203,10.40033,3
+120,Torre,Via Aretino Spinello 11,route_2,43.72205,10.40016,4
+121,Torre,Via Aretino Spinello 11,route_2,43.72206,10.40001,5
+122,Torre,Via Aretino Spinello 11,route_2,43.72206,10.39996,6
+123,Torre,Via Aretino Spinello 11,route_2,43.72204,10.39988,7
+124,Torre,Via Aretino Spinello 11,route_2,43.72202,10.39984,8
+125,Torre,Via Aretino Spinello 11,route_2,43.72183,10.3998,9
+126,Torre,Via Aretino Spinello 11,route_2,43.72177,10.39971,10
+127,Torre,Via Aretino Spinello 11,route_2,43.72184,10.3996,11
+128,Torre,Via Aretino Spinello 11,route_2,43.72192,10.39922,12
+129,Torre,Via Aretino Spinello 11,route_2,43.72087,10.39909,13
+130,Torre,Via Aretino Spinello 11,route_2,43.72061,10.39904,14
+131,Torre,Via Aretino Spinello 11,route_2,43.72018,10.39904,15
+132,Torre,Via Aretino Spinello 11,route_2,43.72,10.39899,16
+133,Torre,Via Aretino Spinello 11,route_2,43.71982,10.39891,17
+134,Torre,Via Aretino Spinello 11,route_2,43.71986,10.39878,18
+135,Torre,Via Aretino Spinello 11,route_2,43.7199,10.39829,19
+136,Torre,Via Aretino Spinello 11,route_2,43.71991,10.39776,20
+137,Torre,Via Aretino Spinello 11,route_2,43.71991,10.39756,21
+138,Torre,Via Aretino Spinello 11,route_2,43.71988,10.39736,22
+139,Torre,Via Aretino Spinello 11,route_2,43.71941,10.39745,23
+140,Torre,Via Aretino Spinello 11,route_2,43.71914,10.39747,24
+141,Torre,Via Aretino Spinello 11,route_2,43.71903,10.39744,25
+142,Torre,Via Aretino Spinello 11,route_2,43.71857,10.39719,26
+143,Torre,Via Aretino Spinello 11,route_2,43.71813,10.39693,27
+144,Torre,Via Aretino Spinello 11,route_2,43.71753,10.39652,28
+145,Torre,Via Aretino Spinello 11,route_2,43.71738,10.39644,29
+146,Torre,Via Aretino Spinello 11,route_2,43.71723,10.39637,30
+147,Torre,Via Aretino Spinello 11,route_2,43.71703,10.39635,31
+148,Torre,Via Aretino Spinello 11,route_2,43.7169,10.39635,32
+149,Torre,Via Aretino Spinello 11,route_2,43.71674,10.39637,33
+150,Torre,Via Aretino Spinello 11,route_2,43.71614,10.3966,34
+151,Torre,Via Aretino Spinello 11,route_2,43.71632,10.39747,35
+152,Torre,Via Aretino Spinello 11,route_2,43.71652,10.39855,36
+153,Torre,Via Aretino Spinello 11,route_2,43.71656,10.39883,37
+154,Torre,Via Aretino Spinello 11,route_2,43.71661,10.39923,38
+155,Torre,Via Aretino Spinello 11,route_2,43.71663,10.39955,39
+156,Torre,Via Aretino Spinello 11,route_2,43.71664,10.39989,40
+157,Torre,Via Aretino Spinello 11,route_2,43.71662,10.40025,41
+158,Torre,Via Aretino Spinello 11,route_2,43.71658,10.40067,42
+159,Torre,Via Aretino Spinello 11,route_2,43.71649,10.40126,43
+160,Torre,Via Aretino Spinello 11,route_2,43.71641,10.40165,44
+161,Torre,Via Aretino Spinello 11,route_2,43.71628,10.40215,45
+162,Torre,Via Aretino Spinello 11,route_2,43.71555,10.40168,46
+163,Torre,Via Aretino Spinello 11,route_2,43.71566,10.40129,47
+164,Torre,Via Aretino Spinello 11,route_2,43.7157,10.40111,48
+165,Torre,Via Aretino Spinello 11,route_2,43.71576,10.40067,49
+166,Torre,Via Aretino Spinello 11,route_2,43.7158,10.40037,50
+167,Torre,Via Aretino Spinello 11,route_2,43.71551,10.40027,51
+168,Torre,Via Aretino Spinello 11,route_2,43.71527,10.40016,52
+169,Torre,Via Aretino Spinello 11,route_2,43.71522,10.40016,53
+170,Torre,Via Aretino Spinello 11,route_2,43.71507,10.40011,54
+171,Torre,Via Aretino Spinello 11,route_2,43.71498,10.40006,55
