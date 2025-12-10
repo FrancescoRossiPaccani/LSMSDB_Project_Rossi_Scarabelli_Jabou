@@ -2,17 +2,40 @@ We have to implement an application for passage-sharing like "bla-bla car".
 In the system there will be 3 actors, the sistem, the drivers and the passangers.
 The last two are the Users of the system.
 An User can register in the system and can manage his profile.
+For the registration the user have to send to the application the following information:
+    Mandaroy information:
+        - Name
+        - Surname
+        - Type of the Document (es. identity card or passport or license id)
+        - Document Id 
+        - Expiring date
+    Not mandatory information:
+        - license id
+        - Expiring date
+        - information about the cars that he want to register. (see later)
+He can manage his profile change this information:
+        - Add a new document (for example because the last one is expired)
+        - Add the license
+        - Add a car, (see later)
 While registering or managin his account he can adds cars that he owns and he can drive.
+If one of this data is missing or it is expired (es. identity card) the user can't use the system.
 
+An user that have added his driving information (license and cars) can be considered a Driver and he can do the Driver's action.
 Passengers who have taken a trip with a driver can rate the ride and leave a review, which the driver can view on a dedicated page in the app.
-A Driver can pubish a ride that he will do, while he publish that he had to see the trajectory that he have to made and he have to select one of his car, the one that he are going to use.
+
+A Driver can pubish a ride that he will do:
+    - Start point
+    - End point
+    - Estimated time to start
+    - Money requested
+While he publish that he had to see the trajectory that he have to made and he have to select one of his car, the one that he are going to use and the number of the passangers that he wants to give a ride to.
 After he publish a ride he can/have to manage the request for a passage.
     He can see the profile of the passanger that made the request.
     He can accept the request.
     He can denied the request.
 
 A passanger can see the ride that some driver publish in the app. He can filter the ride that going for a spot to another (near the spots). 
-He can see the profile of the drivers that have publish a ride, the car and how much money the driver ask for the ride. (partition if the ride is smaller than the driver ride)
+He can see the profile of the drivers that have publish a ride, the car and how much money the driver ask for the ride. (partition if the ride is smaller than the driver ride | money * N_point_percorred / N_point total)
 When a passanger choose the ride that he want, he can send a request to passage at the driver or he can change the request for example he can change the pickup point and the money that he are going to pay.  
 
 The system notify both Drivers and Passangers when a notify is incoming.
