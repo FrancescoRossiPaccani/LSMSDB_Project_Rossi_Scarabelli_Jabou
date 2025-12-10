@@ -1,0 +1,33 @@
+FUNCTIONAL REQUIREMENTS
+- The system must send a confirmation email when a user signs up
+- The system must provide to the users the possibility to update their profile information
+- The system must provide to the drivers the possibility to publish a new ride
+- The system must show the user all the possible journeys according to his needs
+- The system must show the user all the information regarding a specific driver
+- The system must show to the user the driver, the duration and the cost for a particular ride
+- The system must notify the driver when a user asks to change his starting/ending point or the ride cost
+- The system must notify the driver when a user asks to join a driver's ride
+- The system must notify the user when a driver accepts/rejects his request to join the ride
+- The system must notify the driver when a passenger has joined a ride after he has paid
+- The system must reject a passenger request if the seats are all occupied
+- The system must provide a passenger the possibility to delete a ride booking
+- The system must refund a passenger who has deleted a ride if the date of the journey is far away in time (ex max 3 days before)
+- The system must provide a driver the possibility to delete a journey
+- The system must force a driver who deleted a journey to refund all the passengers if the cancellation date was too close to the journey date (ex max 7 days before)
+- The system must ask both the passenger and the driver to leave a review after a ride is ended
+- The system must ask the passenger to leave a tip after he has participated in a ride
+- The system must block the money a passenger paid until the ride is finished
+- The system must ask both passenger and driver if the ride was all good before paying the driver
+- The system must send the money to a driver after a passenger has finished the ride and everything was good
+- The system must keep blocked the money a passenger paid after the ride has ended if there was a problem during the ride
+
+NON FUNCTIONAL
+Product requirements
+- The system must satisfy all the user requests in a short time
+- The system must encrypt all the sensitive information about passengers, drivers and drivers' cars
+Organisational requirements
+- (??????)
+External Requirements
+- The system must be authorized to keep money from passengers before giving them to the driver
+- The system must accept only drivers that have an official license and a registered car that doesn't violate any traffic law
+- The system must accept only passengers that have an official ID
