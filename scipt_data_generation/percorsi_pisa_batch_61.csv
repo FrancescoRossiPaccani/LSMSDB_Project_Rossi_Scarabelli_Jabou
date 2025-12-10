@@ -1,0 +1,679 @@
+id,start,end,route_id,lat,lon,idx
+46071,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71451,10.4208,0
+46072,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71454,10.42051,1
+46073,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.7144,10.42048,2
+46074,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.7143,10.42121,3
+46075,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71476,10.42132,4
+46076,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71485,10.4205,5
+46077,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71505,10.42054,6
+46078,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71497,10.42159,7
+46079,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71457,10.42468,8
+46080,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.7145,10.42512,9
+46081,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71444,10.4254,10
+46082,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71429,10.42589,11
+46083,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71357,10.42796,12
+46084,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71348,10.42813,13
+46085,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71347,10.42815,14
+46086,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71345,10.42819,15
+46087,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71336,10.42825,16
+46088,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71329,10.42826,17
+46089,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71318,10.4283,18
+46090,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71136,10.42841,19
+46091,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71127,10.42838,20
+46092,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71118,10.42838,21
+46093,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71104,10.4284,22
+46094,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71094,10.42844,23
+46095,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71092,10.42841,24
+46096,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71089,10.4284,25
+46097,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71084,10.42841,26
+46098,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71081,10.42844,27
+46099,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.7108,10.42848,28
+46100,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71079,10.42854,29
+46101,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71081,10.42861,30
+46102,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.7108,10.42876,31
+46103,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.71076,10.42895,32
+46104,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70958,10.43225,33
+46105,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70937,10.43271,34
+46106,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.7093,10.4328,35
+46107,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70926,10.43282,36
+46108,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70923,10.43288,37
+46109,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70922,10.43293,38
+46110,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70924,10.433,39
+46111,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70923,10.4331,40
+46112,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70917,10.4333,41
+46113,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70912,10.4335,42
+46114,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.7091,10.43357,43
+46115,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70792,10.43683,44
+46116,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70789,10.43689,45
+46117,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70781,10.43697,46
+46118,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70777,10.437,47
+46119,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.7077,10.43701,48
+46120,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70764,10.43699,49
+46121,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70753,10.43688,50
+46122,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70741,10.43665,51
+46123,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70733,10.43646,52
+46124,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70723,10.4361,53
+46125,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70706,10.43547,54
+46126,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70706,10.43542,55
+46127,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70707,10.43485,56
+46128,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70708,10.43473,57
+46129,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70713,10.43444,58
+46130,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70718,10.43425,59
+46131,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70873,10.42994,60
+46132,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70889,10.43004,61
+46133,Hotel San Ranieri,Pizzeria Colignola,route_1800,43.70906,10.42954,62
+46134,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71451,10.4208,0
+46135,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71454,10.42051,1
+46136,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.7144,10.42048,2
+46137,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.7143,10.42121,3
+46138,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71476,10.42132,4
+46139,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71485,10.4205,5
+46140,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71505,10.42054,6
+46141,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71497,10.42159,7
+46142,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71609,10.42188,8
+46143,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71632,10.4219,9
+46144,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71651,10.42189,10
+46145,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71665,10.42186,11
+46146,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71677,10.42181,12
+46147,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71695,10.42173,13
+46148,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71711,10.42161,14
+46149,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71725,10.42149,15
+46150,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71836,10.42028,16
+46151,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71845,10.42022,17
+46152,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71854,10.42019,18
+46153,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71879,10.42017,19
+46154,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71892,10.42014,20
+46155,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71943,10.42031,21
+46156,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71965,10.42048,22
+46157,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.71975,10.42058,23
+46158,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72032,10.42132,24
+46159,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.7205,10.42159,25
+46160,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72056,10.42174,26
+46161,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72055,10.42177,27
+46162,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72056,10.42183,28
+46163,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72059,10.42188,29
+46164,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72062,10.42191,30
+46165,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72068,10.42192,31
+46166,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72071,10.4219,32
+46167,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72073,10.42188,33
+46168,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72076,10.42182,34
+46169,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72076,10.42177,35
+46170,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72076,10.42173,36
+46171,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72073,10.42167,37
+46172,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72076,10.42139,38
+46173,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72088,10.42104,39
+46174,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72134,10.41937,40
+46175,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72172,10.41809,41
+46176,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.7222,10.41633,42
+46177,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72232,10.41585,43
+46178,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72243,10.41575,44
+46179,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72249,10.41571,45
+46180,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72255,10.41568,46
+46181,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72259,10.41569,47
+46182,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72263,10.4157,48
+46183,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72268,10.41575,49
+46184,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72272,10.41581,50
+46185,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72277,10.41589,51
+46186,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72282,10.41595,52
+46187,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72291,10.41599,53
+46188,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72298,10.41598,54
+46189,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72305,10.41595,55
+46190,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72309,10.4159,56
+46191,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72318,10.41576,57
+46192,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72322,10.41573,58
+46193,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72333,10.41566,59
+46194,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.724,10.41565,60
+46195,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72414,10.41566,61
+46196,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72421,10.41569,62
+46197,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72428,10.41573,63
+46198,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72465,10.41603,64
+46199,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72472,10.41612,65
+46200,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72523,10.41654,66
+46201,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72554,10.4168,67
+46202,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72658,10.41766,68
+46203,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72703,10.41802,69
+46204,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72831,10.4191,70
+46205,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.7284,10.41919,71
+46206,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.7285,10.41933,72
+46207,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72859,10.4195,73
+46208,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72864,10.41963,74
+46209,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72868,10.41976,75
+46210,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72869,10.41981,76
+46211,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72869,10.4199,77
+46212,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72865,10.42004,78
+46213,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72863,10.4201,79
+46214,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72857,10.42019,80
+46215,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72853,10.42026,81
+46216,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.7285,10.42034,82
+46217,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72849,10.42043,83
+46218,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72851,10.42053,84
+46219,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72854,10.42061,85
+46220,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72861,10.42069,86
+46221,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72869,10.42072,87
+46222,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72886,10.42084,88
+46223,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72891,10.4209,89
+46224,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72899,10.42102,90
+46225,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72947,10.42209,91
+46226,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.72968,10.42245,92
+46227,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.7299,10.42273,93
+46228,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73002,10.42286,94
+46229,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73024,10.42307,95
+46230,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73034,10.42315,96
+46231,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73052,10.42328,97
+46232,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73393,10.42531,98
+46233,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73412,10.42548,99
+46234,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73415,10.42553,100
+46235,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73416,10.42554,101
+46236,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.7342,10.42553,102
+46237,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73422,10.42552,103
+46238,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73424,10.42547,104
+46239,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73424,10.42545,105
+46240,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73435,10.4251,106
+46241,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73463,10.42398,107
+46242,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.7347,10.42376,108
+46243,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73474,10.42368,109
+46244,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.7348,10.4236,110
+46245,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73491,10.42352,111
+46246,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73502,10.42346,112
+46247,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73512,10.42344,113
+46248,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73522,10.42344,114
+46249,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73531,10.42346,115
+46250,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.7355,10.42354,116
+46251,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73594,10.42379,117
+46252,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73608,10.42388,118
+46253,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73623,10.42399,119
+46254,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73657,10.42428,120
+46255,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73664,10.42431,121
+46256,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73674,10.42432,122
+46257,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.7368,10.4243,123
+46258,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73685,10.42424,124
+46259,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73688,10.4242,125
+46260,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73697,10.42399,126
+46261,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73745,10.42427,127
+46262,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73784,10.42447,128
+46263,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73894,10.42498,129
+46264,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73901,10.42476,130
+46265,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73953,10.4232,131
+46266,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.73969,10.42332,132
+46267,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.74021,10.42396,133
+46268,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.7407,10.42452,134
+46269,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.74089,10.42477,135
+46270,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.74123,10.42503,136
+46271,Hotel San Ranieri,Supermercato Coop Ghezzano,route_1801,43.74147,10.42519,137
+46272,Esselunga Cisanello,Torre,route_1802,43.71092,10.42019,0
+46273,Esselunga Cisanello,Torre,route_1802,43.71094,10.42031,1
+46274,Esselunga Cisanello,Torre,route_1802,43.71098,10.42043,2
+46275,Esselunga Cisanello,Torre,route_1802,43.71101,10.42058,3
+46276,Esselunga Cisanello,Torre,route_1802,43.711,10.42062,4
+46277,Esselunga Cisanello,Torre,route_1802,43.71101,10.42067,5
+46278,Esselunga Cisanello,Torre,route_1802,43.71103,10.4207,6
+46279,Esselunga Cisanello,Torre,route_1802,43.71105,10.42071,7
+46280,Esselunga Cisanello,Torre,route_1802,43.71109,10.4207,8
+46281,Esselunga Cisanello,Torre,route_1802,43.71111,10.42068,9
+46282,Esselunga Cisanello,Torre,route_1802,43.71156,10.42078,10
+46283,Esselunga Cisanello,Torre,route_1802,43.71281,10.42107,11
+46284,Esselunga Cisanello,Torre,route_1802,43.71497,10.42159,12
+46285,Esselunga Cisanello,Torre,route_1802,43.71609,10.42188,13
+46286,Esselunga Cisanello,Torre,route_1802,43.71632,10.4219,14
+46287,Esselunga Cisanello,Torre,route_1802,43.71651,10.42189,15
+46288,Esselunga Cisanello,Torre,route_1802,43.71665,10.42186,16
+46289,Esselunga Cisanello,Torre,route_1802,43.71677,10.42181,17
+46290,Esselunga Cisanello,Torre,route_1802,43.71695,10.42173,18
+46291,Esselunga Cisanello,Torre,route_1802,43.71711,10.42161,19
+46292,Esselunga Cisanello,Torre,route_1802,43.71725,10.42149,20
+46293,Esselunga Cisanello,Torre,route_1802,43.71836,10.42028,21
+46294,Esselunga Cisanello,Torre,route_1802,43.71845,10.42022,22
+46295,Esselunga Cisanello,Torre,route_1802,43.71854,10.42019,23
+46296,Esselunga Cisanello,Torre,route_1802,43.71879,10.42017,24
+46297,Esselunga Cisanello,Torre,route_1802,43.71892,10.42014,25
+46298,Esselunga Cisanello,Torre,route_1802,43.71943,10.42031,26
+46299,Esselunga Cisanello,Torre,route_1802,43.71965,10.42048,27
+46300,Esselunga Cisanello,Torre,route_1802,43.71975,10.42058,28
+46301,Esselunga Cisanello,Torre,route_1802,43.72032,10.42132,29
+46302,Esselunga Cisanello,Torre,route_1802,43.7205,10.42159,30
+46303,Esselunga Cisanello,Torre,route_1802,43.72056,10.42174,31
+46304,Esselunga Cisanello,Torre,route_1802,43.72055,10.42177,32
+46305,Esselunga Cisanello,Torre,route_1802,43.72056,10.42183,33
+46306,Esselunga Cisanello,Torre,route_1802,43.72059,10.42188,34
+46307,Esselunga Cisanello,Torre,route_1802,43.72062,10.42191,35
+46308,Esselunga Cisanello,Torre,route_1802,43.72068,10.42192,36
+46309,Esselunga Cisanello,Torre,route_1802,43.72071,10.4219,37
+46310,Esselunga Cisanello,Torre,route_1802,43.72073,10.42188,38
+46311,Esselunga Cisanello,Torre,route_1802,43.72076,10.42182,39
+46312,Esselunga Cisanello,Torre,route_1802,43.72076,10.42177,40
+46313,Esselunga Cisanello,Torre,route_1802,43.72076,10.42173,41
+46314,Esselunga Cisanello,Torre,route_1802,43.72073,10.42167,42
+46315,Esselunga Cisanello,Torre,route_1802,43.72076,10.42139,43
+46316,Esselunga Cisanello,Torre,route_1802,43.72088,10.42104,44
+46317,Esselunga Cisanello,Torre,route_1802,43.72134,10.41937,45
+46318,Esselunga Cisanello,Torre,route_1802,43.72172,10.41809,46
+46319,Esselunga Cisanello,Torre,route_1802,43.7222,10.41633,47
+46320,Esselunga Cisanello,Torre,route_1802,43.72232,10.41585,48
+46321,Esselunga Cisanello,Torre,route_1802,43.72243,10.41575,49
+46322,Esselunga Cisanello,Torre,route_1802,43.72249,10.41571,50
+46323,Esselunga Cisanello,Torre,route_1802,43.72255,10.41568,51
+46324,Esselunga Cisanello,Torre,route_1802,43.72259,10.41569,52
+46325,Esselunga Cisanello,Torre,route_1802,43.72263,10.4157,53
+46326,Esselunga Cisanello,Torre,route_1802,43.72268,10.41575,54
+46327,Esselunga Cisanello,Torre,route_1802,43.72272,10.41581,55
+46328,Esselunga Cisanello,Torre,route_1802,43.72277,10.41589,56
+46329,Esselunga Cisanello,Torre,route_1802,43.72282,10.41595,57
+46330,Esselunga Cisanello,Torre,route_1802,43.72291,10.41599,58
+46331,Esselunga Cisanello,Torre,route_1802,43.72298,10.41598,59
+46332,Esselunga Cisanello,Torre,route_1802,43.72305,10.41595,60
+46333,Esselunga Cisanello,Torre,route_1802,43.72309,10.4159,61
+46334,Esselunga Cisanello,Torre,route_1802,43.72314,10.41583,62
+46335,Esselunga Cisanello,Torre,route_1802,43.72316,10.41574,63
+46336,Esselunga Cisanello,Torre,route_1802,43.72317,10.41566,64
+46337,Esselunga Cisanello,Torre,route_1802,43.72316,10.41557,65
+46338,Esselunga Cisanello,Torre,route_1802,43.72314,10.41552,66
+46339,Esselunga Cisanello,Torre,route_1802,43.72309,10.41542,67
+46340,Esselunga Cisanello,Torre,route_1802,43.72308,10.41523,68
+46341,Esselunga Cisanello,Torre,route_1802,43.72311,10.41503,69
+46342,Esselunga Cisanello,Torre,route_1802,43.72325,10.41453,70
+46343,Esselunga Cisanello,Torre,route_1802,43.72446,10.41,71
+46344,Esselunga Cisanello,Torre,route_1802,43.72452,10.40984,72
+46345,Esselunga Cisanello,Torre,route_1802,43.72457,10.40975,73
+46346,Esselunga Cisanello,Torre,route_1802,43.72462,10.40969,74
+46347,Esselunga Cisanello,Torre,route_1802,43.72467,10.40966,75
+46348,Esselunga Cisanello,Torre,route_1802,43.7247,10.40964,76
+46349,Esselunga Cisanello,Torre,route_1802,43.72472,10.40959,77
+46350,Esselunga Cisanello,Torre,route_1802,43.72472,10.40954,78
+46351,Esselunga Cisanello,Torre,route_1802,43.72468,10.40937,79
+46352,Esselunga Cisanello,Torre,route_1802,43.72467,10.40928,80
+46353,Esselunga Cisanello,Torre,route_1802,43.72467,10.4092,81
+46354,Esselunga Cisanello,Torre,route_1802,43.72467,10.4091,82
+46355,Esselunga Cisanello,Torre,route_1802,43.72471,10.40903,83
+46356,Esselunga Cisanello,Torre,route_1802,43.72472,10.40896,84
+46357,Esselunga Cisanello,Torre,route_1802,43.72471,10.40886,85
+46358,Esselunga Cisanello,Torre,route_1802,43.72467,10.40879,86
+46359,Esselunga Cisanello,Torre,route_1802,43.72462,10.40875,87
+46360,Esselunga Cisanello,Torre,route_1802,43.72455,10.40875,88
+46361,Esselunga Cisanello,Torre,route_1802,43.72447,10.40862,89
+46362,Esselunga Cisanello,Torre,route_1802,43.72441,10.40848,90
+46363,Esselunga Cisanello,Torre,route_1802,43.72438,10.4084,91
+46364,Esselunga Cisanello,Torre,route_1802,43.72411,10.40731,92
+46365,Esselunga Cisanello,Torre,route_1802,43.72371,10.40559,93
+46366,Esselunga Cisanello,Torre,route_1802,43.72284,10.40176,94
+46367,Esselunga Cisanello,Torre,route_1802,43.72346,10.39899,95
+46368,Esselunga Cisanello,Torre,route_1802,43.72359,10.39853,96
+46369,Esselunga Cisanello,Torre,route_1802,43.72344,10.39844,97
+46370,Esselunga Cisanello,Torre,route_1802,43.72295,10.39822,98
+46371,Esselunga Cisanello,Torre,route_1802,43.723,10.39797,99
+46372,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71092,10.42019,0
+46373,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71094,10.42031,1
+46374,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71098,10.42043,2
+46375,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71101,10.42058,3
+46376,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.711,10.42062,4
+46377,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71101,10.42067,5
+46378,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71103,10.4207,6
+46379,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71105,10.42071,7
+46380,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71109,10.4207,8
+46381,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71111,10.42068,9
+46382,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71112,10.42064,10
+46383,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71112,10.4206,11
+46384,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71108,10.42055,12
+46385,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71102,10.42034,13
+46386,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71095,10.41991,14
+46387,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71091,10.41974,15
+46388,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71068,10.41746,16
+46389,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71037,10.41529,17
+46390,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70997,10.41245,18
+46391,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70992,10.41199,19
+46392,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70991,10.41172,20
+46393,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.7099,10.41147,21
+46394,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70993,10.41076,22
+46395,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70994,10.41066,23
+46396,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70995,10.41058,24
+46397,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71002,10.41043,25
+46398,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71006,10.4104,26
+46399,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71008,10.41036,27
+46400,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.7101,10.41032,28
+46401,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71011,10.41027,29
+46402,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71011,10.41022,30
+46403,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.7101,10.41017,31
+46404,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71009,10.41013,32
+46405,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71006,10.41009,33
+46406,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71002,10.41005,34
+46407,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70998,10.40978,35
+46408,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71007,10.40776,36
+46409,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71014,10.40774,37
+46410,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71018,10.40769,38
+46411,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71019,10.40765,39
+46412,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.7102,10.4076,40
+46413,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71019,10.40752,41
+46414,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71017,10.40749,42
+46415,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71014,10.40745,43
+46416,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.7101,10.40743,44
+46417,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71008,10.40743,45
+46418,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71015,10.4061,46
+46419,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71019,10.4058,47
+46420,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71021,10.40573,48
+46421,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71027,10.40559,49
+46422,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.7104,10.4055,50
+46423,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71043,10.40545,51
+46424,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71044,10.40536,52
+46425,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71044,10.4053,53
+46426,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71041,10.40524,54
+46427,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71035,10.4052,55
+46428,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.7103,10.4052,56
+46429,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71019,10.40527,57
+46430,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.7101,10.40527,58
+46431,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71006,10.40525,59
+46432,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70988,10.40513,60
+46433,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70974,10.40502,61
+46434,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70967,10.40492,62
+46435,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70965,10.40486,63
+46436,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70975,10.40422,64
+46437,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70988,10.40324,65
+46438,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70997,10.40252,66
+46439,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70997,10.40207,67
+46440,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70994,10.39992,68
+46441,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70994,10.39905,69
+46442,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70997,10.39904,70
+46443,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71001,10.39899,71
+46444,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71003,10.39892,72
+46445,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71001,10.39885,73
+46446,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70999,10.39882,74
+46447,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70997,10.3988,75
+46448,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71001,10.39838,76
+46449,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71008,10.39813,77
+46450,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.7101,10.39807,78
+46451,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71016,10.39794,79
+46452,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71019,10.39794,80
+46453,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71022,10.39792,81
+46454,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71025,10.3979,82
+46455,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71027,10.39786,83
+46456,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71028,10.39781,84
+46457,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71028,10.39777,85
+46458,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71027,10.39772,86
+46459,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71025,10.39769,87
+46460,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71022,10.39766,88
+46461,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71018,10.39764,89
+46462,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71016,10.39755,90
+46463,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71014,10.39743,91
+46464,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71033,10.39616,92
+46465,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.71012,10.39608,93
+46466,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70953,10.39581,94
+46467,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70918,10.39565,95
+46468,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70897,10.39558,96
+46469,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70892,10.39609,97
+46470,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70892,10.3962,98
+46471,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70894,10.3963,99
+46472,Esselunga Cisanello,Stazione Pisa Centrale,route_1803,43.70875,10.39738,100
+46473,Esselunga Cisanello,Universita di Pisa,route_1804,43.71092,10.42019,0
+46474,Esselunga Cisanello,Universita di Pisa,route_1804,43.71094,10.42031,1
+46475,Esselunga Cisanello,Universita di Pisa,route_1804,43.71098,10.42043,2
+46476,Esselunga Cisanello,Universita di Pisa,route_1804,43.71101,10.42058,3
+46477,Esselunga Cisanello,Universita di Pisa,route_1804,43.711,10.42062,4
+46478,Esselunga Cisanello,Universita di Pisa,route_1804,43.71101,10.42067,5
+46479,Esselunga Cisanello,Universita di Pisa,route_1804,43.71103,10.4207,6
+46480,Esselunga Cisanello,Universita di Pisa,route_1804,43.71105,10.42071,7
+46481,Esselunga Cisanello,Universita di Pisa,route_1804,43.71109,10.4207,8
+46482,Esselunga Cisanello,Universita di Pisa,route_1804,43.71111,10.42068,9
+46483,Esselunga Cisanello,Universita di Pisa,route_1804,43.71112,10.42064,10
+46484,Esselunga Cisanello,Universita di Pisa,route_1804,43.71112,10.4206,11
+46485,Esselunga Cisanello,Universita di Pisa,route_1804,43.71108,10.42055,12
+46486,Esselunga Cisanello,Universita di Pisa,route_1804,43.71102,10.42034,13
+46487,Esselunga Cisanello,Universita di Pisa,route_1804,43.71095,10.41991,14
+46488,Esselunga Cisanello,Universita di Pisa,route_1804,43.71091,10.41974,15
+46489,Esselunga Cisanello,Universita di Pisa,route_1804,43.71068,10.41746,16
+46490,Esselunga Cisanello,Universita di Pisa,route_1804,43.71037,10.41529,17
+46491,Esselunga Cisanello,Universita di Pisa,route_1804,43.70997,10.41245,18
+46492,Esselunga Cisanello,Universita di Pisa,route_1804,43.70992,10.41199,19
+46493,Esselunga Cisanello,Universita di Pisa,route_1804,43.70991,10.41172,20
+46494,Esselunga Cisanello,Universita di Pisa,route_1804,43.7099,10.41147,21
+46495,Esselunga Cisanello,Universita di Pisa,route_1804,43.70993,10.41076,22
+46496,Esselunga Cisanello,Universita di Pisa,route_1804,43.70994,10.41066,23
+46497,Esselunga Cisanello,Universita di Pisa,route_1804,43.70995,10.41058,24
+46498,Esselunga Cisanello,Universita di Pisa,route_1804,43.71002,10.41043,25
+46499,Esselunga Cisanello,Universita di Pisa,route_1804,43.71006,10.4104,26
+46500,Esselunga Cisanello,Universita di Pisa,route_1804,43.71008,10.41036,27
+46501,Esselunga Cisanello,Universita di Pisa,route_1804,43.7101,10.41032,28
+46502,Esselunga Cisanello,Universita di Pisa,route_1804,43.71011,10.41027,29
+46503,Esselunga Cisanello,Universita di Pisa,route_1804,43.71011,10.41022,30
+46504,Esselunga Cisanello,Universita di Pisa,route_1804,43.7101,10.41017,31
+46505,Esselunga Cisanello,Universita di Pisa,route_1804,43.71009,10.41013,32
+46506,Esselunga Cisanello,Universita di Pisa,route_1804,43.71006,10.41009,33
+46507,Esselunga Cisanello,Universita di Pisa,route_1804,43.71002,10.41005,34
+46508,Esselunga Cisanello,Universita di Pisa,route_1804,43.70998,10.40978,35
+46509,Esselunga Cisanello,Universita di Pisa,route_1804,43.71007,10.40776,36
+46510,Esselunga Cisanello,Universita di Pisa,route_1804,43.71014,10.40774,37
+46511,Esselunga Cisanello,Universita di Pisa,route_1804,43.71018,10.40769,38
+46512,Esselunga Cisanello,Universita di Pisa,route_1804,43.71027,10.40767,39
+46513,Esselunga Cisanello,Universita di Pisa,route_1804,43.71063,10.40769,40
+46514,Esselunga Cisanello,Universita di Pisa,route_1804,43.71112,10.40773,41
+46515,Esselunga Cisanello,Universita di Pisa,route_1804,43.71118,10.40776,42
+46516,Esselunga Cisanello,Universita di Pisa,route_1804,43.71127,10.40782,43
+46517,Esselunga Cisanello,Universita di Pisa,route_1804,43.71131,10.40786,44
+46518,Esselunga Cisanello,Universita di Pisa,route_1804,43.71138,10.40789,45
+46519,Esselunga Cisanello,Universita di Pisa,route_1804,43.71204,10.40793,46
+46520,Esselunga Cisanello,Universita di Pisa,route_1804,43.71261,10.40789,47
+46521,Esselunga Cisanello,Universita di Pisa,route_1804,43.71299,10.40783,48
+46522,Esselunga Cisanello,Universita di Pisa,route_1804,43.71305,10.40781,49
+46523,Esselunga Cisanello,Universita di Pisa,route_1804,43.71307,10.40778,50
+46524,Esselunga Cisanello,Universita di Pisa,route_1804,43.7139,10.40851,51
+46525,Esselunga Cisanello,Universita di Pisa,route_1804,43.7141,10.40867,52
+46526,Esselunga Cisanello,Universita di Pisa,route_1804,43.71421,10.40873,53
+46527,Esselunga Cisanello,Universita di Pisa,route_1804,43.7147,10.40895,54
+46528,Esselunga Cisanello,Universita di Pisa,route_1804,43.71478,10.40897,55
+46529,Esselunga Cisanello,Universita di Pisa,route_1804,43.71514,10.40902,56
+46530,Esselunga Cisanello,Universita di Pisa,route_1804,43.71597,10.40908,57
+46531,Esselunga Cisanello,Universita di Pisa,route_1804,43.71617,10.40905,58
+46532,Esselunga Cisanello,Universita di Pisa,route_1804,43.71637,10.40896,59
+46533,Esselunga Cisanello,Universita di Pisa,route_1804,43.7167,10.40875,60
+46534,Esselunga Cisanello,Universita di Pisa,route_1804,43.7168,10.40872,61
+46535,Esselunga Cisanello,Universita di Pisa,route_1804,43.71686,10.40874,62
+46536,Esselunga Cisanello,Universita di Pisa,route_1804,43.71695,10.40879,63
+46537,Esselunga Cisanello,Universita di Pisa,route_1804,43.71862,10.41041,64
+46538,Esselunga Cisanello,Universita di Pisa,route_1804,43.71872,10.41046,65
+46539,Esselunga Cisanello,Universita di Pisa,route_1804,43.71879,10.41046,66
+46540,Esselunga Cisanello,Universita di Pisa,route_1804,43.71868,10.40905,67
+46541,Esselunga Cisanello,Universita di Pisa,route_1804,43.7186,10.40806,68
+46542,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71092,10.42019,0
+46543,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71094,10.42031,1
+46544,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71098,10.42043,2
+46545,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71101,10.42058,3
+46546,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.711,10.42062,4
+46547,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71101,10.42067,5
+46548,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71103,10.4207,6
+46549,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71105,10.42071,7
+46550,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71109,10.4207,8
+46551,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71111,10.42068,9
+46552,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71112,10.42064,10
+46553,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71112,10.4206,11
+46554,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71108,10.42055,12
+46555,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71102,10.42034,13
+46556,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71095,10.41991,14
+46557,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71091,10.41974,15
+46558,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71068,10.41746,16
+46559,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71037,10.41529,17
+46560,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.70997,10.41245,18
+46561,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.70992,10.41199,19
+46562,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.70991,10.41172,20
+46563,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.7099,10.41147,21
+46564,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.70993,10.41076,22
+46565,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.70994,10.41066,23
+46566,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.70995,10.41058,24
+46567,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71002,10.41043,25
+46568,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71006,10.4104,26
+46569,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71008,10.41036,27
+46570,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.7101,10.41032,28
+46571,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71011,10.41027,29
+46572,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71011,10.41022,30
+46573,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.7101,10.41017,31
+46574,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71009,10.41013,32
+46575,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71006,10.41009,33
+46576,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71002,10.41005,34
+46577,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.70998,10.40978,35
+46578,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71007,10.40776,36
+46579,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71014,10.40774,37
+46580,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71018,10.40769,38
+46581,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71027,10.40767,39
+46582,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71063,10.40769,40
+46583,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71112,10.40773,41
+46584,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71118,10.40776,42
+46585,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71127,10.40782,43
+46586,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71131,10.40786,44
+46587,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71138,10.40789,45
+46588,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71204,10.40793,46
+46589,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71261,10.40789,47
+46590,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71299,10.40783,48
+46591,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71305,10.40781,49
+46592,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71307,10.40778,50
+46593,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.7136,10.40622,51
+46594,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71372,10.40591,52
+46595,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71412,10.40501,53
+46596,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71493,10.40327,54
+46597,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71526,10.4025,55
+46598,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.7154,10.40214,56
+46599,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71551,10.40181,57
+46600,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71566,10.40129,58
+46601,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.7157,10.40111,59
+46602,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71576,10.40067,60
+46603,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.7158,10.40037,61
+46604,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71551,10.40027,62
+46605,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71527,10.40016,63
+46606,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71522,10.40016,64
+46607,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71507,10.40011,65
+46608,Esselunga Cisanello,Via Aretino Spinello 11,route_1805,43.71498,10.40006,66
+46609,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71092,10.42019,0
+46610,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71094,10.42031,1
+46611,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71098,10.42043,2
+46612,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71101,10.42058,3
+46613,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.711,10.42062,4
+46614,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71101,10.42067,5
+46615,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71103,10.4207,6
+46616,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71105,10.42071,7
+46617,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71109,10.4207,8
+46618,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71111,10.42068,9
+46619,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71112,10.42064,10
+46620,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71112,10.4206,11
+46621,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71108,10.42055,12
+46622,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71102,10.42034,13
+46623,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71095,10.41991,14
+46624,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71091,10.41974,15
+46625,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71068,10.41746,16
+46626,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71037,10.41529,17
+46627,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.70997,10.41245,18
+46628,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.70992,10.41199,19
+46629,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.70991,10.41172,20
+46630,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.7099,10.41147,21
+46631,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.70993,10.41076,22
+46632,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.70994,10.41066,23
+46633,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.70995,10.41058,24
+46634,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71002,10.41043,25
+46635,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71006,10.4104,26
+46636,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71008,10.41036,27
+46637,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.7101,10.41032,28
+46638,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71011,10.41027,29
+46639,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71011,10.41022,30
+46640,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.7101,10.41017,31
+46641,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71009,10.41013,32
+46642,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71006,10.41009,33
+46643,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71002,10.41005,34
+46644,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.70998,10.40978,35
+46645,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71007,10.40776,36
+46646,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71014,10.40774,37
+46647,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71018,10.40769,38
+46648,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71027,10.40767,39
+46649,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71063,10.40769,40
+46650,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71112,10.40773,41
+46651,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71118,10.40776,42
+46652,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71127,10.40782,43
+46653,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71131,10.40786,44
+46654,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71138,10.40789,45
+46655,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71204,10.40793,46
+46656,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71261,10.40789,47
+46657,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71299,10.40783,48
+46658,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71305,10.40781,49
+46659,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71307,10.40778,50
+46660,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.7136,10.40622,51
+46661,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71372,10.40591,52
+46662,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71412,10.40501,53
+46663,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71493,10.40327,54
+46664,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71519,10.40267,55
+46665,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.7154,10.40214,56
+46666,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71555,10.40168,57
+46667,Esselunga Cisanello,Via Angelo Battelli 5,route_1806,43.71621,10.40211,58
+46668,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71092,10.42019,0
+46669,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71094,10.42031,1
+46670,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71098,10.42043,2
+46671,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71101,10.42058,3
+46672,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.711,10.42062,4
+46673,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71101,10.42067,5
+46674,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71103,10.4207,6
+46675,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71105,10.42071,7
+46676,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71109,10.4207,8
+46677,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71111,10.42068,9
+46678,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71112,10.42064,10
+46679,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71112,10.4206,11
+46680,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71108,10.42055,12
+46681,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71102,10.42034,13
+46682,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71095,10.41991,14
+46683,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71091,10.41974,15
+46684,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71068,10.41746,16
+46685,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71037,10.41529,17
+46686,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.70997,10.41245,18
+46687,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.70992,10.41199,19
+46688,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.70991,10.41172,20
+46689,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.7099,10.41147,21
+46690,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.70993,10.41076,22
+46691,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.70994,10.41066,23
+46692,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.70995,10.41058,24
+46693,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71002,10.41043,25
+46694,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71006,10.4104,26
+46695,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71008,10.41036,27
+46696,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.7101,10.41032,28
+46697,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71011,10.41027,29
+46698,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71011,10.41022,30
+46699,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.7101,10.41017,31
+46700,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71009,10.41013,32
+46701,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71006,10.41009,33
+46702,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71002,10.41005,34
+46703,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.70998,10.40978,35
+46704,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71007,10.40776,36
+46705,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71014,10.40774,37
+46706,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71018,10.40769,38
+46707,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71027,10.40767,39
+46708,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71063,10.40769,40
+46709,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71112,10.40773,41
+46710,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71118,10.40776,42
+46711,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71127,10.40782,43
+46712,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71131,10.40786,44
+46713,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71138,10.40789,45
+46714,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71204,10.40793,46
+46715,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71261,10.40789,47
+46716,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71299,10.40783,48
+46717,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71305,10.40781,49
+46718,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71307,10.40778,50
+46719,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.7139,10.40851,51
+46720,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.7141,10.40867,52
+46721,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71421,10.40873,53
+46722,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.7147,10.40895,54
+46723,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71478,10.40897,55
+46724,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71514,10.40902,56
+46725,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71597,10.40908,57
+46726,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71617,10.40905,58
+46727,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71637,10.40896,59
+46728,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.7167,10.40875,60
+46729,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.7168,10.40872,61
+46730,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71686,10.40874,62
+46731,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71695,10.40879,63
+46732,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71756,10.40937,64
+46733,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71758,10.40931,65
+46734,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71761,10.40921,66
+46735,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71748,10.40734,67
+46736,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71686,10.40729,68
+46737,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71676,10.40725,69
+46738,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71658,10.40724,70
+46739,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71652,10.40718,71
+46740,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71635,10.4062,72
+46741,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71635,10.40613,73
+46742,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71636,10.40594,74
+46743,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71636,10.40574,75
+46744,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71635,10.40554,76
+46745,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71635,10.4053,77
+46746,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71641,10.40425,78
+46747,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71691,10.40421,79
+46748,Esselunga Cisanello,Via Gabriele Vettori 18,route_1807,43.71689,10.40402,80

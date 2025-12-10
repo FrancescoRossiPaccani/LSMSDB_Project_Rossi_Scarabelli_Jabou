@@ -1,0 +1,1007 @@
+id,start,end,route_id,lat,lon,idx
+47467,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.6866,10.38313,0
+47468,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69027,10.38517,1
+47469,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69038,10.38522,2
+47470,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69054,10.38527,3
+47471,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.6907,10.38533,4
+47472,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.6908,10.38539,5
+47473,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69084,10.38542,6
+47474,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.6909,10.38552,7
+47475,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69092,10.38556,8
+47476,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69096,10.38559,9
+47477,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69099,10.3856,10
+47478,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.6911,10.38559,11
+47479,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69118,10.3856,12
+47480,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69122,10.38561,13
+47481,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69134,10.38566,14
+47482,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69145,10.38577,15
+47483,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69153,10.38584,16
+47484,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69179,10.38598,17
+47485,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69351,10.38675,18
+47486,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69557,10.38764,19
+47487,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69573,10.38775,20
+47488,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69582,10.38784,21
+47489,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69587,10.38794,22
+47490,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.6959,10.38802,23
+47491,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69594,10.38808,24
+47492,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69602,10.38814,25
+47493,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69611,10.38815,26
+47494,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69617,10.38813,27
+47495,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69622,10.38808,28
+47496,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69632,10.38803,29
+47497,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69638,10.38803,30
+47498,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69653,10.38806,31
+47499,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69779,10.38864,32
+47500,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69794,10.38869,33
+47501,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.6985,10.38892,34
+47502,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69871,10.38897,35
+47503,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69895,10.38902,36
+47504,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.6992,10.38905,37
+47505,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69932,10.38913,38
+47506,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69937,10.38917,39
+47507,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.6994,10.38925,40
+47508,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69944,10.3893,41
+47509,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.6995,10.3893,42
+47510,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69955,10.38928,43
+47511,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69959,10.38922,44
+47512,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.6996,10.38916,45
+47513,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69977,10.38903,46
+47514,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.69995,10.38902,47
+47515,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70017,10.38897,48
+47516,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70059,10.38883,49
+47517,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70098,10.38865,50
+47518,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70116,10.38855,51
+47519,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70152,10.38831,52
+47520,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70195,10.38796,53
+47521,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70218,10.38777,54
+47522,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70243,10.38759,55
+47523,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70275,10.38734,56
+47524,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70284,10.38726,57
+47525,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70302,10.38699,58
+47526,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70308,10.38696,59
+47527,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70312,10.3869,60
+47528,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70339,10.38672,61
+47529,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70371,10.3866,62
+47530,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70409,10.38652,63
+47531,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70729,10.38573,64
+47532,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70739,10.38574,65
+47533,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70837,10.3855,66
+47534,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70852,10.38545,67
+47535,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70865,10.38544,68
+47536,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70871,10.38549,69
+47537,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70875,10.38551,70
+47538,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70879,10.38552,71
+47539,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70883,10.3855,72
+47540,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70888,10.38544,73
+47541,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70898,10.38537,74
+47542,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70908,10.38529,75
+47543,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70928,10.38523,76
+47544,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.70998,10.38502,77
+47545,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71043,10.3849,78
+47546,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71106,10.38465,79
+47547,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71172,10.38437,80
+47548,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71177,10.38437,81
+47549,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71182,10.38436,82
+47550,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71262,10.38783,83
+47551,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71273,10.38822,84
+47552,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71275,10.38828,85
+47553,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.7128,10.38836,86
+47554,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71286,10.38841,87
+47555,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71292,10.38844,88
+47556,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71297,10.38844,89
+47557,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71301,10.38844,90
+47558,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71319,10.38837,91
+47559,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71324,10.38836,92
+47560,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71326,10.38838,93
+47561,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71327,10.38842,94
+47562,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.7133,10.38857,95
+47563,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.7133,10.38862,96
+47564,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71335,10.38885,97
+47565,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71344,10.38914,98
+47566,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71369,10.38974,99
+47567,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.7137,10.38993,100
+47568,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71368,10.38996,101
+47569,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71368,10.39002,102
+47570,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71369,10.39007,103
+47571,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71372,10.3901,104
+47572,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71382,10.39015,105
+47573,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71385,10.39018,106
+47574,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71389,10.39027,107
+47575,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71393,10.3904,108
+47576,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71397,10.39056,109
+47577,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71399,10.39078,110
+47578,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71397,10.3909,111
+47579,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71394,10.39105,112
+47580,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71394,10.39118,113
+47581,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71395,10.39126,114
+47582,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.714,10.39148,115
+47583,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71406,10.39165,116
+47584,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71413,10.39183,117
+47585,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71451,10.39274,118
+47586,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71495,10.39362,119
+47587,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.7153,10.3943,120
+47588,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.7154,10.39451,121
+47589,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.7156,10.39498,122
+47590,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71581,10.39552,123
+47591,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71598,10.39605,124
+47592,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71614,10.3966,125
+47593,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71632,10.39747,126
+47594,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71652,10.39855,127
+47595,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71656,10.39883,128
+47596,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71661,10.39923,129
+47597,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71663,10.39955,130
+47598,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71664,10.39989,131
+47599,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71662,10.40025,132
+47600,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71658,10.40067,133
+47601,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71649,10.40126,134
+47602,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71641,10.40165,135
+47603,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71628,10.40215,136
+47604,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71557,10.40465,137
+47605,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71546,10.40496,138
+47606,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71525,10.40549,139
+47607,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71463,10.40691,140
+47608,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71497,10.40718,141
+47609,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71506,10.40689,142
+47610,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.7152,10.40696,143
+47611,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71554,10.40711,144
+47612,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71614,10.40717,145
+47613,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71645,10.40719,146
+47614,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71652,10.40718,147
+47615,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71635,10.4062,148
+47616,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71635,10.40613,149
+47617,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71636,10.40594,150
+47618,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71636,10.40574,151
+47619,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71635,10.40554,152
+47620,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71635,10.4053,153
+47621,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71641,10.40425,154
+47622,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71691,10.40421,155
+47623,Piscina Comunale Camalich,Via Gabriele Vettori 18,route_1860,43.71689,10.40402,156
+47624,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.6866,10.38313,0
+47625,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69027,10.38517,1
+47626,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69038,10.38522,2
+47627,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69054,10.38527,3
+47628,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.6907,10.38533,4
+47629,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.6908,10.38539,5
+47630,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69084,10.38542,6
+47631,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.6909,10.38552,7
+47632,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69092,10.38556,8
+47633,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69096,10.38559,9
+47634,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69099,10.3856,10
+47635,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.6911,10.38559,11
+47636,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69118,10.3856,12
+47637,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69122,10.38561,13
+47638,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69134,10.38566,14
+47639,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69145,10.38577,15
+47640,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69153,10.38584,16
+47641,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69179,10.38598,17
+47642,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69351,10.38675,18
+47643,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69557,10.38764,19
+47644,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69573,10.38775,20
+47645,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69582,10.38784,21
+47646,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69587,10.38794,22
+47647,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.6959,10.38802,23
+47648,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69594,10.38808,24
+47649,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69602,10.38814,25
+47650,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69611,10.38815,26
+47651,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69617,10.38813,27
+47652,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69622,10.38808,28
+47653,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69632,10.38803,29
+47654,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69638,10.38803,30
+47655,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69653,10.38806,31
+47656,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69779,10.38864,32
+47657,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69794,10.38869,33
+47658,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.6985,10.38892,34
+47659,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69871,10.38897,35
+47660,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69895,10.38902,36
+47661,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.6992,10.38905,37
+47662,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69932,10.38913,38
+47663,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69937,10.38917,39
+47664,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.6994,10.38925,40
+47665,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69944,10.3893,41
+47666,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.6995,10.3893,42
+47667,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69955,10.38928,43
+47668,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69959,10.38922,44
+47669,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.6996,10.38916,45
+47670,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69977,10.38903,46
+47671,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.69995,10.38902,47
+47672,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70017,10.38897,48
+47673,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70059,10.38883,49
+47674,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70098,10.38865,50
+47675,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70116,10.38855,51
+47676,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70152,10.38831,52
+47677,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70195,10.38796,53
+47678,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70218,10.38777,54
+47679,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70243,10.38759,55
+47680,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70275,10.38734,56
+47681,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70284,10.38726,57
+47682,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70302,10.38699,58
+47683,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70308,10.38696,59
+47684,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70312,10.3869,60
+47685,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70339,10.38672,61
+47686,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70371,10.3866,62
+47687,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70409,10.38652,63
+47688,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70729,10.38573,64
+47689,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70739,10.38574,65
+47690,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70837,10.3855,66
+47691,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70852,10.38545,67
+47692,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70865,10.38544,68
+47693,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70871,10.38549,69
+47694,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70875,10.38551,70
+47695,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70879,10.38552,71
+47696,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70883,10.3855,72
+47697,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70888,10.38544,73
+47698,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70898,10.38537,74
+47699,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70908,10.38529,75
+47700,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70928,10.38523,76
+47701,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.70998,10.38502,77
+47702,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71043,10.3849,78
+47703,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71106,10.38465,79
+47704,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71172,10.38437,80
+47705,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71177,10.38437,81
+47706,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71182,10.38436,82
+47707,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71262,10.38783,83
+47708,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71273,10.38822,84
+47709,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71275,10.38828,85
+47710,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.7128,10.38836,86
+47711,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71286,10.38841,87
+47712,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71292,10.38844,88
+47713,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71297,10.38844,89
+47714,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71301,10.38844,90
+47715,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71319,10.38837,91
+47716,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71324,10.38836,92
+47717,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71326,10.38838,93
+47718,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71327,10.38842,94
+47719,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.7133,10.38857,95
+47720,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.7133,10.38862,96
+47721,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71335,10.38885,97
+47722,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71344,10.38914,98
+47723,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71369,10.38974,99
+47724,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.7137,10.38993,100
+47725,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71368,10.38996,101
+47726,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71368,10.39002,102
+47727,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71369,10.39007,103
+47728,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71372,10.3901,104
+47729,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71382,10.39015,105
+47730,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71385,10.39018,106
+47731,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71389,10.39027,107
+47732,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71393,10.3904,108
+47733,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71397,10.39056,109
+47734,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71399,10.39078,110
+47735,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71397,10.3909,111
+47736,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71394,10.39105,112
+47737,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71394,10.39118,113
+47738,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71395,10.39126,114
+47739,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.714,10.39148,115
+47740,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71406,10.39165,116
+47741,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71413,10.39183,117
+47742,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71451,10.39274,118
+47743,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71495,10.39362,119
+47744,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.7153,10.3943,120
+47745,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.7154,10.39451,121
+47746,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.7156,10.39498,122
+47747,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71581,10.39552,123
+47748,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71598,10.39605,124
+47749,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71614,10.3966,125
+47750,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71632,10.39747,126
+47751,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71652,10.39855,127
+47752,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71656,10.39883,128
+47753,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71661,10.39923,129
+47754,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71663,10.39955,130
+47755,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71664,10.39989,131
+47756,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71662,10.40025,132
+47757,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71658,10.40067,133
+47758,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71649,10.40126,134
+47759,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71641,10.40165,135
+47760,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71628,10.40215,136
+47761,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71557,10.40465,137
+47762,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71546,10.40496,138
+47763,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71525,10.40549,139
+47764,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71463,10.40691,140
+47765,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71497,10.40718,141
+47766,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71506,10.40689,142
+47767,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.7152,10.40696,143
+47768,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71554,10.40711,144
+47769,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71614,10.40717,145
+47770,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71645,10.40719,146
+47771,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71652,10.40718,147
+47772,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71635,10.4062,148
+47773,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71635,10.40613,149
+47774,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71636,10.40594,150
+47775,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71747,10.40586,151
+47776,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.7178,10.40585,152
+47777,Piscina Comunale Camalich,Facolta di Ingegneria Polo A,route_1861,43.71799,10.40583,153
+47778,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.6866,10.38313,0
+47779,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69027,10.38517,1
+47780,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69038,10.38522,2
+47781,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69054,10.38527,3
+47782,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.6907,10.38533,4
+47783,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.6908,10.38539,5
+47784,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69084,10.38542,6
+47785,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.6909,10.38552,7
+47786,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69092,10.38556,8
+47787,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69096,10.38559,9
+47788,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69099,10.3856,10
+47789,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69104,10.3856,11
+47790,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69108,10.38557,12
+47791,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69113,10.3855,13
+47792,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69114,10.38543,14
+47793,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69112,10.38535,15
+47794,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69112,10.38521,16
+47795,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69113,10.38503,17
+47796,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69138,10.38415,18
+47797,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69183,10.38439,19
+47798,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69288,10.38497,20
+47799,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69328,10.38518,21
+47800,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69339,10.38521,22
+47801,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69347,10.38521,23
+47802,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69363,10.3852,24
+47803,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69379,10.38514,25
+47804,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69388,10.3851,26
+47805,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69399,10.38502,27
+47806,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69406,10.38496,28
+47807,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69421,10.38478,29
+47808,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69434,10.38458,30
+47809,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.6944,10.38444,31
+47810,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69458,10.3838,32
+47811,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69478,10.38357,33
+47812,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69482,10.38355,34
+47813,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69513,10.38354,35
+47814,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69574,10.38377,36
+47815,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69603,10.38401,37
+47816,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69613,10.38429,38
+47817,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69614,10.38437,39
+47818,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.6961,10.38485,40
+47819,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69607,10.38547,41
+47820,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69607,10.38605,42
+47821,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69608,10.38984,43
+47822,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69609,10.39107,44
+47823,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69613,10.39162,45
+47824,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69624,10.39256,46
+47825,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69627,10.39299,47
+47826,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69629,10.39337,48
+47827,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69629,10.39371,49
+47828,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69623,10.39469,50
+47829,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.6962,10.3948,51
+47830,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69616,10.39491,52
+47831,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69613,10.39495,53
+47832,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69612,10.39498,54
+47833,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69612,10.39505,55
+47834,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69614,10.39512,56
+47835,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69618,10.39515,57
+47836,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69623,10.39515,58
+47837,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69625,10.39514,59
+47838,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69753,10.39547,60
+47839,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69809,10.39567,61
+47840,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69844,10.39577,62
+47841,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69858,10.3958,63
+47842,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.6987,10.39581,64
+47843,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69885,10.39576,65
+47844,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69891,10.39577,66
+47845,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69892,10.39586,67
+47846,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69893,10.39599,68
+47847,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69893,10.39615,69
+47848,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69891,10.3963,70
+47849,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69889,10.39636,71
+47850,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.6989,10.39642,72
+47851,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69892,10.39645,73
+47852,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69895,10.39647,74
+47853,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.699,10.39648,75
+47854,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69904,10.39645,76
+47855,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69919,10.39641,77
+47856,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69971,10.3965,78
+47857,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69982,10.39654,79
+47858,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69992,10.39663,80
+47859,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69994,10.39669,81
+47860,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69996,10.39678,82
+47861,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69996,10.39688,83
+47862,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69996,10.39694,84
+47863,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69997,10.39701,85
+47864,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.69999,10.39704,86
+47865,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70003,10.3971,87
+47866,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70009,10.39713,88
+47867,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70014,10.39713,89
+47868,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70019,10.3971,90
+47869,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70022,10.39705,91
+47870,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70025,10.39699,92
+47871,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70025,10.39692,93
+47872,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70035,10.39686,94
+47873,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70038,10.39686,95
+47874,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70046,10.3969,96
+47875,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70058,10.39707,97
+47876,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70065,10.39723,98
+47877,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.7008,10.3974,99
+47878,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70098,10.39752,100
+47879,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70199,10.39815,101
+47880,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70211,10.39825,102
+47881,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70222,10.39838,103
+47882,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70231,10.39852,104
+47883,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70238,10.39866,105
+47884,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70244,10.39887,106
+47885,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70247,10.399,107
+47886,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.7025,10.39922,108
+47887,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.7025,10.39945,109
+47888,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70243,10.40034,110
+47889,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.7024,10.40047,111
+47890,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70237,10.40046,112
+47891,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70234,10.40046,113
+47892,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70231,10.40048,114
+47893,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70229,10.40051,115
+47894,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70228,10.40054,116
+47895,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70227,10.40058,117
+47896,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70229,10.40066,118
+47897,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70231,10.40069,119
+47898,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70234,10.4007,120
+47899,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.7024,10.40069,121
+47900,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70244,10.40064,122
+47901,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70247,10.40067,123
+47902,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70252,10.40069,124
+47903,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70276,10.40076,125
+47904,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70455,10.40124,126
+47905,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70471,10.40133,127
+47906,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70524,10.40171,128
+47907,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.7053,10.40178,129
+47908,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70535,10.40184,130
+47909,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70547,10.40207,131
+47910,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70553,10.40214,132
+47911,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70614,10.40251,133
+47912,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70712,10.40318,134
+47913,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70685,10.40392,135
+47914,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.7068,10.40407,136
+47915,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70676,10.40427,137
+47916,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70675,10.40444,138
+47917,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70675,10.40455,139
+47918,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70678,10.40479,140
+47919,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70683,10.40508,141
+47920,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70742,10.40341,142
+47921,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70809,10.40387,143
+47922,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70921,10.40461,144
+47923,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70964,10.40492,145
+47924,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70959,10.4052,146
+47925,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70953,10.40562,147
+47926,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70953,10.40571,148
+47927,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70954,10.40577,149
+47928,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70958,10.40585,150
+47929,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70962,10.40589,151
+47930,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.7097,10.40593,152
+47931,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70981,10.40586,153
+47932,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70996,10.40588,154
+47933,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71001,10.4059,155
+47934,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71007,10.40596,156
+47935,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71009,10.40599,157
+47936,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71015,10.4061,158
+47937,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71008,10.40743,159
+47938,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71004,10.40744,160
+47939,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71001,10.40747,161
+47940,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70998,10.40751,162
+47941,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70997,10.40755,163
+47942,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70997,10.40763,164
+47943,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.70998,10.40769,165
+47944,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71003,10.40774,166
+47945,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71007,10.40776,167
+47946,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71014,10.40774,168
+47947,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71018,10.40769,169
+47948,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71027,10.40767,170
+47949,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71063,10.40769,171
+47950,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71112,10.40773,172
+47951,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71118,10.40776,173
+47952,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71127,10.40782,174
+47953,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71131,10.40786,175
+47954,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71138,10.40789,176
+47955,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71204,10.40793,177
+47956,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71261,10.40789,178
+47957,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71299,10.40783,179
+47958,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71305,10.40781,180
+47959,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71307,10.40778,181
+47960,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.7139,10.40851,182
+47961,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.7141,10.40867,183
+47962,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71421,10.40873,184
+47963,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.7147,10.40895,185
+47964,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71478,10.40897,186
+47965,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71514,10.40902,187
+47966,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71597,10.40908,188
+47967,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71617,10.40905,189
+47968,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71637,10.40896,190
+47969,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.7167,10.40875,191
+47970,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.7168,10.40872,192
+47971,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71686,10.40874,193
+47972,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71695,10.40879,194
+47973,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71862,10.41041,195
+47974,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71872,10.41046,196
+47975,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71879,10.41046,197
+47976,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71868,10.40905,198
+47977,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71855,10.40739,199
+47978,Piscina Comunale Camalich,Polo Fibonacci,route_1862,43.71899,10.4074,200
+47979,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.6866,10.38313,0
+47980,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69027,10.38517,1
+47981,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69038,10.38522,2
+47982,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69054,10.38527,3
+47983,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.6907,10.38533,4
+47984,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.6908,10.38539,5
+47985,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69084,10.38542,6
+47986,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.6909,10.38552,7
+47987,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69092,10.38556,8
+47988,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69096,10.38559,9
+47989,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69099,10.3856,10
+47990,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.6911,10.38559,11
+47991,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69118,10.3856,12
+47992,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69122,10.38561,13
+47993,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69134,10.38566,14
+47994,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69145,10.38577,15
+47995,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69153,10.38584,16
+47996,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69179,10.38598,17
+47997,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69351,10.38675,18
+47998,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69557,10.38764,19
+47999,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69573,10.38775,20
+48000,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69582,10.38784,21
+48001,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69587,10.38794,22
+48002,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.6959,10.38802,23
+48003,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69594,10.38808,24
+48004,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69602,10.38814,25
+48005,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69611,10.38815,26
+48006,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69617,10.38813,27
+48007,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69622,10.38808,28
+48008,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69632,10.38803,29
+48009,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69638,10.38803,30
+48010,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69653,10.38806,31
+48011,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69779,10.38864,32
+48012,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69794,10.38869,33
+48013,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.6985,10.38892,34
+48014,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69871,10.38897,35
+48015,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69895,10.38902,36
+48016,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.6992,10.38905,37
+48017,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69932,10.38913,38
+48018,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69937,10.38917,39
+48019,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.6994,10.38925,40
+48020,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69944,10.3893,41
+48021,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.6995,10.3893,42
+48022,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69955,10.38928,43
+48023,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69959,10.38922,44
+48024,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.6996,10.38916,45
+48025,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69977,10.38903,46
+48026,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.69995,10.38902,47
+48027,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70017,10.38897,48
+48028,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70059,10.38883,49
+48029,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70098,10.38865,50
+48030,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70116,10.38855,51
+48031,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70152,10.38831,52
+48032,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70195,10.38796,53
+48033,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70218,10.38777,54
+48034,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70243,10.38759,55
+48035,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70275,10.38734,56
+48036,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70284,10.38726,57
+48037,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70302,10.38699,58
+48038,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70308,10.38696,59
+48039,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70312,10.3869,60
+48040,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70339,10.38672,61
+48041,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70371,10.3866,62
+48042,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70409,10.38652,63
+48043,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70729,10.38573,64
+48044,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70739,10.38574,65
+48045,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70837,10.3855,66
+48046,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70852,10.38545,67
+48047,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70865,10.38544,68
+48048,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70871,10.38549,69
+48049,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70875,10.38551,70
+48050,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70879,10.38552,71
+48051,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70883,10.3855,72
+48052,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70888,10.38544,73
+48053,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70898,10.38537,74
+48054,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70908,10.38529,75
+48055,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.7091,10.38528,76
+48056,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70916,10.38531,77
+48057,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70928,10.38534,78
+48058,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70932,10.38534,79
+48059,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70947,10.3853,80
+48060,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70955,10.38531,81
+48061,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70961,10.38534,82
+48062,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70966,10.38537,83
+48063,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.7097,10.38542,84
+48064,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70982,10.38573,85
+48065,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70986,10.38575,86
+48066,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70985,10.38581,87
+48067,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70986,10.38586,88
+48068,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70989,10.3859,89
+48069,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70992,10.3859,90
+48070,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.70995,10.38612,91
+48071,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71045,10.38769,92
+48072,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71052,10.38788,93
+48073,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71068,10.38834,94
+48074,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71112,10.3897,95
+48075,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71157,10.39094,96
+48076,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71162,10.39112,97
+48077,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71163,10.39133,98
+48078,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71162,10.39139,99
+48079,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71158,10.39142,100
+48080,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71157,10.39144,101
+48081,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71156,10.39149,102
+48082,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71157,10.39155,103
+48083,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71159,10.39157,104
+48084,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71162,10.39159,105
+48085,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71164,10.39159,106
+48086,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71169,10.39172,107
+48087,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71173,10.3919,108
+48088,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71179,10.39268,109
+48089,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71123,10.39288,110
+48090,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71113,10.39479,111
+48091,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71098,10.39714,112
+48092,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71097,10.39725,113
+48093,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.711,10.39737,114
+48094,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71103,10.39742,115
+48095,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71106,10.39746,116
+48096,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71113,10.3974,117
+48097,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71115,10.39746,118
+48098,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71127,10.3976,119
+48099,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71141,10.39762,120
+48100,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71208,10.39753,121
+48101,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71262,10.39743,122
+48102,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.7124,10.39857,123
+48103,Piscina Comunale Camalich,Stazione Leopolda,route_1863,43.71197,10.39863,124
+48104,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.6866,10.38313,0
+48105,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69027,10.38517,1
+48106,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69038,10.38522,2
+48107,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69054,10.38527,3
+48108,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.6907,10.38533,4
+48109,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.6908,10.38539,5
+48110,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69084,10.38542,6
+48111,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.6909,10.38552,7
+48112,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69092,10.38556,8
+48113,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69096,10.38559,9
+48114,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69099,10.3856,10
+48115,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.6911,10.38559,11
+48116,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69118,10.3856,12
+48117,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69122,10.38561,13
+48118,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69134,10.38566,14
+48119,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69145,10.38577,15
+48120,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69153,10.38584,16
+48121,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69179,10.38598,17
+48122,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69351,10.38675,18
+48123,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69557,10.38764,19
+48124,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69573,10.38775,20
+48125,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69582,10.38784,21
+48126,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69587,10.38794,22
+48127,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.6959,10.38802,23
+48128,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69594,10.38808,24
+48129,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69602,10.38814,25
+48130,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69611,10.38815,26
+48131,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69617,10.38813,27
+48132,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69622,10.38808,28
+48133,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69632,10.38803,29
+48134,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69638,10.38803,30
+48135,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69653,10.38806,31
+48136,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69779,10.38864,32
+48137,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69794,10.38869,33
+48138,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.6985,10.38892,34
+48139,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69871,10.38897,35
+48140,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69895,10.38902,36
+48141,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.6992,10.38905,37
+48142,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69932,10.38913,38
+48143,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69937,10.38917,39
+48144,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.6994,10.38925,40
+48145,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69944,10.3893,41
+48146,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.6995,10.3893,42
+48147,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69955,10.38928,43
+48148,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69959,10.38922,44
+48149,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.6996,10.38916,45
+48150,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69977,10.38903,46
+48151,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.69995,10.38902,47
+48152,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70017,10.38897,48
+48153,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70059,10.38883,49
+48154,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70098,10.38865,50
+48155,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70116,10.38855,51
+48156,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70152,10.38831,52
+48157,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70195,10.38796,53
+48158,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70218,10.38777,54
+48159,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70243,10.38759,55
+48160,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70275,10.38734,56
+48161,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70284,10.38726,57
+48162,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70302,10.38699,58
+48163,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70308,10.38696,59
+48164,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70312,10.3869,60
+48165,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70339,10.38672,61
+48166,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70371,10.3866,62
+48167,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70409,10.38652,63
+48168,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70729,10.38573,64
+48169,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70739,10.38574,65
+48170,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70837,10.3855,66
+48171,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70852,10.38545,67
+48172,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70865,10.38544,68
+48173,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70871,10.38549,69
+48174,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70875,10.38551,70
+48175,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70879,10.38552,71
+48176,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70883,10.3855,72
+48177,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70888,10.38544,73
+48178,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70898,10.38537,74
+48179,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70908,10.38529,75
+48180,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.7091,10.38528,76
+48181,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70916,10.38531,77
+48182,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70928,10.38534,78
+48183,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70932,10.38534,79
+48184,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70947,10.3853,80
+48185,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70955,10.38531,81
+48186,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70961,10.38534,82
+48187,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70966,10.38537,83
+48188,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.7097,10.38542,84
+48189,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70982,10.38573,85
+48190,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70986,10.38575,86
+48191,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70985,10.38581,87
+48192,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70986,10.38586,88
+48193,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70989,10.3859,89
+48194,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70992,10.3859,90
+48195,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.70995,10.38612,91
+48196,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.71012,10.38667,92
+48197,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.71045,10.38769,93
+48198,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.71052,10.38788,94
+48199,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.71068,10.38834,95
+48200,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.71113,10.38974,96
+48201,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.71103,10.38981,97
+48202,Piscina Comunale Camalich,Stazione San Rossore,route_1864,43.71107,10.38995,98
+48203,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.6866,10.38313,0
+48204,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69027,10.38517,1
+48205,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69038,10.38522,2
+48206,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69054,10.38527,3
+48207,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.6907,10.38533,4
+48208,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.6908,10.38539,5
+48209,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69084,10.38542,6
+48210,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.6909,10.38552,7
+48211,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69092,10.38556,8
+48212,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69096,10.38559,9
+48213,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69099,10.3856,10
+48214,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.6911,10.38559,11
+48215,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69118,10.3856,12
+48216,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69122,10.38561,13
+48217,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69134,10.38566,14
+48218,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69145,10.38577,15
+48219,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69153,10.38584,16
+48220,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69179,10.38598,17
+48221,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69351,10.38675,18
+48222,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69557,10.38764,19
+48223,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69573,10.38775,20
+48224,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69582,10.38784,21
+48225,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69587,10.38794,22
+48226,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.6959,10.38802,23
+48227,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69594,10.38808,24
+48228,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69602,10.38814,25
+48229,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69611,10.38815,26
+48230,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69617,10.38813,27
+48231,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69622,10.38808,28
+48232,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69632,10.38803,29
+48233,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69638,10.38803,30
+48234,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69653,10.38806,31
+48235,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69779,10.38864,32
+48236,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69794,10.38869,33
+48237,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.6985,10.38892,34
+48238,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69871,10.38897,35
+48239,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69895,10.38902,36
+48240,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.6992,10.38905,37
+48241,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69932,10.38913,38
+48242,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69937,10.38917,39
+48243,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.6994,10.38925,40
+48244,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69944,10.3893,41
+48245,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.6995,10.3893,42
+48246,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69955,10.38928,43
+48247,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69959,10.38922,44
+48248,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.6996,10.38916,45
+48249,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69977,10.38903,46
+48250,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.69995,10.38902,47
+48251,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70017,10.38897,48
+48252,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70059,10.38883,49
+48253,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70098,10.38865,50
+48254,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70116,10.38855,51
+48255,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70152,10.38831,52
+48256,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70195,10.38796,53
+48257,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70218,10.38777,54
+48258,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70243,10.38759,55
+48259,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70275,10.38734,56
+48260,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70284,10.38726,57
+48261,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70302,10.38699,58
+48262,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70308,10.38696,59
+48263,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70312,10.3869,60
+48264,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70339,10.38672,61
+48265,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70371,10.3866,62
+48266,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70409,10.38652,63
+48267,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70729,10.38573,64
+48268,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70739,10.38574,65
+48269,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70837,10.3855,66
+48270,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70852,10.38545,67
+48271,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70865,10.38544,68
+48272,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70871,10.38549,69
+48273,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70875,10.38551,70
+48274,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70879,10.38552,71
+48275,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70883,10.3855,72
+48276,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70888,10.38544,73
+48277,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70898,10.38537,74
+48278,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70908,10.38529,75
+48279,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.7091,10.38528,76
+48280,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70916,10.38531,77
+48281,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70928,10.38534,78
+48282,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70932,10.38534,79
+48283,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70947,10.3853,80
+48284,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70955,10.38531,81
+48285,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70961,10.38534,82
+48286,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70966,10.38537,83
+48287,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.7097,10.38542,84
+48288,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70982,10.38573,85
+48289,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70986,10.38575,86
+48290,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70985,10.38581,87
+48291,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70986,10.38586,88
+48292,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70977,10.38592,89
+48293,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70908,10.38601,90
+48294,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70978,10.38807,91
+48295,Piscina Comunale Camalich,Parco San Rossore,route_1865,43.70999,10.38795,92
+48296,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.6866,10.38313,0
+48297,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69027,10.38517,1
+48298,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69038,10.38522,2
+48299,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69054,10.38527,3
+48300,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.6907,10.38533,4
+48301,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.6908,10.38539,5
+48302,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69084,10.38542,6
+48303,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.6909,10.38552,7
+48304,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69092,10.38556,8
+48305,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69096,10.38559,9
+48306,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69099,10.3856,10
+48307,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.6911,10.38559,11
+48308,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69118,10.3856,12
+48309,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69122,10.38561,13
+48310,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69134,10.38566,14
+48311,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69145,10.38577,15
+48312,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69153,10.38584,16
+48313,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69179,10.38598,17
+48314,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69351,10.38675,18
+48315,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69557,10.38764,19
+48316,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69573,10.38775,20
+48317,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69582,10.38784,21
+48318,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69587,10.38794,22
+48319,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.6959,10.38802,23
+48320,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69594,10.38808,24
+48321,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69602,10.38814,25
+48322,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69611,10.38815,26
+48323,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69617,10.38813,27
+48324,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69622,10.38808,28
+48325,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69632,10.38803,29
+48326,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69638,10.38803,30
+48327,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69653,10.38806,31
+48328,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69779,10.38864,32
+48329,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69794,10.38869,33
+48330,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.6985,10.38892,34
+48331,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69871,10.38897,35
+48332,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69895,10.38902,36
+48333,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.6992,10.38905,37
+48334,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69932,10.38913,38
+48335,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69937,10.38917,39
+48336,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.6994,10.38925,40
+48337,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69944,10.3893,41
+48338,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.6995,10.3893,42
+48339,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69955,10.38928,43
+48340,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69959,10.38922,44
+48341,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.6996,10.38916,45
+48342,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69977,10.38903,46
+48343,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.69995,10.38902,47
+48344,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70017,10.38897,48
+48345,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70059,10.38883,49
+48346,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70098,10.38865,50
+48347,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70116,10.38855,51
+48348,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70152,10.38831,52
+48349,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70195,10.38796,53
+48350,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70218,10.38777,54
+48351,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70243,10.38759,55
+48352,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70275,10.38734,56
+48353,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70284,10.38726,57
+48354,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70302,10.38699,58
+48355,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70308,10.38696,59
+48356,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70312,10.3869,60
+48357,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70339,10.38672,61
+48358,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70371,10.3866,62
+48359,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70409,10.38652,63
+48360,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70729,10.38573,64
+48361,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70739,10.38574,65
+48362,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70837,10.3855,66
+48363,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70852,10.38545,67
+48364,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70865,10.38544,68
+48365,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70871,10.38549,69
+48366,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70875,10.38551,70
+48367,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70879,10.38552,71
+48368,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70883,10.3855,72
+48369,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70888,10.38544,73
+48370,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70898,10.38537,74
+48371,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70908,10.38529,75
+48372,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.7091,10.38528,76
+48373,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70916,10.38531,77
+48374,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70928,10.38534,78
+48375,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70932,10.38534,79
+48376,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70947,10.3853,80
+48377,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70955,10.38531,81
+48378,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70961,10.38534,82
+48379,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70966,10.38537,83
+48380,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.7097,10.38542,84
+48381,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70982,10.38573,85
+48382,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70986,10.38575,86
+48383,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70985,10.38581,87
+48384,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70986,10.38586,88
+48385,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70989,10.3859,89
+48386,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70992,10.3859,90
+48387,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.70995,10.38612,91
+48388,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71045,10.38769,92
+48389,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71052,10.38788,93
+48390,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71068,10.38834,94
+48391,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71112,10.3897,95
+48392,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71157,10.39094,96
+48393,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71162,10.39112,97
+48394,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71163,10.39133,98
+48395,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71162,10.39139,99
+48396,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71158,10.39142,100
+48397,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71157,10.39144,101
+48398,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71156,10.39149,102
+48399,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71157,10.39155,103
+48400,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71159,10.39157,104
+48401,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71162,10.39159,105
+48402,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71164,10.39159,106
+48403,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71169,10.39172,107
+48404,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71173,10.3919,108
+48405,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71179,10.39268,109
+48406,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71232,10.39248,110
+48407,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71253,10.3924,111
+48408,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71269,10.39233,112
+48409,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.7129,10.39217,113
+48410,Piscina Comunale Camalich,Lidl Pisa,route_1866,43.71287,10.39212,114
+48411,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.6866,10.38313,0
+48412,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69027,10.38517,1
+48413,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69038,10.38522,2
+48414,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69054,10.38527,3
+48415,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.6907,10.38533,4
+48416,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.6908,10.38539,5
+48417,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69084,10.38542,6
+48418,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.6909,10.38552,7
+48419,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69092,10.38556,8
+48420,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69096,10.38559,9
+48421,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69099,10.3856,10
+48422,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.6911,10.38559,11
+48423,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69118,10.3856,12
+48424,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69122,10.38561,13
+48425,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69134,10.38566,14
+48426,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69145,10.38577,15
+48427,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69153,10.38584,16
+48428,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69179,10.38598,17
+48429,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69351,10.38675,18
+48430,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69557,10.38764,19
+48431,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69573,10.38775,20
+48432,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69582,10.38784,21
+48433,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69587,10.38794,22
+48434,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.6959,10.38802,23
+48435,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69594,10.38808,24
+48436,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69602,10.38814,25
+48437,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69611,10.38815,26
+48438,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69617,10.38813,27
+48439,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69622,10.38808,28
+48440,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69632,10.38803,29
+48441,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69638,10.38803,30
+48442,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69653,10.38806,31
+48443,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69779,10.38864,32
+48444,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69794,10.38869,33
+48445,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.6985,10.38892,34
+48446,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69871,10.38897,35
+48447,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69895,10.38902,36
+48448,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.6992,10.38905,37
+48449,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69932,10.38913,38
+48450,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69937,10.38917,39
+48451,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.6994,10.38925,40
+48452,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69944,10.3893,41
+48453,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.6995,10.3893,42
+48454,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.69975,10.38946,43
+48455,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.6999,10.38952,44
+48456,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.70009,10.38957,45
+48457,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.70016,10.38967,46
+48458,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.70051,10.39053,47
+48459,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.70056,10.39066,48
+48460,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.70059,10.39073,49
+48461,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.70068,10.39075,50
+48462,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.70082,10.39074,51
+48463,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.70104,10.39065,52
+48464,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.70121,10.39055,53
+48465,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.70133,10.39046,54
+48466,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.70147,10.39033,55
+48467,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.70156,10.39021,56
+48468,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.70167,10.39004,57
+48469,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.70173,10.38991,58
+48470,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.70182,10.3897,59
+48471,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.70188,10.38944,60
+48472,Piscina Comunale Camalich,McDonald's Pisa Aurelia,route_1867,43.70189,10.38935,61

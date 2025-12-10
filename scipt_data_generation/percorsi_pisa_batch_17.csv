@@ -1,0 +1,403 @@
+id,start,end,route_id,lat,lon,idx
+10376,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71107,10.38995,0
+10377,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71103,10.38981,1
+10378,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71113,10.38974,2
+10379,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71157,10.39094,3
+10380,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71162,10.39112,4
+10381,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71163,10.39133,5
+10382,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71162,10.39139,6
+10383,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71158,10.39142,7
+10384,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71157,10.39144,8
+10385,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71156,10.39149,9
+10386,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71157,10.39155,10
+10387,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71159,10.39157,11
+10388,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71162,10.39159,12
+10389,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71164,10.39159,13
+10390,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71169,10.39172,14
+10391,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71173,10.3919,15
+10392,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71179,10.39268,16
+10393,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71123,10.39288,17
+10394,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71113,10.39479,18
+10395,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71098,10.39714,19
+10396,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71097,10.39725,20
+10397,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.711,10.39737,21
+10398,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71103,10.39742,22
+10399,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71106,10.39746,23
+10400,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71123,10.39733,24
+10401,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71134,10.39727,25
+10402,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71274,10.39666,26
+10403,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71382,10.39616,27
+10404,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71472,10.39571,28
+10405,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.7156,10.39498,29
+10406,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71581,10.39552,30
+10407,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71598,10.39605,31
+10408,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71614,10.3966,32
+10409,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71632,10.39747,33
+10410,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71652,10.39855,34
+10411,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71656,10.39883,35
+10412,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71661,10.39923,36
+10413,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71663,10.39955,37
+10414,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71664,10.39989,38
+10415,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71662,10.40025,39
+10416,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71658,10.40067,40
+10417,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71649,10.40126,41
+10418,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71641,10.40165,42
+10419,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71628,10.40215,43
+10420,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71555,10.40168,44
+10421,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71566,10.40129,45
+10422,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.7157,10.40111,46
+10423,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71576,10.40067,47
+10424,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.7158,10.40037,48
+10425,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71551,10.40027,49
+10426,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71527,10.40016,50
+10427,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71522,10.40016,51
+10428,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71507,10.40011,52
+10429,Stazione San Rossore,Via Aretino Spinello 11,route_480,43.71498,10.40006,53
+10430,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71107,10.38995,0
+10431,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71103,10.38981,1
+10432,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71113,10.38974,2
+10433,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71157,10.39094,3
+10434,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71162,10.39112,4
+10435,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71163,10.39133,5
+10436,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71162,10.39139,6
+10437,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71158,10.39142,7
+10438,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71157,10.39144,8
+10439,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71156,10.39149,9
+10440,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71157,10.39155,10
+10441,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71159,10.39157,11
+10442,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71162,10.39159,12
+10443,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71164,10.39159,13
+10444,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71169,10.39172,14
+10445,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71173,10.3919,15
+10446,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71179,10.39268,16
+10447,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71123,10.39288,17
+10448,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71113,10.39479,18
+10449,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71098,10.39714,19
+10450,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71097,10.39725,20
+10451,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.711,10.39737,21
+10452,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71103,10.39742,22
+10453,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71106,10.39746,23
+10454,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71123,10.39733,24
+10455,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71134,10.39727,25
+10456,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71274,10.39666,26
+10457,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71382,10.39616,27
+10458,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71472,10.39571,28
+10459,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.7156,10.39498,29
+10460,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71581,10.39552,30
+10461,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71598,10.39605,31
+10462,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71614,10.3966,32
+10463,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71632,10.39747,33
+10464,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71652,10.39855,34
+10465,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71656,10.39883,35
+10466,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71661,10.39923,36
+10467,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71663,10.39955,37
+10468,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71664,10.39989,38
+10469,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71662,10.40025,39
+10470,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71658,10.40067,40
+10471,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71649,10.40126,41
+10472,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71641,10.40165,42
+10473,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71628,10.40215,43
+10474,Stazione San Rossore,Via Angelo Battelli 5,route_481,43.71621,10.40211,44
+10475,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71107,10.38995,0
+10476,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71103,10.38981,1
+10477,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71113,10.38974,2
+10478,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71157,10.39094,3
+10479,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71162,10.39112,4
+10480,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71163,10.39133,5
+10481,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71162,10.39139,6
+10482,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71158,10.39142,7
+10483,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71157,10.39144,8
+10484,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71156,10.39149,9
+10485,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71157,10.39155,10
+10486,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71159,10.39157,11
+10487,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71162,10.39159,12
+10488,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71164,10.39159,13
+10489,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71169,10.39172,14
+10490,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71173,10.3919,15
+10491,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71179,10.39268,16
+10492,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71123,10.39288,17
+10493,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71113,10.39479,18
+10494,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71098,10.39714,19
+10495,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71097,10.39725,20
+10496,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.711,10.39737,21
+10497,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71103,10.39742,22
+10498,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71106,10.39746,23
+10499,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71123,10.39733,24
+10500,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71134,10.39727,25
+10501,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71274,10.39666,26
+10502,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71382,10.39616,27
+10503,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71472,10.39571,28
+10504,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.7156,10.39498,29
+10505,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71581,10.39552,30
+10506,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71598,10.39605,31
+10507,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71614,10.3966,32
+10508,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71632,10.39747,33
+10509,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71652,10.39855,34
+10510,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71656,10.39883,35
+10511,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71661,10.39923,36
+10512,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71663,10.39955,37
+10513,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71664,10.39989,38
+10514,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71662,10.40025,39
+10515,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71658,10.40067,40
+10516,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71649,10.40126,41
+10517,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71641,10.40165,42
+10518,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71628,10.40215,43
+10519,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71557,10.40465,44
+10520,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71546,10.40496,45
+10521,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71525,10.40549,46
+10522,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71463,10.40691,47
+10523,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71497,10.40718,48
+10524,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71506,10.40689,49
+10525,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.7152,10.40696,50
+10526,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71554,10.40711,51
+10527,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71614,10.40717,52
+10528,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71645,10.40719,53
+10529,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71652,10.40718,54
+10530,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71635,10.4062,55
+10531,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71635,10.40613,56
+10532,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71636,10.40594,57
+10533,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71636,10.40574,58
+10534,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71635,10.40554,59
+10535,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71635,10.4053,60
+10536,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71641,10.40425,61
+10537,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71691,10.40421,62
+10538,Stazione San Rossore,Via Gabriele Vettori 18,route_482,43.71689,10.40402,63
+10539,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71107,10.38995,0
+10540,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71103,10.38981,1
+10541,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71113,10.38974,2
+10542,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71157,10.39094,3
+10543,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71162,10.39112,4
+10544,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71163,10.39133,5
+10545,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71162,10.39139,6
+10546,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71158,10.39142,7
+10547,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71157,10.39144,8
+10548,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71156,10.39149,9
+10549,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71157,10.39155,10
+10550,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71159,10.39157,11
+10551,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71162,10.39159,12
+10552,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71164,10.39159,13
+10553,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71169,10.39172,14
+10554,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71173,10.3919,15
+10555,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71179,10.39268,16
+10556,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71123,10.39288,17
+10557,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71113,10.39479,18
+10558,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71098,10.39714,19
+10559,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71097,10.39725,20
+10560,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.711,10.39737,21
+10561,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71103,10.39742,22
+10562,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71106,10.39746,23
+10563,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71123,10.39733,24
+10564,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71134,10.39727,25
+10565,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71274,10.39666,26
+10566,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71382,10.39616,27
+10567,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71472,10.39571,28
+10568,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.7156,10.39498,29
+10569,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71581,10.39552,30
+10570,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71598,10.39605,31
+10571,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71614,10.3966,32
+10572,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71632,10.39747,33
+10573,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71652,10.39855,34
+10574,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71656,10.39883,35
+10575,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71661,10.39923,36
+10576,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71663,10.39955,37
+10577,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71664,10.39989,38
+10578,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71662,10.40025,39
+10579,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71658,10.40067,40
+10580,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71649,10.40126,41
+10581,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71641,10.40165,42
+10582,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71628,10.40215,43
+10583,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71557,10.40465,44
+10584,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71546,10.40496,45
+10585,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71525,10.40549,46
+10586,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71463,10.40691,47
+10587,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71497,10.40718,48
+10588,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71506,10.40689,49
+10589,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.7152,10.40696,50
+10590,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71554,10.40711,51
+10591,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71614,10.40717,52
+10592,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71645,10.40719,53
+10593,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71652,10.40718,54
+10594,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71635,10.4062,55
+10595,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71635,10.40613,56
+10596,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71636,10.40594,57
+10597,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71747,10.40586,58
+10598,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.7178,10.40585,59
+10599,Stazione San Rossore,Facolta di Ingegneria Polo A,route_483,43.71799,10.40583,60
+10600,Stazione San Rossore,Polo Fibonacci,route_484,43.71107,10.38995,0
+10601,Stazione San Rossore,Polo Fibonacci,route_484,43.71103,10.38981,1
+10602,Stazione San Rossore,Polo Fibonacci,route_484,43.71113,10.38974,2
+10603,Stazione San Rossore,Polo Fibonacci,route_484,43.71157,10.39094,3
+10604,Stazione San Rossore,Polo Fibonacci,route_484,43.71162,10.39112,4
+10605,Stazione San Rossore,Polo Fibonacci,route_484,43.71163,10.39133,5
+10606,Stazione San Rossore,Polo Fibonacci,route_484,43.71162,10.39139,6
+10607,Stazione San Rossore,Polo Fibonacci,route_484,43.71158,10.39142,7
+10608,Stazione San Rossore,Polo Fibonacci,route_484,43.71133,10.39152,8
+10609,Stazione San Rossore,Polo Fibonacci,route_484,43.71093,10.39162,9
+10610,Stazione San Rossore,Polo Fibonacci,route_484,43.71082,10.39166,10
+10611,Stazione San Rossore,Polo Fibonacci,route_484,43.71072,10.39173,11
+10612,Stazione San Rossore,Polo Fibonacci,route_484,43.71067,10.39179,12
+10613,Stazione San Rossore,Polo Fibonacci,route_484,43.71063,10.39186,13
+10614,Stazione San Rossore,Polo Fibonacci,route_484,43.71061,10.39193,14
+10615,Stazione San Rossore,Polo Fibonacci,route_484,43.7106,10.39206,15
+10616,Stazione San Rossore,Polo Fibonacci,route_484,43.71058,10.39434,16
+10617,Stazione San Rossore,Polo Fibonacci,route_484,43.71057,10.39451,17
+10618,Stazione San Rossore,Polo Fibonacci,route_484,43.71054,10.39481,18
+10619,Stazione San Rossore,Polo Fibonacci,route_484,43.71041,10.39568,19
+10620,Stazione San Rossore,Polo Fibonacci,route_484,43.71036,10.39568,20
+10621,Stazione San Rossore,Polo Fibonacci,route_484,43.71033,10.39573,21
+10622,Stazione San Rossore,Polo Fibonacci,route_484,43.71032,10.3958,22
+10623,Stazione San Rossore,Polo Fibonacci,route_484,43.71034,10.39585,23
+10624,Stazione San Rossore,Polo Fibonacci,route_484,43.71038,10.39588,24
+10625,Stazione San Rossore,Polo Fibonacci,route_484,43.71033,10.39616,25
+10626,Stazione San Rossore,Polo Fibonacci,route_484,43.7101,10.39766,26
+10627,Stazione San Rossore,Polo Fibonacci,route_484,43.71009,10.39768,27
+10628,Stazione San Rossore,Polo Fibonacci,route_484,43.71006,10.39775,28
+10629,Stazione San Rossore,Polo Fibonacci,route_484,43.71006,10.39784,29
+10630,Stazione San Rossore,Polo Fibonacci,route_484,43.71001,10.39838,30
+10631,Stazione San Rossore,Polo Fibonacci,route_484,43.70997,10.3988,31
+10632,Stazione San Rossore,Polo Fibonacci,route_484,43.70992,10.39879,32
+10633,Stazione San Rossore,Polo Fibonacci,route_484,43.70989,10.39881,33
+10634,Stazione San Rossore,Polo Fibonacci,route_484,43.70986,10.39884,34
+10635,Stazione San Rossore,Polo Fibonacci,route_484,43.70984,10.3989,35
+10636,Stazione San Rossore,Polo Fibonacci,route_484,43.70984,10.39895,36
+10637,Stazione San Rossore,Polo Fibonacci,route_484,43.70986,10.399,37
+10638,Stazione San Rossore,Polo Fibonacci,route_484,43.7099,10.39904,38
+10639,Stazione San Rossore,Polo Fibonacci,route_484,43.70994,10.39905,39
+10640,Stazione San Rossore,Polo Fibonacci,route_484,43.70994,10.39992,40
+10641,Stazione San Rossore,Polo Fibonacci,route_484,43.70997,10.40207,41
+10642,Stazione San Rossore,Polo Fibonacci,route_484,43.70997,10.40252,42
+10643,Stazione San Rossore,Polo Fibonacci,route_484,43.70988,10.40324,43
+10644,Stazione San Rossore,Polo Fibonacci,route_484,43.70975,10.40422,44
+10645,Stazione San Rossore,Polo Fibonacci,route_484,43.70959,10.4052,45
+10646,Stazione San Rossore,Polo Fibonacci,route_484,43.70953,10.40562,46
+10647,Stazione San Rossore,Polo Fibonacci,route_484,43.70953,10.40571,47
+10648,Stazione San Rossore,Polo Fibonacci,route_484,43.70954,10.40577,48
+10649,Stazione San Rossore,Polo Fibonacci,route_484,43.70958,10.40585,49
+10650,Stazione San Rossore,Polo Fibonacci,route_484,43.70962,10.40589,50
+10651,Stazione San Rossore,Polo Fibonacci,route_484,43.7097,10.40593,51
+10652,Stazione San Rossore,Polo Fibonacci,route_484,43.70981,10.40586,52
+10653,Stazione San Rossore,Polo Fibonacci,route_484,43.70996,10.40588,53
+10654,Stazione San Rossore,Polo Fibonacci,route_484,43.71001,10.4059,54
+10655,Stazione San Rossore,Polo Fibonacci,route_484,43.71007,10.40596,55
+10656,Stazione San Rossore,Polo Fibonacci,route_484,43.71009,10.40599,56
+10657,Stazione San Rossore,Polo Fibonacci,route_484,43.71015,10.4061,57
+10658,Stazione San Rossore,Polo Fibonacci,route_484,43.71008,10.40743,58
+10659,Stazione San Rossore,Polo Fibonacci,route_484,43.71004,10.40744,59
+10660,Stazione San Rossore,Polo Fibonacci,route_484,43.71001,10.40747,60
+10661,Stazione San Rossore,Polo Fibonacci,route_484,43.70998,10.40751,61
+10662,Stazione San Rossore,Polo Fibonacci,route_484,43.70997,10.40755,62
+10663,Stazione San Rossore,Polo Fibonacci,route_484,43.70997,10.40763,63
+10664,Stazione San Rossore,Polo Fibonacci,route_484,43.70998,10.40769,64
+10665,Stazione San Rossore,Polo Fibonacci,route_484,43.71003,10.40774,65
+10666,Stazione San Rossore,Polo Fibonacci,route_484,43.71007,10.40776,66
+10667,Stazione San Rossore,Polo Fibonacci,route_484,43.71014,10.40774,67
+10668,Stazione San Rossore,Polo Fibonacci,route_484,43.71018,10.40769,68
+10669,Stazione San Rossore,Polo Fibonacci,route_484,43.71027,10.40767,69
+10670,Stazione San Rossore,Polo Fibonacci,route_484,43.71063,10.40769,70
+10671,Stazione San Rossore,Polo Fibonacci,route_484,43.71112,10.40773,71
+10672,Stazione San Rossore,Polo Fibonacci,route_484,43.71118,10.40776,72
+10673,Stazione San Rossore,Polo Fibonacci,route_484,43.71127,10.40782,73
+10674,Stazione San Rossore,Polo Fibonacci,route_484,43.71131,10.40786,74
+10675,Stazione San Rossore,Polo Fibonacci,route_484,43.71138,10.40789,75
+10676,Stazione San Rossore,Polo Fibonacci,route_484,43.71204,10.40793,76
+10677,Stazione San Rossore,Polo Fibonacci,route_484,43.71261,10.40789,77
+10678,Stazione San Rossore,Polo Fibonacci,route_484,43.71299,10.40783,78
+10679,Stazione San Rossore,Polo Fibonacci,route_484,43.71305,10.40781,79
+10680,Stazione San Rossore,Polo Fibonacci,route_484,43.71307,10.40778,80
+10681,Stazione San Rossore,Polo Fibonacci,route_484,43.7139,10.40851,81
+10682,Stazione San Rossore,Polo Fibonacci,route_484,43.7141,10.40867,82
+10683,Stazione San Rossore,Polo Fibonacci,route_484,43.71421,10.40873,83
+10684,Stazione San Rossore,Polo Fibonacci,route_484,43.7147,10.40895,84
+10685,Stazione San Rossore,Polo Fibonacci,route_484,43.71478,10.40897,85
+10686,Stazione San Rossore,Polo Fibonacci,route_484,43.71514,10.40902,86
+10687,Stazione San Rossore,Polo Fibonacci,route_484,43.71597,10.40908,87
+10688,Stazione San Rossore,Polo Fibonacci,route_484,43.71617,10.40905,88
+10689,Stazione San Rossore,Polo Fibonacci,route_484,43.71637,10.40896,89
+10690,Stazione San Rossore,Polo Fibonacci,route_484,43.7167,10.40875,90
+10691,Stazione San Rossore,Polo Fibonacci,route_484,43.7168,10.40872,91
+10692,Stazione San Rossore,Polo Fibonacci,route_484,43.71686,10.40874,92
+10693,Stazione San Rossore,Polo Fibonacci,route_484,43.71695,10.40879,93
+10694,Stazione San Rossore,Polo Fibonacci,route_484,43.71862,10.41041,94
+10695,Stazione San Rossore,Polo Fibonacci,route_484,43.71872,10.41046,95
+10696,Stazione San Rossore,Polo Fibonacci,route_484,43.71879,10.41046,96
+10697,Stazione San Rossore,Polo Fibonacci,route_484,43.71868,10.40905,97
+10698,Stazione San Rossore,Polo Fibonacci,route_484,43.71855,10.40739,98
+10699,Stazione San Rossore,Polo Fibonacci,route_484,43.71899,10.4074,99
+10700,Stazione San Rossore,Stazione Leopolda,route_485,43.71107,10.38995,0
+10701,Stazione San Rossore,Stazione Leopolda,route_485,43.71103,10.38981,1
+10702,Stazione San Rossore,Stazione Leopolda,route_485,43.71113,10.38974,2
+10703,Stazione San Rossore,Stazione Leopolda,route_485,43.71157,10.39094,3
+10704,Stazione San Rossore,Stazione Leopolda,route_485,43.71162,10.39112,4
+10705,Stazione San Rossore,Stazione Leopolda,route_485,43.71163,10.39133,5
+10706,Stazione San Rossore,Stazione Leopolda,route_485,43.71162,10.39139,6
+10707,Stazione San Rossore,Stazione Leopolda,route_485,43.71158,10.39142,7
+10708,Stazione San Rossore,Stazione Leopolda,route_485,43.71157,10.39144,8
+10709,Stazione San Rossore,Stazione Leopolda,route_485,43.71156,10.39149,9
+10710,Stazione San Rossore,Stazione Leopolda,route_485,43.71157,10.39155,10
+10711,Stazione San Rossore,Stazione Leopolda,route_485,43.71159,10.39157,11
+10712,Stazione San Rossore,Stazione Leopolda,route_485,43.71162,10.39159,12
+10713,Stazione San Rossore,Stazione Leopolda,route_485,43.71164,10.39159,13
+10714,Stazione San Rossore,Stazione Leopolda,route_485,43.71169,10.39172,14
+10715,Stazione San Rossore,Stazione Leopolda,route_485,43.71173,10.3919,15
+10716,Stazione San Rossore,Stazione Leopolda,route_485,43.71179,10.39268,16
+10717,Stazione San Rossore,Stazione Leopolda,route_485,43.71123,10.39288,17
+10718,Stazione San Rossore,Stazione Leopolda,route_485,43.71113,10.39479,18
+10719,Stazione San Rossore,Stazione Leopolda,route_485,43.71098,10.39714,19
+10720,Stazione San Rossore,Stazione Leopolda,route_485,43.71097,10.39725,20
+10721,Stazione San Rossore,Stazione Leopolda,route_485,43.711,10.39737,21
+10722,Stazione San Rossore,Stazione Leopolda,route_485,43.71103,10.39742,22
+10723,Stazione San Rossore,Stazione Leopolda,route_485,43.71106,10.39746,23
+10724,Stazione San Rossore,Stazione Leopolda,route_485,43.71113,10.3974,24
+10725,Stazione San Rossore,Stazione Leopolda,route_485,43.71115,10.39746,25
+10726,Stazione San Rossore,Stazione Leopolda,route_485,43.71127,10.3976,26
+10727,Stazione San Rossore,Stazione Leopolda,route_485,43.71141,10.39762,27
+10728,Stazione San Rossore,Stazione Leopolda,route_485,43.71208,10.39753,28
+10729,Stazione San Rossore,Stazione Leopolda,route_485,43.71262,10.39743,29
+10730,Stazione San Rossore,Stazione Leopolda,route_485,43.7124,10.39857,30
+10731,Stazione San Rossore,Stazione Leopolda,route_485,43.71197,10.39863,31
+10732,Stazione San Rossore,Parco San Rossore,route_486,43.71107,10.38995,0
+10733,Stazione San Rossore,Parco San Rossore,route_486,43.71103,10.38981,1
+10734,Stazione San Rossore,Parco San Rossore,route_486,43.71113,10.38974,2
+10735,Stazione San Rossore,Parco San Rossore,route_486,43.71068,10.38834,3
+10736,Stazione San Rossore,Parco San Rossore,route_486,43.71052,10.38788,4
+10737,Stazione San Rossore,Parco San Rossore,route_486,43.71045,10.38769,5
+10738,Stazione San Rossore,Parco San Rossore,route_486,43.71012,10.38667,6
+10739,Stazione San Rossore,Parco San Rossore,route_486,43.70995,10.38612,7
+10740,Stazione San Rossore,Parco San Rossore,route_486,43.70992,10.3859,8
+10741,Stazione San Rossore,Parco San Rossore,route_486,43.70996,10.38589,9
+10742,Stazione San Rossore,Parco San Rossore,route_486,43.70998,10.38587,10
+10743,Stazione San Rossore,Parco San Rossore,route_486,43.70999,10.38584,11
+10744,Stazione San Rossore,Parco San Rossore,route_486,43.71,10.38579,12
+10745,Stazione San Rossore,Parco San Rossore,route_486,43.70998,10.38574,13
+10746,Stazione San Rossore,Parco San Rossore,route_486,43.70995,10.38571,14
+10747,Stazione San Rossore,Parco San Rossore,route_486,43.70991,10.3857,15
+10748,Stazione San Rossore,Parco San Rossore,route_486,43.70989,10.38571,16
+10749,Stazione San Rossore,Parco San Rossore,route_486,43.70986,10.38575,17
+10750,Stazione San Rossore,Parco San Rossore,route_486,43.70985,10.38581,18
+10751,Stazione San Rossore,Parco San Rossore,route_486,43.70986,10.38586,19
+10752,Stazione San Rossore,Parco San Rossore,route_486,43.70977,10.38592,20
+10753,Stazione San Rossore,Parco San Rossore,route_486,43.70908,10.38601,21
+10754,Stazione San Rossore,Parco San Rossore,route_486,43.70978,10.38807,22
+10755,Stazione San Rossore,Parco San Rossore,route_486,43.70999,10.38795,23
+10756,Stazione San Rossore,Lidl Pisa,route_487,43.71107,10.38995,0
+10757,Stazione San Rossore,Lidl Pisa,route_487,43.71103,10.38981,1
+10758,Stazione San Rossore,Lidl Pisa,route_487,43.71113,10.38974,2
+10759,Stazione San Rossore,Lidl Pisa,route_487,43.71157,10.39094,3
+10760,Stazione San Rossore,Lidl Pisa,route_487,43.71162,10.39112,4
+10761,Stazione San Rossore,Lidl Pisa,route_487,43.71163,10.39133,5
+10762,Stazione San Rossore,Lidl Pisa,route_487,43.71162,10.39139,6
+10763,Stazione San Rossore,Lidl Pisa,route_487,43.71158,10.39142,7
+10764,Stazione San Rossore,Lidl Pisa,route_487,43.71157,10.39144,8
+10765,Stazione San Rossore,Lidl Pisa,route_487,43.71156,10.39149,9
+10766,Stazione San Rossore,Lidl Pisa,route_487,43.71157,10.39155,10
+10767,Stazione San Rossore,Lidl Pisa,route_487,43.71159,10.39157,11
+10768,Stazione San Rossore,Lidl Pisa,route_487,43.71162,10.39159,12
+10769,Stazione San Rossore,Lidl Pisa,route_487,43.71164,10.39159,13
+10770,Stazione San Rossore,Lidl Pisa,route_487,43.71169,10.39172,14
+10771,Stazione San Rossore,Lidl Pisa,route_487,43.71173,10.3919,15
+10772,Stazione San Rossore,Lidl Pisa,route_487,43.71179,10.39268,16
+10773,Stazione San Rossore,Lidl Pisa,route_487,43.71232,10.39248,17
+10774,Stazione San Rossore,Lidl Pisa,route_487,43.71253,10.3924,18
+10775,Stazione San Rossore,Lidl Pisa,route_487,43.71269,10.39233,19
+10776,Stazione San Rossore,Lidl Pisa,route_487,43.7129,10.39217,20
+10777,Stazione San Rossore,Lidl Pisa,route_487,43.71287,10.39212,21

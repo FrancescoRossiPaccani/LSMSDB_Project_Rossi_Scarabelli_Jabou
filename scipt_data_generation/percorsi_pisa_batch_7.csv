@@ -1,0 +1,722 @@
+id,start,end,route_id,lat,lon,idx
+4498,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71498,10.40006,0
+4499,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71491,10.40002,1
+4500,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71487,10.39994,2
+4501,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71494,10.39945,3
+4502,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71583,10.39962,4
+4503,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.7158,10.39919,5
+4504,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71577,10.39888,6
+4505,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71571,10.39854,7
+4506,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71557,10.39791,8
+4507,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71542,10.39746,9
+4508,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71511,10.3966,10
+4509,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71508,10.39645,11
+4510,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71496,10.39619,12
+4511,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71472,10.39571,13
+4512,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.7156,10.39498,14
+4513,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71581,10.39552,15
+4514,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71598,10.39605,16
+4515,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71614,10.3966,17
+4516,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71632,10.39747,18
+4517,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71652,10.39855,19
+4518,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71656,10.39883,20
+4519,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71661,10.39923,21
+4520,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71663,10.39955,22
+4521,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71664,10.39989,23
+4522,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71662,10.40025,24
+4523,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71658,10.40067,25
+4524,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71649,10.40126,26
+4525,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71641,10.40165,27
+4526,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71628,10.40215,28
+4527,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71583,10.40373,29
+4528,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71557,10.40465,30
+4529,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71546,10.40496,31
+4530,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71525,10.40549,32
+4531,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71463,10.40691,33
+4532,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71428,10.40766,34
+4533,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71397,10.40838,35
+4534,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.7139,10.40851,36
+4535,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.7141,10.40867,37
+4536,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71421,10.40873,38
+4537,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.7147,10.40895,39
+4538,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71478,10.40897,40
+4539,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71514,10.40902,41
+4540,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71597,10.40908,42
+4541,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71617,10.40905,43
+4542,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71637,10.40896,44
+4543,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.7167,10.40875,45
+4544,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.7168,10.40872,46
+4545,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71686,10.40874,47
+4546,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71695,10.40879,48
+4547,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71862,10.41041,49
+4548,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71872,10.41046,50
+4549,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71879,10.41046,51
+4550,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71868,10.40905,52
+4551,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71855,10.40739,53
+4552,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71935,10.40741,54
+4553,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71973,10.40736,55
+4554,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71972,10.40631,56
+4555,Via Aretino Spinello 11,Via del Borghetto 102,route_180,43.71974,10.40577,57
+4556,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71498,10.40006,0
+4557,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71491,10.40002,1
+4558,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71487,10.39994,2
+4559,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71494,10.39945,3
+4560,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71583,10.39962,4
+4561,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.7158,10.39919,5
+4562,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71577,10.39888,6
+4563,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71571,10.39854,7
+4564,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71557,10.39791,8
+4565,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71542,10.39746,9
+4566,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71511,10.3966,10
+4567,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71508,10.39645,11
+4568,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71496,10.39619,12
+4569,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71472,10.39571,13
+4570,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.7156,10.39498,14
+4571,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71581,10.39552,15
+4572,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71598,10.39605,16
+4573,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71614,10.3966,17
+4574,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71629,10.39732,18
+4575,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71652,10.39855,19
+4576,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71656,10.39883,20
+4577,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71661,10.39923,21
+4578,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71663,10.39955,22
+4579,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71664,10.39989,23
+4580,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71662,10.40025,24
+4581,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71658,10.40067,25
+4582,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71649,10.40126,26
+4583,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71641,10.40165,27
+4584,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71628,10.40215,28
+4585,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71583,10.40373,29
+4586,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71557,10.40465,30
+4587,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71546,10.40496,31
+4588,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71525,10.40549,32
+4589,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71474,10.40665,33
+4590,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71415,10.40796,34
+4591,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71397,10.40838,35
+4592,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71384,10.40863,36
+4593,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71382,10.40869,37
+4594,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71375,10.40881,38
+4595,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71363,10.40896,39
+4596,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71343,10.40916,40
+4597,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71329,10.40926,41
+4598,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71311,10.40938,42
+4599,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71297,10.40944,43
+4600,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71286,10.40947,44
+4601,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71141,10.40947,45
+4602,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71076,10.40944,46
+4603,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71059,10.40962,47
+4604,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71028,10.41003,48
+4605,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.7102,10.41008,49
+4606,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71011,10.41009,50
+4607,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71006,10.41009,51
+4608,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71002,10.41005,52
+4609,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.70996,10.41004,53
+4610,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.70992,10.41005,54
+4611,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.70987,10.41009,55
+4612,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.70983,10.41016,56
+4613,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.70982,10.41022,57
+4614,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.70983,10.4103,58
+4615,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.70985,10.41035,59
+4616,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.70988,10.4104,60
+4617,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.70993,10.41076,61
+4618,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.7099,10.41147,62
+4619,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.70991,10.41172,63
+4620,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.70992,10.41199,64
+4621,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.70997,10.41245,65
+4622,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71037,10.41529,66
+4623,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71068,10.41746,67
+4624,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71091,10.41974,68
+4625,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.7109,10.4199,69
+4626,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71092,10.4202,70
+4627,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71094,10.42031,71
+4628,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71098,10.42043,72
+4629,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71101,10.42058,73
+4630,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.711,10.42062,74
+4631,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71101,10.42067,75
+4632,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71103,10.4207,76
+4633,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71105,10.42071,77
+4634,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71109,10.4207,78
+4635,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71111,10.42068,79
+4636,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71223,10.42094,80
+4637,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71242,10.4202,81
+4638,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71253,10.41978,82
+4639,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71266,10.41937,83
+4640,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.7128,10.41885,84
+4641,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71292,10.4183,85
+4642,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71339,10.41835,86
+4643,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71342,10.4184,87
+4644,Via Aretino Spinello 11,Parcheggio di Cisanello,route_181,43.71361,10.41843,88
+4645,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71498,10.40006,0
+4646,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71491,10.40002,1
+4647,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71487,10.39994,2
+4648,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71494,10.39945,3
+4649,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71583,10.39962,4
+4650,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.7158,10.39919,5
+4651,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71577,10.39888,6
+4652,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71571,10.39854,7
+4653,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71557,10.39791,8
+4654,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71542,10.39746,9
+4655,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71511,10.3966,10
+4656,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71508,10.39645,11
+4657,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71496,10.39619,12
+4658,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71472,10.39571,13
+4659,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.7156,10.39498,14
+4660,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71581,10.39552,15
+4661,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71598,10.39605,16
+4662,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71614,10.3966,17
+4663,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71629,10.39732,18
+4664,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71652,10.39855,19
+4665,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71656,10.39883,20
+4666,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71661,10.39923,21
+4667,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71663,10.39955,22
+4668,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71664,10.39989,23
+4669,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71662,10.40025,24
+4670,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71658,10.40067,25
+4671,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71649,10.40126,26
+4672,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71641,10.40165,27
+4673,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71628,10.40215,28
+4674,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71583,10.40373,29
+4675,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71557,10.40465,30
+4676,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71546,10.40496,31
+4677,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71525,10.40549,32
+4678,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71474,10.40665,33
+4679,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71415,10.40796,34
+4680,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71397,10.40838,35
+4681,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71384,10.40863,36
+4682,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71382,10.40869,37
+4683,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71375,10.40881,38
+4684,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71363,10.40896,39
+4685,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71343,10.40916,40
+4686,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71329,10.40926,41
+4687,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71311,10.40938,42
+4688,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71297,10.40944,43
+4689,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71286,10.40947,44
+4690,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71141,10.40947,45
+4691,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71076,10.40944,46
+4692,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71059,10.40962,47
+4693,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71028,10.41003,48
+4694,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.7102,10.41008,49
+4695,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71011,10.41009,50
+4696,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71006,10.41009,51
+4697,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71002,10.41005,52
+4698,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.70996,10.41004,53
+4699,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.70992,10.41005,54
+4700,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.70987,10.41009,55
+4701,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.70983,10.41016,56
+4702,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.70982,10.41022,57
+4703,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.70983,10.4103,58
+4704,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.70985,10.41035,59
+4705,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.70988,10.4104,60
+4706,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.70993,10.41076,61
+4707,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.7099,10.41147,62
+4708,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.70999,10.41147,63
+4709,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71006,10.41143,64
+4710,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71033,10.41113,65
+4711,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71033,10.411,66
+4712,Via Aretino Spinello 11,Carrefour Express Pisanova,route_182,43.71032,10.41095,67
+4713,Via Aretino Spinello 11,OBI Pisa,route_183,43.71498,10.40006,0
+4714,Via Aretino Spinello 11,OBI Pisa,route_183,43.71491,10.40002,1
+4715,Via Aretino Spinello 11,OBI Pisa,route_183,43.71487,10.39994,2
+4716,Via Aretino Spinello 11,OBI Pisa,route_183,43.71494,10.39945,3
+4717,Via Aretino Spinello 11,OBI Pisa,route_183,43.71583,10.39962,4
+4718,Via Aretino Spinello 11,OBI Pisa,route_183,43.7158,10.39919,5
+4719,Via Aretino Spinello 11,OBI Pisa,route_183,43.71577,10.39888,6
+4720,Via Aretino Spinello 11,OBI Pisa,route_183,43.71571,10.39854,7
+4721,Via Aretino Spinello 11,OBI Pisa,route_183,43.71557,10.39791,8
+4722,Via Aretino Spinello 11,OBI Pisa,route_183,43.71542,10.39746,9
+4723,Via Aretino Spinello 11,OBI Pisa,route_183,43.71511,10.3966,10
+4724,Via Aretino Spinello 11,OBI Pisa,route_183,43.71508,10.39645,11
+4725,Via Aretino Spinello 11,OBI Pisa,route_183,43.71496,10.39619,12
+4726,Via Aretino Spinello 11,OBI Pisa,route_183,43.71472,10.39571,13
+4727,Via Aretino Spinello 11,OBI Pisa,route_183,43.7156,10.39498,14
+4728,Via Aretino Spinello 11,OBI Pisa,route_183,43.7154,10.39451,15
+4729,Via Aretino Spinello 11,OBI Pisa,route_183,43.7153,10.3943,16
+4730,Via Aretino Spinello 11,OBI Pisa,route_183,43.71495,10.39362,17
+4731,Via Aretino Spinello 11,OBI Pisa,route_183,43.71451,10.39274,18
+4732,Via Aretino Spinello 11,OBI Pisa,route_183,43.71413,10.39183,19
+4733,Via Aretino Spinello 11,OBI Pisa,route_183,43.71406,10.39165,20
+4734,Via Aretino Spinello 11,OBI Pisa,route_183,43.71405,10.39151,21
+4735,Via Aretino Spinello 11,OBI Pisa,route_183,43.71401,10.39126,22
+4736,Via Aretino Spinello 11,OBI Pisa,route_183,43.71401,10.39117,23
+4737,Via Aretino Spinello 11,OBI Pisa,route_183,43.71407,10.39084,24
+4738,Via Aretino Spinello 11,OBI Pisa,route_183,43.71408,10.39068,25
+4739,Via Aretino Spinello 11,OBI Pisa,route_183,43.71401,10.39043,26
+4740,Via Aretino Spinello 11,OBI Pisa,route_183,43.71385,10.39001,27
+4741,Via Aretino Spinello 11,OBI Pisa,route_183,43.71384,10.38995,28
+4742,Via Aretino Spinello 11,OBI Pisa,route_183,43.71376,10.38983,29
+4743,Via Aretino Spinello 11,OBI Pisa,route_183,43.71371,10.38969,30
+4744,Via Aretino Spinello 11,OBI Pisa,route_183,43.71353,10.38923,31
+4745,Via Aretino Spinello 11,OBI Pisa,route_183,43.71345,10.38902,32
+4746,Via Aretino Spinello 11,OBI Pisa,route_183,43.71344,10.38891,33
+4747,Via Aretino Spinello 11,OBI Pisa,route_183,43.71346,10.38884,34
+4748,Via Aretino Spinello 11,OBI Pisa,route_183,43.71345,10.38878,35
+4749,Via Aretino Spinello 11,OBI Pisa,route_183,43.71344,10.38876,36
+4750,Via Aretino Spinello 11,OBI Pisa,route_183,43.71337,10.38865,37
+4751,Via Aretino Spinello 11,OBI Pisa,route_183,43.7133,10.3884,38
+4752,Via Aretino Spinello 11,OBI Pisa,route_183,43.71328,10.38836,39
+4753,Via Aretino Spinello 11,OBI Pisa,route_183,43.71324,10.38836,40
+4754,Via Aretino Spinello 11,OBI Pisa,route_183,43.71319,10.38837,41
+4755,Via Aretino Spinello 11,OBI Pisa,route_183,43.71301,10.38844,42
+4756,Via Aretino Spinello 11,OBI Pisa,route_183,43.71297,10.38844,43
+4757,Via Aretino Spinello 11,OBI Pisa,route_183,43.71292,10.38844,44
+4758,Via Aretino Spinello 11,OBI Pisa,route_183,43.71286,10.38841,45
+4759,Via Aretino Spinello 11,OBI Pisa,route_183,43.7128,10.38836,46
+4760,Via Aretino Spinello 11,OBI Pisa,route_183,43.71275,10.38828,47
+4761,Via Aretino Spinello 11,OBI Pisa,route_183,43.71273,10.38822,48
+4762,Via Aretino Spinello 11,OBI Pisa,route_183,43.71262,10.38783,49
+4763,Via Aretino Spinello 11,OBI Pisa,route_183,43.71182,10.38436,50
+4764,Via Aretino Spinello 11,OBI Pisa,route_183,43.71224,10.38411,51
+4765,Via Aretino Spinello 11,OBI Pisa,route_183,43.71258,10.38383,52
+4766,Via Aretino Spinello 11,OBI Pisa,route_183,43.71262,10.38381,53
+4767,Via Aretino Spinello 11,OBI Pisa,route_183,43.71273,10.3838,54
+4768,Via Aretino Spinello 11,OBI Pisa,route_183,43.71279,10.38379,55
+4769,Via Aretino Spinello 11,OBI Pisa,route_183,43.71284,10.38375,56
+4770,Via Aretino Spinello 11,OBI Pisa,route_183,43.71287,10.38369,57
+4771,Via Aretino Spinello 11,OBI Pisa,route_183,43.71288,10.38361,58
+4772,Via Aretino Spinello 11,OBI Pisa,route_183,43.71288,10.38358,59
+4773,Via Aretino Spinello 11,OBI Pisa,route_183,43.71286,10.38351,60
+4774,Via Aretino Spinello 11,OBI Pisa,route_183,43.71285,10.38347,61
+4775,Via Aretino Spinello 11,OBI Pisa,route_183,43.7128,10.38342,62
+4776,Via Aretino Spinello 11,OBI Pisa,route_183,43.71277,10.38341,63
+4777,Via Aretino Spinello 11,OBI Pisa,route_183,43.71271,10.3834,64
+4778,Via Aretino Spinello 11,OBI Pisa,route_183,43.71267,10.38342,65
+4779,Via Aretino Spinello 11,OBI Pisa,route_183,43.71264,10.38346,66
+4780,Via Aretino Spinello 11,OBI Pisa,route_183,43.71262,10.38349,67
+4781,Via Aretino Spinello 11,OBI Pisa,route_183,43.7126,10.38353,68
+4782,Via Aretino Spinello 11,OBI Pisa,route_183,43.71259,10.3836,69
+4783,Via Aretino Spinello 11,OBI Pisa,route_183,43.71256,10.3837,70
+4784,Via Aretino Spinello 11,OBI Pisa,route_183,43.71252,10.38376,71
+4785,Via Aretino Spinello 11,OBI Pisa,route_183,43.71243,10.38387,72
+4786,Via Aretino Spinello 11,OBI Pisa,route_183,43.71233,10.38396,73
+4787,Via Aretino Spinello 11,OBI Pisa,route_183,43.71215,10.3841,74
+4788,Via Aretino Spinello 11,OBI Pisa,route_183,43.71177,10.38429,75
+4789,Via Aretino Spinello 11,OBI Pisa,route_183,43.71172,10.38437,76
+4790,Via Aretino Spinello 11,OBI Pisa,route_183,43.71106,10.38465,77
+4791,Via Aretino Spinello 11,OBI Pisa,route_183,43.71043,10.3849,78
+4792,Via Aretino Spinello 11,OBI Pisa,route_183,43.70998,10.38502,79
+4793,Via Aretino Spinello 11,OBI Pisa,route_183,43.70928,10.38523,80
+4794,Via Aretino Spinello 11,OBI Pisa,route_183,43.70908,10.38529,81
+4795,Via Aretino Spinello 11,OBI Pisa,route_183,43.70895,10.38528,82
+4796,Via Aretino Spinello 11,OBI Pisa,route_183,43.70886,10.38525,83
+4797,Via Aretino Spinello 11,OBI Pisa,route_183,43.70882,10.38519,84
+4798,Via Aretino Spinello 11,OBI Pisa,route_183,43.70878,10.38515,85
+4799,Via Aretino Spinello 11,OBI Pisa,route_183,43.70871,10.38514,86
+4800,Via Aretino Spinello 11,OBI Pisa,route_183,43.70865,10.38515,87
+4801,Via Aretino Spinello 11,OBI Pisa,route_183,43.70861,10.3852,88
+4802,Via Aretino Spinello 11,OBI Pisa,route_183,43.70859,10.38527,89
+4803,Via Aretino Spinello 11,OBI Pisa,route_183,43.70852,10.38534,90
+4804,Via Aretino Spinello 11,OBI Pisa,route_183,43.70847,10.38539,91
+4805,Via Aretino Spinello 11,OBI Pisa,route_183,43.70842,10.38541,92
+4806,Via Aretino Spinello 11,OBI Pisa,route_183,43.70751,10.38564,93
+4807,Via Aretino Spinello 11,OBI Pisa,route_183,43.70737,10.38569,94
+4808,Via Aretino Spinello 11,OBI Pisa,route_183,43.70729,10.38573,95
+4809,Via Aretino Spinello 11,OBI Pisa,route_183,43.70409,10.38652,96
+4810,Via Aretino Spinello 11,OBI Pisa,route_183,43.70371,10.3866,97
+4811,Via Aretino Spinello 11,OBI Pisa,route_183,43.70339,10.38672,98
+4812,Via Aretino Spinello 11,OBI Pisa,route_183,43.70325,10.38673,99
+4813,Via Aretino Spinello 11,OBI Pisa,route_183,43.7031,10.3867,100
+4814,Via Aretino Spinello 11,OBI Pisa,route_183,43.70306,10.38666,101
+4815,Via Aretino Spinello 11,OBI Pisa,route_183,43.70293,10.38661,102
+4816,Via Aretino Spinello 11,OBI Pisa,route_183,43.70273,10.38649,103
+4817,Via Aretino Spinello 11,OBI Pisa,route_183,43.70261,10.38638,104
+4818,Via Aretino Spinello 11,OBI Pisa,route_183,43.70233,10.38598,105
+4819,Via Aretino Spinello 11,OBI Pisa,route_183,43.70201,10.38547,106
+4820,Via Aretino Spinello 11,OBI Pisa,route_183,43.70116,10.3842,107
+4821,Via Aretino Spinello 11,OBI Pisa,route_183,43.70076,10.38359,108
+4822,Via Aretino Spinello 11,OBI Pisa,route_183,43.70069,10.38352,109
+4823,Via Aretino Spinello 11,OBI Pisa,route_183,43.70073,10.38348,110
+4824,Via Aretino Spinello 11,OBI Pisa,route_183,43.70073,10.38346,111
+4825,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71498,10.40006,0
+4826,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71491,10.40002,1
+4827,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71487,10.39994,2
+4828,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71494,10.39945,3
+4829,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71583,10.39962,4
+4830,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.7158,10.39919,5
+4831,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71577,10.39888,6
+4832,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71571,10.39854,7
+4833,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71565,10.39827,8
+4834,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71557,10.39791,9
+4835,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71542,10.39746,10
+4836,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71511,10.3966,11
+4837,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71508,10.39645,12
+4838,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71496,10.39619,13
+4839,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71481,10.39588,14
+4840,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71421,10.39466,15
+4841,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71376,10.39381,16
+4842,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71333,10.39296,17
+4843,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.7129,10.39217,18
+4844,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71261,10.39159,19
+4845,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71248,10.39131,20
+4846,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71241,10.3912,21
+4847,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71236,10.39115,22
+4848,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71187,10.39133,23
+4849,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71179,10.39138,24
+4850,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71169,10.39143,25
+4851,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71166,10.3914,26
+4852,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71162,10.39139,27
+4853,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71158,10.39142,28
+4854,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71133,10.39152,29
+4855,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71093,10.39162,30
+4856,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71082,10.39166,31
+4857,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71072,10.39173,32
+4858,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71067,10.39179,33
+4859,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71063,10.39186,34
+4860,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71061,10.39193,35
+4861,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.7106,10.39206,36
+4862,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71058,10.39434,37
+4863,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71057,10.39451,38
+4864,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71054,10.39481,39
+4865,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71041,10.39568,40
+4866,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71036,10.39568,41
+4867,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71033,10.39573,42
+4868,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71032,10.3958,43
+4869,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71034,10.39585,44
+4870,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71038,10.39588,45
+4871,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71033,10.39616,46
+4872,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.7101,10.39766,47
+4873,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71009,10.39768,48
+4874,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71006,10.39775,49
+4875,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71006,10.39784,50
+4876,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.71001,10.39838,51
+4877,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70997,10.3988,52
+4878,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70992,10.39879,53
+4879,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70989,10.39881,54
+4880,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70986,10.39884,55
+4881,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70984,10.3989,56
+4882,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70919,10.39873,57
+4883,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70913,10.39873,58
+4884,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70908,10.39875,59
+4885,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70905,10.3988,60
+4886,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70883,10.39942,61
+4887,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.7086,10.40011,62
+4888,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70815,10.40138,63
+4889,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70805,10.40164,64
+4890,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70795,10.40155,65
+4891,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70789,10.40152,66
+4892,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70786,10.40151,67
+4893,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.7078,10.40151,68
+4894,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70777,10.40153,69
+4895,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70771,10.40159,70
+4896,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70765,10.40172,71
+4897,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70712,10.40318,72
+4898,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70614,10.40251,73
+4899,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70553,10.40214,74
+4900,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70547,10.40207,75
+4901,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70535,10.40184,76
+4902,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.7053,10.40178,77
+4903,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70524,10.40171,78
+4904,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70471,10.40133,79
+4905,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70455,10.40124,80
+4906,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70276,10.40076,81
+4907,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70252,10.40069,82
+4908,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70247,10.40067,83
+4909,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70244,10.40064,84
+4910,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70245,10.40061,85
+4911,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70245,10.40056,86
+4912,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70244,10.40052,87
+4913,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.7024,10.40047,88
+4914,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70243,10.40034,89
+4915,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.7025,10.39945,90
+4916,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.7025,10.39922,91
+4917,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70247,10.399,92
+4918,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70244,10.39887,93
+4919,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70238,10.39866,94
+4920,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70231,10.39852,95
+4921,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70222,10.39838,96
+4922,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70211,10.39825,97
+4923,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70199,10.39815,98
+4924,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70098,10.39752,99
+4925,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.7008,10.3974,100
+4926,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70065,10.39723,101
+4927,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70058,10.39707,102
+4928,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70053,10.39683,103
+4929,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70053,10.39669,104
+4930,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70055,10.39644,105
+4931,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70065,10.39604,106
+4932,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70076,10.39611,107
+4933,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70138,10.39664,108
+4934,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70178,10.39694,109
+4935,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70257,10.39752,110
+4936,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70293,10.39775,111
+4937,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70326,10.398,112
+4938,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70344,10.39813,113
+4939,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70363,10.39827,114
+4940,Via Aretino Spinello 11,Ristorante La Greppia,route_184,43.70434,10.39885,115
+4941,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71498,10.40006,0
+4942,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71491,10.40002,1
+4943,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71487,10.39994,2
+4944,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71494,10.39945,3
+4945,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71583,10.39962,4
+4946,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.7158,10.39919,5
+4947,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71577,10.39888,6
+4948,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71571,10.39854,7
+4949,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71565,10.39827,8
+4950,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71557,10.39791,9
+4951,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71542,10.39746,10
+4952,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71511,10.3966,11
+4953,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71508,10.39645,12
+4954,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71496,10.39619,13
+4955,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71481,10.39588,14
+4956,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71421,10.39466,15
+4957,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71376,10.39381,16
+4958,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71333,10.39296,17
+4959,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.7129,10.39217,18
+4960,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71261,10.39159,19
+4961,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71248,10.39131,20
+4962,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71241,10.3912,21
+4963,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71236,10.39115,22
+4964,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71187,10.39133,23
+4965,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71179,10.39138,24
+4966,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71169,10.39143,25
+4967,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71166,10.3914,26
+4968,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71162,10.39139,27
+4969,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71158,10.39142,28
+4970,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71133,10.39152,29
+4971,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71093,10.39162,30
+4972,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71082,10.39166,31
+4973,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71072,10.39173,32
+4974,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71067,10.39179,33
+4975,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71063,10.39186,34
+4976,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71061,10.39193,35
+4977,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.7106,10.39206,36
+4978,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71058,10.39434,37
+4979,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71057,10.39451,38
+4980,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71054,10.39481,39
+4981,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71041,10.39568,40
+4982,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71036,10.39568,41
+4983,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71033,10.39573,42
+4984,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71032,10.3958,43
+4985,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71034,10.39585,44
+4986,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71038,10.39588,45
+4987,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71033,10.39616,46
+4988,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.7101,10.39766,47
+4989,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71009,10.39768,48
+4990,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71006,10.39775,49
+4991,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71006,10.39784,50
+4992,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.71001,10.39838,51
+4993,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70997,10.3988,52
+4994,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70992,10.39879,53
+4995,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70989,10.39881,54
+4996,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70986,10.39884,55
+4997,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70984,10.3989,56
+4998,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70919,10.39873,57
+4999,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70913,10.39873,58
+5000,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70908,10.39875,59
+5001,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70905,10.3988,60
+5002,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70883,10.39942,61
+5003,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.7086,10.40011,62
+5004,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70815,10.40138,63
+5005,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70805,10.40164,64
+5006,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70795,10.40155,65
+5007,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70789,10.40152,66
+5008,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70786,10.40151,67
+5009,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.7078,10.40151,68
+5010,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70777,10.40153,69
+5011,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70771,10.40159,70
+5012,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70765,10.40172,71
+5013,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70712,10.40318,72
+5014,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70614,10.40251,73
+5015,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70553,10.40214,74
+5016,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70547,10.40207,75
+5017,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70535,10.40184,76
+5018,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.7053,10.40178,77
+5019,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70524,10.40171,78
+5020,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70471,10.40133,79
+5021,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70449,10.4017,80
+5022,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70372,10.40311,81
+5023,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70318,10.40409,82
+5024,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70341,10.40424,83
+5025,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.7038,10.40446,84
+5026,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70398,10.40457,85
+5027,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70413,10.40468,86
+5028,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70417,10.40473,87
+5029,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70429,10.40492,88
+5030,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70432,10.40493,89
+5031,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70436,10.40492,90
+5032,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70448,10.40465,91
+5033,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70541,10.40223,92
+5034,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.7056,10.4024,93
+5035,Via Aretino Spinello 11,Ristorante Pizzeria Il Pellicano,route_185,43.70546,10.40277,94
+5036,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71498,10.40006,0
+5037,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71491,10.40002,1
+5038,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71487,10.39994,2
+5039,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71494,10.39945,3
+5040,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71583,10.39962,4
+5041,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.7158,10.39919,5
+5042,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71577,10.39888,6
+5043,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71571,10.39854,7
+5044,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71557,10.39791,8
+5045,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71542,10.39746,9
+5046,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71511,10.3966,10
+5047,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71508,10.39645,11
+5048,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71496,10.39619,12
+5049,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71472,10.39571,13
+5050,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.7156,10.39498,14
+5051,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71581,10.39552,15
+5052,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71598,10.39605,16
+5053,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71614,10.3966,17
+5054,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71632,10.39747,18
+5055,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71652,10.39855,19
+5056,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71656,10.39883,20
+5057,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71661,10.39923,21
+5058,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71663,10.39955,22
+5059,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71664,10.39989,23
+5060,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71662,10.40025,24
+5061,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71658,10.40067,25
+5062,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71649,10.40126,26
+5063,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71641,10.40165,27
+5064,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71628,10.40215,28
+5065,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71583,10.40373,29
+5066,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71557,10.40465,30
+5067,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71546,10.40496,31
+5068,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71525,10.40549,32
+5069,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71463,10.40691,33
+5070,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71428,10.40766,34
+5071,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71397,10.40838,35
+5072,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.7139,10.40851,36
+5073,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.7141,10.40867,37
+5074,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71421,10.40873,38
+5075,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.7147,10.40895,39
+5076,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71478,10.40897,40
+5077,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71514,10.40902,41
+5078,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71597,10.40908,42
+5079,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71617,10.40905,43
+5080,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71637,10.40896,44
+5081,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.7167,10.40875,45
+5082,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.7168,10.40872,46
+5083,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71686,10.40874,47
+5084,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71695,10.40879,48
+5085,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71862,10.41041,49
+5086,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71872,10.41046,50
+5087,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71879,10.41046,51
+5088,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71885,10.4111,52
+5089,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71926,10.41634,53
+5090,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71935,10.41737,54
+5091,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.7194,10.41822,55
+5092,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.7194,10.41833,56
+5093,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71936,10.41865,57
+5094,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71933,10.41881,58
+5095,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71929,10.41893,59
+5096,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71924,10.41903,60
+5097,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71916,10.41911,61
+5098,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71892,10.41922,62
+5099,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.7189,10.41921,63
+5100,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71889,10.41917,64
+5101,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71888,10.41913,65
+5102,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71869,10.41895,66
+5103,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71858,10.4188,67
+5104,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71841,10.41855,68
+5105,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71769,10.41735,69
+5106,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71675,10.41587,70
+5107,Via Aretino Spinello 11,Via San Ranieri 9,route_186,43.71563,10.41723,71
+5108,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71498,10.40006,0
+5109,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71491,10.40002,1
+5110,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71487,10.39994,2
+5111,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71494,10.39945,3
+5112,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71583,10.39962,4
+5113,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.7158,10.39919,5
+5114,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71577,10.39888,6
+5115,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71571,10.39854,7
+5116,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71565,10.39827,8
+5117,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71557,10.39791,9
+5118,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71542,10.39746,10
+5119,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71511,10.3966,11
+5120,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71508,10.39645,12
+5121,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71496,10.39619,13
+5122,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71481,10.39588,14
+5123,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71421,10.39466,15
+5124,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71376,10.39381,16
+5125,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71333,10.39296,17
+5126,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.7129,10.39217,18
+5127,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71261,10.39159,19
+5128,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71248,10.39131,20
+5129,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71241,10.3912,21
+5130,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71236,10.39115,22
+5131,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71187,10.39133,23
+5132,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71179,10.39138,24
+5133,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71169,10.39143,25
+5134,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71166,10.3914,26
+5135,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71162,10.39139,27
+5136,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71158,10.39142,28
+5137,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71133,10.39152,29
+5138,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71093,10.39162,30
+5139,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71082,10.39166,31
+5140,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71072,10.39173,32
+5141,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71067,10.39179,33
+5142,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71063,10.39186,34
+5143,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71061,10.39193,35
+5144,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.7106,10.39206,36
+5145,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71058,10.39434,37
+5146,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71057,10.39451,38
+5147,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71054,10.39481,39
+5148,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71041,10.39568,40
+5149,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71036,10.39568,41
+5150,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71033,10.39573,42
+5151,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71032,10.3958,43
+5152,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71034,10.39585,44
+5153,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71038,10.39588,45
+5154,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71033,10.39616,46
+5155,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.7101,10.39766,47
+5156,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71009,10.39768,48
+5157,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71006,10.39775,49
+5158,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71006,10.39784,50
+5159,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.71001,10.39838,51
+5160,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70997,10.3988,52
+5161,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70992,10.39879,53
+5162,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70989,10.39881,54
+5163,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70986,10.39884,55
+5164,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70984,10.3989,56
+5165,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70919,10.39873,57
+5166,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70913,10.39873,58
+5167,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70908,10.39875,59
+5168,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70905,10.3988,60
+5169,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70883,10.39942,61
+5170,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.7086,10.40011,62
+5171,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70815,10.40138,63
+5172,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70805,10.40164,64
+5173,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70795,10.40155,65
+5174,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70789,10.40152,66
+5175,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70786,10.40151,67
+5176,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.7078,10.40151,68
+5177,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70777,10.40153,69
+5178,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70771,10.40159,70
+5179,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70765,10.40172,71
+5180,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70712,10.40318,72
+5181,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70614,10.40251,73
+5182,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70558,10.40217,74
+5183,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70553,10.40214,75
+5184,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70547,10.40207,76
+5185,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70544,10.40191,77
+5186,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70537,10.40167,78
+5187,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70504,10.40081,79
+5188,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.705,10.40076,80
+5189,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70504,10.40057,81
+5190,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70524,10.3999,82
+5191,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70534,10.3996,83
+5192,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70563,10.39979,84
+5193,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70582,10.39989,85
+5194,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70585,10.3997,86
+5195,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70588,10.39936,87
+5196,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70593,10.39894,88
+5197,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70603,10.39837,89
+5198,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70608,10.39812,90
+5199,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70613,10.39793,91
+5200,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70622,10.39768,92
+5201,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70625,10.39761,93
+5202,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70641,10.39743,94
+5203,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70661,10.39725,95
+5204,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70682,10.39704,96
+5205,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70686,10.39696,97
+5206,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70696,10.39666,98
+5207,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.707,10.39643,99
+5208,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70702,10.39603,100
+5209,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70706,10.39571,101
+5210,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70717,10.39505,102
+5211,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70719,10.39483,103
+5212,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.7072,10.39425,104
+5213,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70719,10.39277,105
+5214,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70597,10.39285,106
+5215,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70594,10.39284,107
+5216,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70592,10.3928,108
+5217,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70591,10.39274,109
+5218,Via Aretino Spinello 11,Supermercato Coop San Giusto,route_187,43.70591,10.3922,110

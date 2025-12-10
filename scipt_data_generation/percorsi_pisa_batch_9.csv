@@ -1,0 +1,646 @@
+id,start,end,route_id,lat,lon,idx
+5680,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71621,10.40211,0
+5681,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71628,10.40215,1
+5682,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71557,10.40465,2
+5683,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71546,10.40496,3
+5684,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71525,10.40549,4
+5685,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71463,10.40691,5
+5686,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71415,10.40796,6
+5687,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71397,10.40838,7
+5688,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71384,10.40863,8
+5689,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71382,10.40869,9
+5690,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71375,10.40881,10
+5691,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71363,10.40896,11
+5692,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71343,10.40916,12
+5693,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71329,10.40926,13
+5694,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71311,10.40938,14
+5695,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71297,10.40944,15
+5696,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71286,10.40947,16
+5697,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71141,10.40947,17
+5698,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71076,10.40944,18
+5699,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71019,10.40941,19
+5700,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.7101,10.40935,20
+5701,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71005,10.40929,21
+5702,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71003,10.40924,22
+5703,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71001,10.40915,23
+5704,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71007,10.40776,24
+5705,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71014,10.40774,25
+5706,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71018,10.40769,26
+5707,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71019,10.40765,27
+5708,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.7102,10.4076,28
+5709,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71019,10.40752,29
+5710,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71017,10.40749,30
+5711,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71014,10.40745,31
+5712,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.7101,10.40743,32
+5713,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71008,10.40743,33
+5714,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71015,10.4061,34
+5715,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71019,10.4058,35
+5716,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71021,10.40573,36
+5717,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71027,10.40559,37
+5718,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.7104,10.4055,38
+5719,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71043,10.40545,39
+5720,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71044,10.40536,40
+5721,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71044,10.4053,41
+5722,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71041,10.40524,42
+5723,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71035,10.4052,43
+5724,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.7103,10.4052,44
+5725,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71019,10.40527,45
+5726,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.7101,10.40527,46
+5727,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.71006,10.40525,47
+5728,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70988,10.40513,48
+5729,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70974,10.40502,49
+5730,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70967,10.40492,50
+5731,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70965,10.40486,51
+5732,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70975,10.40422,52
+5733,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70988,10.40324,53
+5734,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70958,10.40294,54
+5735,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70931,10.40264,55
+5736,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70908,10.40242,56
+5737,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.7087,10.40213,57
+5738,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70831,10.40184,58
+5739,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70795,10.40155,59
+5740,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70789,10.40152,60
+5741,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70786,10.40151,61
+5742,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.7078,10.40151,62
+5743,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70777,10.40153,63
+5744,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70771,10.40159,64
+5745,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70765,10.40172,65
+5746,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70712,10.40318,66
+5747,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70614,10.40251,67
+5748,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70558,10.40217,68
+5749,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70553,10.40214,69
+5750,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70547,10.40207,70
+5751,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70544,10.40191,71
+5752,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70537,10.40167,72
+5753,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70504,10.40081,73
+5754,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.705,10.40076,74
+5755,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70504,10.40057,75
+5756,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70524,10.3999,76
+5757,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70534,10.3996,77
+5758,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70563,10.39979,78
+5759,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70582,10.39989,79
+5760,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70585,10.3997,80
+5761,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70588,10.39936,81
+5762,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70593,10.39894,82
+5763,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70603,10.39837,83
+5764,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70608,10.39812,84
+5765,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70613,10.39793,85
+5766,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70622,10.39768,86
+5767,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70625,10.39761,87
+5768,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70641,10.39743,88
+5769,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70661,10.39725,89
+5770,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70682,10.39704,90
+5771,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70686,10.39696,91
+5772,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70696,10.39666,92
+5773,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.707,10.39643,93
+5774,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70702,10.39603,94
+5775,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70706,10.39571,95
+5776,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70717,10.39505,96
+5777,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70719,10.39483,97
+5778,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.7072,10.39425,98
+5779,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70719,10.39277,99
+5780,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70597,10.39285,100
+5781,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70594,10.39284,101
+5782,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70592,10.3928,102
+5783,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70591,10.39274,103
+5784,Via Angelo Battelli 5,Supermercato Coop San Giusto,route_240,43.70591,10.3922,104
+5785,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71621,10.40211,0
+5786,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71628,10.40215,1
+5787,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71557,10.40465,2
+5788,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71546,10.40496,3
+5789,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71525,10.40549,4
+5790,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71463,10.40691,5
+5791,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71415,10.40796,6
+5792,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71397,10.40838,7
+5793,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71384,10.40863,8
+5794,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71382,10.40869,9
+5795,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71375,10.40881,10
+5796,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71363,10.40896,11
+5797,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71343,10.40916,12
+5798,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71329,10.40926,13
+5799,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71311,10.40938,14
+5800,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71297,10.40944,15
+5801,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71286,10.40947,16
+5802,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71141,10.40947,17
+5803,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71076,10.40944,18
+5804,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71019,10.40941,19
+5805,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.7101,10.40935,20
+5806,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71005,10.40929,21
+5807,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71003,10.40924,22
+5808,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71001,10.40915,23
+5809,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71007,10.40776,24
+5810,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71014,10.40774,25
+5811,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71018,10.40769,26
+5812,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71019,10.40765,27
+5813,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.7102,10.4076,28
+5814,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71019,10.40752,29
+5815,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71017,10.40749,30
+5816,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71014,10.40745,31
+5817,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.7101,10.40743,32
+5818,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71008,10.40743,33
+5819,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71015,10.4061,34
+5820,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71019,10.4058,35
+5821,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71021,10.40573,36
+5822,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71027,10.40559,37
+5823,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.7104,10.4055,38
+5824,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71043,10.40545,39
+5825,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71044,10.40536,40
+5826,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71044,10.4053,41
+5827,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71044,10.40507,42
+5828,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71053,10.40511,43
+5829,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71123,10.40543,44
+5830,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71133,10.40545,45
+5831,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71143,10.40549,46
+5832,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71169,10.4056,47
+5833,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71176,10.40569,48
+5834,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71192,10.40577,49
+5835,Via Angelo Battelli 5,Via Montanelli 66,route_241,43.71316,10.40636,50
+5836,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71621,10.40211,0
+5837,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71628,10.40215,1
+5838,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71557,10.40465,2
+5839,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71546,10.40496,3
+5840,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71525,10.40549,4
+5841,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71463,10.40691,5
+5842,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71415,10.40796,6
+5843,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71397,10.40838,7
+5844,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71384,10.40863,8
+5845,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71382,10.40869,9
+5846,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71375,10.40881,10
+5847,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71363,10.40896,11
+5848,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71343,10.40916,12
+5849,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71329,10.40926,13
+5850,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71311,10.40938,14
+5851,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71297,10.40944,15
+5852,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71286,10.40947,16
+5853,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71141,10.40947,17
+5854,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71076,10.40944,18
+5855,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71059,10.40962,19
+5856,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71028,10.41003,20
+5857,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.7102,10.41008,21
+5858,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71011,10.41009,22
+5859,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71006,10.41009,23
+5860,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71002,10.41005,24
+5861,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.70996,10.41004,25
+5862,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.70992,10.41005,26
+5863,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.70987,10.41009,27
+5864,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.70983,10.41016,28
+5865,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.70982,10.41022,29
+5866,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.70983,10.4103,30
+5867,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.70985,10.41035,31
+5868,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.70988,10.4104,32
+5869,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.70993,10.41076,33
+5870,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.7099,10.41147,34
+5871,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.70991,10.41172,35
+5872,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.70992,10.41199,36
+5873,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.70997,10.41245,37
+5874,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71037,10.41529,38
+5875,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71068,10.41746,39
+5876,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71085,10.41915,40
+5877,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71078,10.41912,41
+5878,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71051,10.41919,42
+5879,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.71025,10.41928,43
+5880,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.70985,10.41949,44
+5881,Via Angelo Battelli 5,Ristorante Tuscany 2,route_242,43.70994,10.42005,45
+5882,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71621,10.40211,0
+5883,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71628,10.40215,1
+5884,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71557,10.40465,2
+5885,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71546,10.40496,3
+5886,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71525,10.40549,4
+5887,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71463,10.40691,5
+5888,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71415,10.40796,6
+5889,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71397,10.40838,7
+5890,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71384,10.40863,8
+5891,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71382,10.40869,9
+5892,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71375,10.40881,10
+5893,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71363,10.40896,11
+5894,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71343,10.40916,12
+5895,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71329,10.40926,13
+5896,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71311,10.40938,14
+5897,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71297,10.40944,15
+5898,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71286,10.40947,16
+5899,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71141,10.40947,17
+5900,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71076,10.40944,18
+5901,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71059,10.40962,19
+5902,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71028,10.41003,20
+5903,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.7102,10.41008,21
+5904,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71011,10.41009,22
+5905,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71006,10.41009,23
+5906,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.71002,10.41005,24
+5907,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70996,10.41004,25
+5908,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70992,10.41005,26
+5909,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70987,10.41009,27
+5910,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70983,10.41016,28
+5911,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70982,10.41022,29
+5912,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70983,10.4103,30
+5913,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70985,10.41035,31
+5914,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70988,10.4104,32
+5915,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70993,10.41076,33
+5916,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.7099,10.41147,34
+5917,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70991,10.41172,35
+5918,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70992,10.41199,36
+5919,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.7098,10.41201,37
+5920,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70964,10.41211,38
+5921,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70956,10.41218,39
+5922,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70912,10.41268,40
+5923,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70819,10.41357,41
+5924,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70812,10.41342,42
+5925,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70784,10.41271,43
+5926,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70752,10.41198,44
+5927,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70725,10.41239,45
+5928,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70714,10.4126,46
+5929,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.707,10.41288,47
+5930,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70682,10.41331,48
+5931,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70655,10.4141,49
+5932,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70644,10.41447,50
+5933,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70636,10.41485,51
+5934,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.7063,10.41518,52
+5935,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70662,10.41532,53
+5936,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70665,10.41537,54
+5937,Via Angelo Battelli 5,Euronics Pisa Cisanello,route_243,43.70685,10.41483,55
+5938,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71621,10.40211,0
+5939,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71628,10.40215,1
+5940,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71557,10.40465,2
+5941,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71546,10.40496,3
+5942,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71525,10.40549,4
+5943,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71463,10.40691,5
+5944,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71415,10.40796,6
+5945,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71397,10.40838,7
+5946,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71384,10.40863,8
+5947,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71382,10.40869,9
+5948,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71375,10.40881,10
+5949,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71363,10.40896,11
+5950,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71343,10.40916,12
+5951,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71329,10.40926,13
+5952,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71311,10.40938,14
+5953,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71297,10.40944,15
+5954,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71286,10.40947,16
+5955,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71141,10.40947,17
+5956,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71076,10.40944,18
+5957,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71059,10.40962,19
+5958,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71028,10.41003,20
+5959,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.7102,10.41008,21
+5960,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71011,10.41009,22
+5961,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71006,10.41009,23
+5962,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71002,10.41005,24
+5963,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.70996,10.41004,25
+5964,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.70992,10.41005,26
+5965,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.70987,10.41009,27
+5966,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.70983,10.41016,28
+5967,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.70982,10.41022,29
+5968,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.70983,10.4103,30
+5969,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.70985,10.41035,31
+5970,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.70988,10.4104,32
+5971,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.70993,10.41076,33
+5972,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.7099,10.41147,34
+5973,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.70991,10.41172,35
+5974,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.70992,10.41199,36
+5975,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.70997,10.41245,37
+5976,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71037,10.41529,38
+5977,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71068,10.41746,39
+5978,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71091,10.41974,40
+5979,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.7109,10.4199,41
+5980,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71092,10.4202,42
+5981,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71094,10.42031,43
+5982,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71098,10.42043,44
+5983,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71101,10.42058,45
+5984,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.711,10.42062,46
+5985,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71101,10.42067,47
+5986,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71103,10.4207,48
+5987,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71105,10.42071,49
+5988,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71109,10.4207,50
+5989,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71111,10.42068,51
+5990,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71223,10.42094,52
+5991,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71242,10.4202,53
+5992,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71277,10.42033,54
+5993,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71319,10.42041,55
+5994,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71322,10.42041,56
+5995,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71328,10.42038,57
+5996,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.7133,10.42035,58
+5997,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71332,10.42025,59
+5998,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71343,10.42016,60
+5999,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71439,10.42038,61
+6000,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71422,10.4206,62
+6001,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71414,10.42117,63
+6002,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71446,10.42125,64
+6003,Via Angelo Battelli 5,Hotel San Ranieri,route_244,43.71451,10.4208,65
+6004,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71621,10.40211,0
+6005,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71628,10.40215,1
+6006,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71557,10.40465,2
+6007,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71546,10.40496,3
+6008,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71525,10.40549,4
+6009,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71463,10.40691,5
+6010,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71415,10.40796,6
+6011,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71397,10.40838,7
+6012,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71384,10.40863,8
+6013,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71382,10.40869,9
+6014,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71375,10.40881,10
+6015,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71363,10.40896,11
+6016,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71343,10.40916,12
+6017,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71329,10.40926,13
+6018,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71311,10.40938,14
+6019,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71297,10.40944,15
+6020,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71286,10.40947,16
+6021,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71141,10.40947,17
+6022,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71076,10.40944,18
+6023,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71059,10.40962,19
+6024,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71028,10.41003,20
+6025,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.7102,10.41008,21
+6026,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71011,10.41009,22
+6027,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71006,10.41009,23
+6028,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71002,10.41005,24
+6029,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.70996,10.41004,25
+6030,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.70992,10.41005,26
+6031,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.70987,10.41009,27
+6032,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.70983,10.41016,28
+6033,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.70982,10.41022,29
+6034,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.70983,10.4103,30
+6035,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.70985,10.41035,31
+6036,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.70988,10.4104,32
+6037,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.70993,10.41076,33
+6038,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.7099,10.41147,34
+6039,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.70991,10.41172,35
+6040,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.70992,10.41199,36
+6041,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.70997,10.41245,37
+6042,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71037,10.41529,38
+6043,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71068,10.41746,39
+6044,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71091,10.41974,40
+6045,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.7109,10.4199,41
+6046,Via Angelo Battelli 5,Esselunga Cisanello,route_245,43.71092,10.42019,42
+6047,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71621,10.40211,0
+6048,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71555,10.40168,1
+6049,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71566,10.40129,2
+6050,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.7157,10.40111,3
+6051,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71576,10.40067,4
+6052,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.7158,10.40037,5
+6053,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71583,10.39998,6
+6054,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71583,10.39968,7
+6055,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.7158,10.39919,8
+6056,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71577,10.39888,9
+6057,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71571,10.39854,10
+6058,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71565,10.39827,11
+6059,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71557,10.39791,12
+6060,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71542,10.39746,13
+6061,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71511,10.3966,14
+6062,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71508,10.39645,15
+6063,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71496,10.39619,16
+6064,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71472,10.39571,17
+6065,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.7156,10.39498,18
+6066,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.7154,10.39451,19
+6067,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.7153,10.3943,20
+6068,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71495,10.39362,21
+6069,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71451,10.39274,22
+6070,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71413,10.39183,23
+6071,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71406,10.39165,24
+6072,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71405,10.39151,25
+6073,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71401,10.39126,26
+6074,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71401,10.39117,27
+6075,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71407,10.39084,28
+6076,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71408,10.39068,29
+6077,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71401,10.39043,30
+6078,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71385,10.39001,31
+6079,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71384,10.38995,32
+6080,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71376,10.38983,33
+6081,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71371,10.38969,34
+6082,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71353,10.38923,35
+6083,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71345,10.38902,36
+6084,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71344,10.38891,37
+6085,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71346,10.38884,38
+6086,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71345,10.38878,39
+6087,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71344,10.38876,40
+6088,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71337,10.38865,41
+6089,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.7133,10.3884,42
+6090,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71328,10.38836,43
+6091,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71324,10.38836,44
+6092,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71319,10.38837,45
+6093,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71301,10.38844,46
+6094,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71297,10.38844,47
+6095,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71292,10.38844,48
+6096,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71286,10.38841,49
+6097,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.7128,10.38836,50
+6098,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71275,10.38828,51
+6099,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71273,10.38822,52
+6100,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71262,10.38783,53
+6101,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71182,10.38436,54
+6102,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71224,10.38411,55
+6103,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71258,10.38383,56
+6104,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71262,10.38381,57
+6105,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71273,10.3838,58
+6106,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71279,10.38379,59
+6107,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71284,10.38375,60
+6108,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71287,10.38369,61
+6109,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71288,10.38361,62
+6110,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71288,10.38358,63
+6111,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71286,10.38351,64
+6112,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71285,10.38347,65
+6113,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.7128,10.38342,66
+6114,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71277,10.38341,67
+6115,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71271,10.3834,68
+6116,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71267,10.38342,69
+6117,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71264,10.38346,70
+6118,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71262,10.38349,71
+6119,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.7126,10.38353,72
+6120,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71259,10.3836,73
+6121,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71256,10.3837,74
+6122,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71252,10.38376,75
+6123,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71243,10.38387,76
+6124,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71233,10.38396,77
+6125,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71215,10.3841,78
+6126,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71177,10.38429,79
+6127,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71172,10.38437,80
+6128,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71106,10.38465,81
+6129,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.71043,10.3849,82
+6130,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70998,10.38502,83
+6131,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70928,10.38523,84
+6132,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70908,10.38529,85
+6133,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70895,10.38528,86
+6134,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70886,10.38525,87
+6135,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70882,10.38519,88
+6136,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70878,10.38515,89
+6137,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70871,10.38514,90
+6138,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70865,10.38515,91
+6139,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70861,10.3852,92
+6140,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70859,10.38527,93
+6141,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70852,10.38534,94
+6142,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70847,10.38539,95
+6143,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70842,10.38541,96
+6144,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70751,10.38564,97
+6145,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70737,10.38569,98
+6146,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70729,10.38573,99
+6147,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70409,10.38652,100
+6148,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70371,10.3866,101
+6149,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70339,10.38672,102
+6150,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70325,10.38673,103
+6151,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.7031,10.3867,104
+6152,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70306,10.38666,105
+6153,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70303,10.38665,106
+6154,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70297,10.38666,107
+6155,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70292,10.3867,108
+6156,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70289,10.38677,109
+6157,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70289,10.38685,110
+6158,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70284,10.38717,111
+6159,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70281,10.38728,112
+6160,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70279,10.38731,113
+6161,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70243,10.38759,114
+6162,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70218,10.38777,115
+6163,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70152,10.38831,116
+6164,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.7013,10.38846,117
+6165,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70116,10.38855,118
+6166,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70098,10.38865,119
+6167,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70059,10.38883,120
+6168,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.70017,10.38897,121
+6169,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69995,10.38902,122
+6170,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69977,10.38903,123
+6171,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69955,10.38901,124
+6172,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69951,10.38899,125
+6173,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69947,10.38899,126
+6174,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69944,10.389,127
+6175,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.6994,10.38904,128
+6176,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.6992,10.38905,129
+6177,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69895,10.38902,130
+6178,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69871,10.38897,131
+6179,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.6985,10.38892,132
+6180,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69794,10.38869,133
+6181,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69779,10.38864,134
+6182,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69653,10.38806,135
+6183,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69642,10.38798,136
+6184,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69637,10.38793,137
+6185,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69631,10.38782,138
+6186,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69629,10.38777,139
+6187,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69626,10.38767,140
+6188,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69619,10.38759,141
+6189,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69611,10.38755,142
+6190,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69602,10.38756,143
+6191,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69594,10.38762,144
+6192,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69591,10.38766,145
+6193,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69575,10.38767,146
+6194,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69557,10.38764,147
+6195,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69351,10.38675,148
+6196,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69179,10.38598,149
+6197,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69153,10.38584,150
+6198,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69145,10.38577,151
+6199,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69134,10.38566,152
+6200,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69113,10.38537,153
+6201,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.6911,10.3853,154
+6202,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69105,10.38526,155
+6203,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69101,10.38525,156
+6204,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69095,10.38527,157
+6205,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69054,10.38527,158
+6206,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69038,10.38522,159
+6207,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.69027,10.38517,160
+6208,Via Angelo Battelli 5,Piscina Comunale Camalich,route_246,43.6866,10.38313,161
+6209,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71621,10.40211,0
+6210,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71555,10.40168,1
+6211,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71566,10.40129,2
+6212,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.7157,10.40111,3
+6213,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71576,10.40067,4
+6214,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.7158,10.40037,5
+6215,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71583,10.39998,6
+6216,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71583,10.39968,7
+6217,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.7158,10.39919,8
+6218,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71577,10.39888,9
+6219,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71571,10.39854,10
+6220,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71565,10.39827,11
+6221,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71557,10.39791,12
+6222,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71542,10.39746,13
+6223,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71511,10.3966,14
+6224,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71508,10.39645,15
+6225,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71496,10.39619,16
+6226,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71472,10.39571,17
+6227,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.7156,10.39498,18
+6228,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.7154,10.39451,19
+6229,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.7153,10.3943,20
+6230,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71495,10.39362,21
+6231,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71451,10.39274,22
+6232,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71413,10.39183,23
+6233,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71406,10.39165,24
+6234,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71405,10.39151,25
+6235,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71401,10.39126,26
+6236,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71401,10.39117,27
+6237,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71407,10.39084,28
+6238,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71408,10.39068,29
+6239,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71401,10.39043,30
+6240,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71385,10.39001,31
+6241,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71384,10.38995,32
+6242,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71376,10.38983,33
+6243,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71371,10.38969,34
+6244,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71353,10.38923,35
+6245,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71345,10.38902,36
+6246,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71344,10.38891,37
+6247,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71346,10.38884,38
+6248,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71345,10.38878,39
+6249,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71344,10.38876,40
+6250,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71337,10.38865,41
+6251,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.7133,10.3884,42
+6252,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71328,10.38836,43
+6253,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71324,10.38836,44
+6254,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71319,10.38837,45
+6255,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71301,10.38844,46
+6256,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71297,10.38844,47
+6257,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71292,10.38844,48
+6258,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71286,10.38841,49
+6259,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.7128,10.38836,50
+6260,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71275,10.38828,51
+6261,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71273,10.38822,52
+6262,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71262,10.38783,53
+6263,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71182,10.38436,54
+6264,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71224,10.38411,55
+6265,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71258,10.38383,56
+6266,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71262,10.38381,57
+6267,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71273,10.3838,58
+6268,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71279,10.38379,59
+6269,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71284,10.38375,60
+6270,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71287,10.38369,61
+6271,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71288,10.38361,62
+6272,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71288,10.38358,63
+6273,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71286,10.38351,64
+6274,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71285,10.38347,65
+6275,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.7128,10.38342,66
+6276,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71277,10.38341,67
+6277,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71271,10.3834,68
+6278,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71267,10.38342,69
+6279,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71264,10.38346,70
+6280,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71262,10.38349,71
+6281,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.7126,10.38353,72
+6282,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71259,10.3836,73
+6283,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71256,10.3837,74
+6284,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71252,10.38376,75
+6285,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71243,10.38387,76
+6286,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71233,10.38396,77
+6287,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71215,10.3841,78
+6288,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71177,10.38429,79
+6289,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71172,10.38437,80
+6290,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71106,10.38465,81
+6291,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.71043,10.3849,82
+6292,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70998,10.38502,83
+6293,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70928,10.38523,84
+6294,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70908,10.38529,85
+6295,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70895,10.38528,86
+6296,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70886,10.38525,87
+6297,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70882,10.38519,88
+6298,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70878,10.38515,89
+6299,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70871,10.38514,90
+6300,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70865,10.38515,91
+6301,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70861,10.3852,92
+6302,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70859,10.38527,93
+6303,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70852,10.38534,94
+6304,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70847,10.38539,95
+6305,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70842,10.38541,96
+6306,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70751,10.38564,97
+6307,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70737,10.38569,98
+6308,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70729,10.38573,99
+6309,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70409,10.38652,100
+6310,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70371,10.3866,101
+6311,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70339,10.38672,102
+6312,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70325,10.38673,103
+6313,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.7031,10.3867,104
+6314,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70306,10.38666,105
+6315,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70303,10.38665,106
+6316,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70297,10.38666,107
+6317,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70292,10.3867,108
+6318,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70289,10.38677,109
+6319,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70289,10.38685,110
+6320,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70284,10.38717,111
+6321,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70281,10.38728,112
+6322,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70279,10.38731,113
+6323,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70275,10.38734,114
+6324,Via Angelo Battelli 5,Conad Pian di Marco,route_247,43.70264,10.38743,115

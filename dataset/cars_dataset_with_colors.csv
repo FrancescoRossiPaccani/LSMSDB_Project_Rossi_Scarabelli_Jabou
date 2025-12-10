@@ -272,19 +272,19 @@ HYUNDAI;Tiburon;2.0L Inline-4;160 hp;Petrol;4;Black
 HYUNDAI;Elantra GT;1.6L Turbo GDI 4-cylinder;160 hp;Petrol;5;Black
 Volkswagen;Golf;1.5L Turbo I4 / Electric;110 - 320 hp;Petrol;5;White
 Volkswagen;Passat;2.0L Turbo I4;150 - 280 hp;Petrol;5;White
-Volkswagen;Tiguan;2.0L Turbo I4;150 - 230 hp;Petrol, Hybrid;7;White
+Volkswagen;Tiguan;2.0L Turbo I4;150 - 230 hp;Petrol," Hybrid;7;White"
 Volkswagen;Jetta;1.5L Turbo I4;150 - 228 hp;Petrol;5;Silver
 Volkswagen;Polo;1.0L Turbo I3 / 1.6L Diesel;80 - 200 hp;Petrol;5;Silver
 Volkswagen;Arteon;2.0L Turbo I4;150 - 280 hp;Petrol;5;Green
 Volkswagen;ID.4;Electric;201 - 302 hp;Electric;5;White
 Volkswagen;Up!;Electric;82 hp;Petrol;4;Silver
-Volkswagen;Touareg;3.0L V6 Turbo Diesel / 4.0L V8;231 - 500 hp;Petrol, Diesel;5;Green
+Volkswagen;Touareg;3.0L V6 Turbo Diesel / 4.0L V8;231 - 500 hp;Petrol," Diesel;5;Green"
 Volkswagen;Scirocco;2.0L Turbo I4;125 - 280 hp;Petrol;4;Brown
 Volkswagen;Beetle;2.0L Turbo I4;105 - 210 hp;Petrol;4;Gray
 Volkswagen;Amarok;3.0L V6 Turbo Diesel;163 - 258 hp;Diesel;5;Black
 Volkswagen;T-Roc;2.0L Turbo I4;115 - 300 hp;Petrol;5;White
-Volkswagen;Sharan;2.0L Turbo I4;150 - 220 hp;Petrol, Diesel;7;White
-Volkswagen;Caddy;1.5L Turbo I4;102 - 150 hp;Petrol, Diesel;7;Black
+Volkswagen;Sharan;2.0L Turbo I4;150 - 220 hp;Petrol," Diesel;7;White"
+Volkswagen;Caddy;1.5L Turbo I4;102 - 150 hp;Petrol," Diesel;7;Black"
 Nissan;NV1500;4.0L V6;261 hp;Petrol;12;White
 Volkswagen;Taigo;1.5L Turbo I4;95 - 150 hp;Petrol;5;Red
 Volkswagen;California;2.0L Turbo I4;150 - 204 hp;Diesel;7;White
@@ -299,7 +299,7 @@ Volkswagen;T-Cross;1.0L Turbo I3 / 1.5L Turbo I4;95 - 150 hp;Petrol;5;White
 Volkswagen;ID.5;Electric;174 - 299 hp;Electric;5;Silver
 Volkswagen;ID. Buzz Cargo;Electric;204 hp;Electric;3;Red
 Volkswagen;Touareg R;Plug-in Hybrid V6;462 hp;Hybrid;5;White
-Volkswagen;Multivan;Plug-in Hybrid / Diesel I4;150 - 218 hp;Petrol, Hybrid;7;Brown
+Volkswagen;Multivan;Plug-in Hybrid / Diesel I4;150 - 218 hp;Petrol," Hybrid;7;Brown"
 Volkswagen;Polo BlueMotion;1.2L Diesel I3;75 - 95 hp;Diesel;5;Black
 Volkswagen;Golf Sportsvan;1.5L Turbo I4;130 - 150 hp;Petrol;5;White
 Volkswagen;Golf Alltrack;2.0L Turbo Diesel I4;147 - 200 hp;Petrol;5;Black

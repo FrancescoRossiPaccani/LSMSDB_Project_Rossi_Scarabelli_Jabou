@@ -1,0 +1,656 @@
+id,start,end,route_id,lat,lon,idx
+9042,Polo Fibonacci,Conad Metato,route_420,43.71899,10.4074,0
+9043,Polo Fibonacci,Conad Metato,route_420,43.71935,10.40741,1
+9044,Polo Fibonacci,Conad Metato,route_420,43.71973,10.40736,2
+9045,Polo Fibonacci,Conad Metato,route_420,43.71999,10.40735,3
+9046,Polo Fibonacci,Conad Metato,route_420,43.72213,10.40733,4
+9047,Polo Fibonacci,Conad Metato,route_420,43.72272,10.40686,5
+9048,Polo Fibonacci,Conad Metato,route_420,43.72307,10.40728,6
+9049,Polo Fibonacci,Conad Metato,route_420,43.7232,10.40743,7
+9050,Polo Fibonacci,Conad Metato,route_420,43.72345,10.40777,8
+9051,Polo Fibonacci,Conad Metato,route_420,43.72353,10.40787,9
+9052,Polo Fibonacci,Conad Metato,route_420,43.72356,10.40789,10
+9053,Polo Fibonacci,Conad Metato,route_420,43.72363,10.40807,11
+9054,Polo Fibonacci,Conad Metato,route_420,43.72364,10.4081,12
+9055,Polo Fibonacci,Conad Metato,route_420,43.72367,10.40814,13
+9056,Polo Fibonacci,Conad Metato,route_420,43.72372,10.40815,14
+9057,Polo Fibonacci,Conad Metato,route_420,43.72375,10.40813,15
+9058,Polo Fibonacci,Conad Metato,route_420,43.72378,10.40807,16
+9059,Polo Fibonacci,Conad Metato,route_420,43.72438,10.4084,17
+9060,Polo Fibonacci,Conad Metato,route_420,43.72441,10.40848,18
+9061,Polo Fibonacci,Conad Metato,route_420,43.72446,10.40882,19
+9062,Polo Fibonacci,Conad Metato,route_420,43.72444,10.40889,20
+9063,Polo Fibonacci,Conad Metato,route_420,43.72443,10.40894,21
+9064,Polo Fibonacci,Conad Metato,route_420,43.72444,10.409,22
+9065,Polo Fibonacci,Conad Metato,route_420,43.72445,10.40904,23
+9066,Polo Fibonacci,Conad Metato,route_420,43.72447,10.40908,24
+9067,Polo Fibonacci,Conad Metato,route_420,43.7245,10.40912,25
+9068,Polo Fibonacci,Conad Metato,route_420,43.72453,10.40914,26
+9069,Polo Fibonacci,Conad Metato,route_420,43.7246,10.40923,27
+9070,Polo Fibonacci,Conad Metato,route_420,43.72461,10.40929,28
+9071,Polo Fibonacci,Conad Metato,route_420,43.72461,10.40939,29
+9072,Polo Fibonacci,Conad Metato,route_420,43.72457,10.40954,30
+9073,Polo Fibonacci,Conad Metato,route_420,43.72457,10.40959,31
+9074,Polo Fibonacci,Conad Metato,route_420,43.72459,10.40963,32
+9075,Polo Fibonacci,Conad Metato,route_420,43.72463,10.40966,33
+9076,Polo Fibonacci,Conad Metato,route_420,43.72467,10.40966,34
+9077,Polo Fibonacci,Conad Metato,route_420,43.72473,10.4097,35
+9078,Polo Fibonacci,Conad Metato,route_420,43.72478,10.40975,36
+9079,Polo Fibonacci,Conad Metato,route_420,43.72505,10.41095,37
+9080,Polo Fibonacci,Conad Metato,route_420,43.7251,10.41115,38
+9081,Polo Fibonacci,Conad Metato,route_420,43.72526,10.41164,39
+9082,Polo Fibonacci,Conad Metato,route_420,43.72559,10.41258,40
+9083,Polo Fibonacci,Conad Metato,route_420,43.72575,10.41297,41
+9084,Polo Fibonacci,Conad Metato,route_420,43.72588,10.41326,42
+9085,Polo Fibonacci,Conad Metato,route_420,43.72601,10.41349,43
+9086,Polo Fibonacci,Conad Metato,route_420,43.7266,10.41445,44
+9087,Polo Fibonacci,Conad Metato,route_420,43.72708,10.4152,45
+9088,Polo Fibonacci,Conad Metato,route_420,43.72754,10.41589,46
+9089,Polo Fibonacci,Conad Metato,route_420,43.7279,10.41645,47
+9090,Polo Fibonacci,Conad Metato,route_420,43.72876,10.41784,48
+9091,Polo Fibonacci,Conad Metato,route_420,43.72895,10.41813,49
+9092,Polo Fibonacci,Conad Metato,route_420,43.72912,10.41838,50
+9093,Polo Fibonacci,Conad Metato,route_420,43.72928,10.41859,51
+9094,Polo Fibonacci,Conad Metato,route_420,43.72977,10.41915,52
+9095,Polo Fibonacci,Conad Metato,route_420,43.73018,10.41974,53
+9096,Polo Fibonacci,Conad Metato,route_420,43.73053,10.42022,54
+9097,Polo Fibonacci,Conad Metato,route_420,43.731,10.42078,55
+9098,Polo Fibonacci,Conad Metato,route_420,43.73117,10.42097,56
+9099,Polo Fibonacci,Conad Metato,route_420,43.73142,10.42118,57
+9100,Polo Fibonacci,Conad Metato,route_420,43.7317,10.42135,58
+9101,Polo Fibonacci,Conad Metato,route_420,43.73218,10.42157,59
+9102,Polo Fibonacci,Conad Metato,route_420,43.7323,10.42161,60
+9103,Polo Fibonacci,Conad Metato,route_420,43.73258,10.42172,61
+9104,Polo Fibonacci,Conad Metato,route_420,43.73403,10.42247,62
+9105,Polo Fibonacci,Conad Metato,route_420,43.73481,10.42281,63
+9106,Polo Fibonacci,Conad Metato,route_420,43.73512,10.42297,64
+9107,Polo Fibonacci,Conad Metato,route_420,43.73745,10.42427,65
+9108,Polo Fibonacci,Conad Metato,route_420,43.73784,10.42447,66
+9109,Polo Fibonacci,Conad Metato,route_420,43.73979,10.42538,67
+9110,Polo Fibonacci,Conad Metato,route_420,43.73997,10.4255,68
+9111,Polo Fibonacci,Conad Metato,route_420,43.74079,10.42617,69
+9112,Polo Fibonacci,Conad Metato,route_420,43.74099,10.42634,70
+9113,Polo Fibonacci,Conad Metato,route_420,43.74316,10.42844,71
+9114,Polo Fibonacci,Conad Metato,route_420,43.74363,10.42888,72
+9115,Polo Fibonacci,Conad Metato,route_420,43.74503,10.43008,73
+9116,Polo Fibonacci,Conad Metato,route_420,43.74671,10.43146,74
+9117,Polo Fibonacci,Conad Metato,route_420,43.74724,10.43196,75
+9118,Polo Fibonacci,Conad Metato,route_420,43.74825,10.43284,76
+9119,Polo Fibonacci,Conad Metato,route_420,43.7488,10.43331,77
+9120,Polo Fibonacci,Conad Metato,route_420,43.75062,10.43474,78
+9121,Polo Fibonacci,Conad Metato,route_420,43.75134,10.43538,79
+9122,Polo Fibonacci,Conad Metato,route_420,43.75193,10.43596,80
+9123,Polo Fibonacci,Conad Metato,route_420,43.75209,10.4361,81
+9124,Polo Fibonacci,Conad Metato,route_420,43.75223,10.43618,82
+9125,Polo Fibonacci,Conad Metato,route_420,43.75266,10.43635,83
+9126,Polo Fibonacci,Conad Metato,route_420,43.75288,10.43646,84
+9127,Polo Fibonacci,Conad Metato,route_420,43.75315,10.43661,85
+9128,Polo Fibonacci,Conad Metato,route_420,43.75338,10.43676,86
+9129,Polo Fibonacci,Conad Metato,route_420,43.75393,10.43722,87
+9130,Polo Fibonacci,Conad Metato,route_420,43.75401,10.43729,88
+9131,Polo Fibonacci,Conad Metato,route_420,43.75413,10.43742,89
+9132,Polo Fibonacci,Conad Metato,route_420,43.75436,10.43774,90
+9133,Polo Fibonacci,Conad Metato,route_420,43.75451,10.43789,91
+9134,Polo Fibonacci,Conad Metato,route_420,43.7546,10.43795,92
+9135,Polo Fibonacci,Conad Metato,route_420,43.75483,10.43805,93
+9136,Polo Fibonacci,Conad Metato,route_420,43.75503,10.43809,94
+9137,Polo Fibonacci,Conad Metato,route_420,43.75537,10.43813,95
+9138,Polo Fibonacci,Conad Metato,route_420,43.75552,10.43812,96
+9139,Polo Fibonacci,Conad Metato,route_420,43.7556,10.43811,97
+9140,Polo Fibonacci,Conad Metato,route_420,43.75592,10.43813,98
+9141,Polo Fibonacci,Conad Metato,route_420,43.75599,10.4382,99
+9142,Polo Fibonacci,Conad Metato,route_420,43.75607,10.43821,100
+9143,Polo Fibonacci,Conad Metato,route_420,43.75614,10.43819,101
+9144,Polo Fibonacci,Conad Metato,route_420,43.75619,10.43814,102
+9145,Polo Fibonacci,Conad Metato,route_420,43.75621,10.4381,103
+9146,Polo Fibonacci,Conad Metato,route_420,43.75624,10.43803,104
+9147,Polo Fibonacci,Conad Metato,route_420,43.75625,10.43798,105
+9148,Polo Fibonacci,Conad Metato,route_420,43.75624,10.43789,106
+9149,Polo Fibonacci,Conad Metato,route_420,43.75627,10.43775,107
+9150,Polo Fibonacci,Conad Metato,route_420,43.75635,10.43752,108
+9151,Polo Fibonacci,Conad Metato,route_420,43.75719,10.4362,109
+9152,Polo Fibonacci,Conad Metato,route_420,43.7582,10.43463,110
+9153,Polo Fibonacci,Conad Metato,route_420,43.75835,10.43444,111
+9154,Polo Fibonacci,Conad Metato,route_420,43.75859,10.4342,112
+9155,Polo Fibonacci,Conad Metato,route_420,43.75868,10.43417,113
+9156,Polo Fibonacci,Conad Metato,route_420,43.75877,10.43417,114
+9157,Polo Fibonacci,Conad Metato,route_420,43.75882,10.43421,115
+9158,Polo Fibonacci,Conad Metato,route_420,43.75888,10.43422,116
+9159,Polo Fibonacci,Conad Metato,route_420,43.75894,10.43421,117
+9160,Polo Fibonacci,Conad Metato,route_420,43.75899,10.43417,118
+9161,Polo Fibonacci,Conad Metato,route_420,43.75903,10.43412,119
+9162,Polo Fibonacci,Conad Metato,route_420,43.75906,10.43407,120
+9163,Polo Fibonacci,Conad Metato,route_420,43.75907,10.434,121
+9164,Polo Fibonacci,Conad Metato,route_420,43.75908,10.43393,122
+9165,Polo Fibonacci,Conad Metato,route_420,43.75907,10.43386,123
+9166,Polo Fibonacci,Conad Metato,route_420,43.75905,10.4338,124
+9167,Polo Fibonacci,Conad Metato,route_420,43.75912,10.43362,125
+9168,Polo Fibonacci,Conad Metato,route_420,43.75976,10.43275,126
+9169,Polo Fibonacci,Conad Metato,route_420,43.75986,10.4326,127
+9170,Polo Fibonacci,Conad Metato,route_420,43.76202,10.42921,128
+9171,Polo Fibonacci,Conad Metato,route_420,43.76216,10.42892,129
+9172,Polo Fibonacci,Conad Metato,route_420,43.76221,10.42886,130
+9173,Polo Fibonacci,Conad Metato,route_420,43.76228,10.42881,131
+9174,Polo Fibonacci,Conad Metato,route_420,43.76233,10.42878,132
+9175,Polo Fibonacci,Conad Metato,route_420,43.76238,10.42874,133
+9176,Polo Fibonacci,Conad Metato,route_420,43.76241,10.42868,134
+9177,Polo Fibonacci,Conad Metato,route_420,43.76243,10.42862,135
+9178,Polo Fibonacci,Conad Metato,route_420,43.76244,10.42853,136
+9179,Polo Fibonacci,Conad Metato,route_420,43.76243,10.42843,137
+9180,Polo Fibonacci,Conad Metato,route_420,43.7624,10.42837,138
+9181,Polo Fibonacci,Conad Metato,route_420,43.76235,10.42831,139
+9182,Polo Fibonacci,Conad Metato,route_420,43.76229,10.42827,140
+9183,Polo Fibonacci,Conad Metato,route_420,43.76223,10.42826,141
+9184,Polo Fibonacci,Conad Metato,route_420,43.76217,10.42828,142
+9185,Polo Fibonacci,Conad Metato,route_420,43.7621,10.42835,143
+9186,Polo Fibonacci,Conad Metato,route_420,43.76203,10.42836,144
+9187,Polo Fibonacci,Conad Metato,route_420,43.76196,10.42835,145
+9188,Polo Fibonacci,Conad Metato,route_420,43.76187,10.42832,146
+9189,Polo Fibonacci,Conad Metato,route_420,43.76034,10.42738,147
+9190,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.71899,10.4074,0
+9191,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.71935,10.40741,1
+9192,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.71973,10.40736,2
+9193,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.71999,10.40735,3
+9194,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72213,10.40733,4
+9195,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72272,10.40686,5
+9196,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72307,10.40728,6
+9197,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.7232,10.40743,7
+9198,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72345,10.40777,8
+9199,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72353,10.40787,9
+9200,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72356,10.40789,10
+9201,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72363,10.40807,11
+9202,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72364,10.4081,12
+9203,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72367,10.40814,13
+9204,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72372,10.40815,14
+9205,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72375,10.40813,15
+9206,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72378,10.40807,16
+9207,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72438,10.4084,17
+9208,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72441,10.40848,18
+9209,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72446,10.40882,19
+9210,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72444,10.40889,20
+9211,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72443,10.40894,21
+9212,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72444,10.409,22
+9213,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72445,10.40904,23
+9214,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72447,10.40908,24
+9215,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.7245,10.40912,25
+9216,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72453,10.40914,26
+9217,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.7246,10.40914,27
+9218,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72464,10.40913,28
+9219,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72467,10.4091,29
+9220,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72471,10.40903,30
+9221,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72472,10.40896,31
+9222,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72488,10.40864,32
+9223,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72491,10.40856,33
+9224,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72498,10.4083,34
+9225,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72501,10.40801,35
+9226,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72515,10.40612,36
+9227,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72519,10.4057,37
+9228,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72526,10.40545,38
+9229,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72567,10.4041,39
+9230,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72572,10.40409,40
+9231,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72575,10.40408,41
+9232,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72577,10.40405,42
+9233,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72578,10.40402,43
+9234,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72632,10.40468,44
+9235,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72667,10.40505,45
+9236,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72704,10.40536,46
+9237,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72721,10.40548,47
+9238,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72729,10.40552,48
+9239,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72823,10.40592,49
+9240,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.72877,10.40621,50
+9241,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.73021,10.40703,51
+9242,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.73046,10.40712,52
+9243,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.73094,10.40724,53
+9244,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.73103,10.40727,54
+9245,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.73115,10.40732,55
+9246,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.73143,10.40747,56
+9247,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.73187,10.40771,57
+9248,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.73253,10.4081,58
+9249,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.73314,10.40847,59
+9250,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.73383,10.40888,60
+9251,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.73447,10.40931,61
+9252,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.73514,10.40978,62
+9253,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.73563,10.4102,63
+9254,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.73741,10.4117,64
+9255,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.73986,10.41367,65
+9256,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.74106,10.41464,66
+9257,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.74435,10.41719,67
+9258,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.74509,10.41423,68
+9259,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.74586,10.41124,69
+9260,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.74592,10.41131,70
+9261,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.74675,10.41192,71
+9262,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.74689,10.41201,72
+9263,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.74699,10.41207,73
+9264,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.74712,10.41217,74
+9265,Polo Fibonacci,Ristorante Il Lago (Nodica),route_421,43.74909,10.41291,75
+9266,Polo Fibonacci,Pizzeria Colignola,route_422,43.71899,10.4074,0
+9267,Polo Fibonacci,Pizzeria Colignola,route_422,43.71848,10.40738,1
+9268,Polo Fibonacci,Pizzeria Colignola,route_422,43.71748,10.40734,2
+9269,Polo Fibonacci,Pizzeria Colignola,route_422,43.71686,10.40729,3
+9270,Polo Fibonacci,Pizzeria Colignola,route_422,43.71677,10.40731,4
+9271,Polo Fibonacci,Pizzeria Colignola,route_422,43.71665,10.40732,5
+9272,Polo Fibonacci,Pizzeria Colignola,route_422,43.71661,10.40735,6
+9273,Polo Fibonacci,Pizzeria Colignola,route_422,43.7166,10.40738,7
+9274,Polo Fibonacci,Pizzeria Colignola,route_422,43.71657,10.40744,8
+9275,Polo Fibonacci,Pizzeria Colignola,route_422,43.71656,10.40749,9
+9276,Polo Fibonacci,Pizzeria Colignola,route_422,43.7168,10.40872,10
+9277,Polo Fibonacci,Pizzeria Colignola,route_422,43.71686,10.40874,11
+9278,Polo Fibonacci,Pizzeria Colignola,route_422,43.71695,10.40879,12
+9279,Polo Fibonacci,Pizzeria Colignola,route_422,43.71862,10.41041,13
+9280,Polo Fibonacci,Pizzeria Colignola,route_422,43.71872,10.41046,14
+9281,Polo Fibonacci,Pizzeria Colignola,route_422,43.71879,10.41046,15
+9282,Polo Fibonacci,Pizzeria Colignola,route_422,43.71885,10.4111,16
+9283,Polo Fibonacci,Pizzeria Colignola,route_422,43.71926,10.41634,17
+9284,Polo Fibonacci,Pizzeria Colignola,route_422,43.71935,10.41737,18
+9285,Polo Fibonacci,Pizzeria Colignola,route_422,43.7194,10.41822,19
+9286,Polo Fibonacci,Pizzeria Colignola,route_422,43.7194,10.41833,20
+9287,Polo Fibonacci,Pizzeria Colignola,route_422,43.71936,10.41865,21
+9288,Polo Fibonacci,Pizzeria Colignola,route_422,43.71933,10.41881,22
+9289,Polo Fibonacci,Pizzeria Colignola,route_422,43.71929,10.41893,23
+9290,Polo Fibonacci,Pizzeria Colignola,route_422,43.71924,10.41903,24
+9291,Polo Fibonacci,Pizzeria Colignola,route_422,43.71916,10.41911,25
+9292,Polo Fibonacci,Pizzeria Colignola,route_422,43.71892,10.41922,26
+9293,Polo Fibonacci,Pizzeria Colignola,route_422,43.71876,10.41921,27
+9294,Polo Fibonacci,Pizzeria Colignola,route_422,43.71869,10.41923,28
+9295,Polo Fibonacci,Pizzeria Colignola,route_422,43.71865,10.41925,29
+9296,Polo Fibonacci,Pizzeria Colignola,route_422,43.71859,10.41932,30
+9297,Polo Fibonacci,Pizzeria Colignola,route_422,43.71857,10.41936,31
+9298,Polo Fibonacci,Pizzeria Colignola,route_422,43.71855,10.41941,32
+9299,Polo Fibonacci,Pizzeria Colignola,route_422,43.71854,10.4195,33
+9300,Polo Fibonacci,Pizzeria Colignola,route_422,43.71853,10.4196,34
+9301,Polo Fibonacci,Pizzeria Colignola,route_422,43.71855,10.41974,35
+9302,Polo Fibonacci,Pizzeria Colignola,route_422,43.7186,10.41988,36
+9303,Polo Fibonacci,Pizzeria Colignola,route_422,43.71866,10.41998,37
+9304,Polo Fibonacci,Pizzeria Colignola,route_422,43.71869,10.42002,38
+9305,Polo Fibonacci,Pizzeria Colignola,route_422,43.71878,10.42008,39
+9306,Polo Fibonacci,Pizzeria Colignola,route_422,43.71943,10.42031,40
+9307,Polo Fibonacci,Pizzeria Colignola,route_422,43.71965,10.42048,41
+9308,Polo Fibonacci,Pizzeria Colignola,route_422,43.71975,10.42058,42
+9309,Polo Fibonacci,Pizzeria Colignola,route_422,43.72032,10.42132,43
+9310,Polo Fibonacci,Pizzeria Colignola,route_422,43.7205,10.42159,44
+9311,Polo Fibonacci,Pizzeria Colignola,route_422,43.72056,10.42174,45
+9312,Polo Fibonacci,Pizzeria Colignola,route_422,43.72055,10.42177,46
+9313,Polo Fibonacci,Pizzeria Colignola,route_422,43.72056,10.42183,47
+9314,Polo Fibonacci,Pizzeria Colignola,route_422,43.72051,10.42203,48
+9315,Polo Fibonacci,Pizzeria Colignola,route_422,43.71985,10.42327,49
+9316,Polo Fibonacci,Pizzeria Colignola,route_422,43.71976,10.42336,50
+9317,Polo Fibonacci,Pizzeria Colignola,route_422,43.71971,10.42343,51
+9318,Polo Fibonacci,Pizzeria Colignola,route_422,43.71947,10.42386,52
+9319,Polo Fibonacci,Pizzeria Colignola,route_422,43.71908,10.42461,53
+9320,Polo Fibonacci,Pizzeria Colignola,route_422,43.719,10.4248,54
+9321,Polo Fibonacci,Pizzeria Colignola,route_422,43.71891,10.42507,55
+9322,Polo Fibonacci,Pizzeria Colignola,route_422,43.71872,10.42546,56
+9323,Polo Fibonacci,Pizzeria Colignola,route_422,43.71854,10.42589,57
+9324,Polo Fibonacci,Pizzeria Colignola,route_422,43.71799,10.42727,58
+9325,Polo Fibonacci,Pizzeria Colignola,route_422,43.71764,10.42805,59
+9326,Polo Fibonacci,Pizzeria Colignola,route_422,43.7176,10.42809,60
+9327,Polo Fibonacci,Pizzeria Colignola,route_422,43.71756,10.42814,61
+9328,Polo Fibonacci,Pizzeria Colignola,route_422,43.71751,10.42825,62
+9329,Polo Fibonacci,Pizzeria Colignola,route_422,43.71751,10.4283,63
+9330,Polo Fibonacci,Pizzeria Colignola,route_422,43.71751,10.42838,64
+9331,Polo Fibonacci,Pizzeria Colignola,route_422,43.71751,10.42842,65
+9332,Polo Fibonacci,Pizzeria Colignola,route_422,43.71754,10.4285,66
+9333,Polo Fibonacci,Pizzeria Colignola,route_422,43.7175,10.42873,67
+9334,Polo Fibonacci,Pizzeria Colignola,route_422,43.71741,10.42908,68
+9335,Polo Fibonacci,Pizzeria Colignola,route_422,43.71735,10.42939,69
+9336,Polo Fibonacci,Pizzeria Colignola,route_422,43.71652,10.43229,70
+9337,Polo Fibonacci,Pizzeria Colignola,route_422,43.7162,10.43334,71
+9338,Polo Fibonacci,Pizzeria Colignola,route_422,43.71591,10.43417,72
+9339,Polo Fibonacci,Pizzeria Colignola,route_422,43.71573,10.43464,73
+9340,Polo Fibonacci,Pizzeria Colignola,route_422,43.7155,10.43517,74
+9341,Polo Fibonacci,Pizzeria Colignola,route_422,43.71527,10.43565,75
+9342,Polo Fibonacci,Pizzeria Colignola,route_422,43.71242,10.44109,76
+9343,Polo Fibonacci,Pizzeria Colignola,route_422,43.71222,10.44139,77
+9344,Polo Fibonacci,Pizzeria Colignola,route_422,43.71212,10.44152,78
+9345,Polo Fibonacci,Pizzeria Colignola,route_422,43.712,10.44164,79
+9346,Polo Fibonacci,Pizzeria Colignola,route_422,43.71183,10.44178,80
+9347,Polo Fibonacci,Pizzeria Colignola,route_422,43.71176,10.44183,81
+9348,Polo Fibonacci,Pizzeria Colignola,route_422,43.71155,10.4419,82
+9349,Polo Fibonacci,Pizzeria Colignola,route_422,43.71145,10.44193,83
+9350,Polo Fibonacci,Pizzeria Colignola,route_422,43.71134,10.44195,84
+9351,Polo Fibonacci,Pizzeria Colignola,route_422,43.7112,10.44193,85
+9352,Polo Fibonacci,Pizzeria Colignola,route_422,43.71104,10.44187,86
+9353,Polo Fibonacci,Pizzeria Colignola,route_422,43.71099,10.44184,87
+9354,Polo Fibonacci,Pizzeria Colignola,route_422,43.71089,10.44173,88
+9355,Polo Fibonacci,Pizzeria Colignola,route_422,43.71083,10.44167,89
+9356,Polo Fibonacci,Pizzeria Colignola,route_422,43.71054,10.44127,90
+9357,Polo Fibonacci,Pizzeria Colignola,route_422,43.70903,10.43911,91
+9358,Polo Fibonacci,Pizzeria Colignola,route_422,43.70827,10.43797,92
+9359,Polo Fibonacci,Pizzeria Colignola,route_422,43.70803,10.43765,93
+9360,Polo Fibonacci,Pizzeria Colignola,route_422,43.70796,10.43754,94
+9361,Polo Fibonacci,Pizzeria Colignola,route_422,43.70792,10.43744,95
+9362,Polo Fibonacci,Pizzeria Colignola,route_422,43.70791,10.43737,96
+9363,Polo Fibonacci,Pizzeria Colignola,route_422,43.70789,10.4373,97
+9364,Polo Fibonacci,Pizzeria Colignola,route_422,43.70784,10.43724,98
+9365,Polo Fibonacci,Pizzeria Colignola,route_422,43.7078,10.43721,99
+9366,Polo Fibonacci,Pizzeria Colignola,route_422,43.70776,10.4372,100
+9367,Polo Fibonacci,Pizzeria Colignola,route_422,43.70771,10.4372,101
+9368,Polo Fibonacci,Pizzeria Colignola,route_422,43.70768,10.43717,102
+9369,Polo Fibonacci,Pizzeria Colignola,route_422,43.70762,10.43708,103
+9370,Polo Fibonacci,Pizzeria Colignola,route_422,43.70741,10.43665,104
+9371,Polo Fibonacci,Pizzeria Colignola,route_422,43.70733,10.43646,105
+9372,Polo Fibonacci,Pizzeria Colignola,route_422,43.70723,10.4361,106
+9373,Polo Fibonacci,Pizzeria Colignola,route_422,43.70706,10.43547,107
+9374,Polo Fibonacci,Pizzeria Colignola,route_422,43.70706,10.43542,108
+9375,Polo Fibonacci,Pizzeria Colignola,route_422,43.70707,10.43485,109
+9376,Polo Fibonacci,Pizzeria Colignola,route_422,43.70708,10.43473,110
+9377,Polo Fibonacci,Pizzeria Colignola,route_422,43.70713,10.43444,111
+9378,Polo Fibonacci,Pizzeria Colignola,route_422,43.70718,10.43425,112
+9379,Polo Fibonacci,Pizzeria Colignola,route_422,43.70873,10.42994,113
+9380,Polo Fibonacci,Pizzeria Colignola,route_422,43.70889,10.43004,114
+9381,Polo Fibonacci,Pizzeria Colignola,route_422,43.70906,10.42954,115
+9382,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.71899,10.4074,0
+9383,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.71935,10.40741,1
+9384,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.71973,10.40736,2
+9385,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.71999,10.40735,3
+9386,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72213,10.40733,4
+9387,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72272,10.40686,5
+9388,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72307,10.40728,6
+9389,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.7232,10.40743,7
+9390,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72345,10.40777,8
+9391,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72353,10.40787,9
+9392,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72356,10.40789,10
+9393,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72363,10.40807,11
+9394,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72364,10.4081,12
+9395,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72367,10.40814,13
+9396,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72372,10.40815,14
+9397,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72375,10.40813,15
+9398,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72378,10.40807,16
+9399,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72438,10.4084,17
+9400,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72441,10.40848,18
+9401,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72446,10.40882,19
+9402,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72444,10.40889,20
+9403,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72443,10.40894,21
+9404,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72444,10.409,22
+9405,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72445,10.40904,23
+9406,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72447,10.40908,24
+9407,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.7245,10.40912,25
+9408,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72453,10.40914,26
+9409,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.7246,10.40923,27
+9410,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72461,10.40929,28
+9411,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72461,10.40939,29
+9412,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72457,10.40954,30
+9413,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72457,10.40959,31
+9414,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72459,10.40963,32
+9415,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72463,10.40966,33
+9416,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72467,10.40966,34
+9417,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72473,10.4097,35
+9418,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72478,10.40975,36
+9419,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72505,10.41095,37
+9420,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.7251,10.41115,38
+9421,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72526,10.41164,39
+9422,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72559,10.41258,40
+9423,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72575,10.41297,41
+9424,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72588,10.41326,42
+9425,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72601,10.41349,43
+9426,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.7266,10.41445,44
+9427,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72708,10.4152,45
+9428,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72754,10.41589,46
+9429,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.7279,10.41645,47
+9430,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72876,10.41784,48
+9431,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72895,10.41813,49
+9432,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72912,10.41838,50
+9433,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72928,10.41859,51
+9434,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.72977,10.41915,52
+9435,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.73018,10.41974,53
+9436,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.73053,10.42022,54
+9437,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.731,10.42078,55
+9438,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.73117,10.42097,56
+9439,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.73142,10.42118,57
+9440,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.7317,10.42135,58
+9441,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.73218,10.42157,59
+9442,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.7323,10.42161,60
+9443,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.73258,10.42172,61
+9444,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.73403,10.42247,62
+9445,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.73481,10.42281,63
+9446,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.73512,10.42297,64
+9447,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.73745,10.42427,65
+9448,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.73784,10.42447,66
+9449,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.73894,10.42498,67
+9450,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.73901,10.42476,68
+9451,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.73953,10.4232,69
+9452,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.73969,10.42332,70
+9453,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.74021,10.42396,71
+9454,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.7407,10.42452,72
+9455,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.74089,10.42477,73
+9456,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.74123,10.42503,74
+9457,Polo Fibonacci,Supermercato Coop Ghezzano,route_423,43.74147,10.42519,75
+9458,Stazione Leopolda,Torre,route_424,43.71197,10.39863,0
+9459,Stazione Leopolda,Torre,route_424,43.71112,10.39874,1
+9460,Stazione Leopolda,Torre,route_424,43.71102,10.39875,2
+9461,Stazione Leopolda,Torre,route_424,43.71099,10.39875,3
+9462,Stazione Leopolda,Torre,route_424,43.71095,10.39871,4
+9463,Stazione Leopolda,Torre,route_424,43.71088,10.3985,5
+9464,Stazione Leopolda,Torre,route_424,43.71079,10.39835,6
+9465,Stazione Leopolda,Torre,route_424,43.71075,10.39827,7
+9466,Stazione Leopolda,Torre,route_424,43.71086,10.39786,8
+9467,Stazione Leopolda,Torre,route_424,43.7109,10.39782,9
+9468,Stazione Leopolda,Torre,route_424,43.71092,10.39778,10
+9469,Stazione Leopolda,Torre,route_424,43.71092,10.39774,11
+9470,Stazione Leopolda,Torre,route_424,43.71106,10.39746,12
+9471,Stazione Leopolda,Torre,route_424,43.71123,10.39733,13
+9472,Stazione Leopolda,Torre,route_424,43.71134,10.39727,14
+9473,Stazione Leopolda,Torre,route_424,43.71188,10.39703,15
+9474,Stazione Leopolda,Torre,route_424,43.71274,10.39666,16
+9475,Stazione Leopolda,Torre,route_424,43.71382,10.39616,17
+9476,Stazione Leopolda,Torre,route_424,43.71472,10.39571,18
+9477,Stazione Leopolda,Torre,route_424,43.7156,10.39498,19
+9478,Stazione Leopolda,Torre,route_424,43.7154,10.39451,20
+9479,Stazione Leopolda,Torre,route_424,43.7153,10.3943,21
+9480,Stazione Leopolda,Torre,route_424,43.71495,10.39362,22
+9481,Stazione Leopolda,Torre,route_424,43.71451,10.39274,23
+9482,Stazione Leopolda,Torre,route_424,43.71413,10.39183,24
+9483,Stazione Leopolda,Torre,route_424,43.71406,10.39165,25
+9484,Stazione Leopolda,Torre,route_424,43.71405,10.39151,26
+9485,Stazione Leopolda,Torre,route_424,43.71401,10.39126,27
+9486,Stazione Leopolda,Torre,route_424,43.71401,10.39117,28
+9487,Stazione Leopolda,Torre,route_424,43.71407,10.39084,29
+9488,Stazione Leopolda,Torre,route_424,43.71408,10.39068,30
+9489,Stazione Leopolda,Torre,route_424,43.71401,10.39043,31
+9490,Stazione Leopolda,Torre,route_424,43.71385,10.39001,32
+9491,Stazione Leopolda,Torre,route_424,43.71384,10.38995,33
+9492,Stazione Leopolda,Torre,route_424,43.71376,10.38983,34
+9493,Stazione Leopolda,Torre,route_424,43.71371,10.38969,35
+9494,Stazione Leopolda,Torre,route_424,43.71353,10.38923,36
+9495,Stazione Leopolda,Torre,route_424,43.71345,10.38902,37
+9496,Stazione Leopolda,Torre,route_424,43.71344,10.38891,38
+9497,Stazione Leopolda,Torre,route_424,43.71346,10.38884,39
+9498,Stazione Leopolda,Torre,route_424,43.71349,10.38879,40
+9499,Stazione Leopolda,Torre,route_424,43.71368,10.38866,41
+9500,Stazione Leopolda,Torre,route_424,43.71541,10.38785,42
+9501,Stazione Leopolda,Torre,route_424,43.71552,10.38782,43
+9502,Stazione Leopolda,Torre,route_424,43.71563,10.38783,44
+9503,Stazione Leopolda,Torre,route_424,43.71573,10.38784,45
+9504,Stazione Leopolda,Torre,route_424,43.71589,10.38791,46
+9505,Stazione Leopolda,Torre,route_424,43.716,10.38799,47
+9506,Stazione Leopolda,Torre,route_424,43.71818,10.38945,48
+9507,Stazione Leopolda,Torre,route_424,43.72147,10.39162,49
+9508,Stazione Leopolda,Torre,route_424,43.7218,10.39181,50
+9509,Stazione Leopolda,Torre,route_424,43.72197,10.39191,51
+9510,Stazione Leopolda,Torre,route_424,43.72264,10.3922,52
+9511,Stazione Leopolda,Torre,route_424,43.72271,10.39222,53
+9512,Stazione Leopolda,Torre,route_424,43.72283,10.39223,54
+9513,Stazione Leopolda,Torre,route_424,43.72295,10.39222,55
+9514,Stazione Leopolda,Torre,route_424,43.72306,10.39219,56
+9515,Stazione Leopolda,Torre,route_424,43.72369,10.3919,57
+9516,Stazione Leopolda,Torre,route_424,43.72486,10.3913,58
+9517,Stazione Leopolda,Torre,route_424,43.72489,10.39135,59
+9518,Stazione Leopolda,Torre,route_424,43.72494,10.39137,60
+9519,Stazione Leopolda,Torre,route_424,43.72497,10.39193,61
+9520,Stazione Leopolda,Torre,route_424,43.72495,10.39213,62
+9521,Stazione Leopolda,Torre,route_424,43.7249,10.3925,63
+9522,Stazione Leopolda,Torre,route_424,43.72483,10.3929,64
+9523,Stazione Leopolda,Torre,route_424,43.72409,10.39685,65
+9524,Stazione Leopolda,Torre,route_424,43.724,10.39723,66
+9525,Stazione Leopolda,Torre,route_424,43.72359,10.39853,67
+9526,Stazione Leopolda,Torre,route_424,43.72344,10.39844,68
+9527,Stazione Leopolda,Torre,route_424,43.72295,10.39822,69
+9528,Stazione Leopolda,Torre,route_424,43.723,10.39797,70
+9529,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71197,10.39863,0
+9530,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71112,10.39874,1
+9531,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71102,10.39875,2
+9532,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71099,10.39875,3
+9533,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71095,10.39871,4
+9534,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71088,10.3985,5
+9535,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71079,10.39835,6
+9536,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71075,10.39827,7
+9537,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71086,10.39786,8
+9538,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.7109,10.39782,9
+9539,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71092,10.39778,10
+9540,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71092,10.39774,11
+9541,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71091,10.39769,12
+9542,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71089,10.39767,13
+9543,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71084,10.39765,14
+9544,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.7108,10.39767,15
+9545,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.7107,10.39765,16
+9546,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71041,10.39762,17
+9547,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71022,10.39766,18
+9548,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71018,10.39764,19
+9549,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71016,10.39755,20
+9550,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71014,10.39743,21
+9551,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71033,10.39616,22
+9552,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.71012,10.39608,23
+9553,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.70953,10.39581,24
+9554,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.70918,10.39565,25
+9555,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.70897,10.39558,26
+9556,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.70892,10.39609,27
+9557,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.70892,10.3962,28
+9558,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.70894,10.3963,29
+9559,Stazione Leopolda,Stazione Pisa Centrale,route_425,43.70875,10.39738,30
+9560,Stazione Leopolda,Universita di Pisa,route_426,43.71197,10.39863,0
+9561,Stazione Leopolda,Universita di Pisa,route_426,43.71112,10.39874,1
+9562,Stazione Leopolda,Universita di Pisa,route_426,43.71102,10.39875,2
+9563,Stazione Leopolda,Universita di Pisa,route_426,43.71099,10.39875,3
+9564,Stazione Leopolda,Universita di Pisa,route_426,43.71095,10.39871,4
+9565,Stazione Leopolda,Universita di Pisa,route_426,43.71088,10.3985,5
+9566,Stazione Leopolda,Universita di Pisa,route_426,43.71079,10.39835,6
+9567,Stazione Leopolda,Universita di Pisa,route_426,43.71075,10.39827,7
+9568,Stazione Leopolda,Universita di Pisa,route_426,43.71086,10.39786,8
+9569,Stazione Leopolda,Universita di Pisa,route_426,43.7109,10.39782,9
+9570,Stazione Leopolda,Universita di Pisa,route_426,43.71092,10.39778,10
+9571,Stazione Leopolda,Universita di Pisa,route_426,43.71092,10.39774,11
+9572,Stazione Leopolda,Universita di Pisa,route_426,43.71091,10.39769,12
+9573,Stazione Leopolda,Universita di Pisa,route_426,43.71089,10.39767,13
+9574,Stazione Leopolda,Universita di Pisa,route_426,43.71084,10.39765,14
+9575,Stazione Leopolda,Universita di Pisa,route_426,43.7108,10.39767,15
+9576,Stazione Leopolda,Universita di Pisa,route_426,43.7107,10.39765,16
+9577,Stazione Leopolda,Universita di Pisa,route_426,43.71041,10.39762,17
+9578,Stazione Leopolda,Universita di Pisa,route_426,43.71022,10.39766,18
+9579,Stazione Leopolda,Universita di Pisa,route_426,43.71018,10.39764,19
+9580,Stazione Leopolda,Universita di Pisa,route_426,43.71013,10.39764,20
+9581,Stazione Leopolda,Universita di Pisa,route_426,43.71009,10.39768,21
+9582,Stazione Leopolda,Universita di Pisa,route_426,43.71006,10.39775,22
+9583,Stazione Leopolda,Universita di Pisa,route_426,43.71006,10.39784,23
+9584,Stazione Leopolda,Universita di Pisa,route_426,43.71001,10.39838,24
+9585,Stazione Leopolda,Universita di Pisa,route_426,43.70997,10.3988,25
+9586,Stazione Leopolda,Universita di Pisa,route_426,43.70992,10.39879,26
+9587,Stazione Leopolda,Universita di Pisa,route_426,43.70989,10.39881,27
+9588,Stazione Leopolda,Universita di Pisa,route_426,43.70986,10.39884,28
+9589,Stazione Leopolda,Universita di Pisa,route_426,43.70984,10.3989,29
+9590,Stazione Leopolda,Universita di Pisa,route_426,43.70984,10.39895,30
+9591,Stazione Leopolda,Universita di Pisa,route_426,43.70986,10.399,31
+9592,Stazione Leopolda,Universita di Pisa,route_426,43.7099,10.39904,32
+9593,Stazione Leopolda,Universita di Pisa,route_426,43.70994,10.39905,33
+9594,Stazione Leopolda,Universita di Pisa,route_426,43.70994,10.39992,34
+9595,Stazione Leopolda,Universita di Pisa,route_426,43.70997,10.40207,35
+9596,Stazione Leopolda,Universita di Pisa,route_426,43.70997,10.40252,36
+9597,Stazione Leopolda,Universita di Pisa,route_426,43.70988,10.40324,37
+9598,Stazione Leopolda,Universita di Pisa,route_426,43.70975,10.40422,38
+9599,Stazione Leopolda,Universita di Pisa,route_426,43.70959,10.4052,39
+9600,Stazione Leopolda,Universita di Pisa,route_426,43.70953,10.40562,40
+9601,Stazione Leopolda,Universita di Pisa,route_426,43.70953,10.40571,41
+9602,Stazione Leopolda,Universita di Pisa,route_426,43.70954,10.40577,42
+9603,Stazione Leopolda,Universita di Pisa,route_426,43.70958,10.40585,43
+9604,Stazione Leopolda,Universita di Pisa,route_426,43.70962,10.40589,44
+9605,Stazione Leopolda,Universita di Pisa,route_426,43.7097,10.40593,45
+9606,Stazione Leopolda,Universita di Pisa,route_426,43.70981,10.40586,46
+9607,Stazione Leopolda,Universita di Pisa,route_426,43.70996,10.40588,47
+9608,Stazione Leopolda,Universita di Pisa,route_426,43.71001,10.4059,48
+9609,Stazione Leopolda,Universita di Pisa,route_426,43.71007,10.40596,49
+9610,Stazione Leopolda,Universita di Pisa,route_426,43.71009,10.40599,50
+9611,Stazione Leopolda,Universita di Pisa,route_426,43.71015,10.4061,51
+9612,Stazione Leopolda,Universita di Pisa,route_426,43.71008,10.40743,52
+9613,Stazione Leopolda,Universita di Pisa,route_426,43.71004,10.40744,53
+9614,Stazione Leopolda,Universita di Pisa,route_426,43.71001,10.40747,54
+9615,Stazione Leopolda,Universita di Pisa,route_426,43.70998,10.40751,55
+9616,Stazione Leopolda,Universita di Pisa,route_426,43.70997,10.40755,56
+9617,Stazione Leopolda,Universita di Pisa,route_426,43.70997,10.40763,57
+9618,Stazione Leopolda,Universita di Pisa,route_426,43.70998,10.40769,58
+9619,Stazione Leopolda,Universita di Pisa,route_426,43.71003,10.40774,59
+9620,Stazione Leopolda,Universita di Pisa,route_426,43.71007,10.40776,60
+9621,Stazione Leopolda,Universita di Pisa,route_426,43.71014,10.40774,61
+9622,Stazione Leopolda,Universita di Pisa,route_426,43.71018,10.40769,62
+9623,Stazione Leopolda,Universita di Pisa,route_426,43.71027,10.40767,63
+9624,Stazione Leopolda,Universita di Pisa,route_426,43.71063,10.40769,64
+9625,Stazione Leopolda,Universita di Pisa,route_426,43.71112,10.40773,65
+9626,Stazione Leopolda,Universita di Pisa,route_426,43.71118,10.40776,66
+9627,Stazione Leopolda,Universita di Pisa,route_426,43.71127,10.40782,67
+9628,Stazione Leopolda,Universita di Pisa,route_426,43.71131,10.40786,68
+9629,Stazione Leopolda,Universita di Pisa,route_426,43.71138,10.40789,69
+9630,Stazione Leopolda,Universita di Pisa,route_426,43.71204,10.40793,70
+9631,Stazione Leopolda,Universita di Pisa,route_426,43.71261,10.40789,71
+9632,Stazione Leopolda,Universita di Pisa,route_426,43.71299,10.40783,72
+9633,Stazione Leopolda,Universita di Pisa,route_426,43.71305,10.40781,73
+9634,Stazione Leopolda,Universita di Pisa,route_426,43.71307,10.40778,74
+9635,Stazione Leopolda,Universita di Pisa,route_426,43.7139,10.40851,75
+9636,Stazione Leopolda,Universita di Pisa,route_426,43.7141,10.40867,76
+9637,Stazione Leopolda,Universita di Pisa,route_426,43.71421,10.40873,77
+9638,Stazione Leopolda,Universita di Pisa,route_426,43.7147,10.40895,78
+9639,Stazione Leopolda,Universita di Pisa,route_426,43.71478,10.40897,79
+9640,Stazione Leopolda,Universita di Pisa,route_426,43.71514,10.40902,80
+9641,Stazione Leopolda,Universita di Pisa,route_426,43.71597,10.40908,81
+9642,Stazione Leopolda,Universita di Pisa,route_426,43.71617,10.40905,82
+9643,Stazione Leopolda,Universita di Pisa,route_426,43.71637,10.40896,83
+9644,Stazione Leopolda,Universita di Pisa,route_426,43.7167,10.40875,84
+9645,Stazione Leopolda,Universita di Pisa,route_426,43.7168,10.40872,85
+9646,Stazione Leopolda,Universita di Pisa,route_426,43.71686,10.40874,86
+9647,Stazione Leopolda,Universita di Pisa,route_426,43.71695,10.40879,87
+9648,Stazione Leopolda,Universita di Pisa,route_426,43.71862,10.41041,88
+9649,Stazione Leopolda,Universita di Pisa,route_426,43.71872,10.41046,89
+9650,Stazione Leopolda,Universita di Pisa,route_426,43.71879,10.41046,90
+9651,Stazione Leopolda,Universita di Pisa,route_426,43.71868,10.40905,91
+9652,Stazione Leopolda,Universita di Pisa,route_426,43.7186,10.40806,92
+9653,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71197,10.39863,0
+9654,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71112,10.39874,1
+9655,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71102,10.39875,2
+9656,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71099,10.39875,3
+9657,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71095,10.39871,4
+9658,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71088,10.3985,5
+9659,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71079,10.39835,6
+9660,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71075,10.39827,7
+9661,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71086,10.39786,8
+9662,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.7109,10.39782,9
+9663,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71092,10.39778,10
+9664,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71092,10.39774,11
+9665,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71106,10.39746,12
+9666,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71123,10.39733,13
+9667,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71134,10.39727,14
+9668,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71188,10.39703,15
+9669,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71274,10.39666,16
+9670,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71382,10.39616,17
+9671,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71472,10.39571,18
+9672,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.7156,10.39498,19
+9673,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71581,10.39552,20
+9674,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71598,10.39605,21
+9675,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71614,10.3966,22
+9676,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71632,10.39747,23
+9677,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71652,10.39855,24
+9678,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71656,10.39883,25
+9679,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71661,10.39923,26
+9680,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71663,10.39955,27
+9681,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71664,10.39989,28
+9682,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71662,10.40025,29
+9683,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71658,10.40067,30
+9684,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71649,10.40126,31
+9685,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71641,10.40165,32
+9686,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71628,10.40215,33
+9687,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71555,10.40168,34
+9688,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71566,10.40129,35
+9689,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.7157,10.40111,36
+9690,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71576,10.40067,37
+9691,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.7158,10.40037,38
+9692,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71551,10.40027,39
+9693,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71527,10.40016,40
+9694,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71522,10.40016,41
+9695,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71507,10.40011,42
+9696,Stazione Leopolda,Via Aretino Spinello 11,route_427,43.71498,10.40006,43

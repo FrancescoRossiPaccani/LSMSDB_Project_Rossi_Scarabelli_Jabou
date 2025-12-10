@@ -1,0 +1,674 @@
+id,start,end,route_id,lat,lon,idx
+21355,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.70952,10.41348,0
+21356,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.70912,10.41268,1
+21357,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.70819,10.41357,2
+21358,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.70826,10.41366,3
+21359,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.70832,10.41372,4
+21360,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.70879,10.41406,5
+21361,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.70884,10.41414,6
+21362,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.70885,10.4142,7
+21363,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.70895,10.4143,8
+21364,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.70907,10.41439,9
+21365,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.7092,10.41448,10
+21366,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.70934,10.41454,11
+21367,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.70944,10.41455,12
+21368,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71025,10.41445,13
+21369,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71068,10.41746,14
+21370,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71091,10.41974,15
+21371,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.7109,10.4199,16
+21372,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71092,10.4202,17
+21373,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71094,10.42031,18
+21374,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71098,10.42043,19
+21375,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71101,10.42058,20
+21376,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.711,10.42062,21
+21377,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71101,10.42067,22
+21378,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71103,10.4207,23
+21379,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71105,10.42071,24
+21380,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71109,10.4207,25
+21381,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71111,10.42068,26
+21382,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71223,10.42094,27
+21383,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71242,10.4202,28
+21384,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71253,10.41978,29
+21385,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71266,10.41937,30
+21386,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.7128,10.41885,31
+21387,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71292,10.4183,32
+21388,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71339,10.41835,33
+21389,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71342,10.4184,34
+21390,Centro Commerciale Pisanova,Parcheggio di Cisanello,route_870,43.71361,10.41843,35
+21391,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.70952,10.41348,0
+21392,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.70912,10.41268,1
+21393,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.70819,10.41357,2
+21394,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.70826,10.41366,3
+21395,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.70832,10.41372,4
+21396,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.70879,10.41406,5
+21397,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.70884,10.41414,6
+21398,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.70885,10.4142,7
+21399,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.70895,10.4143,8
+21400,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.70907,10.41439,9
+21401,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.7092,10.41448,10
+21402,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.70934,10.41454,11
+21403,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.70944,10.41455,12
+21404,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.71025,10.41445,13
+21405,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.70997,10.41245,14
+21406,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.70992,10.41199,15
+21407,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.70991,10.41172,16
+21408,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.7099,10.41147,17
+21409,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.70999,10.41147,18
+21410,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.71006,10.41143,19
+21411,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.71033,10.41113,20
+21412,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.71033,10.411,21
+21413,Centro Commerciale Pisanova,Carrefour Express Pisanova,route_871,43.71032,10.41095,22
+21414,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70952,10.41348,0
+21415,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70912,10.41268,1
+21416,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70819,10.41357,2
+21417,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70826,10.41366,3
+21418,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70832,10.41372,4
+21419,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70879,10.41406,5
+21420,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70884,10.41414,6
+21421,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70885,10.4142,7
+21422,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70895,10.4143,8
+21423,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70907,10.41439,9
+21424,Centro Commerciale Pisanova,OBI Pisa,route_872,43.7092,10.41448,10
+21425,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70934,10.41454,11
+21426,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70944,10.41455,12
+21427,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71025,10.41445,13
+21428,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70997,10.41245,14
+21429,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70992,10.41199,15
+21430,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70991,10.41172,16
+21431,Centro Commerciale Pisanova,OBI Pisa,route_872,43.7099,10.41147,17
+21432,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70993,10.41076,18
+21433,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70994,10.41066,19
+21434,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70995,10.41058,20
+21435,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71002,10.41043,21
+21436,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71006,10.4104,22
+21437,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71008,10.41036,23
+21438,Centro Commerciale Pisanova,OBI Pisa,route_872,43.7101,10.41032,24
+21439,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71011,10.41027,25
+21440,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71011,10.41022,26
+21441,Centro Commerciale Pisanova,OBI Pisa,route_872,43.7101,10.41017,27
+21442,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71009,10.41013,28
+21443,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71006,10.41009,29
+21444,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71002,10.41005,30
+21445,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70998,10.40978,31
+21446,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71007,10.40776,32
+21447,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71014,10.40774,33
+21448,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71018,10.40769,34
+21449,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71019,10.40765,35
+21450,Centro Commerciale Pisanova,OBI Pisa,route_872,43.7102,10.4076,36
+21451,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71019,10.40752,37
+21452,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71017,10.40749,38
+21453,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71014,10.40745,39
+21454,Centro Commerciale Pisanova,OBI Pisa,route_872,43.7101,10.40743,40
+21455,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71008,10.40743,41
+21456,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71015,10.4061,42
+21457,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71019,10.4058,43
+21458,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71021,10.40573,44
+21459,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71027,10.40559,45
+21460,Centro Commerciale Pisanova,OBI Pisa,route_872,43.7104,10.4055,46
+21461,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71043,10.40545,47
+21462,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71044,10.40536,48
+21463,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71044,10.4053,49
+21464,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71041,10.40524,50
+21465,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71035,10.4052,51
+21466,Centro Commerciale Pisanova,OBI Pisa,route_872,43.7103,10.4052,52
+21467,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71019,10.40527,53
+21468,Centro Commerciale Pisanova,OBI Pisa,route_872,43.7101,10.40527,54
+21469,Centro Commerciale Pisanova,OBI Pisa,route_872,43.71006,10.40525,55
+21470,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70988,10.40513,56
+21471,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70974,10.40502,57
+21472,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70967,10.40492,58
+21473,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70965,10.40486,59
+21474,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70975,10.40422,60
+21475,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70988,10.40324,61
+21476,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70958,10.40294,62
+21477,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70931,10.40264,63
+21478,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70908,10.40242,64
+21479,Centro Commerciale Pisanova,OBI Pisa,route_872,43.7087,10.40213,65
+21480,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70831,10.40184,66
+21481,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70795,10.40155,67
+21482,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70789,10.40152,68
+21483,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70786,10.40151,69
+21484,Centro Commerciale Pisanova,OBI Pisa,route_872,43.7078,10.40151,70
+21485,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70777,10.40153,71
+21486,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70771,10.40159,72
+21487,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70765,10.40172,73
+21488,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70712,10.40318,74
+21489,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70614,10.40251,75
+21490,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70553,10.40214,76
+21491,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70547,10.40207,77
+21492,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70535,10.40184,78
+21493,Centro Commerciale Pisanova,OBI Pisa,route_872,43.7053,10.40178,79
+21494,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70524,10.40171,80
+21495,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70471,10.40133,81
+21496,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70455,10.40124,82
+21497,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70276,10.40076,83
+21498,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70252,10.40069,84
+21499,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70247,10.40067,85
+21500,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70244,10.40064,86
+21501,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70245,10.40061,87
+21502,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70245,10.40056,88
+21503,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70244,10.40052,89
+21504,Centro Commerciale Pisanova,OBI Pisa,route_872,43.7024,10.40047,90
+21505,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70237,10.40046,91
+21506,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70234,10.40046,92
+21507,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70231,10.40048,93
+21508,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70229,10.40051,94
+21509,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70228,10.40054,95
+21510,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70227,10.40058,96
+21511,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70215,10.40059,97
+21512,Centro Commerciale Pisanova,OBI Pisa,route_872,43.7018,10.40051,98
+21513,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70155,10.40042,99
+21514,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70036,10.3998,100
+21515,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70022,10.39969,101
+21516,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70002,10.39958,102
+21517,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69981,10.39948,103
+21518,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69978,10.39945,104
+21519,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69975,10.39939,105
+21520,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69973,10.39932,106
+21521,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69971,10.39917,107
+21522,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69979,10.39842,108
+21523,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69985,10.39803,109
+21524,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69986,10.39795,110
+21525,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69986,10.39785,111
+21526,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69985,10.39773,112
+21527,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69984,10.39757,113
+21528,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69985,10.39744,114
+21529,Centro Commerciale Pisanova,OBI Pisa,route_872,43.6999,10.39727,115
+21530,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69998,10.39716,116
+21531,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70003,10.3971,117
+21532,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70009,10.39713,118
+21533,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70014,10.39713,119
+21534,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70018,10.39714,120
+21535,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70025,10.3972,121
+21536,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70032,10.3973,122
+21537,Centro Commerciale Pisanova,OBI Pisa,route_872,43.7004,10.39742,123
+21538,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70048,10.39756,124
+21539,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70052,10.39767,125
+21540,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70055,10.39782,126
+21541,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70057,10.39795,127
+21542,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70058,10.39808,128
+21543,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70055,10.39822,129
+21544,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70052,10.3983,130
+21545,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70047,10.39837,131
+21546,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70042,10.39841,132
+21547,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70038,10.39842,133
+21548,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70033,10.39842,134
+21549,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70026,10.3984,135
+21550,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70023,10.39837,136
+21551,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70019,10.39831,137
+21552,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70014,10.39817,138
+21553,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70014,10.39808,139
+21554,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70016,10.3977,140
+21555,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70013,10.39718,141
+21556,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70016,10.39669,142
+21557,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70016,10.39634,143
+21558,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70014,10.39574,144
+21559,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70011,10.39535,145
+21560,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70005,10.39477,146
+21561,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69972,10.39251,147
+21562,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69964,10.39173,148
+21563,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69962,10.39127,149
+21564,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69963,10.39086,150
+21565,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69966,10.3904,151
+21566,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69981,10.38975,152
+21567,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69988,10.38958,153
+21568,Centro Commerciale Pisanova,OBI Pisa,route_872,43.69994,10.38947,154
+21569,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70001,10.38938,155
+21570,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70014,10.38924,156
+21571,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70025,10.38915,157
+21572,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70058,10.38895,158
+21573,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70094,10.38877,159
+21574,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70137,10.38851,160
+21575,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70158,10.38833,161
+21576,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70163,10.38828,162
+21577,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70172,10.38815,163
+21578,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70195,10.38796,164
+21579,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70218,10.38777,165
+21580,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70243,10.38759,166
+21581,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70275,10.38734,167
+21582,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70284,10.38726,168
+21583,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70302,10.38699,169
+21584,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70308,10.38696,170
+21585,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70312,10.3869,171
+21586,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70313,10.38686,172
+21587,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70313,10.38678,173
+21588,Centro Commerciale Pisanova,OBI Pisa,route_872,43.7031,10.3867,174
+21589,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70306,10.38666,175
+21590,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70293,10.38661,176
+21591,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70273,10.38649,177
+21592,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70261,10.38638,178
+21593,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70233,10.38598,179
+21594,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70201,10.38547,180
+21595,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70116,10.3842,181
+21596,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70076,10.38359,182
+21597,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70069,10.38352,183
+21598,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70073,10.38348,184
+21599,Centro Commerciale Pisanova,OBI Pisa,route_872,43.70073,10.38346,185
+21600,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70952,10.41348,0
+21601,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70912,10.41268,1
+21602,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70819,10.41357,2
+21603,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70826,10.41366,3
+21604,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70832,10.41372,4
+21605,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70879,10.41406,5
+21606,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70884,10.41414,6
+21607,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70885,10.4142,7
+21608,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70895,10.4143,8
+21609,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70907,10.41439,9
+21610,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.7092,10.41448,10
+21611,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70934,10.41454,11
+21612,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70944,10.41455,12
+21613,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71025,10.41445,13
+21614,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70997,10.41245,14
+21615,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70992,10.41199,15
+21616,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70991,10.41172,16
+21617,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.7099,10.41147,17
+21618,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70993,10.41076,18
+21619,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70994,10.41066,19
+21620,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70995,10.41058,20
+21621,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71002,10.41043,21
+21622,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71006,10.4104,22
+21623,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71008,10.41036,23
+21624,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.7101,10.41032,24
+21625,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71011,10.41027,25
+21626,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71011,10.41022,26
+21627,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.7101,10.41017,27
+21628,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71009,10.41013,28
+21629,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71006,10.41009,29
+21630,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71002,10.41005,30
+21631,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70998,10.40978,31
+21632,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71007,10.40776,32
+21633,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71014,10.40774,33
+21634,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71018,10.40769,34
+21635,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71019,10.40765,35
+21636,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.7102,10.4076,36
+21637,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71019,10.40752,37
+21638,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71017,10.40749,38
+21639,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71014,10.40745,39
+21640,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.7101,10.40743,40
+21641,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71008,10.40743,41
+21642,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71015,10.4061,42
+21643,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71019,10.4058,43
+21644,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71021,10.40573,44
+21645,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71027,10.40559,45
+21646,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.7104,10.4055,46
+21647,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71043,10.40545,47
+21648,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71044,10.40536,48
+21649,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71044,10.4053,49
+21650,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71041,10.40524,50
+21651,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71035,10.4052,51
+21652,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.7103,10.4052,52
+21653,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71019,10.40527,53
+21654,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.7101,10.40527,54
+21655,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.71006,10.40525,55
+21656,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70988,10.40513,56
+21657,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70974,10.40502,57
+21658,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70967,10.40492,58
+21659,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70965,10.40486,59
+21660,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70975,10.40422,60
+21661,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70988,10.40324,61
+21662,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70958,10.40294,62
+21663,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70931,10.40264,63
+21664,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70908,10.40242,64
+21665,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.7087,10.40213,65
+21666,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70831,10.40184,66
+21667,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70795,10.40155,67
+21668,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70789,10.40152,68
+21669,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70786,10.40151,69
+21670,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.7078,10.40151,70
+21671,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70777,10.40153,71
+21672,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70771,10.40159,72
+21673,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70765,10.40172,73
+21674,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70712,10.40318,74
+21675,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70614,10.40251,75
+21676,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70553,10.40214,76
+21677,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70547,10.40207,77
+21678,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70535,10.40184,78
+21679,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.7053,10.40178,79
+21680,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70524,10.40171,80
+21681,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70471,10.40133,81
+21682,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70455,10.40124,82
+21683,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70276,10.40076,83
+21684,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70252,10.40069,84
+21685,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70247,10.40067,85
+21686,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70244,10.40064,86
+21687,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70245,10.40061,87
+21688,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70245,10.40056,88
+21689,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70244,10.40052,89
+21690,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.7024,10.40047,90
+21691,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70243,10.40034,91
+21692,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.7025,10.39945,92
+21693,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.7025,10.39922,93
+21694,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70247,10.399,94
+21695,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70244,10.39887,95
+21696,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70238,10.39866,96
+21697,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70231,10.39852,97
+21698,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70222,10.39838,98
+21699,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70211,10.39825,99
+21700,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70199,10.39815,100
+21701,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70098,10.39752,101
+21702,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.7008,10.3974,102
+21703,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70065,10.39723,103
+21704,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70058,10.39707,104
+21705,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70053,10.39683,105
+21706,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70053,10.39669,106
+21707,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70055,10.39644,107
+21708,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70065,10.39604,108
+21709,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70076,10.39611,109
+21710,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70138,10.39664,110
+21711,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70178,10.39694,111
+21712,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70257,10.39752,112
+21713,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70293,10.39775,113
+21714,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70326,10.398,114
+21715,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70344,10.39813,115
+21716,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70363,10.39827,116
+21717,Centro Commerciale Pisanova,Ristorante La Greppia,route_873,43.70434,10.39885,117
+21718,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70952,10.41348,0
+21719,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70912,10.41268,1
+21720,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70819,10.41357,2
+21721,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70826,10.41366,3
+21722,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70832,10.41372,4
+21723,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70879,10.41406,5
+21724,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70884,10.41414,6
+21725,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70885,10.4142,7
+21726,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70895,10.4143,8
+21727,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70907,10.41439,9
+21728,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.7092,10.41448,10
+21729,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70934,10.41454,11
+21730,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70944,10.41455,12
+21731,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71025,10.41445,13
+21732,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70997,10.41245,14
+21733,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70992,10.41199,15
+21734,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70991,10.41172,16
+21735,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.7099,10.41147,17
+21736,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70993,10.41076,18
+21737,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70994,10.41066,19
+21738,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70995,10.41058,20
+21739,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71002,10.41043,21
+21740,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71006,10.4104,22
+21741,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71008,10.41036,23
+21742,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.7101,10.41032,24
+21743,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71011,10.41027,25
+21744,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71011,10.41022,26
+21745,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.7101,10.41017,27
+21746,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71009,10.41013,28
+21747,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71006,10.41009,29
+21748,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71002,10.41005,30
+21749,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70998,10.40978,31
+21750,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71007,10.40776,32
+21751,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71014,10.40774,33
+21752,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71018,10.40769,34
+21753,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71019,10.40765,35
+21754,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.7102,10.4076,36
+21755,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71019,10.40752,37
+21756,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71017,10.40749,38
+21757,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71014,10.40745,39
+21758,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.7101,10.40743,40
+21759,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71008,10.40743,41
+21760,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71015,10.4061,42
+21761,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71019,10.4058,43
+21762,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71021,10.40573,44
+21763,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71027,10.40559,45
+21764,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.7104,10.4055,46
+21765,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71043,10.40545,47
+21766,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71044,10.40536,48
+21767,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71044,10.4053,49
+21768,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71041,10.40524,50
+21769,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71035,10.4052,51
+21770,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.7103,10.4052,52
+21771,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71019,10.40527,53
+21772,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.7101,10.40527,54
+21773,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.71006,10.40525,55
+21774,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70988,10.40513,56
+21775,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70974,10.40502,57
+21776,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70967,10.40492,58
+21777,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70965,10.40486,59
+21778,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70975,10.40422,60
+21779,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70988,10.40324,61
+21780,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70958,10.40294,62
+21781,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70931,10.40264,63
+21782,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70908,10.40242,64
+21783,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.7087,10.40213,65
+21784,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70831,10.40184,66
+21785,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70795,10.40155,67
+21786,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70789,10.40152,68
+21787,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70786,10.40151,69
+21788,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.7078,10.40151,70
+21789,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70777,10.40153,71
+21790,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70771,10.40159,72
+21791,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70765,10.40172,73
+21792,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70712,10.40318,74
+21793,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70614,10.40251,75
+21794,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70553,10.40214,76
+21795,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70547,10.40207,77
+21796,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70535,10.40184,78
+21797,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.7053,10.40178,79
+21798,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70524,10.40171,80
+21799,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70471,10.40133,81
+21800,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70449,10.4017,82
+21801,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70372,10.40311,83
+21802,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70318,10.40409,84
+21803,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70341,10.40424,85
+21804,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.7038,10.40446,86
+21805,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70398,10.40457,87
+21806,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70413,10.40468,88
+21807,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70417,10.40473,89
+21808,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70429,10.40492,90
+21809,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70432,10.40493,91
+21810,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70436,10.40492,92
+21811,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70448,10.40465,93
+21812,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70541,10.40223,94
+21813,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.7056,10.4024,95
+21814,Centro Commerciale Pisanova,Ristorante Pizzeria Il Pellicano,route_874,43.70546,10.40277,96
+21815,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.70952,10.41348,0
+21816,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.70912,10.41268,1
+21817,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.70819,10.41357,2
+21818,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.70826,10.41366,3
+21819,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.70832,10.41372,4
+21820,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.70879,10.41406,5
+21821,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.70884,10.41414,6
+21822,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.70885,10.4142,7
+21823,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.70895,10.4143,8
+21824,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.70907,10.41439,9
+21825,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.7092,10.41448,10
+21826,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.70934,10.41454,11
+21827,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.70944,10.41455,12
+21828,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71025,10.41445,13
+21829,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71057,10.41438,14
+21830,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71069,10.41432,15
+21831,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71081,10.41424,16
+21832,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71129,10.41386,17
+21833,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71154,10.41446,18
+21834,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71158,10.41452,19
+21835,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71195,10.41481,20
+21836,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.712,10.41483,21
+21837,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71208,10.41486,22
+21838,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71216,10.41487,23
+21839,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71287,10.41487,24
+21840,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71288,10.41468,25
+21841,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71299,10.41425,26
+21842,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71304,10.41409,27
+21843,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71351,10.41365,28
+21844,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71461,10.41276,29
+21845,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71472,10.41269,30
+21846,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71481,10.41263,31
+21847,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71492,10.4126,32
+21848,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71509,10.41257,33
+21849,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71556,10.41263,34
+21850,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71578,10.41341,35
+21851,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71609,10.41484,36
+21852,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71616,10.415,37
+21853,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71621,10.41509,38
+21854,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71675,10.41587,39
+21855,Centro Commerciale Pisanova,Via San Ranieri 9,route_875,43.71563,10.41723,40
+21856,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70952,10.41348,0
+21857,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70912,10.41268,1
+21858,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70819,10.41357,2
+21859,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70826,10.41366,3
+21860,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70832,10.41372,4
+21861,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70879,10.41406,5
+21862,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70884,10.41414,6
+21863,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70885,10.4142,7
+21864,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70895,10.4143,8
+21865,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70907,10.41439,9
+21866,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.7092,10.41448,10
+21867,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70934,10.41454,11
+21868,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70944,10.41455,12
+21869,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71025,10.41445,13
+21870,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70997,10.41245,14
+21871,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70992,10.41199,15
+21872,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70991,10.41172,16
+21873,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.7099,10.41147,17
+21874,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70993,10.41076,18
+21875,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70994,10.41066,19
+21876,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70995,10.41058,20
+21877,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71002,10.41043,21
+21878,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71006,10.4104,22
+21879,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71008,10.41036,23
+21880,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.7101,10.41032,24
+21881,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71011,10.41027,25
+21882,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71011,10.41022,26
+21883,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.7101,10.41017,27
+21884,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71009,10.41013,28
+21885,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71006,10.41009,29
+21886,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71002,10.41005,30
+21887,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70998,10.40978,31
+21888,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71007,10.40776,32
+21889,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71014,10.40774,33
+21890,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71018,10.40769,34
+21891,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71019,10.40765,35
+21892,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.7102,10.4076,36
+21893,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71019,10.40752,37
+21894,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71017,10.40749,38
+21895,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71014,10.40745,39
+21896,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.7101,10.40743,40
+21897,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71008,10.40743,41
+21898,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71015,10.4061,42
+21899,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71019,10.4058,43
+21900,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71021,10.40573,44
+21901,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71027,10.40559,45
+21902,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.7104,10.4055,46
+21903,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71043,10.40545,47
+21904,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71044,10.40536,48
+21905,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71044,10.4053,49
+21906,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71041,10.40524,50
+21907,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71035,10.4052,51
+21908,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.7103,10.4052,52
+21909,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71019,10.40527,53
+21910,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.7101,10.40527,54
+21911,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.71006,10.40525,55
+21912,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70988,10.40513,56
+21913,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70974,10.40502,57
+21914,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70967,10.40492,58
+21915,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70965,10.40486,59
+21916,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70975,10.40422,60
+21917,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70988,10.40324,61
+21918,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70958,10.40294,62
+21919,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70931,10.40264,63
+21920,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70908,10.40242,64
+21921,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.7087,10.40213,65
+21922,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70831,10.40184,66
+21923,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70795,10.40155,67
+21924,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70789,10.40152,68
+21925,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70786,10.40151,69
+21926,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.7078,10.40151,70
+21927,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70777,10.40153,71
+21928,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70771,10.40159,72
+21929,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70765,10.40172,73
+21930,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70712,10.40318,74
+21931,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70614,10.40251,75
+21932,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70558,10.40217,76
+21933,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70553,10.40214,77
+21934,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70547,10.40207,78
+21935,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70544,10.40191,79
+21936,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70537,10.40167,80
+21937,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70504,10.40081,81
+21938,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.705,10.40076,82
+21939,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70504,10.40057,83
+21940,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70524,10.3999,84
+21941,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70534,10.3996,85
+21942,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70563,10.39979,86
+21943,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70582,10.39989,87
+21944,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70585,10.3997,88
+21945,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70588,10.39936,89
+21946,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70593,10.39894,90
+21947,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70603,10.39837,91
+21948,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70608,10.39812,92
+21949,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70613,10.39793,93
+21950,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70622,10.39768,94
+21951,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70625,10.39761,95
+21952,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70641,10.39743,96
+21953,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70661,10.39725,97
+21954,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70682,10.39704,98
+21955,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70686,10.39696,99
+21956,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70696,10.39666,100
+21957,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.707,10.39643,101
+21958,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70702,10.39603,102
+21959,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70706,10.39571,103
+21960,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70717,10.39505,104
+21961,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70719,10.39483,105
+21962,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.7072,10.39425,106
+21963,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70719,10.39277,107
+21964,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70597,10.39285,108
+21965,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70594,10.39284,109
+21966,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70592,10.3928,110
+21967,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70591,10.39274,111
+21968,Centro Commerciale Pisanova,Supermercato Coop San Giusto,route_876,43.70591,10.3922,112
+21969,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.70952,10.41348,0
+21970,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.70912,10.41268,1
+21971,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.70819,10.41357,2
+21972,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.70826,10.41366,3
+21973,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.70832,10.41372,4
+21974,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.70879,10.41406,5
+21975,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.70884,10.41414,6
+21976,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.70885,10.4142,7
+21977,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.70895,10.4143,8
+21978,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.70907,10.41439,9
+21979,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.7092,10.41448,10
+21980,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.70934,10.41454,11
+21981,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.70944,10.41455,12
+21982,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71025,10.41445,13
+21983,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.70997,10.41245,14
+21984,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.70992,10.41199,15
+21985,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.70991,10.41172,16
+21986,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.7099,10.41147,17
+21987,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.70993,10.41076,18
+21988,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.70994,10.41066,19
+21989,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.70995,10.41058,20
+21990,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71002,10.41043,21
+21991,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71006,10.4104,22
+21992,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71008,10.41036,23
+21993,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.7101,10.41032,24
+21994,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71011,10.41027,25
+21995,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71011,10.41022,26
+21996,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.7101,10.41017,27
+21997,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71009,10.41013,28
+21998,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71006,10.41009,29
+21999,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71002,10.41005,30
+22000,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.70998,10.40978,31
+22001,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71007,10.40776,32
+22002,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71014,10.40774,33
+22003,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71018,10.40769,34
+22004,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71019,10.40765,35
+22005,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.7102,10.4076,36
+22006,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71019,10.40752,37
+22007,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71017,10.40749,38
+22008,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71014,10.40745,39
+22009,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.7101,10.40743,40
+22010,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71008,10.40743,41
+22011,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71015,10.4061,42
+22012,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71019,10.4058,43
+22013,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71021,10.40573,44
+22014,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71027,10.40559,45
+22015,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.7104,10.4055,46
+22016,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71043,10.40545,47
+22017,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71044,10.40536,48
+22018,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71044,10.4053,49
+22019,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71044,10.40507,50
+22020,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71053,10.40511,51
+22021,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71123,10.40543,52
+22022,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71133,10.40545,53
+22023,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71143,10.40549,54
+22024,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71169,10.4056,55
+22025,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71176,10.40569,56
+22026,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71192,10.40577,57
+22027,Centro Commerciale Pisanova,Via Montanelli 66,route_877,43.71316,10.40636,58

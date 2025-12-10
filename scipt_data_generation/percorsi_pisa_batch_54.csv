@@ -1,0 +1,304 @@
+id,start,end,route_id,lat,lon,idx
+39669,Via Montanelli 66,Torre,route_1590,43.71316,10.40636,0
+39670,Via Montanelli 66,Torre,route_1590,43.71352,10.40647,1
+39671,Via Montanelli 66,Torre,route_1590,43.7136,10.40622,2
+39672,Via Montanelli 66,Torre,route_1590,43.71372,10.40591,3
+39673,Via Montanelli 66,Torre,route_1590,43.7139,10.40551,4
+39674,Via Montanelli 66,Torre,route_1590,43.71412,10.40501,5
+39675,Via Montanelli 66,Torre,route_1590,43.71493,10.40327,6
+39676,Via Montanelli 66,Torre,route_1590,43.71526,10.4025,7
+39677,Via Montanelli 66,Torre,route_1590,43.7154,10.40214,8
+39678,Via Montanelli 66,Torre,route_1590,43.71551,10.40181,9
+39679,Via Montanelli 66,Torre,route_1590,43.71566,10.40129,10
+39680,Via Montanelli 66,Torre,route_1590,43.7157,10.40111,11
+39681,Via Montanelli 66,Torre,route_1590,43.71576,10.40067,12
+39682,Via Montanelli 66,Torre,route_1590,43.7158,10.40037,13
+39683,Via Montanelli 66,Torre,route_1590,43.71583,10.39998,14
+39684,Via Montanelli 66,Torre,route_1590,43.71583,10.39968,15
+39685,Via Montanelli 66,Torre,route_1590,43.7158,10.39919,16
+39686,Via Montanelli 66,Torre,route_1590,43.71577,10.39888,17
+39687,Via Montanelli 66,Torre,route_1590,43.71571,10.39854,18
+39688,Via Montanelli 66,Torre,route_1590,43.71565,10.39827,19
+39689,Via Montanelli 66,Torre,route_1590,43.71557,10.39791,20
+39690,Via Montanelli 66,Torre,route_1590,43.71542,10.39746,21
+39691,Via Montanelli 66,Torre,route_1590,43.71511,10.3966,22
+39692,Via Montanelli 66,Torre,route_1590,43.71508,10.39645,23
+39693,Via Montanelli 66,Torre,route_1590,43.71496,10.39619,24
+39694,Via Montanelli 66,Torre,route_1590,43.71472,10.39571,25
+39695,Via Montanelli 66,Torre,route_1590,43.7156,10.39498,26
+39696,Via Montanelli 66,Torre,route_1590,43.7154,10.39451,27
+39697,Via Montanelli 66,Torre,route_1590,43.7153,10.3943,28
+39698,Via Montanelli 66,Torre,route_1590,43.71495,10.39362,29
+39699,Via Montanelli 66,Torre,route_1590,43.71451,10.39274,30
+39700,Via Montanelli 66,Torre,route_1590,43.71413,10.39183,31
+39701,Via Montanelli 66,Torre,route_1590,43.71406,10.39165,32
+39702,Via Montanelli 66,Torre,route_1590,43.71405,10.39151,33
+39703,Via Montanelli 66,Torre,route_1590,43.71401,10.39126,34
+39704,Via Montanelli 66,Torre,route_1590,43.71401,10.39117,35
+39705,Via Montanelli 66,Torre,route_1590,43.71407,10.39084,36
+39706,Via Montanelli 66,Torre,route_1590,43.71408,10.39068,37
+39707,Via Montanelli 66,Torre,route_1590,43.71401,10.39043,38
+39708,Via Montanelli 66,Torre,route_1590,43.71385,10.39001,39
+39709,Via Montanelli 66,Torre,route_1590,43.71384,10.38995,40
+39710,Via Montanelli 66,Torre,route_1590,43.71376,10.38983,41
+39711,Via Montanelli 66,Torre,route_1590,43.71371,10.38969,42
+39712,Via Montanelli 66,Torre,route_1590,43.71353,10.38923,43
+39713,Via Montanelli 66,Torre,route_1590,43.71345,10.38902,44
+39714,Via Montanelli 66,Torre,route_1590,43.71344,10.38891,45
+39715,Via Montanelli 66,Torre,route_1590,43.71346,10.38884,46
+39716,Via Montanelli 66,Torre,route_1590,43.71349,10.38879,47
+39717,Via Montanelli 66,Torre,route_1590,43.71368,10.38866,48
+39718,Via Montanelli 66,Torre,route_1590,43.71541,10.38785,49
+39719,Via Montanelli 66,Torre,route_1590,43.71552,10.38782,50
+39720,Via Montanelli 66,Torre,route_1590,43.71563,10.38783,51
+39721,Via Montanelli 66,Torre,route_1590,43.71573,10.38784,52
+39722,Via Montanelli 66,Torre,route_1590,43.71589,10.38791,53
+39723,Via Montanelli 66,Torre,route_1590,43.716,10.38799,54
+39724,Via Montanelli 66,Torre,route_1590,43.71818,10.38945,55
+39725,Via Montanelli 66,Torre,route_1590,43.72147,10.39162,56
+39726,Via Montanelli 66,Torre,route_1590,43.7218,10.39181,57
+39727,Via Montanelli 66,Torre,route_1590,43.72197,10.39191,58
+39728,Via Montanelli 66,Torre,route_1590,43.72264,10.3922,59
+39729,Via Montanelli 66,Torre,route_1590,43.72271,10.39222,60
+39730,Via Montanelli 66,Torre,route_1590,43.72283,10.39223,61
+39731,Via Montanelli 66,Torre,route_1590,43.72295,10.39222,62
+39732,Via Montanelli 66,Torre,route_1590,43.72306,10.39219,63
+39733,Via Montanelli 66,Torre,route_1590,43.72369,10.3919,64
+39734,Via Montanelli 66,Torre,route_1590,43.72486,10.3913,65
+39735,Via Montanelli 66,Torre,route_1590,43.72489,10.39135,66
+39736,Via Montanelli 66,Torre,route_1590,43.72494,10.39137,67
+39737,Via Montanelli 66,Torre,route_1590,43.72497,10.39193,68
+39738,Via Montanelli 66,Torre,route_1590,43.72495,10.39213,69
+39739,Via Montanelli 66,Torre,route_1590,43.7249,10.3925,70
+39740,Via Montanelli 66,Torre,route_1590,43.72483,10.3929,71
+39741,Via Montanelli 66,Torre,route_1590,43.72409,10.39685,72
+39742,Via Montanelli 66,Torre,route_1590,43.724,10.39723,73
+39743,Via Montanelli 66,Torre,route_1590,43.72359,10.39853,74
+39744,Via Montanelli 66,Torre,route_1590,43.72344,10.39844,75
+39745,Via Montanelli 66,Torre,route_1590,43.72295,10.39822,76
+39746,Via Montanelli 66,Torre,route_1590,43.723,10.39797,77
+39747,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71316,10.40636,0
+39748,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71352,10.40647,1
+39749,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.7136,10.40622,2
+39750,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71372,10.40591,3
+39751,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.7139,10.40551,4
+39752,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71412,10.40501,5
+39753,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71493,10.40327,6
+39754,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71519,10.40267,7
+39755,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.7154,10.40214,8
+39756,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71551,10.40181,9
+39757,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71566,10.40129,10
+39758,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.7157,10.40111,11
+39759,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71576,10.40067,12
+39760,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.7158,10.40037,13
+39761,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71583,10.39998,14
+39762,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71583,10.39968,15
+39763,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.7158,10.39919,16
+39764,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71577,10.39888,17
+39765,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71571,10.39854,18
+39766,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71557,10.39791,19
+39767,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71542,10.39746,20
+39768,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71511,10.3966,21
+39769,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71508,10.39645,22
+39770,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71496,10.39619,23
+39771,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71481,10.39588,24
+39772,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71421,10.39466,25
+39773,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71376,10.39381,26
+39774,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71333,10.39296,27
+39775,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.7129,10.39217,28
+39776,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71261,10.39159,29
+39777,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71248,10.39131,30
+39778,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71241,10.3912,31
+39779,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71236,10.39115,32
+39780,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71187,10.39133,33
+39781,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71179,10.39138,34
+39782,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71169,10.39143,35
+39783,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71166,10.3914,36
+39784,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71162,10.39139,37
+39785,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71158,10.39142,38
+39786,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71133,10.39152,39
+39787,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71093,10.39162,40
+39788,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71082,10.39166,41
+39789,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71072,10.39173,42
+39790,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71067,10.39179,43
+39791,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71063,10.39186,44
+39792,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71061,10.39193,45
+39793,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.7106,10.39206,46
+39794,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71058,10.39434,47
+39795,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71057,10.39451,48
+39796,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71054,10.39481,49
+39797,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71041,10.39568,50
+39798,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71036,10.39568,51
+39799,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71033,10.39573,52
+39800,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71032,10.3958,53
+39801,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71034,10.39585,54
+39802,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71038,10.39588,55
+39803,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71033,10.39616,56
+39804,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.71012,10.39608,57
+39805,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.70953,10.39581,58
+39806,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.70918,10.39565,59
+39807,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.70897,10.39558,60
+39808,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.70892,10.39609,61
+39809,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.70892,10.3962,62
+39810,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.70894,10.3963,63
+39811,Via Montanelli 66,Stazione Pisa Centrale,route_1591,43.70875,10.39738,64
+39812,Via Montanelli 66,Universita di Pisa,route_1592,43.71316,10.40636,0
+39813,Via Montanelli 66,Universita di Pisa,route_1592,43.71352,10.40647,1
+39814,Via Montanelli 66,Universita di Pisa,route_1592,43.7136,10.40622,2
+39815,Via Montanelli 66,Universita di Pisa,route_1592,43.71372,10.40591,3
+39816,Via Montanelli 66,Universita di Pisa,route_1592,43.7139,10.40551,4
+39817,Via Montanelli 66,Universita di Pisa,route_1592,43.71412,10.40501,5
+39818,Via Montanelli 66,Universita di Pisa,route_1592,43.71493,10.40327,6
+39819,Via Montanelli 66,Universita di Pisa,route_1592,43.71519,10.40267,7
+39820,Via Montanelli 66,Universita di Pisa,route_1592,43.7154,10.40214,8
+39821,Via Montanelli 66,Universita di Pisa,route_1592,43.71555,10.40168,9
+39822,Via Montanelli 66,Universita di Pisa,route_1592,43.71628,10.40215,10
+39823,Via Montanelli 66,Universita di Pisa,route_1592,43.71557,10.40465,11
+39824,Via Montanelli 66,Universita di Pisa,route_1592,43.71546,10.40496,12
+39825,Via Montanelli 66,Universita di Pisa,route_1592,43.71525,10.40549,13
+39826,Via Montanelli 66,Universita di Pisa,route_1592,43.71463,10.40691,14
+39827,Via Montanelli 66,Universita di Pisa,route_1592,43.71428,10.40766,15
+39828,Via Montanelli 66,Universita di Pisa,route_1592,43.71397,10.40838,16
+39829,Via Montanelli 66,Universita di Pisa,route_1592,43.7139,10.40851,17
+39830,Via Montanelli 66,Universita di Pisa,route_1592,43.7141,10.40867,18
+39831,Via Montanelli 66,Universita di Pisa,route_1592,43.71421,10.40873,19
+39832,Via Montanelli 66,Universita di Pisa,route_1592,43.7147,10.40895,20
+39833,Via Montanelli 66,Universita di Pisa,route_1592,43.71478,10.40897,21
+39834,Via Montanelli 66,Universita di Pisa,route_1592,43.71514,10.40902,22
+39835,Via Montanelli 66,Universita di Pisa,route_1592,43.71597,10.40908,23
+39836,Via Montanelli 66,Universita di Pisa,route_1592,43.71617,10.40905,24
+39837,Via Montanelli 66,Universita di Pisa,route_1592,43.71637,10.40896,25
+39838,Via Montanelli 66,Universita di Pisa,route_1592,43.7167,10.40875,26
+39839,Via Montanelli 66,Universita di Pisa,route_1592,43.7168,10.40872,27
+39840,Via Montanelli 66,Universita di Pisa,route_1592,43.71686,10.40874,28
+39841,Via Montanelli 66,Universita di Pisa,route_1592,43.71695,10.40879,29
+39842,Via Montanelli 66,Universita di Pisa,route_1592,43.71862,10.41041,30
+39843,Via Montanelli 66,Universita di Pisa,route_1592,43.71872,10.41046,31
+39844,Via Montanelli 66,Universita di Pisa,route_1592,43.71879,10.41046,32
+39845,Via Montanelli 66,Universita di Pisa,route_1592,43.71868,10.40905,33
+39846,Via Montanelli 66,Universita di Pisa,route_1592,43.7186,10.40806,34
+39847,Via Montanelli 66,Via Aretino Spinello 11,route_1593,43.71316,10.40636,0
+39848,Via Montanelli 66,Via Aretino Spinello 11,route_1593,43.71352,10.40647,1
+39849,Via Montanelli 66,Via Aretino Spinello 11,route_1593,43.7136,10.40622,2
+39850,Via Montanelli 66,Via Aretino Spinello 11,route_1593,43.71372,10.40591,3
+39851,Via Montanelli 66,Via Aretino Spinello 11,route_1593,43.7139,10.40551,4
+39852,Via Montanelli 66,Via Aretino Spinello 11,route_1593,43.71412,10.40501,5
+39853,Via Montanelli 66,Via Aretino Spinello 11,route_1593,43.71493,10.40327,6
+39854,Via Montanelli 66,Via Aretino Spinello 11,route_1593,43.71526,10.4025,7
+39855,Via Montanelli 66,Via Aretino Spinello 11,route_1593,43.7154,10.40214,8
+39856,Via Montanelli 66,Via Aretino Spinello 11,route_1593,43.71551,10.40181,9
+39857,Via Montanelli 66,Via Aretino Spinello 11,route_1593,43.71566,10.40129,10
+39858,Via Montanelli 66,Via Aretino Spinello 11,route_1593,43.7157,10.40111,11
+39859,Via Montanelli 66,Via Aretino Spinello 11,route_1593,43.71576,10.40067,12
+39860,Via Montanelli 66,Via Aretino Spinello 11,route_1593,43.7158,10.40037,13
+39861,Via Montanelli 66,Via Aretino Spinello 11,route_1593,43.71551,10.40027,14
+39862,Via Montanelli 66,Via Aretino Spinello 11,route_1593,43.71527,10.40016,15
+39863,Via Montanelli 66,Via Aretino Spinello 11,route_1593,43.71522,10.40016,16
+39864,Via Montanelli 66,Via Aretino Spinello 11,route_1593,43.71507,10.40011,17
+39865,Via Montanelli 66,Via Aretino Spinello 11,route_1593,43.71498,10.40006,18
+39866,Via Montanelli 66,Via Angelo Battelli 5,route_1594,43.71316,10.40636,0
+39867,Via Montanelli 66,Via Angelo Battelli 5,route_1594,43.71352,10.40647,1
+39868,Via Montanelli 66,Via Angelo Battelli 5,route_1594,43.7136,10.40622,2
+39869,Via Montanelli 66,Via Angelo Battelli 5,route_1594,43.71372,10.40591,3
+39870,Via Montanelli 66,Via Angelo Battelli 5,route_1594,43.7139,10.40551,4
+39871,Via Montanelli 66,Via Angelo Battelli 5,route_1594,43.71412,10.40501,5
+39872,Via Montanelli 66,Via Angelo Battelli 5,route_1594,43.71493,10.40327,6
+39873,Via Montanelli 66,Via Angelo Battelli 5,route_1594,43.71519,10.40267,7
+39874,Via Montanelli 66,Via Angelo Battelli 5,route_1594,43.7154,10.40214,8
+39875,Via Montanelli 66,Via Angelo Battelli 5,route_1594,43.71555,10.40168,9
+39876,Via Montanelli 66,Via Angelo Battelli 5,route_1594,43.71621,10.40211,10
+39877,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71316,10.40636,0
+39878,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71352,10.40647,1
+39879,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.7136,10.40622,2
+39880,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71372,10.40591,3
+39881,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.7139,10.40551,4
+39882,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71412,10.40501,5
+39883,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71493,10.40327,6
+39884,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71519,10.40267,7
+39885,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.7154,10.40214,8
+39886,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71555,10.40168,9
+39887,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71628,10.40215,10
+39888,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71557,10.40465,11
+39889,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71546,10.40496,12
+39890,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71525,10.40549,13
+39891,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71463,10.40691,14
+39892,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71497,10.40718,15
+39893,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71506,10.40689,16
+39894,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.7152,10.40696,17
+39895,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71554,10.40711,18
+39896,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71614,10.40717,19
+39897,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71645,10.40719,20
+39898,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71652,10.40718,21
+39899,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71635,10.4062,22
+39900,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71635,10.40613,23
+39901,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71636,10.40594,24
+39902,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71636,10.40574,25
+39903,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71635,10.40554,26
+39904,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71635,10.4053,27
+39905,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71641,10.40425,28
+39906,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71691,10.40421,29
+39907,Via Montanelli 66,Via Gabriele Vettori 18,route_1595,43.71689,10.40402,30
+39908,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71316,10.40636,0
+39909,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71352,10.40647,1
+39910,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.7136,10.40622,2
+39911,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71372,10.40591,3
+39912,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.7139,10.40551,4
+39913,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71412,10.40501,5
+39914,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71493,10.40327,6
+39915,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71519,10.40267,7
+39916,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.7154,10.40214,8
+39917,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71555,10.40168,9
+39918,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71628,10.40215,10
+39919,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71557,10.40465,11
+39920,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71546,10.40496,12
+39921,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71525,10.40549,13
+39922,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71463,10.40691,14
+39923,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71497,10.40718,15
+39924,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71506,10.40689,16
+39925,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.7152,10.40696,17
+39926,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71554,10.40711,18
+39927,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71614,10.40717,19
+39928,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71645,10.40719,20
+39929,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71652,10.40718,21
+39930,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71635,10.4062,22
+39931,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71635,10.40613,23
+39932,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71636,10.40594,24
+39933,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71747,10.40586,25
+39934,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.7178,10.40585,26
+39935,Via Montanelli 66,Facolta di Ingegneria Polo A,route_1596,43.71799,10.40583,27
+39936,Via Montanelli 66,Polo Fibonacci,route_1597,43.71316,10.40636,0
+39937,Via Montanelli 66,Polo Fibonacci,route_1597,43.71352,10.40647,1
+39938,Via Montanelli 66,Polo Fibonacci,route_1597,43.7136,10.40622,2
+39939,Via Montanelli 66,Polo Fibonacci,route_1597,43.71372,10.40591,3
+39940,Via Montanelli 66,Polo Fibonacci,route_1597,43.7139,10.40551,4
+39941,Via Montanelli 66,Polo Fibonacci,route_1597,43.71412,10.40501,5
+39942,Via Montanelli 66,Polo Fibonacci,route_1597,43.71493,10.40327,6
+39943,Via Montanelli 66,Polo Fibonacci,route_1597,43.71519,10.40267,7
+39944,Via Montanelli 66,Polo Fibonacci,route_1597,43.7154,10.40214,8
+39945,Via Montanelli 66,Polo Fibonacci,route_1597,43.71555,10.40168,9
+39946,Via Montanelli 66,Polo Fibonacci,route_1597,43.71628,10.40215,10
+39947,Via Montanelli 66,Polo Fibonacci,route_1597,43.71557,10.40465,11
+39948,Via Montanelli 66,Polo Fibonacci,route_1597,43.71546,10.40496,12
+39949,Via Montanelli 66,Polo Fibonacci,route_1597,43.71525,10.40549,13
+39950,Via Montanelli 66,Polo Fibonacci,route_1597,43.71463,10.40691,14
+39951,Via Montanelli 66,Polo Fibonacci,route_1597,43.71428,10.40766,15
+39952,Via Montanelli 66,Polo Fibonacci,route_1597,43.71397,10.40838,16
+39953,Via Montanelli 66,Polo Fibonacci,route_1597,43.7139,10.40851,17
+39954,Via Montanelli 66,Polo Fibonacci,route_1597,43.7141,10.40867,18
+39955,Via Montanelli 66,Polo Fibonacci,route_1597,43.71421,10.40873,19
+39956,Via Montanelli 66,Polo Fibonacci,route_1597,43.7147,10.40895,20
+39957,Via Montanelli 66,Polo Fibonacci,route_1597,43.71478,10.40897,21
+39958,Via Montanelli 66,Polo Fibonacci,route_1597,43.71514,10.40902,22
+39959,Via Montanelli 66,Polo Fibonacci,route_1597,43.71597,10.40908,23
+39960,Via Montanelli 66,Polo Fibonacci,route_1597,43.71617,10.40905,24
+39961,Via Montanelli 66,Polo Fibonacci,route_1597,43.71637,10.40896,25
+39962,Via Montanelli 66,Polo Fibonacci,route_1597,43.7167,10.40875,26
+39963,Via Montanelli 66,Polo Fibonacci,route_1597,43.7168,10.40872,27
+39964,Via Montanelli 66,Polo Fibonacci,route_1597,43.71686,10.40874,28
+39965,Via Montanelli 66,Polo Fibonacci,route_1597,43.71695,10.40879,29
+39966,Via Montanelli 66,Polo Fibonacci,route_1597,43.71862,10.41041,30
+39967,Via Montanelli 66,Polo Fibonacci,route_1597,43.71872,10.41046,31
+39968,Via Montanelli 66,Polo Fibonacci,route_1597,43.71879,10.41046,32
+39969,Via Montanelli 66,Polo Fibonacci,route_1597,43.71868,10.40905,33
+39970,Via Montanelli 66,Polo Fibonacci,route_1597,43.71855,10.40739,34
+39971,Via Montanelli 66,Polo Fibonacci,route_1597,43.71899,10.4074,35

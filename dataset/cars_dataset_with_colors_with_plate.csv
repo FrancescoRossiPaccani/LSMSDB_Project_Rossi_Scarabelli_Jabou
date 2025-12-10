@@ -1,0 +1,1220 @@
+Brand;Model;Engine;Power;Fuel;Seats;Color;Plate
+Company Names;Cars Names;Engines;HorsePower;Fuel Types;Seats;Colour;MO043BD
+FERRARI;SF90 STRADALE;V8;963 hp;plug in hyrbrid;2;White;SK578EB
+ROLLS ROYCE;PHANTOM;V12;563 hp;Petrol;5;Green;TH862SK
+Ford;KA+;1.2L Petrol;70-85 hp;Petrol;5;White;NM197EY
+MERCEDES; GT 63 S;V8;630 hp;Petrol;4;Blue;MO743ZO
+AUDI;AUDI R8 Gt;V10;602 hp;Petrol;2;White;LM895ZR
+BMW;Mclaren 720s;V8;710 hp;Petrol;2;Gray;UP840YW
+ASTON MARTIN;VANTAGE F1;V8;656 hp;Petrol;2;Silver;SM855ME
+BENTLEY;Continental GT Azure;V8;550 hp;Petrol;4;White;EQ386XG
+LAMBORGHINI;VENENO ROADSTER;V12;750 hp;Petrol;2;White;TL854SD
+FERRARI;F8 TRIBUTO;V8;710 hp;Petrol;2;Gray;TF718OA
+FERRARI;812 GTS;V12;789 hp;Petrol;2;White;AH806MX
+FERRARI;PORTOFINO;V8;592 hp;Petrol;2+2;White;BD050AD
+FERRARI;ROMA;V8;612 hp;Petrol;2+2;Black;MI317NJ
+FERRARI;MONZA SP2;V12;789 hp;Petrol;2;Gray;EN824FL
+FERRARI;F8 SPIDER;V8;710 hp;Petrol;2;Red;VF714WF
+FERRARI;PORTOFINO M;V8;612 hp;Petrol;2+2;Silver;PO102SW
+FERRARI;ROMA SPIDER;V8;612 hp;Petrol;2+2;Blue;WM857EN
+TOYOTA;GR SUPRA;I4;382 hp;Petrol;2;Silver;TN536FF
+TOYOTA;TOYOTA 86;BOXER-4;205 hp;Petrol;2+2;Black;EZ095ZL
+TOYOTA;TOYOTA  GR86;BOXER-4;228 hp;Petrol;4;Blue;FE448HO
+TOYOTA;TOYOTA LAND CRUISER;V8;381 hp;Diesel;7;Black;GD521NY
+TOYOTA;TOYOTA SEQUOIA;V8;381 hp;Petrol;7;Silver;EM225XO
+NISSAN;GT-R;V6;600 hp;Petrol;4;White;MM451HR
+NISSAN;370Z;V6;332 hp;Petrol;2;Blue;DM749RM
+NISSAN;Z PROTO;V6;400 hp;Petrol;2;Black;VV852FF
+NISSAN;ALTIMA;I4;188 hp;Petrol;5;Gray;CP815VV
+NISSAN;MAXIMA;V6;300 hp;Petrol;5;White;AF148OJ
+NISSAN;SENTRA;I4;149 hp;Petrol;5;Silver;ZR952NP
+NISSAN;ROGUE;I4;201 hp;Petrol;5;Black;IR109DS
+NISSAN;PATHFINDER;V6;284 hp;Petrol;7;Black;PS750EG
+NISSAN;FRONTIER;V6;310 hp;Petrol;5;White;WO040ZT
+NISSAN;TITAN;V8;400 hp;Petrol;5;Red;WY854TR
+ASTON MARTIN;VALKYRIE;V12;1160 hp;Hybrid;2;Gray;GC355KP
+ASTON MARTIN;VALHALLA;V8;1000 hp;Hybrid;2;Silver;DO493BQ
+ASTON MARTIN;DBS SUPERLEGGERA;V12;715 hp;Petrol;2;Gray;VF205KG
+ASTON MARTIN;DB11;V12;600 hp;Petrol;4;Gray;OX683DQ
+ASTON MARTIN;VANTAGE ;V8;503 hp;Petrol;2;Gray;KV843BF
+ASTON MARTIN;DBX;V8;542 hp;Petrol;5;Gray;QV315TY
+ASTON MARTIN;RAPIDE AMR;V12;580 hp;Petrol;4;Gray;KQ608XI
+ASTON MARTIN;VANQUISH;V12;580 hp;Petrol;2;Silver;PK343CQ
+ASTON MARTIN;LAGONDA TARAF;V12;540 hp;Petrol;4;Brown;XJ789YS
+ASTON MARTIN;VICTOR;V12;836 hp;Petrol;2;Green;OS499PK
+LAMBORGHINI;SIAN;V12;819 hp;Hybrid;2;Red;BD148PL
+LAMBORGHINI;AVENTADOR SVJ;V12;759 hp;Petrol;2;Gray;ZG384AE
+LAMBORGHINI;HURACAN PERFORMANTE;V10;640 hp;Petrol;2;Red;EQ784AW
+LAMBORGHINI;HURACAN EVO;V10;640 hp;Petrol;2;White;LL860QE
+LAMBORGHINI;AVENTADOR SV;V12;740 hp;Petrol;2;White;PA340PB
+LAMBORGHINI;URUS ;V8;641 hp;Petrol;5;Silver;VN871XL
+LAMBORGHINI;HURACAN SPYDER;V10;610 hp;Petrol;2;Black;IY983MB
+LAMBORGHINI;AVENTADOR ROADSTER;V12;700 hp;Petrol;2;Blue;MR615EP
+LAMBORGHINI;HURACAN  PERFORMANTE SPYDER;V10;640 hp;Petrol;2;White;KF428BW
+LAMBORGHINI;AVENTADOR S;V12;740 hp;Petrol;2;Gray;ZG438BE
+LAMBORGHINI;HURACAN EVO SPYDER;V10;640 hp;Petrol;2;Gray;JC318VC
+LAMBORGHINI;URUS PERFORMANTE;V8;641 hp;Petrol;5;Blue;IT795KY
+LAMBORGHINI;AVENTADOR ULTIMAE;V12;769 hp;Petrol;2;White;RZ544OD
+LAMBORGHINI;HURACAN EVO RWD;V10;610 hp;Petrol;2;Black;FR063TS
+LAMBORGHINI;AVENTADOR SVJ ROADSTER;V12;759 hp;Petrol;2;Brown;GC286OF
+LAMBORGHINI;URUS S;V8;671 hp;Petrol;5;Blue;RQ454DN
+LAMBORGHINI;HURACAN STO;V10;640 hp;Petrol;2;White;DJ771PI
+LAMBORGHINI;AVENTADOR LP 780-4 ULTIMATE;V12;769 hp;Petrol;2;Silver;NO735WB
+LAMBORGHINI;HURACAN EVO RWD SPYDER;V10;610 hp;Petrol;2;Black;AG095QG
+LAMBORGHINI;AVENTADOR SVJ XAGO;V12;759 hp;Petrol;2;Black;XH403RX
+LAMBORGHINI;URUS GRAPHITE CAPSULE;V8;641 hp;Petrol;5;Black;LS863AG
+LAMBORGHINI;HURACAN STO EVO;V10;640 hp;Petrol;2;White;CP255QI
+LAMBORGHINI;AVENTADOR LP 780-4 ULTIMATE ROADSTER;V12;769 hp;Petrol;2;Gray;EO587GR
+ROLLS ROYCE ;GHOST;V12;591 hp;Petrol;5;Black;PV910LS
+ROLLS ROYCE;WRAITH;V12;624 hp;Petrol;4;White;XY579KL
+ROLLS ROYCE;DAWN;V12;624 hp;Petrol;4;Black;GD586ZN
+ROLLS ROYCE;CULLINAN;V12;563 hp;Petrol;5;Black;YP369EF
+ROLLS ROYCE;PHANTOM EXTENDED;V12;563 hp;Petrol;5;Gray;SW082JJ
+ROLLS ROYCE;GHOST EXTENDED;V12;591 hp;Petrol;5;Gray;OA989TI
+ROLLS ROYCE;WRAITH BLACK BADGE;V12;624 hp;Petrol;4;Black;VP869AM
+ROLLS ROYCE;DAWN BLACK BADGE;V12;624 hp;Petrol;4;Gray;UJ349FY
+ROLLS ROYCE;CULLINAN BLACK BADGE;V12;563 hp;Petrol;5;Silver;KM199GO
+ROLLS ROYCE;PHANTOM COUPE;V12;563 hp;Petrol;4;Black;GX767UR
+ROLLS ROYCE;GHOST COUPE;V12;591 hp;Petrol;4;Silver;XW056WO
+ROLLS ROYCE;WRAITH COUPE;V12;624 hp;Petrol;4;Red;RU820CY
+ROLLS ROYCE;DAWN CONVERTIBLE;V12;624 hp;Petrol;4;Orange;AE793QG
+ROLLS ROYCE;CULLINAN SUV;V12;563 hp;Petrol;5;White;GO831HK
+MERCEDES;BENZ S-CLASS S 580;V8;496 hp;Petrol;5;Gray;DB942JP
+MERCEDES;BENZ E-CLASS E 63 S;V8;603 hp;Petrol;5;Gray;SQ378SV
+MERCEDES;BENZ CLA 45 AMG;I4;382 hp;Petrol;5;Black;VP389YM
+MERCEDES;BENZ GLE 63 S;V8;603 hp;Petrol;5;White;YQ482YO
+MERCEDES;BENZ S-CLASS S 500;V6;429 hp;Petrol;5;White;RX086QY
+MERCEDES;BENZ E-CLASS E 450 ;V6;362 hp;Petrol;5;Black;NU975PQ
+MERCEDES;BENZ CLS 450;V6;362 hp;Petrol;5;Black;AT323NS
+MERCEDES;BENZ GT 53;V6;429 hp;Petrol;5;Red;TM511LK
+MERCEDES;BENZ GLE 450;V6;362 hp;Petrol;5;Black;FB971TZ
+MERCEDES;BENZ A-CLASS A 45 S;I4;416 hp;Petrol;5;Gray;XY648NE
+MERCEDES;BENZ C-CLASS C 43;V6;402 hp;Petrol;5;Red;WC854JX
+MERCEDES;BENZ E-CLASS E 350;I4;255 hp;Petrol;5;White;RX441ZK
+MERCEDES;BENZ GLE 350 ;I4;255 hp;Petrol;5;White;XX950YN
+MERCEDES;BENZ GLC 43;V6;402 hp;Petrol;5;Black;HY785KX
+MERCEDES;BENZ GLA 45;I4;382 hp;Petrol;5;Red;UL218TV
+MERCEDES;BENZ GLC 350 ;I4;255 hp;Petrol;5;Red;BE169TS
+MERCEDES;BENZ GLE 53;V6;429 hp;Petrol;5;Brown;PV485GN
+MERCEDES;BENZ S-CLASS S 350;I4;255 hp;Petrol;5;White;TK824DS
+MERCEDES;BENZ EQS 53;ELECTRIC MOTOR;751 hp;Electric;5;Gray;IH200FA
+MERCEDES;BENZ MAYBACH S 680;V12;630 hp;Petrol;5;Gray;XE650PS
+BMW;M5 CS;V8;627 hp;Petrol;5;Gray;HQ544AH
+BMW;M4 GTS;I6;493 hp;Petrol;4;Gray;TO929VN
+BMW;M3 COMPETITION;I6;503 hp;Petrol;5;Red;CU336XA
+BMW;M2 CS;I6;444 hp;Petrol;4;White;BD473FC
+BMW;X5 M COMPETITION;V8;523 hp;Petrol;5;Silver;HN060MU
+BMW;X3 M COMPETITION;I6;503 hp;Petrol;5;White;WT961AL
+BMW;M8 GRAN COUPE;V8;523 hp;Petrol;5;Gray;DB746MC
+BMW;M850i DRIVE COUPE;V8;523 hp;Petrol;4;Gray;UJ362YL
+ROLLS ROYCE;DAWN BLACK BADGE VOLANTE;V12;563 hp;Petrol;4;Silver;GY601ZG
+ROLLS ROYCE;CULLINAN BLACK BADGE SUV;V12;563 hp;Petrol;5;Gray;WI782CX
+ROLLS ROYCE;PHATOM TRANQUILITY;V12;563 hp;Petrol;5;Gray;AG047OO
+ROLLS ROYCE;GHOST ZENITH;V12;563 hp;Petrol;5;Silver;VV141ES
+ROLLS ROYCE;WRAITH EAGLE VIII;V12;623 hp;Petrol;4;White;NO676JY
+ROLLS ROYCE;PHATOM ORCHID;V12;563 hp;Petrol;5;Gray;LJ250WP
+ROLLS ROYCE;GHOST AZURE;V12;563 hp;Petrol;5;White;IQ039MH
+ROLLS ROYCE;WRAITH KRYPTOS;V12;623 hp;Petrol;4;Silver;BG203VW
+ROLLS ROYCE;DAWN SILVER BULLET;V12;563 hp;Petrol;4;White;TG998XB
+ROLLS ROYCE;CULLINAN FUX ORANGE;V12;563 hp;Petrol;5;Black;XA833CD
+ROLLS ROYCE;PHANTOM CELESTIAL;V12;563 hp;Petrol;5;Silver;XA928HJ
+ROLLS ROYCE;GHOST MYSORE;V12;563 hp;Petrol;5;Black;XI693YG
+ROLLS ROYCE;WRAITH LUMINARY;V12;623 hp;Petrol;4;Black;FG210BK
+ROLLS ROYCE;DAWN BLACK BADGE ADAMAS;V12;563 hp;Petrol;4;Blue;DX246BK
+ROLLS ROYCE;CULLINAN RED DIAMOND;V12;563 hp;Petrol;5;Silver;YV452QL
+AUDI;R8 V10 PLUS;V10;610 hp;Petrol;2;Silver;CB578LX
+AUDI;RS7 SPORTBACK;V8;591 hp;Petrol;5;Black;SL795AT
+AUDI;S8;V8;563 hp;Petrol;5;Gray;CS415WS
+AUDI;RS6 AVANT;V8;591 hp;Petrol;5;Brown;ZB992BI
+AUDI;S7 SPORTBACK;V8;563 hp;Petrol;5;Blue;CV250TU
+AUDI;A8;V6;335 hp;Petrol;5;Black;WA641TR
+AUDI;S5 COUPE;V6;349 hp;Petrol;4;White;AQ717YC
+AUDI;SQ5;V6;349 hp;Petrol;5;Blue;SQ378OD
+AUDI;S4 SEDAN;V6;349 hp;Petrol;5;Black;VU349CM
+AUDI;S3 SEDAN;I4;306 hp;Petrol;5;Silver;FJ222JY
+AUDI;Q7;V6;335 hp;Petrol;7;Gray;HV510WU
+AUDI;Q5;I4;248 hp;Petrol;5;Brown;KF729XJ
+AUDI;A7;V6;335 hp;Petrol;5;Black;DQ229BG
+AUDI;A6;V6;335 hp;Petrol;5;Gray;VJ095BT
+AUDI;A5 COUPE;I4;248 hp;Petrol;4;Gray;TR754YA
+AUDI;A4;I4;248 hp;Petrol;5;Blue;BC172OC
+AUDI;Q3;I4;248 hp;Petrol;5;Orange;MV483UA
+AUDI;E-TRON;ELECTRIC ;402 hp;Electric;5;White;OX447PN
+AUDI;E-TRON SPORTBACK;ELECTRIC;402 hp;Electric;5;Gray;GQ797WD
+AUDI;TT COUPE;I4;248 hp;Petrol;2;Blue;XV567VO
+BMW;I8 ROADSTER;ELECTRIC MOTOR;369 hp;Hybrid;2;White;GR627CI
+BMW;330i;I4;255 hp;Petrol;5;White;QN144JZ
+BMW;M340i XDRIVE;I6;382 hp;Petrol;5;Black;RA985NA
+BMW;430i COUPE;I4;255 hp;Petrol;4;White;ZN670HT
+BMW;M4 COMPETITION;I6;503 hp;Petrol;4;Blue;GD346JX
+BMW;530i;I4;248 hp;Petrol;5;Red;TE951PA
+BMW;M550i XDRIVE;V8;523 hp;Petrol;5;Black;AB808JU
+BMW;118i;I3;136 hp;Petrol;5;Black;DO927LQ
+BMW;128ti;I4;261 hp;Petrol;5;Blue;XS329CN
+BMW;M135i XDRIVE;I4;302 hp;Petrol;5;Black;IX882AC
+BMW;116D;I3;116 hp;Diesel;5;Silver;YC047DH
+BMW;120D XDRIVE;I4;190 hp;Diesel;5;Gray;TS638IJ
+BMW;116i;I3;109 hp;Petrol;5;Black;ML422NQ
+BMW;118D;I4;150 hp;Diesel;5;Blue;VQ204JV
+BMW;120i;I4;178 hp;Petrol;5;Gray;LS721GO
+BMW;125i;I4;224 hp;Petrol;5;Brown;EI874VF
+BMW;114D;I3;95 hp;Diesel;5;Black;AY172PK
+BMW;114i;I4;102 hp;Petrol;5;White;FK557LM
+BMW;125D;I4;224 hp;Diesel;5;Blue;JB852FE
+BMW;118i XDRIVE;I3;136 hp;Petrol;5;Black;SA355NB
+BMW;116D EFFICIENTDYNAMICS;I3;116 hp;Diesel;5;Black;NZ744WQ
+BMW;118i SPORTLINE;I3;136 hp;Petrol;5;Silver;MB381OJ
+BMW;118i M SPORT;I3;136 hp;Petrol;5;Orange;WI923WV
+BMW;120i M SPORT;I4;178 hp;Petrol;5;Silver;YP660IZ
+BMW;116i EFFICIENTDYNAMICS;I4;109 hp;Petrol;5;Blue;EZ975DP
+BMW;116D ADVANTAGE;I3;116 hp;Diesel;5;Gray;DN199RP
+BMW;120D EFFICIENTDYNAMICS;I4;163 hp;Diesel;5;Blue;IC168QW
+BMW;118i SHADOW LINE;I3;136 hp;Petrol;5;White;CN997NT
+BMW;118D SPORT LINE;I4;150 hp;Diesel;5;Silver;JY411GI
+BMW;120i XDRIVE;I4;178 hp;Petrol;5;Gray;RH324VI
+BMW;114D SPORT LINE;I3;95 hp;Diesel;5;White;FP917ET
+BMW;118i URBAN LINE;I3;136 hp;Petrol;5;White;YY206OX
+VOLVO;XC90;I6;247 hp;Petrol/Diesel;7;Silver;YK874FC
+VOLVO;XC60;I6;247 hp;Petrol/Diesel;5;Silver;BX497PG
+VOLVO;S90;I6;295 hp;Petrol/Diesel;5;Black;JA422QJ
+KIA;SPORTAGE LX;I4;187 hp;Petrol;5;Gray;QJ682XI
+KIA;SPORTAGE EX;I4;187 hp;Petrol;5;White;CT296YY
+KIA;SPORTAGE GT-LINE;I4;187 hp;Petrol;5;Silver;IT028JH
+KIA;SPORTAGE SX TURBO;I4;240 hp;Petrol;5;White;QW697AB
+KIA;SPORTAGE NIGHTFALL EDITION;I4;187 hp;Petrol;5;Red;HV510GF
+HONDA;CIVIC TYPE R;I4;315 hp;Petrol;5;Blue;AD742LL
+KIA;SPORTAGE PHEV;I4 + ELECTRIC;261 hp;Plug-in Hybrid;5;White;BW033YX
+KIA;SPORTAGE 2024(BASE MODEL);I4;187 hp;Petrol;5;Black;MV203WM
+KIA;SPORTAGE 2024(TOP TRIM);I4;240 hp;Petrol;5;Gray;PO148GC
+KIA;SPORTAGE 2024(BASE AWD);I4;187 hp;Petrol/AWD;5;Black;AI908AB
+KIA;SPORTAGE X-LINE;I4;187 hp;Petrol;5;Black;NS930TU
+KIA;SPORTAGE 2024(S TRIM);I4;187 hp;Petrol;5;Blue;PW884JW
+HONDA;ACCORD;I4;192 hp;Petrol;5;Silver;AB866GY
+KIA;SPORTAGE 2024(HYBRID AWD);I4 + ELECTRIC;227 hp;Hybrid;5;White;YF696WO
+KIA;SPORTAGE 2024(PLUG-IN HYBRID AWD);I4 + ELECTRIC;261 hp;Plug-in Hybrid;5;Blue;TP647XC
+KIA;SPORTAGE 2024(X-PRO);I4;187 hp;Petrol;5;White;CC715MO
+KIA;SPORTAGE 2024(X-PRO PRESTIGE);I4;187 hp;Petrol;5;Black;JV646YM
+KIA;SPORTAGE 2024(SX TURBO AWD);I4;240 hp;Petrol/AWD;5;Brown;ST365AM
+KIA  ;SPORTAGE 2024(BASE FWD);I4;187 hp;Petrol;5;Gray;CU033AY
+HONDA;CR-V;I4;190 hp;Petrol/Hybrid;5;Black;JG008SG
+HONDA;PILOT;V6;285 hp;Petrol;8;White;DK008ZY
+HONDA;CIVIC HATCHBACK;I4;180 hp;Petrol;5;White;RZ909AX
+TOYOTA;CAMRY;V6;301 hp;Petrol/Hybrid;5;Gray;GJ058SE
+TOYOTA;COROLLA;I4;139 hp;Petrol/Hybrid;5;Black;YJ655ID
+TOYOTA;PRIUS;I4;121 hp;Hybrid;5;Red;BK562SG
+TOYOTA;RAV4;I4;203 hp;Petrol/Hybrid;5;Black;AH307BB
+TOYOTA;HIGHLANDER;V6;295 hp;Petrol/Hybrid;7;Red;LY321HF
+TOYOTA;4RUNNER ;V6;270 hp;Petrol;5;White;WY738NH
+TOYOTA;TACOMA;I4;159 hp;Petrol;5;White;ML129GR
+TOYOTA;TUNDRA;V8;381 hp;Petrol;5;Blue;NR967SZ
+TOYOTA;AVALON;V6;301 hp;Petrol;5;Black;NP696SA
+TOYOTA;MIRAI;I4;151 hp;Hydrogen;5;Gray;UX660OL
+TOYOTA;SIENNA;V6;245 hp;Petrol/Hybrid;7;Blue;ZE256LE
+TOYOTA;VENZA;I4;219 hp;Hybrid;5;White;JG337PS
+TOYOTA;HIGHLANDER HYBRID;V6;240 hp;Hybrid;7;Gray;IL118GO
+TOYOTA;LAND CRUISER PRADO;V6;282 hp;Petrol/Diesel;7;Blue;TY978LO
+TOYOTA;TUNDRA HYBRID;V6;344 hp;Hybrid;5;Blue;SO899QJ
+TOYOTA;YARIS;I4;106 hp;Petrol;5;Red;IX983ID
+TOYOTA;C-HR;I4;144 hp;Petrol/Hybrid;5;Black;ZV307JQ
+TOYOTA;BZ4X;ELECTRIC;218 hp;Electric;5;White;JI198NW
+TOYOTA;CROWN;HYBRID;236 hp;Hybrid;5;Blue;TA676LA
+TOYOTA;MR2;I4;168 hp;Petrol;2;Black;YJ744MK
+TOYOTA;CELICA;I4;140 hp;Petrol;5;Black;UT488XY
+HONDA;CITY;I4;119 hp;Petrol/Hybrid;5;Brown;XL576YY
+HONDA;CIVIC;I4;158 hp;Petrol;5;Gray;WN712XY
+HYUNDAI;I10;1.2L,4-CYLINDER,INLINE-4(I4);87 hp;Petrol;5;Blue;OM619KV
+HYUNDAI;I20;1.4L,4-CYLINDER,INLINE-4(I4);99 hp;Petrol/Hybrid;5;Silver;UN561OC
+HYUNDAI;ELANTRA;2.0L,4-CYLINDER,INLINE-4(I4);147 hp;Petrol/Hybrid;5;White;UB922WY
+MAHINDRA;XUV500;2.2L,4-CYLINDER,INLINE-4(I4);155 hp;Diesel;7;Beige;ZM302YL
+MAHINDRA;SCORPIO;2.2L,4-CYLINDER,INLINE-4(I4);140 hp;Diesel;7;White;HY779FJ
+MAHINDRA;THAR;2.0L,4-CYLINDER,INLINE-4(I4);150 hp;Petrol/Diesel;4;Black;YO334UX
+MARUTI SUZUKI;SWIFT;1.2L,4-CYLINDER,INLINE-4(I4);83 hp;Petrol;5;Gray;TP535MS
+MARUTI SUZUKI;DZIRE;1.2L,4-CYLINDER,INLINE-4(I4);83 hp;Petrol/Diesel;5;White;RE743EY
+MARUTI SUZUKI;BREZZA;1.5L,4-CYLINDER,INLINE(I4);103 hp;Petrol;5;Gray;XH132NJ
+TOYOTA;PRIUS PRIME;2.0L,4-CYLINDER,WITH HYBRID SYSTEM;220 hp;Plug-in Hybrid;5;Red;XR520WF
+TOYOTA;GR COROLLA;1.6L,TURBOCHARGED INLINE-3;300 hp;Petrol;5;Black;MX370YA
+TOYOTA;LAND CRUISER 300;3.3L,V6,TWIN TURBO DIESEL;305 hp;Petrol/Diesel;7;White;LK988QY
+TOYOTA;TUNDRA I-FORCE MAX;3.5L,V6,HYBRID TWIN-TURBO;437 hp;Hybrid;5;Red;VW707WV
+TOYOTA;COROLLA HATCHBACK XSE;2.0L,INLINE-4;169 hp;Petrol;5;Gray;TY990YL
+TOYOTA;MIRAI;HYDROGEN FUEL CELL,ELECTRIC MOTOR;152 hp;Hydrogen;5;Brown;HZ206CW
+TOYOTA;HILUX GR SPORT;2.8L,TURBO,DIESEL;224 hp;Petrol/Diesel;5;Red;IB165UN
+TOYOTA;ALPHARD EXECUTIVE LOUNGE;2.5L,INLINE-4,HYBRID,OR 3.5L,V6;296 hp;Petrol;7;Black;NL320HW
+TOYOTA;FORTUNER GR SPORT;2.8L,TURBO,DIESEL;204 hp;Diesel/Petrol;7;Blue;AD685OC
+TOYOTA;INNOVA HYCROSS;2.0L HYBRID;184 hp;Hybrid;7;Black;KT702KJ
+TOYOTA;COASTER;4.0L,DIESEL;134 hp;Diesel;20;Brown;NS125OL
+TOYOTA;URBAN CRUISER TAISOR;1.5L,HYBRID;114 hp;Petrol;5;White;GW148BP
+TOYOTA;AYGO X;1.0L,INLINE-3;71 hp;Petrol;4;White;WH996LI
+TOYOTA;HILUX REVO ROCCO;2.8L,TURBO,DIESEL;204 hp ;Diesel;5;Black;EI342RR
+TOYOTA;PROACE VERSO ELECTRIC;ELECTRIC MOTOR;136 hp;Electric;7;White;EA719BH
+TOYOTA;CENTURY SUV;3.5L,V6,PLUG IN HYBRID;406 hp;Petrol;5;Black;HQ081CR
+TOYOTA;COROLLA SEDAN HYBRID;1.8L,HYBRID;134 hp;Hybrid;5;White;GK355CC
+TOYOTA;BZ3;ELECTRIC MOTOR;241 hp;Electric;5;Black;SU376SU
+TOYOTA;GR YARIS;1.6L,TURBOCHARGED INLINE-3;268 hp;Petrol;4;Gray;VK937TD
+HYUNDAI;SANTA FE;1.6L PETROL + PLUG IN HYBRID SYSTEM;253 hp;Petrol/Hybrid;7;Gray;SJ563AB
+HYUNDAI;IONIQ 5;ELECTRIC MOTOR;225 hp;Electric;5;Gray;UE922QG
+HYUNDAI;Santa Cruz;2.5L Turbocharged Inline-4;281 hp;Petrol;5;Gray;PR570AU
+HYUNDAI;Kona;1.6L PETROL ;147 hp;Petrol/EV;5;Black;AS398PH
+HYUNDAI;Elantra;2.0L Inline-4;147 hp;Petrol/Hybrid;5;Silver;IG889XQ
+Nissan;Urvan;2.5L Turbo Diese;2488 cc;Diesel;15;White;UJ222YJ
+HYUNDAI;IONIQ 6;Electric Motor;320 hp;Electric;5;Gray;QR674YJ
+HYUNDAI;Tucson;2.5L Inline-4;187 hp;Petrol/Hybrid;5;White;MU256VT
+HYUNDAI;Palisade;3.8L V6;291 hp;Petrol;7;Blue;JT041GY
+HYUNDAI;Sonata;2.5L Inline-4;191 hp;Petrol/Hybrid;5;White;NC524BC
+HYUNDAI;Accent;1.6L Inline-4;120 hp;Petrol;5;Black;VX695DM
+HYUNDAI;Venue;1.6L Inline-4;121 hp;Petrol;5;Black;MP953HC
+HYUNDAI;KONA Electric;Electric Motor;200 hp;Electric;5;White;TI477MS
+HYUNDAI;Veloster;2.0L Inline-4;275 hp;Petrol;4;Black;RZ987UY
+HYUNDAI;NEXO;Electric Motor;161 hp;Hydrogen;5;White;TU001TD
+HYUNDAI;Ioniq;1.6L Inline-4;139 hp;Hybrid/Electric;5;White;FL228DB
+HYUNDAI;Genesis;3.8L V6;291 hp;Petrol;5;Red;DO127UL
+HYUNDAI;Azera;3.3L V6;278 hp;Petrol;5;Blue;XO104QU
+HYUNDAI;Equus;3.3L V6;278 hp;Petrol;5;White;UY419RL
+HYUNDAI;Tiburon;2.0L Inline-4;160 hp;Petrol;4;Black;CA304TZ
+HYUNDAI;Elantra GT;1.6L Turbo GDI 4-cylinder;160 hp;Petrol;5;Black;ZN112HR
+Volkswagen;Golf;1.5L Turbo I4 / Electric;110 - 320 hp;Petrol;5;White;BX473ZC
+Volkswagen;Passat;2.0L Turbo I4;150 - 280 hp;Petrol;5;White;IP308JG
+Volkswagen;Tiguan;2.0L Turbo I4;150 - 230 hp;"Petrol,"" Hybrid";7;"White""";HK011OD
+Volkswagen;Jetta;1.5L Turbo I4;150 - 228 hp;Petrol;5;Silver;EE058KP
+Volkswagen;Polo;1.0L Turbo I3 / 1.6L Diesel;80 - 200 hp;Petrol;5;Silver;TE847SE
+Volkswagen;Arteon;2.0L Turbo I4;150 - 280 hp;Petrol;5;Green;ZE071CR
+Volkswagen;ID.4;Electric;201 - 302 hp;Electric;5;White;JZ552ID
+Volkswagen;Up!;Electric;82 hp;Petrol;4;Silver;AE825WN
+Volkswagen;Touareg;3.0L V6 Turbo Diesel / 4.0L V8;231 - 500 hp;"Petrol,"" Diesel";5;"Green""";XP325UT
+Volkswagen;Scirocco;2.0L Turbo I4;125 - 280 hp;Petrol;4;Brown;OM728HL
+Volkswagen;Beetle;2.0L Turbo I4;105 - 210 hp;Petrol;4;Gray;EB298HY
+Volkswagen;Amarok;3.0L V6 Turbo Diesel;163 - 258 hp;Diesel;5;Black;WK649BR
+Volkswagen;T-Roc;2.0L Turbo I4;115 - 300 hp;Petrol;5;White;KM630KP
+Volkswagen;Sharan;2.0L Turbo I4;150 - 220 hp;"Petrol,"" Diesel";7;"White""";QT957HC
+Volkswagen;Caddy;1.5L Turbo I4;102 - 150 hp;"Petrol,"" Diesel";7;"Black""";AI159XB
+Nissan;NV1500;4.0L V6;261 hp;Petrol;12;White;OV215IL
+Volkswagen;Taigo;1.5L Turbo I4;95 - 150 hp;Petrol;5;Red;HD663DZ
+Volkswagen;California;2.0L Turbo I4;150 - 204 hp;Diesel;7;White;YO597DO
+Volkswagen;ID.3;Electric;204 hp;Electric;5;Blue;RE176ZF
+Volkswagen;ID. Buzz;Electric;204 hp;Electric;7;Blue;TJ657FF
+Volkswagen;Golf GTI;2.0L Turbo I4;245 hp;Petrol;5;Black;BP471NV
+Volkswagen;Golf R;2.0L Turbo I4;315 hp;Petrol;5;Red;XI839GB
+Volkswagen;Passat Alltrack;2.0L Turbo Diesel I4;190 - 240 hp;Diesel;5;Gray;BQ671QZ
+Volkswagen;Polo GTI;2.0L Turbo I4;204 hp;Petrol;5;Red;AU767UA
+Volkswagen;Up! GTI;1.0L Turbo I3;115 hp;Petrol;4;Green;BK591QA
+Volkswagen;T-Cross;1.0L Turbo I3 / 1.5L Turbo I4;95 - 150 hp;Petrol;5;White;WC629MA
+Volkswagen;ID.5;Electric;174 - 299 hp;Electric;5;Silver;SQ451IZ
+Volkswagen;ID. Buzz Cargo;Electric;204 hp;Electric;3;Red;VB083OE
+Volkswagen;Touareg R;Plug-in Hybrid V6;462 hp;Hybrid;5;White;PT059OH
+Volkswagen;Multivan;Plug-in Hybrid / Diesel I4;150 - 218 hp;"Petrol,"" Hybrid";7;"Brown""";TU509LM
+Volkswagen;Polo BlueMotion;1.2L Diesel I3;75 - 95 hp;Diesel;5;Black;YL840UG
+Volkswagen;Golf Sportsvan;1.5L Turbo I4;130 - 150 hp;Petrol;5;White;XO694BJ
+Volkswagen;Golf Alltrack;2.0L Turbo Diesel I4;147 - 200 hp;Petrol;5;Black;UA186JQ
+Volkswagen;Scirocco R;2.0L Turbo I4;280 hp;Petrol;4;White;GY788IA
+Volkswagen;Tiguan Allspace;2.0L Turbo I4;184 - 230 hp;Petrol;7;Gray;XD031QM
+Volkswagen;Arteon 4MOTION;2.0L Turbo I4;190 - 320 hp;Petrol;5;Blue;DI251IM
+Volkswagen;ID.4 GTX;Electric AWD;299 hp;Electric;5;Silver;GM714NR
+Volkswagen;ID.3 Pro;Electric;204 hp;Electric;5;Gray;GY661OX
+Volkswagen;Golf Variant;1.5L Turbo I4 / 2.0L Diesel I4;130 - 150 hp;Petrol;5;White;VJ714QN
+Volkswagen;Crafter;2.0L Turbo Diesel I4;102 - 177 hp;Diesel;3;White;NK530WI
+Volkswagen;Lupo;1.4L I3 Gas / 1.2L Diesel I3;60 - 75 hp;Petrol;4;Gray;EN058OJ
+Volkswagen;Corrado;2.9L VR6;190 hp;Petrol;4;Silver;UT769RX
+Volkswagen;Phaeton;3.0L V6 Diesel / 6.0L W12 Gas;240 - 450 hp;Petrol;5;Gray;LE233OY
+Volkswagen;Golf Cabriolet;1.2L I4 Turbo / 2.0L I4 Turbo;105 - 210 hp;Petrol;4;Gray;SC411YU
+Volkswagen;Santana;1.5L I4 Gas;110 hp;Petrol;5;Black;OE588AS
+Volkswagen;Polo Vivo;1.4L I4 Gas / 1.6L I4 Gas;85 - 105 hp;Petrol;5;White;OW853MD
+Volkswagen;Karmann Ghia;1.2L I4 Gas;34 - 60 hp;Petrol;2;Green;IK019WK
+Volkswagen;Fox;1.2L I4 Gas / 1.4L I4 Gas;55 - 75 hp;Petrol;5;White;KR646OX
+Volkswagen;Vento;1.6L I4 Gas / Diesel;105 - 110 hp;Petrol;5;Gray;AC939AN
+Volkswagen;Golf Electric;Electric;136 hp;Electric;5;Silver;KW200OH
+Volkswagen;Bora;1.6L I4 Gas / 1.9L I4 Diesel;100 - 150 hp;Petrol;5;Black;MP259VL
+Volkswagen;Teramont;2.0L I4 Turbo / 3.6L V6 Gas;235 - 276 hp;Petrol;7;Red;SB824QL
+Volkswagen;Taos;1.5L I4 Turbo;158 hp;Petrol;5;Brown;CF354GG
+Volkswagen;Up! Cabriolet;1.0L I3 Turbo;82 - 115 hp;Petrol;4;White;TW702ZZ
+Volkswagen;T-Roc Cabriolet;1.0L I3 Turbo / 1.5L I4 Turbo;115 - 150 hp;Petrol;4;Red;QA373VU
+Volkswagen;Passat CC;2.0L I4 Turbo;200 - 280 hp;Petrol;5;White;RM432LX
+Volkswagen;Transporter;2.0L I4 Turbo Diesel;102 - 204 hp;Diesel;9;White;SI577CJ
+Volkswagen;Amarok V6;3.0L V6 Turbo Diesel;204 - 258 hp;Diesel;5;Gray;EQ416DF
+Volkswagen;ID.2;Electric;~170 hp;Electric;5;White;IL840EE
+Volkswagen;Polo TDI;1.4L I4 Diesel / 1.6L Diesel;75 - 105 hp;Diesel;5;Red;OE578OB
+Volkswagen;Golf GTE;Plug-in Hybrid (1.4L I4 Turbo);204 hp;Hybrid;5;White;QM381GD
+Volkswagen;Touareg V8;4.0L V8 Turbo Diesel;421 hp;Petrol;5;Blue;MX138KZ
+Volkswagen;Beetle Dune;1.4L I4 Turbo;150 hp;Petrol;4;Black;ZC201MO
+Volkswagen;Passat B8;1.5L I4 Turbo / 2.0L Diesel;150 - 280 hp;Petrol;5;Black;ZG130TC
+Volkswagen;ID.4 Pro S;Electric;201 hp;Electric;5;Black;VT403TF
+Volkswagen;Golf Cabriolet;1.2L I4 Turbo / 2.0L I4 Turbo;105 - 210 hp;Petrol;4;Red;SF027ON
+Volkswagen;Golf Country;1.8L I4 Gas;98 hp;Petrol;5;Green;IQ622YZ
+Volkswagen;Jetta GLI;2.0L I4 Turbo;228 hp;Petrol;5;Gray;XK679SQ
+Volkswagen;Arteon Shooting Brake;2.0L I4 Turbo;150 - 320 hp;Petrol;5;Silver;LQ550WZ
+Volkswagen;T-Cross R-Line;1.0L I3 Turbo / 1.5L I4 Turbo;115 - 150 hp;Petrol;5;Black;RQ160HI
+Volkswagen;Golf R32;3.2L VR6;240 hp;Petrol;5;Gray;FO491ZJ
+Volkswagen;Passat B7;1.6L Diesel / 2.0L I4 Turbo;120 - 240 hp;Petrol;5;Gray;SX220VM
+Volkswagen;Scirocco 16V;1.8L I4 Gas;137 hp;Petrol;4;White;CK272YX
+Volkswagen;Polo BlueMotion;1.2L Diesel I3;75 - 95 hp;Diesel;5;Blue;IY659WR
+Volkswagen;Golf Variant GTD;2.0L Diesel I4;184 hp;Diesel;5;White;QD178DM
+Volkswagen;Polo GTI R5;1.6L Turbocharged Rally Engine;272 hp;Petrol;5;Gray;TK312XI
+Volkswagen;ID. Buzz Pro;Electric;204 hp;Electric;7;Beige;OI414LF
+Volkswagen;Jetta Hybrid;1.4L I4 Turbo + Electric Motor;170 hp;Hybrid;5;Orange;PP226KW
+Volkswagen;Golf Variant Alltrack;2.0L Diesel I4;150 - 200 hp;Petrol;5;Gray;QS968CB
+Volkswagen;Volkswagen XL1;Plug-in Hybrid (0.8L I2 Diesel);68 hp;Hybrid;2;Gray;QD663QO
+Volkswagen;Golf TDI;2.0L Diesel I4;150 - 184 hp;Diesel;5;Silver;RO428RT
+Volkswagen;Passat Variant;1.5L I4 Turbo / 2.0L Diesel;150 - 240 hp;Petrol;5;White;CJ577OQ
+Volkswagen;Polo GTI Clubsport;2.0L I4 Turbo;300 hp;Petrol;5;Blue;ZP442BE
+Volkswagen;Jetta Hybrid;1.4L I4 Turbo + Electric Motor;170 hp;Hybrid;5;Silver;YX668TO
+Volkswagen;ID.3 GTX;Electric;299 hp;Electric;5;Red;WE970TS
+Volkswagen;Arteon R-Line;2.0L I4 Turbo;190 - 280 hp;Petrol;5;Gray;LY146UI
+Volkswagen;Golf TGI;1.5L I4 CNG;130 hp;Petrol;5;Silver;PS069CV
+Volkswagen;Scirocco GTS;2.0L I4 Turbo;220 hp;Petrol;4;Black;RA981TJ
+Volkswagen;Caddy Maxi;2.0L Diesel I4;122 - 150 hp;Diesel;7;Gray;ZX713RJ
+Volkswagen;Volkswagen Lupo 3L;1.2L Diesel I3;61 hp;Diesel;4;Black;DV361PQ
+Volkswagen;Polo Beats;1.0L I3 Turbo;95 hp;Petrol;5;White;PD399CU
+Volkswagen;Passat Hybrid;1.4L I4 Turbo + Electric Motor;215 hp;Hybrid;5;Black;BN713UX
+Volkswagen;Golf TCR;2.0L I4 Turbo;290 hp;Petrol;5;Blue;XO234XG
+Volkswagen;Tiguan R-Line;2.0L I4 Turbo;190 - 230 hp;Petrol;5;Black;PD253CD
+Volkswagen;Sharan Business;2.0L Diesel I4;150 - 184 hp;Diesel;7;Silver;GL080VY
+Volkswagen;ID. Buzz Cargo Pro;Electric;204 hp;Electric;2;Red;XJ285GQ
+Volkswagen;Arteon 280 TSI;2.0L I4 Turbo;280 hp;Petrol;5;Silver;LQ574UW
+Volkswagen;Jetta GLI 35th;2.0L I4 Turbo;228 hp;Petrol;5;White;RF991VT
+Volkswagen;Beetle Final Edition;2.0L I4 Turbo;174 hp;Petrol;4;White;MJ935JW
+Volkswagen;Golf Variant TDI;2.0L Diesel I4;150 - 184 hp;Diesel;5;Blue;HE271JY
+Volkswagen;Golf 4MOTION;2.0L Diesel I4;150 - 184 hp;Petrol;5;Black;XP187TM
+Volkswagen;Jetta SportWagen;1.4L I4 Turbo / 2.0L Diesel I4;147 - 150 hp;Petrol;5;Green;KK342RE
+Volkswagen;Polo GTI Plus;2.0L I4 Turbo;207 hp;Petrol;5;Silver;XD720FW
+Volkswagen;Touareg V6;3.0L V6 Turbo Diesel / Gasoline;231 - 340 hp;Petrol;5;Gray;LP053BB
+Volkswagen;Tiguan eHybrid;1.4L I4 Turbo + Electric Motor;245 hp;Hybrid;5;Red;MU189AL
+Volkswagen;Up! e-up!;Electric;83 hp;Electric;4;Silver;FL433BN
+Volkswagen;Amarok V8;4.0L V8 Turbo Diesel;310 - 340 hp;Diesel;5;Red;KT676MN
+Volkswagen;Golf R Cabriolet;2.0L I4 Turbo;265 hp;Petrol;4;Silver;WB418ER
+Volkswagen;Passat Alltrack TDI;2.0L Diesel I4;190 hp;Diesel;5;Gray;CI502LK
+Volkswagen;ID. Buzz Cargo EV;Electric;204 hp;Electric;2;Black;ZJ353RM
+Nissan;Versa;1.6L Inline-4;122 HP;Petrol;5;White;UU381WR
+Nissan;Micra;1.0L Turbocharged Inline-3;100 HP;Petrol;5;White;HB229CH
+Nissan;Patrol Platinum;5.6L V8;400 HP;Petrol;7;Black;SR550HO
+Nissan;Qashqai;1.3L Turbocharged Inline-4;156 HP;Petrol;5;White;DA259IW
+Nissan;Murano;3.5L V6;260 HP;Petrol;5;Silver;TY335QK
+Nissan;Maxima Platinum;3.5L V6;300 HP;Petrol;5;Gray;NT616EF
+Nissan;Armada;5.6L V8;400 HP;Petrol;8;Black;UK108RK
+Nissan;Kicks;1.6L Inline-4;122 HP;Petrol;5;Gray;DP466IA
+Nissan;X-Trail;1.5L Turbocharged Inline-3;201 HP;Hybrid;5;Black;IY368GR
+Nissan;Z (Fairlady Z);3.0L Twin-Turbo V6;400 HP;Petrol;2;White;XD697JB
+Nissan;Almera;1.0L Turbocharged Inline-3;100 HP;Petrol;5;White;NA021CY
+Nissan;Sylphy;1.8L Inline-4;137 HP;Petrol;5;Gray;LB435FH
+Nissan;Note;1.2L Inline-3 Hybrid;109 HP;Hybrid;5;White;SG570BD
+Nissan;Sunny;1.6L Inline-4;118 HP;Petrol;5;Gray;OC814NB
+Nissan;Cube;1.8L Inline-4;122 HP;Petrol;5;White;AO851DH
+Nissan;Juke;1.0L Turbocharged Inline-3;117 HP;Petrol;5;Gray;HN999FG
+Nissan;Terrano;1.5L Inline-4 Diesel;110 HP;Diesel;5;Black;PI677ZW
+Nissan;Magnite;1.0L Turbocharged Inline-3;100 HP;Petrol;5;White;KQ950IC
+Nissan;Xterra;4.0L V6;261 HP;Petrol;7;Black;HO314DM
+Nissan;Patrol;5.6L V8;400 HP;Petrol;7;Silver;CN627SA
+Nissan;GT-R NISMO;3.8L Twin-Turbo V6;600 HP;Petrol;2;Silver;WK597KI
+Nissan;370Z Roadster;3.7L V6;332 HP;Petrol;2;Black;WU922BT
+Nissan;Ariya ;Dual Electric Motors;389 HP;Electric;5;White;TJ155OW
+Nissan;Patrol Royale;5.6L V8;400 HP;Petrol;7;White;HB718IW
+Nissan;Infiniti QX80*;5.6L V8;400 HP;Petrol;7;Black;HY980UQ
+Nissan;Tiida;1.6L Inline-4;126 HP;Petrol;5;White;FW279RJ
+Nissan;Pulsar;1.2L Turbocharged Inline-4;115 HP;Petrol;5;White;EM441GZ
+Nissan;Latio;1.5L Inline-4;102 HP;Petrol;5;Silver;FL991FJ
+Nissan;Bluebird Sylphy;2.0L Inline-4;133 HP;Petrol;5;Gray;QL140TP
+Nissan;March;1.2L Inline-3;79 HP;Petrol;5;Blue;RH997ZD
+Nissan;Rogue Sport;2.0L Inline-4;141 HP;Petrol;5;Black;DE069LP
+Nissan;X-Trail Hybrid;2.0L Inline-4 Hybrid;179 HP;Hybrid;5;Red;IS265WD
+Nissan;Pathfinder Rock Creek;3.5L V6;284 HP;Petrol;7;Gray;MA945YH
+Nissan;Armada Platinum;5.6L V8;400 HP;Petrol;8;Gray;VR836GN
+Nissan;Terrano XL;1.6L Inline-4;104 HP;Petrol;5;Blue;ZT378XV
+Nissan;GT-R50 by Italdesign;3.8L Twin-Turbo V6;720 HP;Petrol;2;Black;EG672VV
+Nissan;370Z NISMO;3.7L V6;350 HP;Petrol;2;White;QF284HX
+Nissan;Ariya E-4ORCE;Dual Electric Motors;389 HP;Electric;5;White;RI168HX
+Nissan;Patrol NISMO;5.6L V8;428 HP;Petrol;7;Silver;RR244NQ
+Nissan;Infiniti Q60*;3.0L V6 Twin-Turbo;300 HP;Petrol;4;Black;YM052OK
+Nissan;Primera;2.0L Inline-4;140 HP;Petrol;5;Gray;DD660WW
+Nissan;Skyline;3.0L V6 Twin-Turbo;400 HP;Petrol;5;Black;IG768CW
+Nissan;Cedric;2.0L Inline-6;150 HP;Petrol;5;White;GK082OL
+Nissan;Gloria;2.5L V6;210 HP;Petrol;5;Gray;AJ174ZR
+Nissan;Stanza;1.8L Inline-4;120 HP;Petrol;5;Black;HA032TS
+Nissan;Patrol Super Safari;4.8L Inline-6;280 HP;Petrol;7;Brown;WQ486EN
+Nissan;Pathfinder Hybrid;2.5L Inline-4 Hybrid;250 HP;Hybrid;7;Blue;VN006EC
+Nissan;X-Terra Pro-4X;2.5L Inline-4;190 HP;Petrol;7;White;DA164EG
+Nissan;Rogue Platinum;1.5L Turbo Inline-3;201 HP;Petrol;5;Red;RU073JV
+Nissan;Qashqai Tekna;1.3L Turbo Hybrid Inline-4;158 HP;Hybrid;5;Silver;LG847OS
+Nissan;GT-R V-Spec;3.8L Twin-Turbo V6;600 HP;Petrol;2;Black;JE419VZ
+Nissan;Skyline NISMO;3.0L Twin-Turbo V6;420 HP;Petrol;5;Gray;PP365KK
+Nissan;Ariya Lounge Edition;Dual Electric Motors;389 HP;Electric;5;Black;PX796TX
+Nissan;Patrol Titanium;5.6L V8;428 HP;Petrol;7;Black;TS459LN
+Nissan;Infiniti FX50*;5.0L V8;390 HP;Petrol;5;Silver;HT652SD
+Nissan;Avenir;2.0L Inline-4;140 HP;Petrol;5;Silver;KX429VA
+Nissan;Wingroad;1.8L Inline-4;125 HP;Petrol;5;Black;GL521MD
+Nissan;Presea;1.8L Inline-4;115 HP;Petrol;5;Green;UP557GX
+Nissan;Leopard;3.0L V6;210 HP;Petrol;5;Blue;FU772TU
+Nissan;Sunny NISMO Edition;1.6L Turbo Inline-4;190 HP;Petrol;5;Blue;VV201WB
+Nissan;Paladin;2.4L Inline-4;150 HP;Petrol;5;White;ER221OQ
+Nissan;Hardbody SUV;2.5L Inline-4;158 HP;Petrol;5;Black;RF626PD
+Nissan;Patrol Desert Edition;5.6L V8;428 HP;Petrol;7;White;BB505RH
+Nissan;Pathfinder Armada;5.6L V8;400 HP;Petrol;7;Gray;RG773YQ
+Nissan;Rogue Midnight Edition;1.5L Turbo Inline-3;201 HP;Petrol;5;Silver;FJ212EN
+Nissan;GT-R Black Edition;3.8L Twin-Turbo V6;600 HP;Petrol;2;White;RI832WA
+Nissan;Fairlady Z Heritage;3.0L Twin-Turbo V6;400 HP;Petrol;2;Blue;SH210JR
+Nissan;Skyline GT-R R34;2.6L Twin-Turbo Inline-6;276 HP;Petrol;4;Blue;FB651BR
+Nissan;Ariya Premiere;Dual Electric Motors;389 HP;Electric;5;Silver;XS646XY
+Nissan;Infiniti QX55*;2.0L VC-Turbo Inline-4;268 HP;Petrol;5;Red;QS128RK
+Nissan;NV350 Caravan;2.5L Inline-4 Diesel;129 HP;Diesel;8;Black;XD493OI
+Nissan;Navara;2.3L Inline-4 Diesel;190 HP;Diesel;5;Gray;SE362OC
+Nissan;Titan XD;5.6L V8;400 HP;Petrol;6;Silver;GL776ST
+Nissan;Evalia;1.5L Inline-4 Diesel;85 HP;Diesel;7;Black;TL580BW
+Nissan;Cabstar;2.5L Inline-4 Diesel;130 HP;Diesel;3;Red;XF199NL
+Nissan;Cherry;1.4L Inline-4;67 HP;Petrol;5;Gray;NN179YD
+Nissan;Laurel;2.8L Inline-6 Diesel;94 HP;Diesel;5;White;FJ447HM
+Nissan;Silvia;2.0L Turbo Inline-4;247 HP;Petrol;4;Gray;UN048LJ
+Nissan;NX Coupe;2.0L Inline-4;140 HP;Petrol;4;Red;EZ356CC
+Nissan;AD Wagon;1.5L Inline-4;105 HP;Petrol;5;Gray;WZ820OG
+Nissan;Patrol Super Safari Y61;4.8L Inline-6;280 HP;Petrol;7;Brown;XO251CG
+Nissan;Pathfinder Rock Creek Edition;3.5L V6;284 HP;Petrol;7;White;TF436TG
+Nissan;Terrano II;2.7L Inline-4 Diesel;125 HP;Diesel;5;Silver;KK075PT
+Nissan;Murano CrossCabriolet;3.5L V6;260 HP;Petrol;4;Silver;MX388BO
+Nissan;X-Trail Tekna;1.5L Turbo Hybrid;204 HP;Hybrid;5;Brown;QG534PB
+Nissan;GT-R LM NISMO;3.0L Twin-Turbo V6 Hybrid;500 HP;Hybrid;2;White;MC807AR
+Nissan;Skyline 400R;3.0L Twin-Turbo V6;400 HP;Petrol;5;White;KS632UA
+Nissan;Infiniti G37*;3.7L V6;328 HP;Petrol;5;Silver;KD407AO
+Nissan;Patrol Black Edition;5.6L V8;400 HP;Petrol;7;Blue;ED438FK
+Nissan;Ariya Empower+;Dual Electric Motors;389 HP;Electric;5;White;AO603SJ
+Nissan;Datsun 510 (Classic);1.6L Inline-4;96 HP;Petrol;4;Blue;OD982NS
+Nissan;200SX;2.0L Turbo Inline-4;200 HP;Petrol;4;White;PP137NY
+Nissan;300ZX;3.0L Twin-Turbo V6;300 HP;Petrol;4;Silver;SO868LD
+Nissan;R390 GT1 Road Car;3.5L Twin-Turbo V8;550 HP;Petrol;2;White;MY051ZU
+Nissan;Figaro;1.0L Turbo Inline-4;76 HP;Petrol;4;Silver;IZ700PV
+Nissan;Hardbody Truck;2.4L Inline-4;134 HP;Petrol;5;Blue;HC873XL
+Nissan;Atlas;3.0L Inline-4 Diesel;130 HP;Diesel;3;Black;TB013OY
+Nissan;Clipper;660cc Inline-3;48 HP;Petrol;4;Black;VQ215ML
+Nissan;NV200;2.0L Inline-4;131 HP;Petrol;7;Gray;CT264EJ
+Nissan;Violet;1.8L Inline-4;85 HP;Petrol;5;White;PM827DG
+Nissan;Bluebird Z;2.0L Inline-4;140 HP;Petrol;5;Silver;NO909JX
+Nissan;Stanza Wagon;2.4L Inline-4;138 HP;Petrol;7;Black;JF323BC
+Nissan;180SX;2.0L Turbo Inline-4;205 HP;Petrol;4;Red;VU194AB
+Nissan;Sunny California;1.6L Inline-4;110 HP;Petrol;5;Gray;YG977UD
+Nissan;Patrol Warrior;5.6L V8;428 HP;Petrol;7;Brown;CK277PK
+Nissan;Pathfinder Armada Platinum;5.6L V8;400 HP;Petrol;7;Blue;ZW990KK
+Nissan;Rogue Sport SL;2.0L Inline-4;141 HP;Petrol;5;White;IF379OK
+Nissan;X-Trail Platinum Edition;1.5L Turbo Hybrid;204 HP;Hybrid;5;Gray;QC624SK
+Nissan;Qashqai e-Power;1.5L Hybrid;187 HP;Hybrid;5;Black;ZU376GO
+Nissan;GT-R Egoist;3.8L Twin-Turbo V6;565 HP;Petrol;2;White;BG706NO
+Nissan;Infiniti M45*;4.5L V8;325 HP;Petrol;5;Blue;NH580XX
+Nissan;Skyline 50th Anniversary;3.0L Twin-Turbo V6;400 HP;Petrol;5;Gray;FU251RH
+Nissan;Ariya Dual Motor AWD;Dual Electric Motors;389 HP;Electric;5;Silver;YR618YA
+Nissan;Patrol Legend Edition;5.6L V8;428 HP;Petrol;7;Silver;RO754VU
+Nissan;Datsun 240Z (Classic);2.4L Inline-6;151 HP;Petrol;2;Blue;MP430EU
+Nissan;100NX;1.6L Inline-4;110 HP;Petrol;4;Red;CN466XL
+Nissan;Cedric Special Edition;3.0L V6;250 HP;Petrol;5;Black;DM677MG
+Nissan;300ZX Turbo;3.0L Twin-Turbo V6;300 HP;Petrol;4;Green;HJ884SF
+Nissan;Silvia S15 Spec-R;2.0L Turbo Inline-4;250 HP;Petrol;4;Black;FK625TS
+Nissan;NV400;2.3L Inline-4 Diesel;135 HP;Diesel;3;Black;MZ256MU
+Nissan;Titan Warrior;5.6L V8;400 HP;Petrol;5;Silver;UV248MO
+Nissan;Caravan Coach;2.5L Inline-4 Diesel;127 HP;Diesel;7;White;MK665ZL
+Nissan;Serena e-Power;1.2L Hybrid;134 HP;Hybrid;7;Gray;QT062ZB
+Nissan;Elgrand;3.5L V6;280 HP;Petrol;7;Green;TJ698HE
+Nissan;Datsun 510;1.6L Inline-4;96 HP;Petrol;4;White;FK838DH
+Nissan;Prairie;2.0L Inline-4;120 HP;Petrol;5;Black;AP797CF
+Nissan;Pulsar GTI-R;2.0L Turbo Inline-4;230 HP;Petrol;5;Gray;VT605MV
+Nissan;Almera Tino;1.8L Inline-4;114 HP;Petrol;5;Gray;HT642SY
+Nissan;Lucino;1.6L Inline-4;115 HP;Petrol;5;Silver;AY013SR
+Nissan;Rasheen;1.5L Inline-4;105 HP;Petrol;5;Black;GB020ZY
+Nissan;Mistral;2.7L Turbo Diesel;125 HP;Diesel;7;Blue;QI176PB
+Nissan;Patrol Y60;4.2L Inline-6;155 HP;Diesel;7;Blue;FN535PB
+Nissan;X-Trail GT;2.0L Turbo Inline-4;280 HP;Petrol;5;Black;NX347VS
+Nissan;Terrano Regulus;3.3L V6;170 HP;Petrol;5;Blue;CQ939LY
+Nissan;President;4.5L V8;280 HP;Petrol;5;White;RX865WJ
+Nissan;Cima;4.1L V8;270 HP;Petrol;5;Black;TE849CB
+Nissan;Leopard J. Ferie;3.0L V6 Turbo;255 HP;Petrol;5;Red;YN607GJ
+Nissan;Gloria Gran Turismo;3.0L V6 Turbo;255 HP;Petrol;5;Silver;LK437AM
+Nissan;Infiniti Q45*;4.5L V8;340 HP;Petrol;5;White;BB214YV
+Nissan;Datsun 240Z;2.4L Inline-6;151 HP;Petrol;2;Black;GW528EJ
+Nissan;280ZX;2.8L Inline-6;145 HP;Petrol;2;Black;YF128ZY
+Nissan;Silvia S13;1.8L Turbo Inline-4;175 HP;Petrol;4;Silver;ZU200KA
+Nissan;200SX;2.0L Turbo Inline-4;200 HP;Petrol;4;White;XV237KO
+Nissan;NX Coupe;1.8L Inline-4;140 HP;Petrol;4;Brown;VK957PO
+Nissan;NV2500;4.0L V6;261 HP;Petrol;2;White;TZ365IE
+Nissan;NV3500;5.6L V8;375 HP;Petrol;2;Black;KM332IF
+Nissan;NT400 Cabstar;3.0L Inline-4 Diesel;150 HP;Diesel;3;White;LS986EG
+Porsche;Panamera;2.9L V6 Twin Turbo;330 HP;Petrol;4;White;BS845XN
+Porsche;Panamera 4;2.9L V6 Twin Turbo;330 HP;Petrol;4;White;BK498ZH
+Porsche;Panamera 4S;2.9L V6 Twin Turbo;440 HP;Petrol;4;Beige;AG116WW
+Porsche;Panamera Turbo S;4.0L V8 Twin Turbo;620 HP;Petrol;4;Gray;AP194MZ
+Porsche;Panamera GTS;4.0L V8 Twin Turbo;473 HP;Petrol;4;Gray;PF150XA
+Porsche;Panamera Platinum Edition;2.9L V6 Twin Turbo;330 HP;Petrol;4;White;DI112MM
+Porsche;Panamera E-Hybrid;2.9L V6 + Electric Motor;455 HP;Hybrid (Petrol);4;Black;MH881BQ
+Porsche;Panamera 4 E-Hybrid Sport Turismo;2.9L V6 + Electric Motor;455 HP;Hybrid (Petrol);4;White;YL617YA
+Porsche;Panamera Turbo S E-Hybrid;4.0L V8 + Electric Motor;690 HP;Hybrid (Petrol);4;Silver;FF949LR
+Porsche;Panamera 4 Executive;2.9L V6 Twin Turbo;330 HP;Petrol;4;Black;XA592AG
+Porsche;Cayenne;3.0L V6 Turbo;335 HP;Petrol;5;White;OV133QG
+Porsche;Cayenne Coupe;3.0L V6 Turbo;335 HP;Petrol;5;Gray;NZ306VS
+Porsche;Cayenne S;2.9L V6 Twin Turbo;434 HP;Petrol;5;Black;HS932TQ
+Porsche;Cayenne Turbo;4.0L V8 Twin Turbo;541 HP;Petrol;5;Silver;RT212FH
+Porsche;Cayenne GTS;4.0L V8 Twin Turbo;453 HP;Petrol;5;White;JY918UG
+Porsche;Cayenne Turbo S E-Hybrid;4.0L V8 + Electric Motor;670 HP;Hybrid (Petrol);5;White;OK510TY
+Porsche;Macan;2.0L I4 Turbo;261 HP;Petrol;5;Silver;PK577WW
+Porsche;Macan S;2.9L V6 Twin Turbo;375 HP;Petrol;5;Blue;UT284RY
+Porsche;Macan GTS;2.9L V6 Twin Turbo;434 HP;Petrol;5;Gray;SR668ZL
+Porsche;Macan T;2.0L I4 Turbo;261 HP;Petrol;5;Black;SJ171WX
+Porsche;911 Carrera;3.0L Flat-6 Twin Turbo;379 HP;Petrol;4;Black;MO934MR
+Porsche;911 Carrera S;3.0L Twin-Turbo Flat-6;443 hp;Petrol;4;Brown;LO374VZ
+Porsche;911 Carrera 4;3.0L Twin-Turbo Flat-6;379 hp;Petrol;4;Black;JL642OR
+Porsche;911 Carrera 4S;3.0L Twin-Turbo Flat-6;443 hp;Petrol;4;White;GS324VV
+Porsche;911 Targa 4;3.0L Twin-Turbo Flat-6;379 hp;Petrol;4;Black;BQ947CC
+Porsche;911 Turbo;3.8L Twin-Turbo Flat-6;572 hp;Petrol;4;Red;YR892VN
+Porsche;911 Turbo S;3.8L Twin-Turbo Flat-6;640 hp;Petrol;4;Blue;RL625RX
+Porsche;911 GT3;4.0L Naturally Aspirated Flat-6;502 hp;Petrol;2;Black;ZO401BR
+Porsche;911 GT3 RS;4.0L Naturally Aspirated Flat-6;518 hp;Petrol;2;Gray;XE587PW
+Porsche;911 Dakar;3.0L Twin-Turbo Flat-6;473 hp;Petrol;2;Silver;NE838VC
+Porsche;Taycan;Dual Electric Motors;402 hp;Electric;4;Gray;QR181CX
+Porsche;Taycan 4S;Dual Electric Motors;522 hp;Electric;4;Black;BB633VG
+Porsche;Taycan Turbo;Dual Electric Motors;670 hp;Electric;4;Blue;JS504CI
+Porsche;Taycan Turbo S;Dual Electric Motors;750 hp;Electric;4;Gray;ZV860VY
+Porsche;Taycan GTS;Dual Electric Motors;590 hp;Electric;4;Silver;JG509KN
+Porsche;Taycan Cross Turismo;Dual Electric Motors;469 hp;Electric;5;Black;HG996QM
+Porsche;Taycan Sport Turismo;Dual Electric Motors;509 hp;Electric;5;Black;JW601TO
+Porsche;718 Cayman;2.0L Turbocharged Flat-4;300 hp;Petrol;2;Black;WL992VV
+Porsche;718 Cayman S;2.5L Turbocharged Flat-4;350 hp;Petrol;2;White;KY682RA
+Porsche;718 Cayman GT4;4.0L Naturally Aspirated Flat-6;414 hp;Petrol;2;Silver;QG722VD
+Porsche;718 Cayman GT4 RS;4.0L Naturally Aspirated Flat-6;493 hp;Petrol;2;Black;ZA217MD
+Porsche;718 Boxster;2.0L Turbo Flat-4;300 hp;Petrol;2;Gray;CS759NV
+Porsche;718 Boxster T;2.0L Turbo Flat-4;300 hp;Petrol;2;Silver;JY195SQ
+Porsche;718 Boxster GTS;4.0L Naturally Aspirated Flat-6;394 hp;Petrol;2;Black;CV004JE
+Porsche;718 Spyder;4.0L Naturally Aspirated Flat-6;414 hp;Petrol;2;Gray;EK746RK
+Porsche;Panamera Base;2.9L Twin-Turbo V6;325 hp;Petrol;4;White;DK291HT
+Porsche;Panamera 4 E-Hybrid;2.9L Twin-Turbo V6 + Electric Motor;462 hp;Hybrid;4;Red;NC908EX
+Porsche;Panamera 4 Sport Turismo;2.9L Twin-Turbo V6;325 hp;Petrol;4;Black;LB980VU
+Porsche;Panamera Turbo S E-Hybrid Sport Turismo;4.0L Twin-Turbo V8 + Electric Motor;690 hp;Hybrid;4;Red;GX680BX
+Porsche;Panamera 4S E-Hybrid Executive;2.9L Twin-Turbo V6 + Electric Motor;560 hp;Hybrid;4;Blue;SU674VB
+Porsche;Panamera Platinum Edition;2.9L Twin-Turbo V6;325 hp;Petrol;4;White;IE965BP
+Porsche;Panamera GTS Sport Turismo;4.0L Twin-Turbo V8;473 hp;Petrol;4;Blue;EX319JS
+Porsche;Panamera Turbo Executive;4.0L Twin-Turbo V8;550 hp;Petrol;4;Black;JW854WW
+Porsche;Panamera Turbo S Exclusive Series;4.0L Twin-Turbo V8;570 hp;Petrol;4;Silver;GC771AB
+Porsche;Panamera 4S ;2.9L Twin-Turbo V6;443 hp;Petrol;4;Brown;PU742HY
+Porsche;Macan Base;2.0L Turbo Inline-4;265 hp;Petrol;5;Red;WI992XA
+Porsche;Macan T;2.0L Turbo Inline-4;265 hp;Petrol;5;Red;BD659WY
+Porsche;Macan S;2.9L Twin-Turbo V6;375 hp;Petrol;5;Black;QO212RX
+Porsche;Macan GTS;2.9L Twin-Turbo V6;434 hp;Petrol;5;White;FJ352XG
+Porsche;Macan EV ;Dual Electric Motors;603 hp;Electric;5;Red;TE520QL
+Porsche;Cayenne Base;3.0L Turbocharged V6;335 hp;Petrol;5;Brown;RY290UO
+Porsche;Cayenne E-Hybrid;3.0L V6 + Electric Motor;455 hp;Hybrid;5;Silver;KB099VX
+Porsche;Cayenne S Coupe;2.9L Twin-Turbo V6;434 hp;Petrol;4;White;YH507KF
+Porsche;Cayenne Turbo GT;4.0L Twin-Turbo V8;631 hp;Petrol;4;Black;ZT847JO
+Porsche;Cayenne Platinum Edition;3.0L Turbocharged V6;335 hp;Petrol;5;Red;ER791PY
+Porsche;Cayenne Turbo S E-Hybrid Coupe;4.0L Twin-Turbo V8 + Electric Motor;670 hp;Hybrid;4;Silver;VH894ZS
+Porsche;Cayenne GTS Coupe;4.0L Twin-Turbo V8;453 hp;Petrol;4;Gray;FK526DP
+Porsche;Cayenne Diesel (Regional Markets);3.0L Turbo Diesel V6;262 hp;Diesel;5;Black;ET432NU
+Porsche;Cayenne S Hybrid;3.0L V6 + Electric Motor;380 hp;Hybrid;5;Black;JY413RQ
+Porsche;Cayenne Coupe Turbo E-Hybrid;4.0L Twin-Turbo V8 + Electric Motor;728 hp;Hybrid;4;Gray;XF909RG
+Porsche;Taycan Base;Dual Electric Motors;321 hp;Electric;4;Black;KT110MK
+Cadillac;CT4;2.0L Turbo Inline-4 Gasoline;237 hp;Petrol;5;Gray;OS776KG
+Cadillac;CT4-V;2.7L Turbo Inline-4 Gasoline;325 hp;Petrol;5;Blue;GE658ZL
+Cadillac;CT5;2.0L Turbo Inline-4 Gasoline;237 hp;Petrol;5;Gray;KH116FH
+Cadillac;CT5-V;3.0L Twin-Turbo V6 Gasoline;360 hp;Petrol;5;Silver;CO789UM
+Porsche;Taycan Cross Turismo 4;Dual Electric Motors;375 hp;Electric;4;Silver;YI671FG
+Porsche;Taycan Cross Turismo GTS;Dual Electric Motors;590 hp;Electric;4;White;XF093IM
+Porsche;Taycan Sport Turismo Base;Dual Electric Motors;375 hp;Electric;4;Silver;GQ779IL
+Porsche;Taycan Sport Turismo GTS;Dual Electric Motors;590 hp;Electric;4;Silver;YU960VF
+Porsche;Taycan Turbo S Cross Turismo;Dual Electric Motors;750 hp;Electric;4;White;AZ418LK
+Porsche;911 Carrera Base;3.0L Twin-Turbo Flat-6;379 hp;Petrol;4;Black;KJ770XV
+Porsche;911 Carrera S Cabriolet;3.0L Twin-Turbo Flat-6;443 hp;Petrol;4;Black;AL978HN
+Porsche;911 Carrera 4;3.0L Twin-Turbo Flat-6;379 hp;Petrol;4;Blue;TW961EL
+Porsche;911 Carrera 4 GTS;3.0L Twin-Turbo Flat-6;473 hp;Petrol;4;Silver;MK149KO
+Porsche;911 Targa 4 GTS;3.0L Twin-Turbo Flat-6;473 hp;Petrol;4;Silver;GQ529BU
+Porsche;911 Turbo Cabriolet;3.8L Twin-Turbo Flat-6;572 hp;Petrol;4;Gray;YH732DW
+Porsche;911 Turbo S Coupe;3.8L Twin-Turbo Flat-6;640 hp;Petrol;4;Black;KY976RO
+Porsche;911 GT3 Touring;4.0L Naturally Aspirated Flat-6;502 hp;Petrol;2;Red;NP645NU
+Porsche;911 GT3 RS Clubsport;4.0L Naturally Aspirated Flat-6;525 hp;Petrol;2;Silver;QK657HT
+Porsche;911 Dakar Limited Edition;3.0L Twin-Turbo Flat-6;473 hp;Petrol;4;White;ME827YV
+Porsche;911 Carrera GTS Lightweight;3.0L Twin-Turbo Flat-6;473 hp;Petrol;4;Gray;GK713PR
+Porsche;911 Targa 4 Lightweight;3.0L Twin-Turbo Flat-6;379 hp;Petrol;4;Black;JW351JV
+Porsche;911 Turbo Exclusive Series;3.8L Twin-Turbo Flat-6;607 hp;Petrol;4;Gray;VJ841VC
+Porsche;911 GT2 RS;3.8L Twin-Turbo Flat-6;700 hp;Petrol;2;Black;US955KM
+Porsche;911 GT3 Cup;4.0L Naturally Aspirated Flat-6;510 hp;Petrol;1;Gray;BH574XD
+Porsche;911 GT4 RS;4.0L Naturally Aspirated Flat-6;500 hp;Petrol;2;Blue;TG249MY
+Porsche;911 RSR (Motorsport Edition);4.2L Naturally Aspirated Flat-6;515 hp;Petrol;1;Silver;QI627OI
+Porsche;911 Sport Turismo;3.0L Twin-Turbo Flat-6;379 hp;Petrol;4;Blue;WW569AX
+Porsche;911 Turbo Cabriolet Lightweight;3.8L Twin-Turbo Flat-6;572 hp;Petrol;4;White;IY835MX
+Porsche;911 Dakar Sport;3.0L Twin-Turbo Flat-6;473 hp;Petrol;4;Red;IT555IH
+Tata Motors;Tiago;1.2L Revotron 3-cylinder Petrol;86 hp;Petrol;5;Gray;KN630JR
+Tata Motors;Tiago EV;Permanent Magnet Synchronous;74 hp;Electric;5;White;TO841EH
+Tata Motors;Altroz;1.2L Revotron Petrol / 1.5L Diesel;86 hp / 89 hp;Petrol/Diesel;5;Black;QR676FP
+Tata Motors;Altroz DCA;1.2L Revotron 3-cylinder Petrol;86 hp;Petrol;5;White;ZR299SS
+Tata Motors;Altroz iTurbo;1.2L Turbocharged Petrol;110 hp;Petrol;5;Silver;RC888TL
+Tata Motors;Altroz CNG;1.2L Revotron Bi-Fuel;86 hp;CNG/Petrol;5;Silver;JW411UE
+Tata Motors;Tiago NRG;1.2L Revotron 3-cylinder Petrol;86 hp;Petrol;5;Gray;SL434TQ
+Tata Motors;Nano GenX;624cc MPFI;37 hp;Petrol;4;Black;IT013FU
+Tata Motors;Indica eV2;1.4L CR4 Diesel;70 hp;Diesel;5;Red;HU410LD
+Tata Motors;Indica V2 Xeta;1.2L MPFI Petrol;65 hp;Petrol;5;Silver;KZ007EP
+Tata Motors;Tigor;1.2L Revotron 3-cylinder Petrol;86 hp;Petrol;5;Green;DT228RM
+Tata Motors;Tigor EV;Permanent Magnet Synchronous;74 hp;Electric;5;Brown;AS084KM
+Tata Motors;Zest;1.3L Quadrajet Diesel / 1.2L Revotron Petrol;75 hp / 90 hp;Diesel/Petrol;5;Silver;OC366SY
+Tata Motors;Indigo eCS;1.4L CR4 Diesel;70 hp;Diesel;5;Black;FR877DT
+Cadillac;Escalade;6.2L V8 Gasoline;420 hp;Petrol;7;Black;WF122RI
+Tata Motors;Indigo Marina;1.4L CR4 Diesel / 1.4L Petrol;70 hp / 85 hp;Diesel/Petrol;5;White;HS659DX
+Tata Motors;Manza;1.3L Quadrajet Diesel / 1.4L Petrol;75 hp / 90 hp;Diesel/Petrol;5;Gray;QS173ZR
+Tata Motors;Indigo LX;1.4L CR4 Diesel;70 hp;Diesel;5;White;PN330RA
+Tata Motors;Indigo GLX;1.4L MPFI Petrol;85 hp;Petrol;5;Blue;AC194LJ
+Cadillac;Escalade ESV;6.2L V8 Gasoline;420 hp;Petrol;7;White;IB254TH
+Tata Motors;Nexon;1.2L Turbo Petrol / 1.5L Diesel;118 hp / 110 hp;Petrol/Diesel;5;Gray;QU731RT
+Tata Motors;Nexon EV Max;Permanent Magnet Synchronous;143 hp;Electric;5;White;WR460MZ
+Tata Motors;Harrier;2.0L Kryotec Turbocharged Diesel;168 hp;Diesel;5;White;JG793FN
+Tata Motors;Safari;2.0L Kryotec Turbocharged Diesel;168 hp;Diesel;7;Blue;RB583XJ
+Tata Motors;Punch;1.2L Revotron Petrol;86 hp;Petrol;5;White;AL546MF
+Tata Motors;Hexa;2.2L Varicor Diesel;154 hp;Diesel;7;Gray;ZY363ZL
+Tata Motors;Aria;2.2L Dicor Diesel;138 hp;Diesel;7;Black;JM232RQ
+Tata Motors;Sumo Gold;3.0L CR4 Diesel;85 hp;Diesel;7;Green;OY156ZE
+Tata Motors;Sumo Grande;2.2L Dicor Diesel;118 hp;Diesel;7;Silver;NF108KK
+Tata Motors;Nexon EV Prime;Permanent Magnet Synchronous;129 hp;Electric;5;Black;YT831ZP
+Tata Motors;Tiago EV;Permanent Magnet Synchronous;74 hp;Electric;5;Blue;MM686EK
+Tesla;Model S;Dual Electric Motors;670 hp;Electric;5;White;EL522XG
+Tesla;Model S Plaid;Tri Electric Motors;1,020 hp;Electric;5;Silver;BT263JL
+Tesla;Model 3;Single Electric Motor (RWD);283 hp;Electric;5;Silver;RE174MH
+Tesla;Model 3 Performance;Dual Electric Motors (AWD);450 hp;Electric;5;Gray;EH076PP
+Tesla;Model X;Dual Electric Motors (AWD);670 hp;Electric;7;Gray;FK745YW
+Tesla;Model X Plaid;Tri Electric Motors;1,020 hp;Electric;6;Red;PK169VI
+Tesla;Model Y;Single Electric Motor (RWD);346 hp;Electric;5;Red;ME460VH
+Tesla;Model Y Long Range;Dual Electric Motors (AWD);384 hp;Electric;5;Black;IB030YA
+Tesla;Cybertruck;Tri Electric Motors;800 hp;Electric;6;White;TN048TW
+Tesla;Roadster 2;Quad Electric Motors;1,288 hp;Electric;4;Gray;NZ224CY
+Jeep;Wrangler;3.6L V6 Pentastar Gasoline;285 hp;Petrol;4;Silver;SZ111GR
+Jeep;Wrangler Rubicon;2.0L Turbo I4 Gasoline;270 hp;Petrol;4;Orange;PI869IM
+Jeep;Grand Cherokee;3.6L V6 Pentastar Gasoline;293 hp;Petrol;5;Black;HD966WQ
+Jeep;Grand Cherokee L;3.6L V6 Pentastar Gasoline;293 hp;Petrol;7;Black;MB439UY
+Jeep;Cherokee;2.4L I4 Tigershark Gasoline;180 hp;Petrol;5;White;HS073GC
+Jeep;Compass;2.0L Turbo Gasoline;200 hp;Petrol;5;White;NX814VP
+Jeep;Renegade;1.3L Turbo I4 Gasoline;177 hp;Petrol;5;Black;VL251HU
+Jeep;Gladiator;3.6L V6 Pentastar Gasoline;285 hp;Petrol;5;Gray;IB658NT
+Jeep;Wagoneer;5.7L V8 Gasoline with eTorque;392 hp;Petrol;8;Gray;EH545HV
+Jeep;Grand Wagoneer;6.4L V8 Gasoline;471 hp;Petrol;8;Gray;TZ684FL
+Jeep;Grand Cherokee 4xe;2.0L Turbo PHEV;375 hp;Hybrid;5;Black;LA702BO
+Jeep;Wrangler 4xe;2.0L Turbo PHEV;375 hp;Hybrid;5;Black;PB691PZ
+Jeep;Compass 4xe;1.3L Turbo PHEV;240 hp;Hybrid;5;Black;NZ012FF
+Jeep;Renegade 4xe;1.3L Turbo PHEV;240 hp;Hybrid;5;Black;EX539WC
+Mazda;Mazda2;1.5L 4-Cylinder;108 hp;Petrol;5;Orange;DW190EC
+Jeep;Wagoneer S (Electric);Dual Electric Motors;600 hp;Electric;5;Gray;AT642QQ
+Jeep;Gladiator Mojave Edition;3.6L V6 Pentastar Gasoline;285 hp;Petrol;5;White;ET854WD
+Jeep;Grand Cherokee Summit Reserve;5.7L V8 Gasoline;357 hp;Petrol;5;Blue;FA404MH
+Jeep;Jeep Cherokee X Edition;3.2L V6 Pentastar Gasoline;271 hp;Petrol;5;Silver;LS228TR
+Jeep;Wrangler 392;6.4L V8 HEMI Gasoline;470 hp;Petrol;4;Orange;DW501CR
+Cadillac;XT4;2.0L Turbo Inline-4 Gasoline;235 hp;Petrol;5;Silver;AT980MJ
+Cadillac;XT5;3.6L V6 Gasoline;310 hp;Petrol;5;Gray;YF610TP
+Cadillac;XT6;3.6L V6 Gasoline;310 hp;Petrol;7;Gray;KN985XW
+Cadillac;Lyriq EV;Single Electric Motor;340 hp;Electric;5;Silver;VV172UO
+Cadillac;Escalade V;6.2L Supercharged V8 Gasoline;682 hp;Petrol;7;Silver;LL851YM
+Cadillac;Escalade Platinum;6.2L V8 Gasoline;420 hp;Petrol;7;Gray;XK646OY
+Cadillac;CT5-V Blackwing;6.2L Supercharged V8 Gasoline;668 hp;Petrol;5;White;QG088AK
+Cadillac;CT4-V Blackwing;3.6L Twin-Turbo V6 Gasoline;472 hp;Petrol;5;Silver;QQ779MP
+Cadillac;XT4 Sport;2.0L Turbo Inline-4 Gasoline;235 hp;Petrol;5;White;SN345GN
+Cadillac;XT5 Sport;3.6L V6 Gasoline;310 hp;Petrol;5;Gray;AM504IU
+Cadillac;XT6 Sport;3.6L V6 Gasoline;310 hp;Petrol;7;Red;WO795XN
+Cadillac;Lyriq Launch Edition;Single Electric Motor;340 hp;Electric;5;Black;FJ834KY
+Cadillac;Lyriq EV Premium;Dual Electric Motors;500 hp;Electric;5;White;CM932ZH
+Cadillac;CT5 Premium Luxury;2.0L Turbo Inline-4 Gasoline;237 hp;Petrol;5;Brown;IH314HC
+Chevrolet;Spark;1.4L Inline-4 Gasoline;98 hp;Petrol;5;Gray;NP021YP
+Chevrolet;Sonic;1.4L Turbo Inline-4 Gasoline;138 hp;Petrol;5;Gray;NF455QH
+Chevrolet;Malibu;1.5L Turbo Inline-4 Gasoline;160 hp;Petrol;5;Black;NL312XL
+Chevrolet;Camaro;2.0L Turbo Inline-4 Gasoline;275 hp;Petrol;4;Black;FD309CQ
+Chevrolet;Corvette;6.2L V8 Gasoline;495 hp;Petrol;2;Blue;YV149AB
+Chevrolet;Traverse;3.6L V6 Gasoline;310 hp;Petrol;7;Gray;RC807QA
+Chevrolet;Equinox;1.5L Turbo Inline-4 Gasoline;170 hp;Petrol;5;Red;OT916XC
+Chevrolet;Blazer;3.6L V6 Gasoline;308 hp;Petrol;5;White;MZ544LJ
+Chevrolet;Tahoe;5.3L V8 Gasoline;355 hp;Petrol;7;White;YS971OJ
+Chevrolet;Suburban;5.3L V8 Gasoline;355 hp;Petrol;8;Black;UE059YP
+Chevrolet;Colorado;2.7L Turbo Inline-4 Gasoline;310 hp;Petrol;5;White;HP529BB
+Chevrolet;Silverado 1500;5.3L V8 Gasoline;355 hp;Petrol;6;Gray;PG721PS
+Chevrolet;Silverado 2500HD;6.6L V8 Gasoline;401 hp;Petrol;6;White;RW095JV
+Chevrolet;Silverado 3500HD;6.6L V8 Diesel;445 hp;Diesel;6;Red;YB336MN
+Chevrolet;Bolt EV;Single Electric Motor;200 hp;Electric;5;Gray;CJ032OZ
+Chevrolet;Bolt EUV;Single Electric Motor;200 hp;Electric;5;Black;EY135ZM
+Chevrolet;Trailblazer;1.3L Turbo Inline-3 Gasoline;155 hp;Petrol;5;Gray;UL791HP
+Chevrolet;Malibu Premier;2.0L Turbo Inline-4 Gasoline;250 hp;Petrol;5;Red;SL676LT
+Chevrolet;Camaro ZL1;6.2L Supercharged V8 Gasoline;650 hp;Petrol;4;Gray;HM037TZ
+Chevrolet;Corvette Stingray;6.2L V8 Gasoline;495 hp;Petrol;2;Black;TB529PZ
+Chevrolet;Silverado 1500 High Country;5.3L V8 Gasoline;355 hp;Petrol;6;Black;FG079UF
+Chevrolet;Silverado 1500 Trail Boss;5.3L V8 Gasoline;355 hp;Petrol;6;Green;TB369WA
+Chevrolet;Silverado 1500 RST;5.3L V8 Gasoline;355 hp;Petrol;6;Gray;JJ806CO
+Chevrolet;Colorado ZR2;2.8L Turbo Diesel I4;181 hp;Diesel;5;Gray;GS097KG
+Chevrolet;Traverse Premier;3.6L V6 Gasoline;310 hp;Petrol;7;Gray;RP182HS
+Chevrolet;Equinox Premier;1.5L Turbo Inline-4 Gasoline;170 hp;Petrol;5;Gray;PZ867BN
+Chevrolet;Blazer RS;3.6L V6 Gasoline;308 hp;Petrol;5;Black;JS095OO
+Chevrolet;Bolt EV 2LT;Single Electric Motor;200 hp;Electric;5;Silver;IT668QK
+Chevrolet;Camaro SS;6.2L V8 Gasoline;455 hp;Petrol;4;White;VF268RV
+Chevrolet;Corvette Grand Sport;6.2L V8 Gasoline;460 hp;Petrol;2;White;EM574FQ
+Chevrolet;Traverse RS;3.6L V6 Gasoline;310 hp;Petrol;7;White;AE013TE
+Chevrolet;Blazer Premier;3.6L V6 Gasoline;308 hp;Petrol;5;Silver;HU702DR
+Chevrolet;Malibu LT;1.5L Turbo Inline-4 Gasoline;160 hp;Petrol;5;White;KD094NE
+Chevrolet;Spark Activ;1.4L Inline-4 Gasoline;98 hp;Petrol;5;Red;PY526YW
+Chevrolet;Trax LT;1.2L Turbo Inline-3 Gasoline;137 hp;Petrol;5;Gray;IJ469SL
+Chevrolet;Equinox LT;1.5L Turbo Inline-4 Gasoline;170 hp;Petrol;5;Black;IW298ZE
+Chevrolet;Silverado 3500HD High Country;6.6L V8 Diesel;445 hp;Diesel;6;Gray;CO142JJ
+Chevrolet;Colorado WT;2.7L Turbo Inline-4 Gasoline;310 hp;Petrol;5;Gray;IV404EO
+Chevrolet;Suburban High Country;6.2L V8 Gasoline;420 hp;Petrol;8;Silver;RH844YU
+Chevrolet;Silverado Custom;4.3L V6 Gasoline;285 hp;Petrol;6;Blue;NM003PU
+Chevrolet;Spark LS;1.4L Inline-4 Gasoline;98 hp;Petrol;5;White;CW394UE
+Chevrolet;Traverse LT;3.6L V6 Gasoline;310 hp;Petrol;7;Blue;DW630AW
+Chevrolet;Blazer LT;2.5L Inline-4 Gasoline;193 hp;Petrol;5;Gray;MG097MV
+Chevrolet;Malibu Premier;2.0L Turbo Inline-4 Gasoline;250 hp;Petrol;5;Black;DW038RN
+Chevrolet;Equinox RS;1.5L Turbo Inline-4 Gasoline;170 hp;Petrol;5;Gray;UZ953DC
+Chevrolet;Silverado 1500 Custom;4.3L V6 Gasoline;285 hp;Petrol;6;Blue;QE291KA
+Chevrolet;Silverado 2500HD LTZ;6.6L V8 Diesel;445 hp;Diesel;6;Gray;OD852EP
+Chevrolet;Tahoe RST;5.3L V8 Gasoline;355 hp;Petrol;7;Black;AD951MK
+Chevrolet;Suburban LT;5.3L V8 Gasoline;355 hp;Petrol;8;Black;AY360BH
+Chevrolet;Bolt EV Premier;Single Electric Motor;200 hp;Electric;5;Beige;XO728SS
+Chevrolet;Tahoe LS;5.3L V8 Gasoline;355 hp;Petrol;8;Black;OQ110WY
+Chevrolet;Tahoe LT;5.3L V8 Gasoline;355 hp;Petrol;8;Black;NF779FU
+Chevrolet;Tahoe RST;5.3L V8 Gasoline;355 hp;Petrol;7;Black;HF107ZX
+Chevrolet;Tahoe Z71;5.3L V8 Gasoline;355 hp;Petrol;7;White;YS783IC
+Chevrolet;Tahoe Premier;6.2L V8 Gasoline;420 hp;Petrol;7;Black;NT910OV
+Chevrolet;Tahoe High Country;6.2L V8 Gasoline;420 hp;Petrol;7;Silver;EC734UA
+Chevrolet;Tahoe Midnight Edition;5.3L V8 Gasoline;355 hp;Petrol;8;Black;GY299RO
+Chevrolet;Tahoe Sport Edition;6.2L V8 Gasoline;420 hp;Petrol;7;Gray;EM777JZ
+GMC;Terrain;1.5L Turbo 4-cylinder;175 hp;Petrol;5;Silver;YV604XH
+GMC;Acadia;2.0L Turbo 4-cylinder;228 hp;Petrol;7;Black;WW505IO
+GMC;Yukon;5.3L V8 Gasoline;355 hp;Petrol;8;Silver;AW334LP
+GMC;Yukon XL;6.2L V8 Gasoline;420 hp;Petrol;8;Brown;DK775GR
+GMC;Canyon;2.7L Turbo 4-cylinder;310 hp;Petrol;5;Black;ST176JA
+GMC;Sierra 1500;5.3L V8 Gasoline;355 hp;Petrol;6;Blue;XN895RQ
+GMC;Sierra 2500HD;6.6L V8 Diesel;401 hp;Diesel;6;Blue;KQ783NF
+GMC;Sierra 3500HD;6.6L V8 Diesel;445 hp;Diesel;6;Red;EC959IQ
+GMC;Hummer EV Pickup;Dual-Motor Electric;625 hp;Electric;5;Gray;XZ974MH
+GMC;Hummer EV SUV;Dual-Motor Electric;625 hp;Electric;5;Silver;DI910UE
+GMC;Yukon Denali;6.2L V8 Gasoline;420 hp;Petrol;8;Red;OT202LV
+GMC;Sierra Denali;6.2L V8 Gasoline;420 hp;Petrol;6;Gray;GY358UE
+GMC;Terrain AT4;1.5L Turbo 4-cylinder;175 hp;Petrol;5;White;CO272JN
+GMC;Acadia AT4;3.6L V6 Gasoline;310 hp;Petrol;6;White;UC313WY
+GMC;Sierra 1500 AT4;5.3L V8 Gasoline;355 hp;Petrol;6;Gray;EF264FR
+GMC;Sierra 2500HD Denali;6.6L V8 Diesel;401 hp;Diesel;6;Silver;CO076QM
+GMC;Sierra Elevation;2.7L Turbo 4-cylinder;310 hp;Petrol;5;Silver;GJ139GP
+GMC;Canyon AT4;2.7L Turbo 4-cylinder;310 hp;Petrol;5;Silver;YB083SP
+GMC;Canyon Denali;2.7L Turbo 4-cylinder;310 hp;Petrol;5;White;WU055KG
+GMC;Yukon XL Denali Ultimate;6.2L V8 Gasoline;420 hp;Petrol;8;Silver;XI100QG
+GMC;Terrain Denali;1.5L Turbo 4-cylinder;175 hp;Petrol;5;Black;PC866TV
+GMC;Acadia Denali;3.6L V6 engine;310 hp;Petrol;7;Black;VX250EK
+GMC;Yukon AT4;5.3L V8 engine;355 hp;Petrol;8;White;OO490QJ
+GMC;Yukon XL AT4;5.3L V8 engine;355 hp;Petrol;8;Silver;VM359VW
+GMC;Sierra 1500 Elevation;2.7L Turbo engine;310 hp;Petrol;5;Red;GR402OK
+GMC;Sierra 1500 SLT;5.3L V8 engine;355 hp;Petrol;5;Black;TH657OB
+GMC;Sierra 2500HD AT4;6.6L V8 engine;401 hp;Petrol;5;Gray;IA292RP
+GMC;Sierra 3500HD AT4;6.6L V8 engine;401 hp;Petrol;5;White;DT351ZU
+GMC;Canyon Elevation;2.5L I4 engine;200 hp;Petrol;5;Silver;BH350DH
+GMC;Canyon Denali Black Edition;3.6L V6 engine;308 hp;Petrol;5;Red;WN572BS
+GMC;Sierra 1500 Denali Ultimate;6.2L V8 engine;420 hp;Petrol;5;White;GX580CP
+GMC;Yukon XL Denali Reserve;6.2L V8 engine;420 hp;Petrol;7;Black;EK558AK
+GMC;Terrain Elevation Edition;1.5L Turbocharged I4 engine;170 hp;Petrol;5;White;IX889OS
+GMC;Acadia Black Edition;3.6L V6 engine;310 hp;Petrol;7;White;SE130UF
+GMC;Hummer EV SUV Edition 1;Electric motors with up to 11,500 lb-ft torque;Up to 830 hp;Electric;5;White;MZ272UM
+GMC;Hummer EV Pickup Edition 1;Electric motors with up to 11,500 lb-ft torque;Up to 1,000 hp;Electric;5;Gray;PH469EI
+GMC;Sierra Denali CarbonPro;6.2L V8 engine;420 hp;Petrol;5;Blue;VW843LG
+GMC;Yukon Denali Performance;6.2L V8 engine;420 hp;Petrol;8;Black;CD770HN
+GMC;Sierra 2500HD Denali Black Edition;6.6L V8 engine;401 hp;Petrol;5;Silver;TI126GC
+GMC;Canyon AT4X;3.6L V6 engine;308 hp;Petrol;5;Gray;LR377FD
+GMC;Yukon XL SLT;5.3L V8 engine;355 hp;Petrol;8;Gray;XE297ED
+GMC;Sierra 1500 Pro;4.3L V6 engine;285 hp;Petrol;3;Silver;EW023QD
+GMC;Sierra 2500HD Pro;6.6L V8 engine;401 hp;Petrol;3;White;JO066FM
+GMC;Sierra 3500HD Pro;6.6L V8 engine;401 hp;Petrol;3;White;FX340HB
+GMC;Terrain SLT;1.5L Turbocharged I4 engine;170 hp;Petrol;5;Blue;TF154ZU
+GMC;Acadia SLE;3.6L V6 engine;310 hp;Petrol;7;Black;UM239IX
+GMC;Canyon SLT;2.5L I4 engine;200 hp;Petrol;5;Red;NG481AH
+GMC;Yukon XL Elevation;5.3L V8 engine;355 hp;Petrol;8;Silver;YI683LF
+GMC;Sierra 1500 AT4X;6.2L V8 engine;420 hp;Petrol;5;Gray;YV871MF
+GMC;Hummer EV SUV Extreme Off-Road;Electric motors with up to 11,500 lb-ft torque;Up to 830 hp;Electric;5;Red;AP654CR
+GMC;Sierra EV Denali;Electric motors with advanced AWD;Up to 754 hp;Electric;5;Black;YZ809CE
+GMC;Hummer EV Omega Edition;Electric motors with up to 11,500 lb-ft torque;Up to 1,000 hp;Electric;5;Brown;PS192TX
+GMC;Canyon AT4X Edition 1;3.6L V6 engine;308 hp;Petrol;5;White;YG422KW
+GMC;Yukon Denali Ultimate Black;6.2L V8 engine;420 hp;Petrol;8;Blue;XA011KO
+GMC;Sierra HD Denali Reserve;6.6L V8 engine;401 hp;Petrol;5;Red;HZ767GM
+GMC;Acadia Denali Ultimate;3.6L V6 engine;310 hp;Petrol;7;Silver;TX334GU
+GMC;Terrain All-Terrain Edition;1.5L Turbocharged I4 engine;170 hp;Petrol;5;Red;XV745LW
+GMC;Yukon Trailering Edition;5.3L V8 engine;355 hp;Petrol;8;Blue;TQ032CD
+GMC;Hummer EV Adventure Series;Electric motors with up to 11,500 lb-ft torque;Up to 830 hp;Electric;5;Blue;MV037NJ
+Kia;Rio;1.6L 4-Cylinder;120 hp;Petrol;5;Blue;KN027ZH
+Kia;Rio 5-Door;1.6L 4-Cylinder;120 hp;Petrol;5;Red;TD312EL
+Kia;Seltos Nightfall Edition;1.6L Turbocharged 4-Cylinder;175 hp;Petrol;5;Black;BU232MT
+Peugeot;508 PSE (Peugeot Sport Engineered);Hybrid I4 + Electric Motor;360 hp;Hybrid;5;Silver;LR737BX
+Kia;Sorento X-Line;2.5L Turbocharged 4-Cylinder;277 hp;Petrol;7;White;LA325QS
+Kia;Telluride SX;3.8L V6;291 hp;Petrol;7;Red;XO940FS
+Kia;Forte LXS;2.0L 4-Cylinder;147 hp;Petrol;5;Red;NM763UG
+Kia;K5 EX;1.6L Turbocharged 4-Cylinder;180 hp;Petrol;5;White;WK939OR
+Kia;Niro Plug-In Hybrid;1.6L 4-Cylinder Hybrid;139 hp;Hybrid;5;Black;NQ367OY
+Kia;EV6 Wind;Electric Motor;225 hp;Electric;5;Red;RC471WD
+Kia;Soul Turbo;1.6L Turbocharged 4-Cylinder;201 hp;Petrol;5;Gray;GV038MA
+Kia;Seltos SX;1.6L Turbocharged 4-Cylinder;175 hp;Petrol;5;Blue;NF458VG
+Kia;Stinger Scorpion Edition;2.5L Turbocharged 4-Cylinder;300 hp;Petrol;5;Silver;VF048VB
+Kia;Sorento Hybrid SX Prestige;1.6L Hybrid Turbocharged 4-Cylinder;227 hp;Hybrid;7;Gray;GO848SZ
+Kia;Carnival EX;3.5L V6;290 hp;Petrol;8;Black;QR216XX
+Kia;Telluride Nightfall Edition;3.8L V6;291 hp;Petrol;7;Black;LA849IO
+Peugeot;508 Plug-In Hybrid;Hybrid I4 + Electric Motor;225 hp;Hybrid;5;White;MO504KZ
+Kia;EV6 First Edition;Electric Motor;320 hp;Electric;5;Gray;XR340HW
+Kia;Niro Touring;1.6L 4-Cylinder Hybrid;139 hp;Hybrid;5;Red;XE753KO
+Kia;Forte GT-Line;1.6L Turbocharged 4-Cylinder;201 hp;Petrol;5;Black;AS243PK
+Kia;Seltos EX;2.0L 4-Cylinder;146 hp;Petrol;5;Black;QI875TP
+Peugeot;3008 Plug-In Hybrid;Hybrid I4 + Electric Motor;225 hp;Hybrid;5;Silver;NL746EG
+Kia;Sorento LX;2.5L 4-Cylinder;191 hp;Petrol;7;Green;QW263BA
+Kia;Telluride EX;3.8L V6;291 hp;Petrol;7;White;KX924JA
+Kia;Soul EX;2.0L 4-Cylinder;147 hp;Petrol;5;Gray;UN416YR
+Kia;Forte FE;2.0L 4-Cylinder;147 hp;Petrol;5;White;JN940FT
+Kia;K5 GT-Line;1.6L Turbocharged 4-Cylinder;180 hp;Petrol;5;Black;QG612ZI
+Kia;Carnival LXS;3.5L V6;290 hp;Petrol;8;White;OH353HP
+Kia;EV6 Light;Electric Motor;225 hp;Electric;5;Green;VU777WH
+Kia;Niro EX;1.6L 4-Cylinder Hybrid;139 hp;Hybrid;5;Black;VC171AY
+Kia;Stinger GT;3.3L Turbocharged V6;365 hp;Petrol;5;White;PR854KJ
+Kia;Sorento SX Prestige;2.5L Hybrid Turbocharged 4-Cylinder;227 hp;Hybrid;7;Silver;GM572RL
+Kia;Telluride SX Prestige;3.8L V6;291 hp;Petrol;7;Blue;QQ673FO
+Peugeot;508 Hybrid4;Hybrid I4 + Electric Motor;300 hp;Hybrid;5;Black;QL277SJ
+Kia;EV6 GT Performance;Electric Motor;577 hp;Electric;5;Blue;IO375JL
+Kia;Niro SX Touring;1.6L 4-Cylinder Hybrid;139 hp;Hybrid;5;White;OJ887UC
+Kia;Carnival SX Prestige;3.5L V6;290 hp;Petrol;8;Black;SF867UU
+Kia;Seltos SX Turbo;1.6L Turbocharged 4-Cylinder;175 hp;Petrol;5;Blue;GL721MY
+Kia;Forte EX Premium;2.0L 4-Cylinder;147 hp;Petrol;5;Gray;MI193HW
+Kia;Soul EX Designer Edition;2.0L 4-Cylinder;147 hp;Petrol;5;White;YK933QH
+Kia;Rio S;1.6L 4-Cylinder;120 hp;Petrol;5;Blue;LA800VV
+Kia;Rio 5-Door S;1.6L 4-Cylinder;120 hp;Petrol;5;Black;WS947AG
+Kia;Soul S;2.0L 4-Cylinder;147 hp;Petrol;5;Silver;TF461CS
+Kia;Seltos LX;2.0L 4-Cylinder;146 hp;Petrol;5;Red;IP190AP
+Peugeot;3008 Hybrid4;Hybrid I4+ Electric Motor;300 hp;Hybrid;5;White;OJ479SR
+Kia;Sorento Hybrid EX;1.6L Hybrid Turbocharged 4-Cylinder;227 hp;Hybrid;7;White;VR064AS
+Kia;Telluride LX;3.8L V6;291 hp;Petrol;7;Blue;XD399NK
+Kia;Carnival MPV EX;3.5L V6;290 hp;Petrol;8;Black;ZQ996TI
+Kia;EV6 AWD GT-Line;Electric Motor;320 hp;Electric;5;Black;PA752EJ
+Kia;Forte GT Turbo;1.6L Turbocharged 4-Cylinder;201 hp;Petrol;5;White;IU139HC
+Kia;Soul GT Designer Edition;2.0L 4-Cylinder;147 hp;Petrol;5;Gray;DX952ED
+Kia;Seltos X-Line Turbo;1.6L Turbocharged 4-Cylinder;175 hp;Petrol;5;Gray;EI949LQ
+Peugeot;e-2008 GT;Electric Motor;136 hp;Electric;5;Brown;OR851XD
+Kia;Telluride Limited Edition;3.8L V6;291 hp;Petrol;7;Orange;SA322CE
+Kia;Stinger GT-Line;2.5L Turbocharged 4-Cylinder;300 hp;Petrol;5;Gray;JK627JN
+Kia;Carnival Special Edition;3.5L V6;290 hp;Petrol;8;Blue;DZ431JY
+Kia;Niro SX Hybrid;1.6L Hybrid Turbocharged 4-Cylinder;139 hp;Hybrid;5;Silver;FM254CQ
+Kia;EV6 First Edition AWD;Electric Motor;320 hp;Electric;5;Blue;CZ584BB
+Kia;Sorento X-Pro Hybrid;1.6L Hybrid Turbocharged 4-Cylinder;227 hp;Hybrid;7;Gray;OE081HN
+Kia;Forte Limited Edition;2.0L 4-Cylinder;147 hp;Petrol;5;Blue;KN327BF
+Bugatti;Chiron;8.0L Quad-Turbo W16;1500 hp;Petrol;2;Gray;FS651UD
+Bugatti;Chiron Pur Sport;8.0L Quad-Turbo W16;1500 hp;Petrol;2;White;UL535ZW
+Bugatti;Chiron Super Sport;8.0L Quad-Turbo W16;1600 hp;Petrol;2;Blue;YL166MA
+Bugatti;Chiron Sport;8.0L Quad-Turbo W16;1500 hp;Petrol;2;White;GM002ML
+Bugatti;Chiron Noire;8.0L Quad-Turbo W16;1500 hp;Petrol;2;White;IV772ZB
+Bugatti;Divo;8.0L Quad-Turbo W16;1500 hp;Petrol;2;Gray;JG108OW
+Bugatti;Centodieci;8.0L Quad-Turbo W16;1600 hp;Petrol;2;Blue;AZ523YP
+Bugatti;La Voiture Noire;8.0L Quad-Turbo W16;1500 hp;Petrol;2;White;VD348EZ
+Bugatti;Bolide;8.0L Quad-Turbo W16;1850 hp;Petrol;2;White;ZG415SD
+Bugatti;Mistral;8.0L Quad-Turbo W16;1600 hp;Petrol;2;Silver;PM975MY
+Volvo;Volvo FH;13.0L I6 Turbo Diesel;540 hp;Diesel;2;White;LE198WP
+Volvo;Volvo FH16;16.1L I6 Turbo Diesel;750 hp;Diesel;2;Silver;IY532UR
+Volvo;Volvo FM;12.8L I6 Turbo Diesel;460 hp;Diesel;2;Gray;JJ821JY
+Volvo;Volvo FMX;13.0L I6 Turbo Diesel;500 hp;Diesel;2;White;TC409HF
+Volvo;Volvo VNL;12.8L I6 Turbo Diesel;500 hp;Diesel;2;Red;CO687SV
+Volvo;Volvo VNR;12.8L I6 Turbo Diesel;400 hp;Diesel;2;Green;HW456GM
+Volvo;Volvo VHD;12.8L I6 Turbo Diesel;500 hp;Diesel;2;Gray;MN357DQ
+Volvo;Volvo FE;7.7L I6 Turbo Diesel;280 hp;Diesel;2;Gray;YV885TT
+Volvo;Volvo FL;5.1L I4 Turbo Diesel;180 hp;Diesel;2;Black;DI458DM
+Jaguar Land Rover;Jaguar F-Type;V6 / V8 Petrol;335 hp;Petrol;2;White;DO272GM
+Jaguar Land Rover;Jaguar XE;I4 Petrol;250 hp;Petrol;5;White;NU291RV
+Jaguar Land Rover;Jaguar XF;I4 Petrol;250 hp;Petrol;5;White;FH760WN
+Jaguar Land Rover;Jaguar XJ;V6 Petrol;300 hp;Petrol;5;White;KY632AF
+Jaguar Land Rover;Jaguar E-PACE;I4 Petrol;200 hp;Petrol;5;Blue;VS956QJ
+Jaguar Land Rover;Jaguar I-PACE;Electric (Dual Motor);400 hp;Electric;5;Black;JL222GJ
+Jaguar Land Rover;Jaguar F-PACE;I4 Petrol / V6 Petrol;250 hp / 340 hp;Petrol;5;Blue;PO267LA
+Jaguar Land Rover;Jaguar X-TYPE;I4 Petrol;160 hp;Petrol;5;Black;SG271NQ
+Jaguar Land Rover;Jaguar F-PACE R-Dynamic;I4 Petrol / V6 Petrol;340 hp;Petrol;5;Red;DT433PY
+Jaguar Land Rover;Jaguar XE R-Dynamic;I4 Petrol;340 hp;Petrol;5;White;LL009OD
+Jaguar Land Rover;Jaguar F-Type SVR;V8 Petrol;575 hp;Petrol;2;White;RX367RA
+Jaguar Land Rover;Jaguar I-PACE Electric Performance;Electric (Dual Motor);400 hp;Electric;5;Black;PB961ME
+Jaguar Land Rover;Jaguar F-PACE SVR;V8 Petrol;550 hp;Petrol;5;Green;NA700XJ
+Jaguar Land Rover;Jaguar XE S;I4 Petrol;340 hp;Petrol;5;White;MF401ZN
+Jaguar Land Rover;Jaguar XF R-Dynamic;I4 Petrol / V6 Petrol;340 hp;Petrol;5;Gray;TC248FI
+Jaguar Land Rover;Jaguar XJ LWB (Long Wheelbase);V6 Petrol;300 hp;Petrol;5;Black;YL457DZ
+Jaguar Land Rover;Jaguar F-Type Heritage Edition;V8 Petrol;550 hp;Petrol;2;White;BB547VO
+Jaguar Land Rover;Jaguar E-PACE S;I4 Petrol;200 hp;Petrol;5;White;ZK302QW
+Jaguar Land Rover;Jaguar I-PACE HSE;Electric (Dual Motor);400 hp;Electric;5;Black;BF242WO
+Jaguar Land Rover;Jaguar F-Type V8 R;V8 Petrol;550 hp;Petrol;2;Blue;PK493PX
+Jaguar Land Rover;Jaguar F-Type R-Dynamic;I4 Petrol / V6 Petrol;300 hp;Petrol;2;White;NH797AN
+Jaguar Land Rover;Jaguar XE P300 R-Dynamic;I4 Petrol;300 hp;Petrol;5;Silver;GB537YS
+Jaguar Land Rover;Jaguar XF Sportbrake;I4 Petrol / V6 Petrol;250 hp;Petrol;5;White;DN833XZ
+Jaguar Land Rover;Jaguar I-PACE EV400 HSE;Electric (Dual Motor);400 hp;Electric;5;Black;LO915YH
+Jaguar Land Rover;Jaguar F-PACE S 30t AWD;I4 Petrol;247 hp;Petrol;5;Gray;NK472FD
+Jaguar Land Rover;Jaguar E-PACE R-Dynamic;I4 Petrol;246 hp;Petrol;5;White;NU136NF
+Jaguar Land Rover;Jaguar XJ50;V6 Petrol;300 hp;Petrol;5;Silver;ZP413JQ
+Jaguar Land Rover;Jaguar F-Type 75th Anniversary Edition;V8 Petrol;550 hp;Petrol;2;Red;SG974MA
+Jaguar Land Rover;Jaguar F-PACE S AWD;I4 Petrol / V6 Petrol;340 hp;Petrol;5;Blue;OK782FO
+Jaguar Land Rover;Jaguar XE SE;I4 Petrol;250 hp;Petrol;5;Black;LS833KD
+Jaguar Land Rover;Jaguar F-Type V6 S Convertible;V6 Petrol;380 hp;Petrol;2;Black;IW383NB
+Jaguar Land Rover;Jaguar XE R-Sport AWD;I4 Petrol / V6 Petrol;300 hp;Petrol;5;Gray;CZ952MV
+Jaguar Land Rover;Jaguar XF Portfolio AWD;I4 Petrol / V6 Petrol;340 hp;Petrol;5;Black;LJ827VM
+Jaguar Land Rover;Jaguar F-Type Coupe R;V8 Petrol;550 hp;Petrol;2;Gray;JP153CJ
+Jaguar Land Rover;Jaguar I-PACE First Edition;Electric (Dual Motor);400 hp;Electric;5;Gray;ON833FN
+Jaguar Land Rover;Jaguar F-PACE Prestige AWD;I4 Petrol / V6 Petrol;340 hp;Petrol;5;Red;KR602NL
+Jaguar Land Rover;Jaguar XJ Supercharged;V8 Petrol;510 hp;Petrol;5;Gray;IU020MQ
+Jaguar Land Rover;Jaguar F-Type P450 AWD;V8 Petrol;450 hp;Petrol;2;Blue;WS984KV
+Jaguar Land Rover;Jaguar F-PACE P400e Plug-in Hybrid;I4 Petrol + Electric Motor;398 hp;Plug-in Hybrid;5;Red;WU346EP
+Jaguar Land Rover;Jaguar F-Type P300 Coupe;I4 Petrol;300 hp;Petrol;2;Gray;CD046GV
+Acura;NSX Type S;Twin-Turbo V6 Hybrid;600 hp;Hybrid;2;Red;TG616VP
+Acura;TLX PMC Edition;V6;290 hp;Petrol;5;Red;HS740FT
+Acura;MDX Advance;V6;290 hp;Petrol;7;Green;FJ073NM
+Acura;RDX Technology;I4 Turbocharged;272 hp;Petrol;5;Gray;SS381CR
+Acura;ILX Premium;I4;201 hp;Petrol;5;Black;NF836EN
+Acura;TLX A-Spec;V6;290 hp;Petrol;5;White;HT243NH
+Acura;RDX SH-AWD;I4 Turbocharged;272 hp;Petrol;5;Gray;LO959LT
+Acura;MDX SH-AWD;V6;290 hp;Petrol;7;Green;VX798AV
+Acura;RDX Platinum Elite;I4 Turbocharged;272 hp;Petrol;5;White;ZA793NY
+Acura;TLX A-Spec Sedan;V6;290 hp;Petrol;5;Black;AL412HE
+Acura;TLX 2.4L;Inline-4;206 hp;Petrol;5;Black;CS700XL
+Acura;MDX Hybrid;V6 Hybrid;321 hp;Hybrid;7;Gray;AJ384PT
+Acura;RDX Hybrid;Inline-4 Hybrid;247 hp;Hybrid;5;White;MR688SG
+Acura;ILX Technology Package;Inline-4;201 hp;Petrol;5;Silver;YB020MG
+Acura;NSX GT3 (Track Version);Twin-Turbo V6 Hybrid;500 hp;Hybrid;2;Blue;CD056OB
+Acura;RDX Turbo AWD;Inline-4 Turbocharged;272 hp;Petrol;5;Gray;XI771MC
+Acura;TLX 3.5L V6;V6;290 hp;Petrol;5;Silver;FE433QM
+Acura;ILX Special Edition;Inline-4;201 hp;Petrol;5;Black;BX779XI
+Acura;MDX SH-AWD w/Technology Package;V6;290 hp;Petrol;7;Silver;CQ661NN
+Acura;NSX 3.5L Hybrid Coupe;Twin-Turbo V6 Hybrid;537 hp;Hybrid;2;White;GE925YH
+Acura;MDX Elite;V6;290 hp;Petrol;7;Black;OZ558GS
+Acura;TLX V6 Advance;V6;290 hp;Petrol;5;Blue;OT121SV
+Acura;NSX Carbon Edition;Twin-Turbo V6 Hybrid;537 hp;Hybrid;2;Black;XQ842YD
+Acura;RDX Turbo SH-AWD;Turbocharged I4;272 hp;Petrol;5;Red;TW650FP
+Acura;ILX Technology Plus;Inline-4;201 hp;Petrol;5;White;XR243OY
+Acura;TLX Type S PMC Edition;Turbocharged V6;355 hp;Petrol;5;Silver;ZS168UQ
+Acura;MDX Sport Hybrid;V6 Hybrid;321 hp;Hybrid;7;Brown;WN203UY
+Peugeot;208;Inline-4;82 hp;Petrol;5;White;BK731XP
+Peugeot;2008;Inline-4;100 hp;Petrol;5;White;QS307LP
+Peugeot;301;Inline-4;115 hp;Petrol;5;Silver;VS733OS
+Peugeot;308;Inline-4;130 hp;Petrol;5;Black;IZ721MJ
+Peugeot;3008;Inline-4;180 hp;Petrol;5;White;VB490FR
+Peugeot;5008;Inline-4;165 hp;Diesel;7;Silver;EX289OY
+Peugeot;508;Inline-4;180 hp;Petrol;5;Brown;MC767CH
+Peugeot;Partner;Diesel I4;75 hp;Diesel;5;Blue;DT550UG
+Peugeot;Expert;Diesel I4;120 hp;Diesel;3;White;LK080OX
+Peugeot;Boxer;Diesel I4;140 hp;Diesel;3;Gray;TU520QX
+Peugeot;e-208;Electric Motor;136 hp;Electric;5;Blue;UM273RA
+Peugeot;e-2008;Electric Motor;136 hp;Electric;5;Red;QY156YI
+Peugeot;208 GTI;Inline-4;208 hp;Petrol;5;Gray;VD653NO
+Peugeot;308 GTI;Inline-4;270 hp;Petrol;5;Black;XN122IY
+Peugeot;508 PSE (Peugeot Sport Engineered);Hybrid I4;360 hp;Hybrid;5;White;BV310PT
+Peugeot;308 Allure;Inline-4;130 hp;Petrol;5;Blue;ZK812DK
+Peugeot;2008 Allure;Inline-4;130 hp;Petrol;5;Brown;TX168WO
+Peugeot;3008 Allure;Inline-4;180 hp;Petrol;5;Silver;WH763FI
+Peugeot;5008 Allure;Inline-4;180 hp;Petrol;7;Gray;US881XW
+Peugeot;508 Allure;Inline-4;180 hp;Petrol;5;White;CK000CD
+Peugeot;3008 GT;Inline-4;200 hp;Petrol;5;White;SV559GQ
+Peugeot;508 GT;Inline-4;225 hp;Petrol;5;Black;PY878LF
+Peugeot;3008 GT Hybrid;Hybrid I4;300 hp;Hybrid;5;Black;QF905QZ
+Peugeot;5008 GT Hybrid;Hybrid I4;300 hp;Hybrid;7;White;HE382QI
+Peugeot;208 Allure Premium;Inline-4;130 hp;Petrol;5;Red;IU873BT
+Peugeot;Partner Tepee;Inline-4;100 hp;Diesel;5;White;AS278PY
+Peugeot;Expert L2H1;Inline-4;120 hp;Diesel;3;Red;VS023ZR
+Peugeot;Boxer L2H2;Inline-4;130 hp;Diesel;3;Silver;QI013KN
+Peugeot;Partner Electric;Electric Motor;136 hp;Electric;5;Green;EL670OY
+Peugeot;Expert Electric;Electric Motor;136 hp;Electric;5;Gray;WW429XC
+Peugeot;208 PSE (Peugeot Sport Engineered);Hybrid I4;225 hp;Hybrid;5;Gray;QD272DW
+Peugeot;308 PSE;Hybrid I4;360 hp;Hybrid;5;Black;KC600AA
+Peugeot;508 PSE;Hybrid I4;360 hp;Hybrid;5;Gray;ZI270GY
+Peugeot;3008 PSE;Hybrid I4;300 hp;Hybrid;5;Blue;EZ968CU
+Peugeot;2008 Active;Inline-4;100 hp;Petrol;5;White;HE631PE
+Peugeot;3008 Active;Inline-4;130 hp;Petrol;5;Blue;ES925ZK
+Peugeot;5008 Active;Inline-4;130 hp;Petrol;7;White;GL911YN
+Peugeot;3008 Allure Premium;Inline-4;130 hp;Petrol;5;Black;IR468YS
+Peugeot;5008 Allure Premium;Inline-4;130 hp;Petrol;7;Black;CA096MW
+Peugeot;3008 GT Line;Inline-4;180 hp;Petrol;5;Black;TO923PK
+Peugeot;5008 GT Line;Inline-4;180 hp;Petrol;7;White;SR535XB
+Peugeot;2008 GT;Inline-4;130 hp;Petrol;5;Red;TJ966PN
+Peugeot;5008 GT;Inline-4;180 hp;Petrol;7;Black;SC264AP
+Peugeot;508 SW (Station Wagon);Inline-4;180 hp;Petrol;5;Gray;NA949TM
+Peugeot;508 Saloon;Inline-4;180 hp;Petrol;5;Blue;FC035FP
+Peugeot;308 Saloon;Inline-4;130 hp;Petrol;5;Silver;KC614TH
+Peugeot;301 Sedan;Inline-4;82 hp;Petrol;5;Blue;UP049YZ
+Peugeot;208 Sedan;Inline-4;100 hp;Petrol;5;Gray;AB448HZ
+Ford;Fusion (Mondeo);1.5L EcoBoost / 2.0L Hybrid;160 - 250 hp;Petrol/Hybrid;5;White;NS440MX
+Ford;Taurus;3.5L V6 / 2.0L EcoBoost;200 - 365 hp;Petrol;5;White;FU813RX
+Ford;Fiesta;1.0L EcoBoost / 1.5L;85 - 200 hp;Petrol;5;White;RP423XV
+Ford;Focus;1.0L EcoBoost / 1.5L / 2.0L;120 - 300 hp;Petrol;5;Black;QF302LC
+Ford;KA+;1.2L Petrol;70 - 85 hp;Petrol;5;Gray;UW406BY
+Ford;EcoSport;1.0L Turbo Inline-3 / 2.0L;123 - 166 hp;Petrol;5;White;RB281FA
+Ford;Escape (Kuga);1.5L EcoBoost / 2.5L Hybrid;181 - 200 hp;Petrol/Hybrid;5;White;VI525NQ
+Ford;Edge;2.0L EcoBoost / 2.7L V6;250 - 335 hp;Petrol;5;Gray;HG929QI
+Ford;Explorer;2.3L EcoBoost / 3.0L V6;300 - 400 hp;Petrol;7;White;VE747YI
+Ford;Expedition;3.5L EcoBoost / 5.4L V8;375 - 400 hp;Petrol;8;White;HJ935ET
+Ford;Bronco;2.3L EcoBoost / 2.7L V6;275 - 310 hp;Petrol;4;Red;HF409GV
+Ford;Bronco Sport;1.5L EcoBoost / 2.0L EcoBoost;181 - 250 hp;Petrol;5;Gray;NZ619EA
+Ford;F-150;3.3L V6 / 5.0L V8 / 3.5L EcoBoost;290 - 450 hp;Petrol/Diesel;5;Black;IK405QE
+Ford;F-250 Super Duty;6.2L V8 / 7.3L V8 / 6.7L Turbo-Diesel;385 - 475 hp;Petrol/Diesel;5;Gray;BF029YJ
+Ford;F-350 Super Duty;6.7L Turbo-Diesel / 7.3L V8;450 - 475 hp;Diesel;5;Black;AS744WJ
+Ford;Maverick;2.5L Hybrid / 2.0L EcoBoost;191 - 250 hp;Hybrid/Petrol;5;Silver;YD412VS
+Ford;Ranger;2.3L Turbo Inline-4 / 2.7L V6;270 - 325 hp;Petrol/Diesel;5;Blue;BW769VK
+Ford;Mustang Mach-E;Electric Motor;290-480 hp;Electric;5;Gray;FS763UI
+Ford;F-150 Lightning;Electric Motor;452 hp;Electric;5;Green;OY408TK
+Ford;Escape Hybrid;2.5L Inline-4 + Electric;200 hp;Hybrid;5;Black;XW307EI
+Ford;Explorer Hybrid;3.3L V6 + Electric;318 hp;Hybrid;7;White;WW472AK
+Ford;Mustang;5.0L V8;450 hp;Petrol;4;Black;US969UB
+Ford;GT;3.5L Twin-Turbo V6;660 hp;Petrol;2;White;VG114PC
+Ford;Focus ST;2.3L Turbo Inline-4;280 hp;Petrol;5;Black;QH361NT
+Ford;Fiesta ST;1.5L Turbo Inline-3;200 hp;Petrol;5;Black;HW149RY
+Ford;Bronco Raptor;3.0L Twin-Turbo V6;400 hp;Petrol;4;Black;GK929XO
+Ford;Ranger Raptor;2.7L Twin-Turbo V6;392 hp;Petrol;5;Gray;VJ711UM
+Ford;F-150 Raptor;3.5L Twin-Turbo V6;450 hp;Petrol;5;Gray;YX558RP
+Ford;Puma;Turbocharged Inline-3;123 hp;Petrol;5;White;VC396HM
+Ford;Territory;Turbocharged Inline-4;140 hp;Petrol;5;Gray;YD196JW
+Ford;Everest;Turbocharged Inline-4;210 hp;Diesel;7;Black;UQ227QA
+Ford;Flex;Naturally Aspirated V6;287 hp;Petrol;7;Silver;VL140VH
+Ford;Transit;EcoBlue Turbo Diesel;170 hp;Diesel;215;Black;QH515TN
+Ford;Transit Connect;Inline-4 Gasoline Engine;162 hp;Petrol;27;Gray;CQ399MY
+Ford;F-450 Super Duty;Turbocharged V8 Diesel;475 hp;Diesel;26;White;SA568YO
+Ford;F-550 Super Duty;Turbocharged V8 Diesel;475 hp;Diesel;26;Blue;RE449FI
+Ford;Mustang Shelby GT500;Supercharged V8;760 hp;Petrol;2;Gray;ZR437ZE
+Ford;Mustang Shelby GT350;Naturally Aspirated V8;526 hp;Petrol;2;Black;AF013MZ
+Ford;F-150 Platinum;Turbocharged V6;400 hp;Petrol;5;Orange;TL041NP
+Ford;F-150 Limited;Turbocharged V6;450 hp;Petrol;5;Gray;BK602PX
+Ford;Explorer Platinum;Turbocharged V6;400 hp;Petrol;7;Green;NQ077IA
+Ford;Expedition King Ranch;Turbocharged V6;440 hp;Petrol;78;Gray;SG875LH
+Ford;Transit Custom;EcoBlue Turbo Diesel;130 hp;Diesel;29;Silver;EZ938VB
+Ford;E-Series Cutaway;V8 Gasoline Engine;350 hp;Petrol;2;White;PQ667EG
+Ford;Transit Chassis Cab;EcoBlue Turbo Diesel;170 hp;Diesel;2;Gray;FM855LF
+Ford;Transit Electric (E-Transit);Electric Motor;266 hp;Electric;212;White;QH694ME
+Ford;Explorer Plug-in Hybrid;V6 Hybrid + Electric Motor;457 hp;Hybrid;7;Blue;ST838CE
+Ford;Maverick Hybrid;I4 Hybrid;191 hp;Hybrid;5;Silver;WV367RG
+Ford;Mustang (2024);V8 Gasoline Engine;450 hp;Petrol;4;Black;VR511HM
+Ford;Ranger (2024);I4 Turbo Diesel;210 hp;Diesel;5;Gray;SZ006NG
+Ford;Escape Plug-in Hybrid (2024);I4 Hybrid;221 hp;Hybrid;5;Silver;CN869LK
+Ford;Bronco (2024);V6 EcoBoost;310 hp;Petrol;5;Black;KL597GX
+Ford;Explorer (2024);V6 Turbocharged;400 hp;Petrol;7;White;ST431VJ
+Mitsubishi;Mirage;1.2L MIVEC;78 hp;Petrol;5;Gray;ID091SM
+Mitsubishi;Mirage G4;1.2L MIVEC;78 hp;Petrol;5;White;KG471XX
+Mitsubishi;Outlander;2.5L 4-Cylinder;181 hp;Petrol;7;Black;IL425AU
+Mitsubishi;Outlander PHEV;2.4L Hybrid;248 hp;Hybrid;5;Blue;KT176FM
+Mitsubishi;Eclipse Cross;1.5L Turbo;152 hp;Petrol;5;White;WX998UX
+Mitsubishi;ASX (Outlander Sport);2.0L MIVEC;148 hp;Petrol;5;White;TC458AW
+Mitsubishi;Pajero;3.2L Diesel Turbo;189 hp;Diesel;7;Red;GD822NJ
+Mitsubishi;Pajero Sport;2.4L Diesel Turbo;181 hp;Diesel;7;Gray;ID077LA
+Mitsubishi;Triton (L200);2.4L Diesel Turbo;181 hp;Diesel;5;Beige;TQ678FL
+Mitsubishi;Lancer Evolution X;2.0L Turbocharged;291 hp;Petrol;5;Gray;KE059KD
+Mitsubishi;i-MiEV (Electric);Electric Motor;66 hp;Electric;4;Gray;AO478KY
+Mitsubishi;Xpander;1.5L MIVEC;105 hp;Petrol;7;Brown;YC025QE
+Mitsubishi;Delica D:5;2.2L Diesel Turbo;145 hp;Diesel;7;Black;SU058WD
+Mitsubishi;Colt;1.1L / 1.5L MIVEC;75 - 150 hp;Petrol;5;Silver;VH355GG
+Mitsubishi;Grandis;2.4L MIVEC;165 hp;Petrol;7;White;EN940ZV
+Mitsubishi;Outlander Black Edition;2.5L 4-Cylinder;181 hp;Petrol;7;White;UW542WH
+Mitsubishi;Outlander SEL;2.5L 4-Cylinder;181 hp;Petrol;7;Black;HR460JW
+Mitsubishi;Outlander SE;2.5L 4-Cylinder;181 hp;Petrol;7;Gray;IS155RY
+Mitsubishi;Eclipse Cross Black Edition;1.5L Turbo;152 hp;Petrol;5;White;WY772BY
+Mitsubishi;ASX Exceed;2.0L MIVEC;148 hp;Petrol;5;Brown;DB306HZ
+Mitsubishi;Triton Athlete;2.4L Diesel Turbo;181 hp;Diesel;5;Gray;RW114WU
+Mitsubishi;Pajero Final Edition;3.2L Diesel Turbo;189 hp;Diesel;7;Silver;XC024UI
+Mitsubishi;L200 Barbarian X;2.4L Diesel Turbo;181 hp;Diesel;5;White;EO846JS
+Mitsubishi;Space Star;1.2L MIVEC;78 hp;Petrol;5;Blue;YE564CS
+Mitsubishi;Lancer EX;1.6L MIVEC / 2.0L;117 - 148 hp;Petrol;5;Black;FT112FC
+Mitsubishi;Montero Sport;2.4L Diesel Turbo;181 hp;Diesel;7;Black;DB288VG
+Mitsubishi;Attrage;1.2L MIVEC;78 hp;Petrol;5;White;SK299FJ
+Mitsubishi;RVR SE;2.0L MIVEC;148 hp;Petrol;5;Blue;DE718FW
+Mitsubishi;Delica Van;2.0L Diesel / 2.2L Diesel;145 hp;Diesel;7;Blue;UT656TR
+Mitsubishi;Canter (Truck);3.0L Diesel;150 hp;Diesel;2;Black;AQ291VO
+Mitsubishi;Lancer GLX;1.6L MIVEC;115 hp;Petrol;5;White;FJ484HV
+Mitsubishi;Pajero GLS;3.2L Diesel Turbo;189 hp;Diesel;7;Silver;QG965CR
+Mitsubishi;Xpander Cross;1.5L MIVEC;105 hp;Petrol;7;Black;MV564BZ
+Mitsubishi;Eclipse Cross PHEV;2.4L PHEV;188 hp;Plug-in Hybrid;5;Red;KR341KV
+Mitsubishi;Outlander ES;2.5L 4-Cylinder;181 hp;Petrol;7;Beige;JU065KC
+Mitsubishi;Montero GLX;2.4L Diesel Turbo;181 hp;Diesel;7;Blue;FF668QI
+Mitsubishi;Triton GLX-R;2.4L Diesel Turbo;181 hp;Diesel;5;Black;VG039ST
+Mitsubishi;ASX Dynamic;2.0L MIVEC;148 hp;Petrol;5;White;YW721OT
+Mitsubishi;Mirage ES;1.2L MIVEC;78 hp;Petrol;5;Blue;CW883UE
+Mitsubishi;Outlander LE;2.5L 4-Cylinder;181 hp;Petrol;7;Blue;WS652EP
+Mitsubishi;Fuso Fighter (Truck);7.5L Diesel;240 hp;Diesel;2;Black;IE649LZ
+Mitsubishi;Fuso Canter Eco Hybrid;3.0L Diesel Hybrid;150 hp;Diesel Hybrid;2;Gray;LR457DK
+Mitsubishi;Space Runner;1.8L MIVEC;140 hp;Petrol;5;Silver;NX025UG
+Mitsubishi;Toppo BJ;0.7L 3-Cylinder;52 hp;Petrol;4;Blue;XF289NS
+Mitsubishi;Chariot;2.0L MIVEC;140 hp;Petrol;7;White;XI212JX
+Mitsubishi;Lancer SE Limited;2.0L MIVEC;148 hp;Petrol;5;White;CS421YO
+Mitsubishi;Pajero SWB (Short Wheel Base);3.2L Diesel Turbo;189 hp;Diesel;5;Silver;IS517YX
+Mitsubishi;Delica Space Gear;2.4L Petrol;145 hp;Petrol;7;Gray;JL877OO
+Mitsubishi;i (Kei Car);0.7L 3-Cylinder;64 hp;Petrol;4;Gray;MY048VP
+Mitsubishi;Dion;2.0L 4-Cylinder;135 hp;Petrol;7;Black;NG811CM
+Mitsubishi;Airtrek;2.4L 4-Cylinder;160 hp;Petrol;5;Gray;MF680VD
+Mitsubishi;eK Space;0.7L 3-Cylinder;52 hp;Petrol;4;Red;OP638II
+Mitsubishi;eK X;0.7L 3-Cylinder;64 hp;Petrol;4;White;TB534SH
+Mitsubishi;Colt CZC Convertible;1.5L Turbocharged;147 hp;Petrol;4;Gray;VO734ET
+Mitsubishi;Galant Fortis;2.0L MIVEC;154 hp;Petrol;5;Black;AA170ZP
+Mitsubishi;Endeavor;3.8L V6;225 hp;Petrol;5;White;RO094LW
+Mitsubishi;Grand Lancer;1.8L MIVEC;138 hp;Petrol;5;Gray;CK833DA
+Mitsubishi;Sigma;3.0L V6;210 hp;Petrol;5;Black;GL737OV
+Mitsubishi;Town Box;0.7L 3-Cylinder;48 hp;Petrol;4;Black;RD690DM
+Mitsubishi;Minicab MiEV;Electric Motor;64 hp;Electric;2;Black;DR099OB
+Mazda;Mazda3;2.0L SkyActiv-G;155 hp;Petrol;5;Black;JM907WV
+Mazda;Mazda3 Hatchback;2.5L SkyActiv-G;186 hp;Petrol;5;Silver;HJ495WB
+Mazda;Mazda6;2.5L Turbocharged;250 hp;Petrol;5;Red;ZA165SL
+Mazda;CX-3;2.0L SkyActiv-G;146 hp;Petrol;5;White;OW944XE
+Mazda;CX-30;2.5L SkyActiv-G;186 hp;Petrol;5;Gray;WS854IX
+Mazda;CX-5;2.5L SkyActiv-G;187 hp;Petrol;5;Black;NJ050WD
+Mazda;CX-50;2.5L Turbocharged;256 hp;Petrol;5;Red;DO832TG
+Mazda;CX-8;2.2L Diesel;187 hp;Diesel;7;Black;KL302SB
+Mazda;CX-9;2.5L Turbocharged;250 hp;Petrol;7;Brown;KO589UE
+Mazda;CX-90;3.3L Inline-6 Turbo;340 hp;Petrol;7;Silver;NM987SR
+Mazda;MX-5 Miata;2.0L SkyActiv-G;181 hp;Petrol;2;Gray;QC306AE
+Mazda;MX-5 Miata RF;2.0L SkyActiv-G;181 hp;Petrol;2;Gray;MN600AH
+Mazda;MX-30 Electric;Electric Motor;143 hp;Electric;5;Black;YE722KJ
+Mazda;CX-4;2.0L SkyActiv-G;158 hp;Petrol;5;Black;KY946AW
+Mazda;CX-7;2.3L Turbocharged;244 hp;Petrol;5;Red;DE789LG
+Mazda;Tribute;3.0L V6;200 hp;Petrol;5;Black;AI592FH
+Mazda;B-Series Pickup;2.5L Diesel;143 hp;Diesel;5;White;NB337LE
+Mazda;BT-50;3.2L Turbo Diesel;200 hp;Diesel;5;Silver;KB573HZ
+Mazda;RX-7;1.3L Rotary Twin-Turbo;276 hp;Petrol;4;Black;TN277LF
+Mazda;RX-3;1.2L Rotary;110 hp;Petrol;4;Beige;JX987AE
+Mazda;RX-Vision Concept;Rotary SkyActiv-R;400 hp (est.);Petrol (Hybrid);2;White;ES849QJ
+Mazda;323F;1.6L Inline-4;105 hp;Petrol;5;Silver;FS370TE
+Mazda;Familia Sedan;1.5L Inline-4;100 hp;Petrol;5;White;LM593UA
+Mazda;Premacy;2.0L Inline-4;138 hp;Petrol;7;Silver;LK277RT
+Mazda;Demio;1.5L SkyActiv-G;108 hp;Petrol;5;White;QZ563JV
+Mazda;Millenia;2.3L Miller Cycle V6;210 hp;Petrol;5;Silver;SU161YU
+Mazda;Eunos Cosmo;2.0L Twin-Rotor Turbo;280 hp;Petrol;4;White;ZM629ZF
+Mazda;Atenza;2.5L SkyActiv-G;192 hp;Petrol;5;Blue;IF756FX
+Mazda;Roadpacer AP;1.3L Rotary;130 hp;Petrol;5;White;LL981PQ
+Mazda;626;2.0L Inline-4;140 hp;Petrol;5;Red;WK133GZ
+Mazda;929;3.0L V6;205 hp;Petrol;5;White;MF923MG
+Mazda;Luce;1.8L Rotary;135 hp;Petrol;5;Beige;KQ723GF
+Mazda;Capella;1.6L Inline-4;110 hp;Petrol;5;Blue;XN196WB
+Mazda;Carol;660cc Inline-3;63 hp;Petrol;4;Silver;JE049QQ
+Mazda;Autozam AZ-1;657cc Turbocharged Inline-3;63 hp;Petrol;2;Gray;FC802GT
+Mazda;Spiano;660cc Inline-3;54 hp;Petrol;4;Gray;PO483HS
+Mazda;Verisa;1.5L Inline-4;113 hp;Petrol;5;Black;FC970QA
+Mazda;MX-6;2.5L V6;164 hp;Petrol;4;Black;ZH049SL
+Mazda;MPV;3.0L V6;200 hp;Petrol;7;White;GA395YZ
+Mazda;Proceed Marvie;2.6L Inline-4;120 hp;Petrol;5;Black;MY142WS
+Mazda;Sentia;3.0L V6;200 hp;Petrol;5;White;QQ485OJ
+Mazda;Cronos;2.5L V6;160 hp;Petrol;5;Silver;IA538WR
+Mazda;Scrum;660cc Inline-3;63 hp;Petrol;4;Blue;ON342AS
+Mazda;Parkway;1.8L Inline-4;115 hp;Petrol;5;White;IR320KM
+Mazda;Titan (Truck);3.0L Inline-4;130 hp;Diesel;2;White;KY964VY
+Mazda;CX-60;2.5L Inline-4;187 hp;Petrol/Diesel;5;Black;MA233JT
+Mazda;CX-80;3.0L Inline-6;250 hp;Petrol;7;Black;ZJ074NI
+Mazda;T1500;1.5L Inline-4;75 hp;Petrol;2;Red;WD489FK
+Mazda;Bongo Van;2.0L Inline-4;100 hp;Petrol/Diesel;3;White;VR746MW
+Mazda;Bongo Friendee;2.5L Inline-4;115 hp;Petrol/Diesel;7;Green;YB826JL
+Mazda;Revue;1.3L Inline-4;75 hp;Petrol;5;White;IS993ZR
+Mazda;Protegé;1.8L Inline-4;125 hp;Petrol;5;Black;MU626QF
+Mazda;Xedos 6;2.5L V6;170 hp;Petrol;5;White;ZH269MG
+Mazda;Xedos 9;3.0L V6;200 hp;Petrol;5;Blue;LG974ZX
+Mazda;121;1.3L Inline-4;70 hp;Petrol;5;Gray;PV523YZ
+Mazda;1200;1.2L Inline-4;60 hp;Petrol;4;Black;XE919CA
+Mazda;1500;1.5L Inline-4;85 hp;Petrol;5;Red;WT414OG
+Mazda;RX-2;1.3L Inline-2 (Wankel);130 hp;Petrol;4;White;WP129QS
+Mazda;RX-5;1.6L Inline-2 (Wankel);135 hp;Petrol;4;White;XM304VU
+Mazda;RX-7 Spirit R;1.3L Inline-2 (Wankel);280 hp;Petrol;2;Black;WL373CY
+Mazda;Cosmo Sport (110S);1.0L Inline-2 (Wankel);110 hp;Petrol;2;Gray;TE818LB
+Mazda;Eunos 500;2.0L Inline-4;135 hp;Petrol;5;Black;ET882TQ
+Mazda;Eunos Roadster;1.6L Inline-4;116 hp;Petrol;2;Black;TX765UE
+Mazda;Familia Astina;1.8L Inline-4;135 hp;Petrol;5;White;PZ560NQ
+Mazda;Savanna RX-7;1.3L Inline-2 (Wankel);165 hp;Petrol;2;Black;JU531ZJ
+Mazda;Capella Cargo;2.0L Inline-4;115 hp;Petrol;4;Gray;PP279GY
+Mazda;818;1.6L Inline-4;100 hp;Petrol;5;Orange;GJ605HB
+Mazda;Sentia Hardtop Coupe;2.5L V6;160 hp;Petrol;4;Black;DT867SB
+Mazda;Biante;2.0L Inline-4;150 hp;Petrol;7;Blue;JE495UD
+Mazda;Premacy Hydrogen RE Hybrid;1.3L Wankel + Electric;200 hp;Hybrid;5;Brown;QR062QD
+Mazda;Carol P360;0.36L Inline-2;26 hp;Petrol;4;Gray;TJ636JT
+Mazda;T2000;2.0L Inline-4;110 hp;Petrol;2;Silver;QZ084OE
+Mazda;AZ-Offroad;1.3L Inline-4;85 hp;Petrol;5;Silver;RK680XU
+Mazda;Scrum Wagon;0.66L Inline-3;64 hp;Petrol;4;Blue;HZ906OL
+Mazda;Persona;1.5L Inline-4;92 hp;Petrol;5;Silver;SP287RZ
+Mazda;Astina;1.8L Inline-4;140 hp;Petrol;5;Blue;HS980PJ
+Mazda;Etude;1.6L Inline-4;105 hp;Petrol;5;Silver;HB916MD
+Mazda;Porter;1.5L Inline-4;95 hp;Petrol;2;Black;OY070FK
+Mazda;MX-3;1.6L Inline-4;130 hp;Petrol;4;Silver;ZY847UH
+Mazda;MX-5 Superlight Concept;1.8L Inline-4;143 hp;Petrol;2;White;NT657LL
+Mazda;Premacy Hydrogen RE;1.3L Wankel + Electric;200 hp;Hybrid;5;Gray;UA867FG
+Mazda;Bongo Truck;2.0L Inline-4;120 hp;Petrol;2;White;OS369NG
+Mazda;Rotary Pickup;1.3L Wankel Rotary Engine;130 hp;Petrol;2;White;QU600RO
+Mazda;Luce Rotary Coupe;1.3L Wankel Rotary Engine;135 hp;Petrol;4;Silver;RT675VA
+Mazda;Millenia S;2.5L V6;200 hp;Petrol;5;Black;UQ602LI
+Mazda;787B (Race Car);2.6L Wankel Rotary Engine;700 hp;Petrol;1;Black;GG682MC
+Toyota;Crown Signia;2.5L Hybrid I4;240 hp;Hybrid (Gas + Electric);5;White;LE212JQ
+Toyota;4Runner (6th Gen);2.4L Turbo I4 (i-FORCE MAX Hybrid);326 hp;Hybrid;7;Silver;UH579KB
+Toyota;Corolla Cross;2.0L Gas / 2.0L Hybrid;169  196 hp;Gas / Hybrid;5;Silver;UN148HH
+Toyota;C-HR+ ;1.8L / 2.0L Hybrid;140  198 hp;Hybrid;5;White;PY300FV
+Toyota;RAV4 (6th Gen);2.5L Hybrid / Plug-in Hybrid;219  302 hp;Hybrid / Plug-in;5;Black;WR706EA

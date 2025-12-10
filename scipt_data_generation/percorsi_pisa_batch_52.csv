@@ -1,0 +1,1317 @@
+id,start,end,route_id,lat,lon,idx
+37657,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.71563,10.41723,0
+37658,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.71675,10.41587,1
+37659,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.71738,10.41685,2
+37660,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.71757,10.41664,3
+37661,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.71761,10.4166,4
+37662,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.71782,10.41653,5
+37663,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.71804,10.41649,6
+37664,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.71828,10.41648,7
+37665,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.7192,10.41635,8
+37666,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.71981,10.41619,9
+37667,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.71989,10.41619,10
+37668,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72003,10.41624,11
+37669,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72101,10.41675,12
+37670,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72144,10.41697,13
+37671,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72163,10.41708,14
+37672,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72165,10.41716,15
+37673,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72171,10.41727,16
+37674,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.7219,10.41741,17
+37675,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.7222,10.41633,18
+37676,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72232,10.41585,19
+37677,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72243,10.41575,20
+37678,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72249,10.41571,21
+37679,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72255,10.41568,22
+37680,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72259,10.41569,23
+37681,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72263,10.4157,24
+37682,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72268,10.41575,25
+37683,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72272,10.41581,26
+37684,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72277,10.41589,27
+37685,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72282,10.41595,28
+37686,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72291,10.41599,29
+37687,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72298,10.41598,30
+37688,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72305,10.41595,31
+37689,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72309,10.4159,32
+37690,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72318,10.41576,33
+37691,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72322,10.41573,34
+37692,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72333,10.41566,35
+37693,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.724,10.41565,36
+37694,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72414,10.41566,37
+37695,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72421,10.41569,38
+37696,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72428,10.41573,39
+37697,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72465,10.41603,40
+37698,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72472,10.41612,41
+37699,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72523,10.41654,42
+37700,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72554,10.4168,43
+37701,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72658,10.41766,44
+37702,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72703,10.41802,45
+37703,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72831,10.4191,46
+37704,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.7284,10.41919,47
+37705,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.7285,10.41933,48
+37706,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72859,10.4195,49
+37707,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72864,10.41963,50
+37708,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72868,10.41976,51
+37709,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72869,10.41981,52
+37710,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72869,10.4199,53
+37711,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72865,10.42004,54
+37712,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72863,10.4201,55
+37713,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72857,10.42019,56
+37714,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72853,10.42026,57
+37715,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.7285,10.42034,58
+37716,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72849,10.42043,59
+37717,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72851,10.42053,60
+37718,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72854,10.42061,61
+37719,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72861,10.42069,62
+37720,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72869,10.42072,63
+37721,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72886,10.42084,64
+37722,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72891,10.4209,65
+37723,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72899,10.42102,66
+37724,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72947,10.42209,67
+37725,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.72968,10.42245,68
+37726,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.7299,10.42273,69
+37727,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73002,10.42286,70
+37728,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73024,10.42307,71
+37729,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73034,10.42315,72
+37730,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73052,10.42328,73
+37731,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73393,10.42531,74
+37732,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73412,10.42548,75
+37733,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73415,10.42553,76
+37734,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73416,10.42554,77
+37735,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.7342,10.42553,78
+37736,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73422,10.42552,79
+37737,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73424,10.42547,80
+37738,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73424,10.42545,81
+37739,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73435,10.4251,82
+37740,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73463,10.42398,83
+37741,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.7347,10.42376,84
+37742,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73474,10.42368,85
+37743,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.7348,10.4236,86
+37744,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73491,10.42352,87
+37745,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73502,10.42346,88
+37746,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73512,10.42344,89
+37747,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73522,10.42344,90
+37748,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73531,10.42346,91
+37749,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.7355,10.42354,92
+37750,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73594,10.42379,93
+37751,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73608,10.42388,94
+37752,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73623,10.42399,95
+37753,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73657,10.42428,96
+37754,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73664,10.42431,97
+37755,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73674,10.42432,98
+37756,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.7368,10.4243,99
+37757,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73685,10.42424,100
+37758,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73688,10.4242,101
+37759,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73697,10.42399,102
+37760,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73745,10.42427,103
+37761,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73784,10.42447,104
+37762,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73979,10.42538,105
+37763,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.73997,10.4255,106
+37764,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.74079,10.42617,107
+37765,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.74099,10.42634,108
+37766,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.74316,10.42844,109
+37767,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.74363,10.42888,110
+37768,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.74503,10.43008,111
+37769,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.74671,10.43146,112
+37770,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.74724,10.43196,113
+37771,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.74825,10.43284,114
+37772,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.7488,10.43331,115
+37773,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75062,10.43474,116
+37774,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75134,10.43538,117
+37775,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75193,10.43596,118
+37776,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75209,10.4361,119
+37777,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75223,10.43618,120
+37778,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75266,10.43635,121
+37779,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75288,10.43646,122
+37780,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75315,10.43661,123
+37781,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75338,10.43676,124
+37782,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75393,10.43722,125
+37783,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75401,10.43729,126
+37784,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75413,10.43742,127
+37785,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75436,10.43774,128
+37786,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75451,10.43789,129
+37787,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.7546,10.43795,130
+37788,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75483,10.43805,131
+37789,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75503,10.43809,132
+37790,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75537,10.43813,133
+37791,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75552,10.43812,134
+37792,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.7556,10.43811,135
+37793,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75592,10.43813,136
+37794,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75599,10.4382,137
+37795,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75607,10.43821,138
+37796,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75614,10.43819,139
+37797,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75619,10.43814,140
+37798,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75621,10.4381,141
+37799,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75624,10.43803,142
+37800,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75625,10.43798,143
+37801,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75624,10.43789,144
+37802,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75627,10.43775,145
+37803,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75635,10.43752,146
+37804,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75719,10.4362,147
+37805,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.7582,10.43463,148
+37806,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75835,10.43444,149
+37807,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75859,10.4342,150
+37808,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75868,10.43417,151
+37809,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75877,10.43417,152
+37810,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75882,10.43421,153
+37811,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75888,10.43422,154
+37812,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75894,10.43421,155
+37813,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75899,10.43417,156
+37814,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75903,10.43412,157
+37815,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75906,10.43407,158
+37816,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75907,10.434,159
+37817,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75908,10.43393,160
+37818,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75907,10.43386,161
+37819,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75905,10.4338,162
+37820,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75901,10.43374,163
+37821,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75896,10.4337,164
+37822,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75891,10.43368,165
+37823,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75886,10.43367,166
+37824,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75881,10.43369,167
+37825,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75877,10.43372,168
+37826,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75869,10.43372,169
+37827,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75856,10.43364,170
+37828,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75713,10.43236,171
+37829,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75708,10.43199,172
+37830,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75701,10.43122,173
+37831,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75699,10.431,174
+37832,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75699,10.43076,175
+37833,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75701,10.43061,176
+37834,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75708,10.43027,177
+37835,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.7572,10.42981,178
+37836,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75734,10.42938,179
+37837,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75791,10.4297,180
+37838,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75808,10.42978,181
+37839,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75816,10.42984,182
+37840,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75828,10.43,183
+37841,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75829,10.43004,184
+37842,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75831,10.43009,185
+37843,Via San Ranieri 9,Parcheggio San Giuliano Terme,route_1530,43.75828,10.43025,186
+37844,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71563,10.41723,0
+37845,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71675,10.41587,1
+37846,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71621,10.41509,2
+37847,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71616,10.415,3
+37848,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71609,10.41484,4
+37849,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71578,10.41341,5
+37850,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71556,10.41263,6
+37851,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71553,10.41248,7
+37852,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71536,10.41169,8
+37853,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71492,10.40977,9
+37854,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71479,10.40916,10
+37855,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71478,10.40897,11
+37856,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7147,10.40895,12
+37857,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71421,10.40873,13
+37858,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7141,10.40867,14
+37859,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7139,10.40851,15
+37860,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71307,10.40778,16
+37861,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7136,10.40622,17
+37862,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71372,10.40591,18
+37863,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71412,10.40501,19
+37864,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71493,10.40327,20
+37865,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71526,10.4025,21
+37866,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7154,10.40214,22
+37867,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71551,10.40181,23
+37868,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71566,10.40129,24
+37869,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7157,10.40111,25
+37870,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71576,10.40067,26
+37871,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7158,10.40037,27
+37872,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71583,10.39998,28
+37873,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71583,10.39968,29
+37874,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7158,10.39919,30
+37875,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71577,10.39888,31
+37876,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71571,10.39854,32
+37877,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71557,10.39791,33
+37878,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71542,10.39746,34
+37879,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71511,10.3966,35
+37880,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71508,10.39645,36
+37881,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71496,10.39619,37
+37882,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71472,10.39571,38
+37883,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7156,10.39498,39
+37884,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7154,10.39451,40
+37885,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7153,10.3943,41
+37886,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71495,10.39362,42
+37887,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71451,10.39274,43
+37888,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71413,10.39183,44
+37889,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71406,10.39165,45
+37890,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71405,10.39151,46
+37891,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71401,10.39126,47
+37892,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71401,10.39117,48
+37893,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71407,10.39084,49
+37894,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71408,10.39068,50
+37895,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71401,10.39043,51
+37896,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71385,10.39001,52
+37897,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71384,10.38995,53
+37898,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71376,10.38983,54
+37899,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71371,10.38969,55
+37900,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71353,10.38923,56
+37901,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71345,10.38902,57
+37902,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71344,10.38891,58
+37903,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71346,10.38884,59
+37904,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71345,10.38878,60
+37905,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71344,10.38876,61
+37906,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71337,10.38865,62
+37907,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7133,10.3884,63
+37908,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71328,10.38836,64
+37909,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71324,10.38836,65
+37910,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71319,10.38837,66
+37911,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71301,10.38844,67
+37912,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71297,10.38844,68
+37913,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71292,10.38844,69
+37914,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71286,10.38841,70
+37915,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7128,10.38836,71
+37916,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71275,10.38828,72
+37917,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71273,10.38822,73
+37918,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71262,10.38783,74
+37919,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71182,10.38436,75
+37920,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71224,10.38411,76
+37921,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71258,10.38383,77
+37922,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71262,10.38381,78
+37923,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71273,10.3838,79
+37924,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71279,10.38379,80
+37925,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71284,10.38375,81
+37926,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71287,10.38369,82
+37927,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71288,10.38361,83
+37928,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71288,10.38358,84
+37929,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71286,10.38351,85
+37930,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71285,10.38347,86
+37931,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7128,10.38342,87
+37932,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71277,10.38341,88
+37933,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71271,10.3834,89
+37934,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71253,10.38325,90
+37935,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7115,10.38155,91
+37936,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71139,10.38128,92
+37937,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71131,10.38101,93
+37938,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71125,10.38068,94
+37939,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71087,10.37801,95
+37940,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71082,10.37777,96
+37941,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71073,10.37738,97
+37942,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71063,10.37703,98
+37943,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.71056,10.37685,99
+37944,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70989,10.37495,100
+37945,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70982,10.37478,101
+37946,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70973,10.37462,102
+37947,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7096,10.37428,103
+37948,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70961,10.37419,104
+37949,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70961,10.37413,105
+37950,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70958,10.37405,106
+37951,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70956,10.37401,107
+37952,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7095,10.37395,108
+37953,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70947,10.37394,109
+37954,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70942,10.37394,110
+37955,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70936,10.37396,111
+37956,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70896,10.37432,112
+37957,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70884,10.37448,113
+37958,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70747,10.37576,114
+37959,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70742,10.37578,115
+37960,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7074,10.37574,116
+37961,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70736,10.37572,117
+37962,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70732,10.37574,118
+37963,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7073,10.37577,119
+37964,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70716,10.37549,120
+37965,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70657,10.37427,121
+37966,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70551,10.37202,122
+37967,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70296,10.3666,123
+37968,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70287,10.36639,124
+37969,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70245,10.36551,125
+37970,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70212,10.36483,126
+37971,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.702,10.36461,127
+37972,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.7018,10.36429,128
+37973,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70163,10.36405,129
+37974,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70138,10.36374,130
+37975,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70128,10.36364,131
+37976,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70092,10.36328,132
+37977,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.70042,10.36281,133
+37978,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.69734,10.35993,134
+37979,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.69708,10.35967,135
+37980,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.69679,10.35932,136
+37981,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.6967,10.35921,137
+37982,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.69636,10.35873,138
+37983,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.69602,10.35817,139
+37984,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.69272,10.35186,140
+37985,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.69246,10.35139,141
+37986,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.69212,10.35085,142
+37987,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.69149,10.34995,143
+37988,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.69099,10.34928,144
+37989,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68798,10.34514,145
+37990,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68763,10.34467,146
+37991,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68734,10.34429,147
+37992,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68719,10.34413,148
+37993,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68708,10.34404,149
+37994,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68674,10.34385,150
+37995,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68664,10.34376,151
+37996,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.6866,10.3437,152
+37997,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68659,10.34365,153
+37998,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68657,10.34357,154
+37999,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68654,10.34352,155
+38000,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68648,10.34345,156
+38001,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68642,10.34343,157
+38002,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68629,10.34303,158
+38003,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68623,10.34278,159
+38004,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68613,10.34244,160
+38005,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68605,10.34227,161
+38006,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68595,10.34209,162
+38007,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68554,10.34141,163
+38008,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68279,10.33663,164
+38009,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68145,10.33431,165
+38010,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68096,10.33341,166
+38011,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.68076,10.33299,167
+38012,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67981,10.33095,168
+38013,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67942,10.33012,169
+38014,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67916,10.32951,170
+38015,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.6771,10.32501,171
+38016,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67688,10.3245,172
+38017,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67672,10.32407,173
+38018,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67652,10.32342,174
+38019,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.6754,10.31884,175
+38020,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67538,10.31871,176
+38021,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67536,10.31847,177
+38022,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67538,10.31812,178
+38023,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67543,10.31788,179
+38024,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67567,10.31673,180
+38025,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67573,10.31638,181
+38026,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67621,10.31305,182
+38027,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67633,10.31227,183
+38028,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67573,10.31209,184
+38029,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67568,10.31205,185
+38030,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67566,10.312,186
+38031,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67564,10.31194,187
+38032,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67564,10.31187,188
+38033,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67566,10.31134,189
+38034,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67565,10.31122,190
+38035,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.6756,10.311,191
+38036,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67556,10.31088,192
+38037,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67541,10.31049,193
+38038,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67512,10.30987,194
+38039,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67403,10.30781,195
+38040,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67351,10.30659,196
+38041,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67341,10.30627,197
+38042,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67336,10.30617,198
+38043,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67165,10.30398,199
+38044,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67126,10.30347,200
+38045,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67119,10.30344,201
+38046,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67112,10.30344,202
+38047,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67093,10.30352,203
+38048,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.67034,10.30381,204
+38049,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66975,10.30401,205
+38050,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66956,10.3041,206
+38051,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66879,10.30481,207
+38052,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66864,10.30491,208
+38053,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66844,10.30512,209
+38054,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66828,10.30526,210
+38055,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66823,10.30534,211
+38056,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66821,10.30544,212
+38057,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66824,10.30565,213
+38058,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66822,10.30574,214
+38059,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66817,10.30581,215
+38060,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66668,10.30745,216
+38061,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66533,10.30899,217
+38062,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66502,10.30857,218
+38063,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66459,10.30806,219
+38064,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66444,10.3079,220
+38065,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66418,10.30765,221
+38066,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66386,10.30737,222
+38067,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66319,10.30676,223
+38068,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66298,10.30655,224
+38069,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66266,10.30628,225
+38070,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66251,10.30618,226
+38071,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66241,10.30614,227
+38072,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66231,10.30612,228
+38073,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66225,10.30612,229
+38074,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66209,10.30614,230
+38075,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66181,10.3062,231
+38076,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66082,10.30645,232
+38077,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.66013,10.30664,233
+38078,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.65868,10.30713,234
+38079,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.65579,10.30816,235
+38080,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.65462,10.30856,236
+38081,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.65399,10.30881,237
+38082,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.65314,10.30922,238
+38083,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.65308,10.30921,239
+38084,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.65303,10.30916,240
+38085,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.65236,10.30765,241
+38086,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.65165,10.30609,242
+38087,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.6508,10.30423,243
+38088,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.64976,10.30195,244
+38089,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.64816,10.29839,245
+38090,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.64752,10.29699,246
+38091,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.64759,10.29694,247
+38092,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.64915,10.29609,248
+38093,Via San Ranieri 9,Hotel Continental Tirrenia,route_1531,43.64922,10.29608,249
+38094,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.71563,10.41723,0
+38095,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.71675,10.41587,1
+38096,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.71738,10.41685,2
+38097,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.71757,10.41664,3
+38098,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.71761,10.4166,4
+38099,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.71782,10.41653,5
+38100,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.71804,10.41649,6
+38101,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.71828,10.41648,7
+38102,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7192,10.41635,8
+38103,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.71981,10.41619,9
+38104,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.71989,10.41619,10
+38105,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72003,10.41624,11
+38106,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72101,10.41675,12
+38107,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72144,10.41697,13
+38108,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72163,10.41708,14
+38109,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72165,10.41716,15
+38110,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72171,10.41727,16
+38111,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7219,10.41741,17
+38112,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7222,10.41633,18
+38113,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72232,10.41585,19
+38114,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72243,10.41575,20
+38115,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72249,10.41571,21
+38116,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72255,10.41568,22
+38117,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72259,10.41569,23
+38118,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72263,10.4157,24
+38119,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72268,10.41575,25
+38120,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72272,10.41581,26
+38121,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72277,10.41589,27
+38122,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72282,10.41595,28
+38123,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72291,10.41599,29
+38124,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72298,10.41598,30
+38125,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72305,10.41595,31
+38126,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72309,10.4159,32
+38127,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72314,10.41583,33
+38128,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72316,10.41574,34
+38129,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72317,10.41566,35
+38130,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72316,10.41557,36
+38131,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72314,10.41552,37
+38132,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72309,10.41542,38
+38133,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72308,10.41523,39
+38134,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72311,10.41503,40
+38135,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72325,10.41453,41
+38136,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72446,10.41,42
+38137,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72452,10.40984,43
+38138,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72457,10.40975,44
+38139,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72462,10.40969,45
+38140,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72467,10.40966,46
+38141,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7247,10.40964,47
+38142,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72472,10.40959,48
+38143,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72472,10.40954,49
+38144,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72468,10.40937,50
+38145,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72467,10.40928,51
+38146,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72467,10.4092,52
+38147,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72467,10.4091,53
+38148,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72471,10.40903,54
+38149,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72472,10.40896,55
+38150,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72488,10.40864,56
+38151,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72491,10.40856,57
+38152,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72498,10.4083,58
+38153,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72501,10.40801,59
+38154,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72515,10.40612,60
+38155,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72519,10.4057,61
+38156,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72526,10.40545,62
+38157,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72567,10.4041,63
+38158,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72572,10.40409,64
+38159,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72575,10.40408,65
+38160,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72577,10.40405,66
+38161,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72578,10.40402,67
+38162,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72579,10.40397,68
+38163,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72578,10.40393,69
+38164,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72577,10.40389,70
+38165,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72574,10.40386,71
+38166,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72588,10.40341,72
+38167,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72604,10.40285,73
+38168,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72606,10.40273,74
+38169,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72607,10.40253,75
+38170,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72563,10.40249,76
+38171,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72565,10.40242,77
+38172,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72607,10.40178,78
+38173,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72614,10.40156,79
+38174,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72628,10.40098,80
+38175,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72651,10.39992,81
+38176,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7266,10.39944,82
+38177,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72677,10.39838,83
+38178,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72699,10.39675,84
+38179,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72717,10.39523,85
+38180,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72733,10.39361,86
+38181,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72746,10.39317,87
+38182,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72749,10.39289,88
+38183,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7275,10.39264,89
+38184,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72755,10.39254,90
+38185,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72758,10.39243,91
+38186,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72761,10.39081,92
+38187,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72764,10.3899,93
+38188,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72766,10.38947,94
+38189,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72765,10.38943,95
+38190,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72762,10.38938,96
+38191,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72827,10.38897,97
+38192,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72931,10.38835,98
+38193,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72944,10.38825,99
+38194,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72961,10.38814,100
+38195,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.72975,10.38802,101
+38196,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73017,10.38765,102
+38197,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73037,10.38746,103
+38198,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73047,10.38738,104
+38199,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73075,10.38721,105
+38200,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73119,10.38698,106
+38201,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7315,10.38679,107
+38202,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7319,10.38647,108
+38203,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73211,10.38629,109
+38204,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73253,10.38581,110
+38205,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73278,10.38557,111
+38206,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73322,10.38522,112
+38207,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73365,10.38491,113
+38208,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73386,10.38478,114
+38209,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73485,10.38411,115
+38210,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73541,10.38375,116
+38211,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73612,10.38334,117
+38212,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73647,10.38311,118
+38213,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73704,10.38268,119
+38214,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73787,10.3821,120
+38215,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7383,10.38172,121
+38216,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73867,10.38138,122
+38217,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73887,10.38123,123
+38218,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73923,10.38103,124
+38219,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7394,10.38092,125
+38220,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73955,10.38079,126
+38221,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73966,10.38064,127
+38222,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73974,10.3805,128
+38223,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73984,10.38027,129
+38224,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73992,10.38,130
+38225,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.73999,10.37966,131
+38226,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7401,10.37893,132
+38227,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74021,10.37849,133
+38228,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7403,10.37822,134
+38229,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74036,10.37804,135
+38230,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74061,10.37749,136
+38231,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74086,10.377,137
+38232,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74156,10.37581,138
+38233,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74171,10.37555,139
+38234,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74223,10.37469,140
+38235,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7426,10.37407,141
+38236,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74284,10.37372,142
+38237,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7429,10.37361,143
+38238,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74328,10.37296,144
+38239,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74336,10.37275,145
+38240,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74348,10.3726,146
+38241,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.744,10.37177,147
+38242,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74407,10.37169,148
+38243,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74415,10.37164,149
+38244,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74425,10.37161,150
+38245,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74429,10.37155,151
+38246,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74431,10.3715,152
+38247,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74431,10.37144,153
+38248,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7443,10.37139,154
+38249,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74431,10.37126,155
+38250,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74883,10.36364,156
+38251,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.74993,10.36179,157
+38252,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.75074,10.36045,158
+38253,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7515,10.35918,159
+38254,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.75159,10.35899,160
+38255,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.75164,10.35886,161
+38256,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.75192,10.35809,162
+38257,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.75204,10.35781,163
+38258,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.75213,10.35763,164
+38259,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7522,10.35754,165
+38260,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.75256,10.35711,166
+38261,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7531,10.35652,167
+38262,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.75539,10.35403,168
+38263,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.75555,10.35382,169
+38264,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.75578,10.35359,170
+38265,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.75944,10.34959,171
+38266,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.76129,10.34755,172
+38267,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.76163,10.34718,173
+38268,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.76175,10.34703,174
+38269,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.76194,10.34677,175
+38270,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.76226,10.34625,176
+38271,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.76311,10.34474,177
+38272,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7644,10.34249,178
+38273,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.76505,10.34338,179
+38274,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.76576,10.34311,180
+38275,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.76603,10.34382,181
+38276,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.76613,10.34397,182
+38277,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.76617,10.34401,183
+38278,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.76624,10.34405,184
+38279,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.76641,10.34405,185
+38280,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.76801,10.34372,186
+38281,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.76835,10.34367,187
+38282,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.76852,10.34366,188
+38283,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.76893,10.34367,189
+38284,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.76977,10.34373,190
+38285,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77005,10.34376,191
+38286,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77024,10.34382,192
+38287,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77047,10.34391,193
+38288,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77065,10.34402,194
+38289,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77117,10.34444,195
+38290,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77233,10.34541,196
+38291,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77268,10.34572,197
+38292,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7739,10.34676,198
+38293,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77401,10.34686,199
+38294,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77408,10.34693,200
+38295,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77415,10.34705,201
+38296,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77421,10.34716,202
+38297,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77452,10.34841,203
+38298,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77519,10.35097,204
+38299,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77523,10.35105,205
+38300,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77528,10.35113,206
+38301,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77534,10.35119,207
+38302,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77604,10.35174,208
+38303,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77625,10.35192,209
+38304,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77891,10.35478,210
+38305,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77924,10.35515,211
+38306,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77934,10.35526,212
+38307,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77943,10.3554,213
+38308,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77949,10.35552,214
+38309,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.77956,10.35569,215
+38310,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.78009,10.35747,216
+38311,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7803,10.35813,217
+38312,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7804,10.35834,218
+38313,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.78045,10.35841,219
+38314,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.78059,10.35857,220
+38315,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.78101,10.35893,221
+38316,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7814,10.35922,222
+38317,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.78232,10.35998,223
+38318,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.78259,10.36018,224
+38319,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.78318,10.36067,225
+38320,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.78349,10.3609,226
+38321,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.78391,10.36117,227
+38322,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.78476,10.36168,228
+38323,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.7851,10.3619,229
+38324,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.78478,10.36303,230
+38325,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.78468,10.36345,231
+38326,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.78376,10.36296,232
+38327,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.78376,10.3629,233
+38328,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.78379,10.36278,234
+38329,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.78382,10.36272,235
+38330,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.78386,10.3627,236
+38331,Via San Ranieri 9,Parcheggio Migliarino,route_1532,43.78393,10.36274,237
+38332,Via San Ranieri 9,Conad Metato,route_1533,43.71563,10.41723,0
+38333,Via San Ranieri 9,Conad Metato,route_1533,43.71675,10.41587,1
+38334,Via San Ranieri 9,Conad Metato,route_1533,43.71738,10.41685,2
+38335,Via San Ranieri 9,Conad Metato,route_1533,43.71757,10.41664,3
+38336,Via San Ranieri 9,Conad Metato,route_1533,43.71761,10.4166,4
+38337,Via San Ranieri 9,Conad Metato,route_1533,43.71782,10.41653,5
+38338,Via San Ranieri 9,Conad Metato,route_1533,43.71804,10.41649,6
+38339,Via San Ranieri 9,Conad Metato,route_1533,43.71828,10.41648,7
+38340,Via San Ranieri 9,Conad Metato,route_1533,43.7192,10.41635,8
+38341,Via San Ranieri 9,Conad Metato,route_1533,43.71981,10.41619,9
+38342,Via San Ranieri 9,Conad Metato,route_1533,43.71989,10.41619,10
+38343,Via San Ranieri 9,Conad Metato,route_1533,43.72003,10.41624,11
+38344,Via San Ranieri 9,Conad Metato,route_1533,43.72101,10.41675,12
+38345,Via San Ranieri 9,Conad Metato,route_1533,43.72144,10.41697,13
+38346,Via San Ranieri 9,Conad Metato,route_1533,43.72163,10.41708,14
+38347,Via San Ranieri 9,Conad Metato,route_1533,43.72165,10.41716,15
+38348,Via San Ranieri 9,Conad Metato,route_1533,43.72171,10.41727,16
+38349,Via San Ranieri 9,Conad Metato,route_1533,43.7219,10.41741,17
+38350,Via San Ranieri 9,Conad Metato,route_1533,43.7222,10.41633,18
+38351,Via San Ranieri 9,Conad Metato,route_1533,43.72232,10.41585,19
+38352,Via San Ranieri 9,Conad Metato,route_1533,43.72243,10.41575,20
+38353,Via San Ranieri 9,Conad Metato,route_1533,43.72249,10.41571,21
+38354,Via San Ranieri 9,Conad Metato,route_1533,43.72255,10.41568,22
+38355,Via San Ranieri 9,Conad Metato,route_1533,43.72259,10.41569,23
+38356,Via San Ranieri 9,Conad Metato,route_1533,43.72263,10.4157,24
+38357,Via San Ranieri 9,Conad Metato,route_1533,43.72268,10.41575,25
+38358,Via San Ranieri 9,Conad Metato,route_1533,43.72272,10.41581,26
+38359,Via San Ranieri 9,Conad Metato,route_1533,43.72277,10.41589,27
+38360,Via San Ranieri 9,Conad Metato,route_1533,43.72282,10.41595,28
+38361,Via San Ranieri 9,Conad Metato,route_1533,43.72291,10.41599,29
+38362,Via San Ranieri 9,Conad Metato,route_1533,43.72298,10.41598,30
+38363,Via San Ranieri 9,Conad Metato,route_1533,43.72305,10.41595,31
+38364,Via San Ranieri 9,Conad Metato,route_1533,43.72309,10.4159,32
+38365,Via San Ranieri 9,Conad Metato,route_1533,43.72318,10.41576,33
+38366,Via San Ranieri 9,Conad Metato,route_1533,43.72322,10.41573,34
+38367,Via San Ranieri 9,Conad Metato,route_1533,43.72333,10.41566,35
+38368,Via San Ranieri 9,Conad Metato,route_1533,43.724,10.41565,36
+38369,Via San Ranieri 9,Conad Metato,route_1533,43.72414,10.41566,37
+38370,Via San Ranieri 9,Conad Metato,route_1533,43.72421,10.41569,38
+38371,Via San Ranieri 9,Conad Metato,route_1533,43.72428,10.41573,39
+38372,Via San Ranieri 9,Conad Metato,route_1533,43.72465,10.41603,40
+38373,Via San Ranieri 9,Conad Metato,route_1533,43.72472,10.41612,41
+38374,Via San Ranieri 9,Conad Metato,route_1533,43.72523,10.41654,42
+38375,Via San Ranieri 9,Conad Metato,route_1533,43.72554,10.4168,43
+38376,Via San Ranieri 9,Conad Metato,route_1533,43.72658,10.41766,44
+38377,Via San Ranieri 9,Conad Metato,route_1533,43.72703,10.41802,45
+38378,Via San Ranieri 9,Conad Metato,route_1533,43.72831,10.4191,46
+38379,Via San Ranieri 9,Conad Metato,route_1533,43.7284,10.41919,47
+38380,Via San Ranieri 9,Conad Metato,route_1533,43.7285,10.41933,48
+38381,Via San Ranieri 9,Conad Metato,route_1533,43.72859,10.4195,49
+38382,Via San Ranieri 9,Conad Metato,route_1533,43.72864,10.41963,50
+38383,Via San Ranieri 9,Conad Metato,route_1533,43.72868,10.41976,51
+38384,Via San Ranieri 9,Conad Metato,route_1533,43.72869,10.41981,52
+38385,Via San Ranieri 9,Conad Metato,route_1533,43.72869,10.4199,53
+38386,Via San Ranieri 9,Conad Metato,route_1533,43.72865,10.42004,54
+38387,Via San Ranieri 9,Conad Metato,route_1533,43.72863,10.4201,55
+38388,Via San Ranieri 9,Conad Metato,route_1533,43.72857,10.42019,56
+38389,Via San Ranieri 9,Conad Metato,route_1533,43.72853,10.42026,57
+38390,Via San Ranieri 9,Conad Metato,route_1533,43.7285,10.42034,58
+38391,Via San Ranieri 9,Conad Metato,route_1533,43.72849,10.42043,59
+38392,Via San Ranieri 9,Conad Metato,route_1533,43.72851,10.42053,60
+38393,Via San Ranieri 9,Conad Metato,route_1533,43.72854,10.42061,61
+38394,Via San Ranieri 9,Conad Metato,route_1533,43.72861,10.42069,62
+38395,Via San Ranieri 9,Conad Metato,route_1533,43.72869,10.42072,63
+38396,Via San Ranieri 9,Conad Metato,route_1533,43.72886,10.42084,64
+38397,Via San Ranieri 9,Conad Metato,route_1533,43.72891,10.4209,65
+38398,Via San Ranieri 9,Conad Metato,route_1533,43.72899,10.42102,66
+38399,Via San Ranieri 9,Conad Metato,route_1533,43.72947,10.42209,67
+38400,Via San Ranieri 9,Conad Metato,route_1533,43.72968,10.42245,68
+38401,Via San Ranieri 9,Conad Metato,route_1533,43.7299,10.42273,69
+38402,Via San Ranieri 9,Conad Metato,route_1533,43.73002,10.42286,70
+38403,Via San Ranieri 9,Conad Metato,route_1533,43.73024,10.42307,71
+38404,Via San Ranieri 9,Conad Metato,route_1533,43.73034,10.42315,72
+38405,Via San Ranieri 9,Conad Metato,route_1533,43.73052,10.42328,73
+38406,Via San Ranieri 9,Conad Metato,route_1533,43.73393,10.42531,74
+38407,Via San Ranieri 9,Conad Metato,route_1533,43.73412,10.42548,75
+38408,Via San Ranieri 9,Conad Metato,route_1533,43.73415,10.42553,76
+38409,Via San Ranieri 9,Conad Metato,route_1533,43.73416,10.42554,77
+38410,Via San Ranieri 9,Conad Metato,route_1533,43.7342,10.42553,78
+38411,Via San Ranieri 9,Conad Metato,route_1533,43.73422,10.42552,79
+38412,Via San Ranieri 9,Conad Metato,route_1533,43.73424,10.42547,80
+38413,Via San Ranieri 9,Conad Metato,route_1533,43.73424,10.42545,81
+38414,Via San Ranieri 9,Conad Metato,route_1533,43.73435,10.4251,82
+38415,Via San Ranieri 9,Conad Metato,route_1533,43.73463,10.42398,83
+38416,Via San Ranieri 9,Conad Metato,route_1533,43.7347,10.42376,84
+38417,Via San Ranieri 9,Conad Metato,route_1533,43.73474,10.42368,85
+38418,Via San Ranieri 9,Conad Metato,route_1533,43.7348,10.4236,86
+38419,Via San Ranieri 9,Conad Metato,route_1533,43.73491,10.42352,87
+38420,Via San Ranieri 9,Conad Metato,route_1533,43.73502,10.42346,88
+38421,Via San Ranieri 9,Conad Metato,route_1533,43.73512,10.42344,89
+38422,Via San Ranieri 9,Conad Metato,route_1533,43.73522,10.42344,90
+38423,Via San Ranieri 9,Conad Metato,route_1533,43.73531,10.42346,91
+38424,Via San Ranieri 9,Conad Metato,route_1533,43.7355,10.42354,92
+38425,Via San Ranieri 9,Conad Metato,route_1533,43.73594,10.42379,93
+38426,Via San Ranieri 9,Conad Metato,route_1533,43.73608,10.42388,94
+38427,Via San Ranieri 9,Conad Metato,route_1533,43.73623,10.42399,95
+38428,Via San Ranieri 9,Conad Metato,route_1533,43.73657,10.42428,96
+38429,Via San Ranieri 9,Conad Metato,route_1533,43.73664,10.42431,97
+38430,Via San Ranieri 9,Conad Metato,route_1533,43.73674,10.42432,98
+38431,Via San Ranieri 9,Conad Metato,route_1533,43.7368,10.4243,99
+38432,Via San Ranieri 9,Conad Metato,route_1533,43.73685,10.42424,100
+38433,Via San Ranieri 9,Conad Metato,route_1533,43.73688,10.4242,101
+38434,Via San Ranieri 9,Conad Metato,route_1533,43.73697,10.42399,102
+38435,Via San Ranieri 9,Conad Metato,route_1533,43.73745,10.42427,103
+38436,Via San Ranieri 9,Conad Metato,route_1533,43.73784,10.42447,104
+38437,Via San Ranieri 9,Conad Metato,route_1533,43.73979,10.42538,105
+38438,Via San Ranieri 9,Conad Metato,route_1533,43.73997,10.4255,106
+38439,Via San Ranieri 9,Conad Metato,route_1533,43.74079,10.42617,107
+38440,Via San Ranieri 9,Conad Metato,route_1533,43.74099,10.42634,108
+38441,Via San Ranieri 9,Conad Metato,route_1533,43.74316,10.42844,109
+38442,Via San Ranieri 9,Conad Metato,route_1533,43.74363,10.42888,110
+38443,Via San Ranieri 9,Conad Metato,route_1533,43.74503,10.43008,111
+38444,Via San Ranieri 9,Conad Metato,route_1533,43.74671,10.43146,112
+38445,Via San Ranieri 9,Conad Metato,route_1533,43.74724,10.43196,113
+38446,Via San Ranieri 9,Conad Metato,route_1533,43.74825,10.43284,114
+38447,Via San Ranieri 9,Conad Metato,route_1533,43.7488,10.43331,115
+38448,Via San Ranieri 9,Conad Metato,route_1533,43.75062,10.43474,116
+38449,Via San Ranieri 9,Conad Metato,route_1533,43.75134,10.43538,117
+38450,Via San Ranieri 9,Conad Metato,route_1533,43.75193,10.43596,118
+38451,Via San Ranieri 9,Conad Metato,route_1533,43.75209,10.4361,119
+38452,Via San Ranieri 9,Conad Metato,route_1533,43.75223,10.43618,120
+38453,Via San Ranieri 9,Conad Metato,route_1533,43.75266,10.43635,121
+38454,Via San Ranieri 9,Conad Metato,route_1533,43.75288,10.43646,122
+38455,Via San Ranieri 9,Conad Metato,route_1533,43.75315,10.43661,123
+38456,Via San Ranieri 9,Conad Metato,route_1533,43.75338,10.43676,124
+38457,Via San Ranieri 9,Conad Metato,route_1533,43.75393,10.43722,125
+38458,Via San Ranieri 9,Conad Metato,route_1533,43.75401,10.43729,126
+38459,Via San Ranieri 9,Conad Metato,route_1533,43.75413,10.43742,127
+38460,Via San Ranieri 9,Conad Metato,route_1533,43.75436,10.43774,128
+38461,Via San Ranieri 9,Conad Metato,route_1533,43.75451,10.43789,129
+38462,Via San Ranieri 9,Conad Metato,route_1533,43.7546,10.43795,130
+38463,Via San Ranieri 9,Conad Metato,route_1533,43.75483,10.43805,131
+38464,Via San Ranieri 9,Conad Metato,route_1533,43.75503,10.43809,132
+38465,Via San Ranieri 9,Conad Metato,route_1533,43.75537,10.43813,133
+38466,Via San Ranieri 9,Conad Metato,route_1533,43.75552,10.43812,134
+38467,Via San Ranieri 9,Conad Metato,route_1533,43.7556,10.43811,135
+38468,Via San Ranieri 9,Conad Metato,route_1533,43.75592,10.43813,136
+38469,Via San Ranieri 9,Conad Metato,route_1533,43.75599,10.4382,137
+38470,Via San Ranieri 9,Conad Metato,route_1533,43.75607,10.43821,138
+38471,Via San Ranieri 9,Conad Metato,route_1533,43.75614,10.43819,139
+38472,Via San Ranieri 9,Conad Metato,route_1533,43.75619,10.43814,140
+38473,Via San Ranieri 9,Conad Metato,route_1533,43.75621,10.4381,141
+38474,Via San Ranieri 9,Conad Metato,route_1533,43.75624,10.43803,142
+38475,Via San Ranieri 9,Conad Metato,route_1533,43.75625,10.43798,143
+38476,Via San Ranieri 9,Conad Metato,route_1533,43.75624,10.43789,144
+38477,Via San Ranieri 9,Conad Metato,route_1533,43.75627,10.43775,145
+38478,Via San Ranieri 9,Conad Metato,route_1533,43.75635,10.43752,146
+38479,Via San Ranieri 9,Conad Metato,route_1533,43.75719,10.4362,147
+38480,Via San Ranieri 9,Conad Metato,route_1533,43.7582,10.43463,148
+38481,Via San Ranieri 9,Conad Metato,route_1533,43.75835,10.43444,149
+38482,Via San Ranieri 9,Conad Metato,route_1533,43.75859,10.4342,150
+38483,Via San Ranieri 9,Conad Metato,route_1533,43.75868,10.43417,151
+38484,Via San Ranieri 9,Conad Metato,route_1533,43.75877,10.43417,152
+38485,Via San Ranieri 9,Conad Metato,route_1533,43.75882,10.43421,153
+38486,Via San Ranieri 9,Conad Metato,route_1533,43.75888,10.43422,154
+38487,Via San Ranieri 9,Conad Metato,route_1533,43.75894,10.43421,155
+38488,Via San Ranieri 9,Conad Metato,route_1533,43.75899,10.43417,156
+38489,Via San Ranieri 9,Conad Metato,route_1533,43.75903,10.43412,157
+38490,Via San Ranieri 9,Conad Metato,route_1533,43.75906,10.43407,158
+38491,Via San Ranieri 9,Conad Metato,route_1533,43.75907,10.434,159
+38492,Via San Ranieri 9,Conad Metato,route_1533,43.75908,10.43393,160
+38493,Via San Ranieri 9,Conad Metato,route_1533,43.75907,10.43386,161
+38494,Via San Ranieri 9,Conad Metato,route_1533,43.75905,10.4338,162
+38495,Via San Ranieri 9,Conad Metato,route_1533,43.75912,10.43362,163
+38496,Via San Ranieri 9,Conad Metato,route_1533,43.75976,10.43275,164
+38497,Via San Ranieri 9,Conad Metato,route_1533,43.75986,10.4326,165
+38498,Via San Ranieri 9,Conad Metato,route_1533,43.76202,10.42921,166
+38499,Via San Ranieri 9,Conad Metato,route_1533,43.76216,10.42892,167
+38500,Via San Ranieri 9,Conad Metato,route_1533,43.76221,10.42886,168
+38501,Via San Ranieri 9,Conad Metato,route_1533,43.76228,10.42881,169
+38502,Via San Ranieri 9,Conad Metato,route_1533,43.76233,10.42878,170
+38503,Via San Ranieri 9,Conad Metato,route_1533,43.76238,10.42874,171
+38504,Via San Ranieri 9,Conad Metato,route_1533,43.76241,10.42868,172
+38505,Via San Ranieri 9,Conad Metato,route_1533,43.76243,10.42862,173
+38506,Via San Ranieri 9,Conad Metato,route_1533,43.76244,10.42853,174
+38507,Via San Ranieri 9,Conad Metato,route_1533,43.76243,10.42843,175
+38508,Via San Ranieri 9,Conad Metato,route_1533,43.7624,10.42837,176
+38509,Via San Ranieri 9,Conad Metato,route_1533,43.76235,10.42831,177
+38510,Via San Ranieri 9,Conad Metato,route_1533,43.76229,10.42827,178
+38511,Via San Ranieri 9,Conad Metato,route_1533,43.76223,10.42826,179
+38512,Via San Ranieri 9,Conad Metato,route_1533,43.76217,10.42828,180
+38513,Via San Ranieri 9,Conad Metato,route_1533,43.7621,10.42835,181
+38514,Via San Ranieri 9,Conad Metato,route_1533,43.76203,10.42836,182
+38515,Via San Ranieri 9,Conad Metato,route_1533,43.76196,10.42835,183
+38516,Via San Ranieri 9,Conad Metato,route_1533,43.76187,10.42832,184
+38517,Via San Ranieri 9,Conad Metato,route_1533,43.76034,10.42738,185
+38518,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.71563,10.41723,0
+38519,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.71675,10.41587,1
+38520,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.71738,10.41685,2
+38521,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.71757,10.41664,3
+38522,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.71761,10.4166,4
+38523,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.71782,10.41653,5
+38524,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.71804,10.41649,6
+38525,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.71828,10.41648,7
+38526,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.7192,10.41635,8
+38527,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.71981,10.41619,9
+38528,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.71989,10.41619,10
+38529,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72003,10.41624,11
+38530,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72101,10.41675,12
+38531,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72144,10.41697,13
+38532,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72163,10.41708,14
+38533,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72165,10.41716,15
+38534,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72171,10.41727,16
+38535,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.7219,10.41741,17
+38536,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.7222,10.41633,18
+38537,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72232,10.41585,19
+38538,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72243,10.41575,20
+38539,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72249,10.41571,21
+38540,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72255,10.41568,22
+38541,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72259,10.41569,23
+38542,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72263,10.4157,24
+38543,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72268,10.41575,25
+38544,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72272,10.41581,26
+38545,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72277,10.41589,27
+38546,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72282,10.41595,28
+38547,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72291,10.41599,29
+38548,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72298,10.41598,30
+38549,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72305,10.41595,31
+38550,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72309,10.4159,32
+38551,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72314,10.41583,33
+38552,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72316,10.41574,34
+38553,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72317,10.41566,35
+38554,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72316,10.41557,36
+38555,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72314,10.41552,37
+38556,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72309,10.41542,38
+38557,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72308,10.41523,39
+38558,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72311,10.41503,40
+38559,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72325,10.41453,41
+38560,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72446,10.41,42
+38561,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72452,10.40984,43
+38562,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72457,10.40975,44
+38563,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72462,10.40969,45
+38564,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72467,10.40966,46
+38565,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.7247,10.40964,47
+38566,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72472,10.40959,48
+38567,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72472,10.40954,49
+38568,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72468,10.40937,50
+38569,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72467,10.40928,51
+38570,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72467,10.4092,52
+38571,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72467,10.4091,53
+38572,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72471,10.40903,54
+38573,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72472,10.40896,55
+38574,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72488,10.40864,56
+38575,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72491,10.40856,57
+38576,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72498,10.4083,58
+38577,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72501,10.40801,59
+38578,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72515,10.40612,60
+38579,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72519,10.4057,61
+38580,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72526,10.40545,62
+38581,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72567,10.4041,63
+38582,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72572,10.40409,64
+38583,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72575,10.40408,65
+38584,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72577,10.40405,66
+38585,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72578,10.40402,67
+38586,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72632,10.40468,68
+38587,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72667,10.40505,69
+38588,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72704,10.40536,70
+38589,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72721,10.40548,71
+38590,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72729,10.40552,72
+38591,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72823,10.40592,73
+38592,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.72877,10.40621,74
+38593,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.73021,10.40703,75
+38594,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.73046,10.40712,76
+38595,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.73094,10.40724,77
+38596,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.73103,10.40727,78
+38597,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.73115,10.40732,79
+38598,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.73143,10.40747,80
+38599,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.73187,10.40771,81
+38600,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.73253,10.4081,82
+38601,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.73314,10.40847,83
+38602,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.73383,10.40888,84
+38603,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.73447,10.40931,85
+38604,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.73514,10.40978,86
+38605,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.73563,10.4102,87
+38606,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.73741,10.4117,88
+38607,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.73986,10.41367,89
+38608,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.74106,10.41464,90
+38609,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.74435,10.41719,91
+38610,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.74509,10.41423,92
+38611,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.74586,10.41124,93
+38612,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.74592,10.41131,94
+38613,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.74675,10.41192,95
+38614,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.74689,10.41201,96
+38615,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.74699,10.41207,97
+38616,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.74712,10.41217,98
+38617,Via San Ranieri 9,Ristorante Il Lago (Nodica),route_1534,43.74909,10.41291,99
+38618,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71563,10.41723,0
+38619,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71675,10.41587,1
+38620,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71769,10.41735,2
+38621,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71841,10.41855,3
+38622,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.7185,10.41887,4
+38623,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71852,10.41897,5
+38624,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71854,10.4192,6
+38625,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71854,10.4195,7
+38626,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71853,10.4196,8
+38627,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71855,10.41974,9
+38628,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.7186,10.41988,10
+38629,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71866,10.41998,11
+38630,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71869,10.42002,12
+38631,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71878,10.42008,13
+38632,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71943,10.42031,14
+38633,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71965,10.42048,15
+38634,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71975,10.42058,16
+38635,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.72032,10.42132,17
+38636,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.7205,10.42159,18
+38637,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.72056,10.42174,19
+38638,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.72055,10.42177,20
+38639,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.72056,10.42183,21
+38640,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.72051,10.42203,22
+38641,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71985,10.42327,23
+38642,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71976,10.42336,24
+38643,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71971,10.42343,25
+38644,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71947,10.42386,26
+38645,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71908,10.42461,27
+38646,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.719,10.4248,28
+38647,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71891,10.42507,29
+38648,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71872,10.42546,30
+38649,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71854,10.42589,31
+38650,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71799,10.42727,32
+38651,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71764,10.42805,33
+38652,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.7176,10.42809,34
+38653,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71756,10.42814,35
+38654,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71751,10.42825,36
+38655,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71751,10.4283,37
+38656,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71751,10.42838,38
+38657,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71751,10.42842,39
+38658,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71754,10.4285,40
+38659,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.7175,10.42873,41
+38660,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71741,10.42908,42
+38661,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71735,10.42939,43
+38662,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71652,10.43229,44
+38663,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.7162,10.43334,45
+38664,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71591,10.43417,46
+38665,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71573,10.43464,47
+38666,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.7155,10.43517,48
+38667,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71527,10.43565,49
+38668,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71242,10.44109,50
+38669,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71222,10.44139,51
+38670,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71212,10.44152,52
+38671,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.712,10.44164,53
+38672,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71183,10.44178,54
+38673,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71176,10.44183,55
+38674,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71155,10.4419,56
+38675,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71145,10.44193,57
+38676,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71134,10.44195,58
+38677,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.7112,10.44193,59
+38678,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71104,10.44187,60
+38679,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71099,10.44184,61
+38680,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71089,10.44173,62
+38681,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71083,10.44167,63
+38682,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.71054,10.44127,64
+38683,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70903,10.43911,65
+38684,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70827,10.43797,66
+38685,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70803,10.43765,67
+38686,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70796,10.43754,68
+38687,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70792,10.43744,69
+38688,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70791,10.43737,70
+38689,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70789,10.4373,71
+38690,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70784,10.43724,72
+38691,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.7078,10.43721,73
+38692,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70776,10.4372,74
+38693,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70771,10.4372,75
+38694,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70768,10.43717,76
+38695,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70762,10.43708,77
+38696,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70741,10.43665,78
+38697,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70733,10.43646,79
+38698,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70723,10.4361,80
+38699,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70706,10.43547,81
+38700,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70706,10.43542,82
+38701,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70707,10.43485,83
+38702,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70708,10.43473,84
+38703,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70713,10.43444,85
+38704,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70718,10.43425,86
+38705,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70873,10.42994,87
+38706,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70889,10.43004,88
+38707,Via San Ranieri 9,Pizzeria Colignola,route_1535,43.70906,10.42954,89
+38708,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.71563,10.41723,0
+38709,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.71675,10.41587,1
+38710,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.71738,10.41685,2
+38711,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.71757,10.41664,3
+38712,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.71761,10.4166,4
+38713,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.71782,10.41653,5
+38714,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.71804,10.41649,6
+38715,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.71828,10.41648,7
+38716,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.7192,10.41635,8
+38717,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.71981,10.41619,9
+38718,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.71989,10.41619,10
+38719,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72003,10.41624,11
+38720,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72101,10.41675,12
+38721,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72144,10.41697,13
+38722,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72163,10.41708,14
+38723,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72165,10.41716,15
+38724,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72171,10.41727,16
+38725,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.7219,10.41741,17
+38726,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.7222,10.41633,18
+38727,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72232,10.41585,19
+38728,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72243,10.41575,20
+38729,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72249,10.41571,21
+38730,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72255,10.41568,22
+38731,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72259,10.41569,23
+38732,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72263,10.4157,24
+38733,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72268,10.41575,25
+38734,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72272,10.41581,26
+38735,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72277,10.41589,27
+38736,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72282,10.41595,28
+38737,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72291,10.41599,29
+38738,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72298,10.41598,30
+38739,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72305,10.41595,31
+38740,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72309,10.4159,32
+38741,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72318,10.41576,33
+38742,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72322,10.41573,34
+38743,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72333,10.41566,35
+38744,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.724,10.41565,36
+38745,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72414,10.41566,37
+38746,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72421,10.41569,38
+38747,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72428,10.41573,39
+38748,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72465,10.41603,40
+38749,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72472,10.41612,41
+38750,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72523,10.41654,42
+38751,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72554,10.4168,43
+38752,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72658,10.41766,44
+38753,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72703,10.41802,45
+38754,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72831,10.4191,46
+38755,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.7284,10.41919,47
+38756,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.7285,10.41933,48
+38757,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72859,10.4195,49
+38758,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72864,10.41963,50
+38759,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72868,10.41976,51
+38760,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72869,10.41981,52
+38761,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72869,10.4199,53
+38762,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72865,10.42004,54
+38763,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72863,10.4201,55
+38764,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72857,10.42019,56
+38765,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72853,10.42026,57
+38766,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.7285,10.42034,58
+38767,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72849,10.42043,59
+38768,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72851,10.42053,60
+38769,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72854,10.42061,61
+38770,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72861,10.42069,62
+38771,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72869,10.42072,63
+38772,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72886,10.42084,64
+38773,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72891,10.4209,65
+38774,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72899,10.42102,66
+38775,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72947,10.42209,67
+38776,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.72968,10.42245,68
+38777,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.7299,10.42273,69
+38778,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73002,10.42286,70
+38779,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73024,10.42307,71
+38780,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73034,10.42315,72
+38781,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73052,10.42328,73
+38782,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73393,10.42531,74
+38783,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73412,10.42548,75
+38784,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73415,10.42553,76
+38785,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73416,10.42554,77
+38786,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.7342,10.42553,78
+38787,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73422,10.42552,79
+38788,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73424,10.42547,80
+38789,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73424,10.42545,81
+38790,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73435,10.4251,82
+38791,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73463,10.42398,83
+38792,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.7347,10.42376,84
+38793,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73474,10.42368,85
+38794,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.7348,10.4236,86
+38795,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73491,10.42352,87
+38796,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73502,10.42346,88
+38797,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73512,10.42344,89
+38798,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73522,10.42344,90
+38799,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73531,10.42346,91
+38800,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.7355,10.42354,92
+38801,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73594,10.42379,93
+38802,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73608,10.42388,94
+38803,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73623,10.42399,95
+38804,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73657,10.42428,96
+38805,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73664,10.42431,97
+38806,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73674,10.42432,98
+38807,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.7368,10.4243,99
+38808,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73685,10.42424,100
+38809,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73688,10.4242,101
+38810,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73697,10.42399,102
+38811,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73745,10.42427,103
+38812,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73784,10.42447,104
+38813,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73894,10.42498,105
+38814,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73901,10.42476,106
+38815,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73953,10.4232,107
+38816,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.73969,10.42332,108
+38817,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.74021,10.42396,109
+38818,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.7407,10.42452,110
+38819,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.74089,10.42477,111
+38820,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.74123,10.42503,112
+38821,Via San Ranieri 9,Supermercato Coop Ghezzano,route_1536,43.74147,10.42519,113
+38822,Supermercato Coop San Giusto,Torre,route_1537,43.70591,10.3922,0
+38823,Supermercato Coop San Giusto,Torre,route_1537,43.70591,10.39274,1
+38824,Supermercato Coop San Giusto,Torre,route_1537,43.70592,10.3928,2
+38825,Supermercato Coop San Giusto,Torre,route_1537,43.70594,10.39284,3
+38826,Supermercato Coop San Giusto,Torre,route_1537,43.70597,10.39285,4
+38827,Supermercato Coop San Giusto,Torre,route_1537,43.70719,10.39277,5
+38828,Supermercato Coop San Giusto,Torre,route_1537,43.7072,10.39425,6
+38829,Supermercato Coop San Giusto,Torre,route_1537,43.70719,10.39483,7
+38830,Supermercato Coop San Giusto,Torre,route_1537,43.70717,10.39505,8
+38831,Supermercato Coop San Giusto,Torre,route_1537,43.70706,10.39571,9
+38832,Supermercato Coop San Giusto,Torre,route_1537,43.70702,10.39603,10
+38833,Supermercato Coop San Giusto,Torre,route_1537,43.707,10.39643,11
+38834,Supermercato Coop San Giusto,Torre,route_1537,43.70696,10.39666,12
+38835,Supermercato Coop San Giusto,Torre,route_1537,43.70686,10.39696,13
+38836,Supermercato Coop San Giusto,Torre,route_1537,43.70682,10.39704,14
+38837,Supermercato Coop San Giusto,Torre,route_1537,43.70661,10.39725,15
+38838,Supermercato Coop San Giusto,Torre,route_1537,43.70641,10.39743,16
+38839,Supermercato Coop San Giusto,Torre,route_1537,43.70625,10.39761,17
+38840,Supermercato Coop San Giusto,Torre,route_1537,43.70622,10.39768,18
+38841,Supermercato Coop San Giusto,Torre,route_1537,43.70613,10.39793,19
+38842,Supermercato Coop San Giusto,Torre,route_1537,43.70608,10.39812,20
+38843,Supermercato Coop San Giusto,Torre,route_1537,43.70603,10.39837,21
+38844,Supermercato Coop San Giusto,Torre,route_1537,43.70593,10.39894,22
+38845,Supermercato Coop San Giusto,Torre,route_1537,43.70588,10.39936,23
+38846,Supermercato Coop San Giusto,Torre,route_1537,43.70585,10.3997,24
+38847,Supermercato Coop San Giusto,Torre,route_1537,43.70582,10.39989,25
+38848,Supermercato Coop San Giusto,Torre,route_1537,43.70563,10.39979,26
+38849,Supermercato Coop San Giusto,Torre,route_1537,43.70534,10.3996,27
+38850,Supermercato Coop San Giusto,Torre,route_1537,43.70524,10.3999,28
+38851,Supermercato Coop San Giusto,Torre,route_1537,43.70504,10.40057,29
+38852,Supermercato Coop San Giusto,Torre,route_1537,43.705,10.40076,30
+38853,Supermercato Coop San Giusto,Torre,route_1537,43.70493,10.40093,31
+38854,Supermercato Coop San Giusto,Torre,route_1537,43.70471,10.40133,32
+38855,Supermercato Coop San Giusto,Torre,route_1537,43.70524,10.40171,33
+38856,Supermercato Coop San Giusto,Torre,route_1537,43.7053,10.40178,34
+38857,Supermercato Coop San Giusto,Torre,route_1537,43.70535,10.40184,35
+38858,Supermercato Coop San Giusto,Torre,route_1537,43.70547,10.40207,36
+38859,Supermercato Coop San Giusto,Torre,route_1537,43.70553,10.40214,37
+38860,Supermercato Coop San Giusto,Torre,route_1537,43.70614,10.40251,38
+38861,Supermercato Coop San Giusto,Torre,route_1537,43.70712,10.40318,39
+38862,Supermercato Coop San Giusto,Torre,route_1537,43.70685,10.40392,40
+38863,Supermercato Coop San Giusto,Torre,route_1537,43.7068,10.40407,41
+38864,Supermercato Coop San Giusto,Torre,route_1537,43.70676,10.40427,42
+38865,Supermercato Coop San Giusto,Torre,route_1537,43.70675,10.40444,43
+38866,Supermercato Coop San Giusto,Torre,route_1537,43.70675,10.40455,44
+38867,Supermercato Coop San Giusto,Torre,route_1537,43.70678,10.40479,45
+38868,Supermercato Coop San Giusto,Torre,route_1537,43.70683,10.40508,46
+38869,Supermercato Coop San Giusto,Torre,route_1537,43.70742,10.40341,47
+38870,Supermercato Coop San Giusto,Torre,route_1537,43.70809,10.40387,48
+38871,Supermercato Coop San Giusto,Torre,route_1537,43.70921,10.40461,49
+38872,Supermercato Coop San Giusto,Torre,route_1537,43.70964,10.40492,50
+38873,Supermercato Coop San Giusto,Torre,route_1537,43.70959,10.4052,51
+38874,Supermercato Coop San Giusto,Torre,route_1537,43.70953,10.40562,52
+38875,Supermercato Coop San Giusto,Torre,route_1537,43.70953,10.40571,53
+38876,Supermercato Coop San Giusto,Torre,route_1537,43.70954,10.40577,54
+38877,Supermercato Coop San Giusto,Torre,route_1537,43.70958,10.40585,55
+38878,Supermercato Coop San Giusto,Torre,route_1537,43.70962,10.40589,56
+38879,Supermercato Coop San Giusto,Torre,route_1537,43.7097,10.40593,57
+38880,Supermercato Coop San Giusto,Torre,route_1537,43.70981,10.40586,58
+38881,Supermercato Coop San Giusto,Torre,route_1537,43.70996,10.40588,59
+38882,Supermercato Coop San Giusto,Torre,route_1537,43.71001,10.4059,60
+38883,Supermercato Coop San Giusto,Torre,route_1537,43.71007,10.40596,61
+38884,Supermercato Coop San Giusto,Torre,route_1537,43.71009,10.40599,62
+38885,Supermercato Coop San Giusto,Torre,route_1537,43.71015,10.4061,63
+38886,Supermercato Coop San Giusto,Torre,route_1537,43.71008,10.40743,64
+38887,Supermercato Coop San Giusto,Torre,route_1537,43.71004,10.40744,65
+38888,Supermercato Coop San Giusto,Torre,route_1537,43.71001,10.40747,66
+38889,Supermercato Coop San Giusto,Torre,route_1537,43.70998,10.40751,67
+38890,Supermercato Coop San Giusto,Torre,route_1537,43.70997,10.40755,68
+38891,Supermercato Coop San Giusto,Torre,route_1537,43.70997,10.40763,69
+38892,Supermercato Coop San Giusto,Torre,route_1537,43.70998,10.40769,70
+38893,Supermercato Coop San Giusto,Torre,route_1537,43.71003,10.40774,71
+38894,Supermercato Coop San Giusto,Torre,route_1537,43.71007,10.40776,72
+38895,Supermercato Coop San Giusto,Torre,route_1537,43.71014,10.40774,73
+38896,Supermercato Coop San Giusto,Torre,route_1537,43.71018,10.40769,74
+38897,Supermercato Coop San Giusto,Torre,route_1537,43.71027,10.40767,75
+38898,Supermercato Coop San Giusto,Torre,route_1537,43.71063,10.40769,76
+38899,Supermercato Coop San Giusto,Torre,route_1537,43.71112,10.40773,77
+38900,Supermercato Coop San Giusto,Torre,route_1537,43.71118,10.40776,78
+38901,Supermercato Coop San Giusto,Torre,route_1537,43.71127,10.40782,79
+38902,Supermercato Coop San Giusto,Torre,route_1537,43.71131,10.40786,80
+38903,Supermercato Coop San Giusto,Torre,route_1537,43.71138,10.40789,81
+38904,Supermercato Coop San Giusto,Torre,route_1537,43.71204,10.40793,82
+38905,Supermercato Coop San Giusto,Torre,route_1537,43.71261,10.40789,83
+38906,Supermercato Coop San Giusto,Torre,route_1537,43.71299,10.40783,84
+38907,Supermercato Coop San Giusto,Torre,route_1537,43.71305,10.40781,85
+38908,Supermercato Coop San Giusto,Torre,route_1537,43.71307,10.40778,86
+38909,Supermercato Coop San Giusto,Torre,route_1537,43.7139,10.40851,87
+38910,Supermercato Coop San Giusto,Torre,route_1537,43.7141,10.40867,88
+38911,Supermercato Coop San Giusto,Torre,route_1537,43.71421,10.40873,89
+38912,Supermercato Coop San Giusto,Torre,route_1537,43.7147,10.40895,90
+38913,Supermercato Coop San Giusto,Torre,route_1537,43.71478,10.40897,91
+38914,Supermercato Coop San Giusto,Torre,route_1537,43.71514,10.40902,92
+38915,Supermercato Coop San Giusto,Torre,route_1537,43.71597,10.40908,93
+38916,Supermercato Coop San Giusto,Torre,route_1537,43.71617,10.40905,94
+38917,Supermercato Coop San Giusto,Torre,route_1537,43.71637,10.40896,95
+38918,Supermercato Coop San Giusto,Torre,route_1537,43.7167,10.40875,96
+38919,Supermercato Coop San Giusto,Torre,route_1537,43.7168,10.40872,97
+38920,Supermercato Coop San Giusto,Torre,route_1537,43.71686,10.40874,98
+38921,Supermercato Coop San Giusto,Torre,route_1537,43.71695,10.40879,99
+38922,Supermercato Coop San Giusto,Torre,route_1537,43.71862,10.41041,100
+38923,Supermercato Coop San Giusto,Torre,route_1537,43.71872,10.41046,101
+38924,Supermercato Coop San Giusto,Torre,route_1537,43.71879,10.41046,102
+38925,Supermercato Coop San Giusto,Torre,route_1537,43.71868,10.40905,103
+38926,Supermercato Coop San Giusto,Torre,route_1537,43.71855,10.40739,104
+38927,Supermercato Coop San Giusto,Torre,route_1537,43.71935,10.40741,105
+38928,Supermercato Coop San Giusto,Torre,route_1537,43.71973,10.40736,106
+38929,Supermercato Coop San Giusto,Torre,route_1537,43.71999,10.40735,107
+38930,Supermercato Coop San Giusto,Torre,route_1537,43.72213,10.40733,108
+38931,Supermercato Coop San Giusto,Torre,route_1537,43.72272,10.40686,109
+38932,Supermercato Coop San Giusto,Torre,route_1537,43.72307,10.40728,110
+38933,Supermercato Coop San Giusto,Torre,route_1537,43.7232,10.40743,111
+38934,Supermercato Coop San Giusto,Torre,route_1537,43.72345,10.40777,112
+38935,Supermercato Coop San Giusto,Torre,route_1537,43.72353,10.40787,113
+38936,Supermercato Coop San Giusto,Torre,route_1537,43.72356,10.40789,114
+38937,Supermercato Coop San Giusto,Torre,route_1537,43.72363,10.40807,115
+38938,Supermercato Coop San Giusto,Torre,route_1537,43.72364,10.4081,116
+38939,Supermercato Coop San Giusto,Torre,route_1537,43.72367,10.40814,117
+38940,Supermercato Coop San Giusto,Torre,route_1537,43.72372,10.40815,118
+38941,Supermercato Coop San Giusto,Torre,route_1537,43.72375,10.40813,119
+38942,Supermercato Coop San Giusto,Torre,route_1537,43.72378,10.40807,120
+38943,Supermercato Coop San Giusto,Torre,route_1537,43.72438,10.4084,121
+38944,Supermercato Coop San Giusto,Torre,route_1537,43.72441,10.40848,122
+38945,Supermercato Coop San Giusto,Torre,route_1537,43.72446,10.40882,123
+38946,Supermercato Coop San Giusto,Torre,route_1537,43.72444,10.40889,124
+38947,Supermercato Coop San Giusto,Torre,route_1537,43.72443,10.40894,125
+38948,Supermercato Coop San Giusto,Torre,route_1537,43.72444,10.409,126
+38949,Supermercato Coop San Giusto,Torre,route_1537,43.72445,10.40904,127
+38950,Supermercato Coop San Giusto,Torre,route_1537,43.72447,10.40908,128
+38951,Supermercato Coop San Giusto,Torre,route_1537,43.7245,10.40912,129
+38952,Supermercato Coop San Giusto,Torre,route_1537,43.72453,10.40914,130
+38953,Supermercato Coop San Giusto,Torre,route_1537,43.7246,10.40914,131
+38954,Supermercato Coop San Giusto,Torre,route_1537,43.72464,10.40913,132
+38955,Supermercato Coop San Giusto,Torre,route_1537,43.72467,10.4091,133
+38956,Supermercato Coop San Giusto,Torre,route_1537,43.72471,10.40903,134
+38957,Supermercato Coop San Giusto,Torre,route_1537,43.72472,10.40896,135
+38958,Supermercato Coop San Giusto,Torre,route_1537,43.72471,10.40886,136
+38959,Supermercato Coop San Giusto,Torre,route_1537,43.72467,10.40879,137
+38960,Supermercato Coop San Giusto,Torre,route_1537,43.72462,10.40875,138
+38961,Supermercato Coop San Giusto,Torre,route_1537,43.72455,10.40875,139
+38962,Supermercato Coop San Giusto,Torre,route_1537,43.72447,10.40862,140
+38963,Supermercato Coop San Giusto,Torre,route_1537,43.72441,10.40848,141
+38964,Supermercato Coop San Giusto,Torre,route_1537,43.72438,10.4084,142
+38965,Supermercato Coop San Giusto,Torre,route_1537,43.72411,10.40731,143
+38966,Supermercato Coop San Giusto,Torre,route_1537,43.72371,10.40559,144
+38967,Supermercato Coop San Giusto,Torre,route_1537,43.72284,10.40176,145
+38968,Supermercato Coop San Giusto,Torre,route_1537,43.72346,10.39899,146
+38969,Supermercato Coop San Giusto,Torre,route_1537,43.72359,10.39853,147
+38970,Supermercato Coop San Giusto,Torre,route_1537,43.72344,10.39844,148
+38971,Supermercato Coop San Giusto,Torre,route_1537,43.72295,10.39822,149
+38972,Supermercato Coop San Giusto,Torre,route_1537,43.723,10.39797,150

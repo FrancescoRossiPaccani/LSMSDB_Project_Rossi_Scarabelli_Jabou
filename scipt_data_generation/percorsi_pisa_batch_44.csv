@@ -1,0 +1,568 @@
+id,start,end,route_id,lat,lon,idx
+30619,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71032,10.41095,0
+30620,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71006,10.41121,1
+30621,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71006,10.41143,2
+30622,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70999,10.41147,3
+30623,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.7099,10.41147,4
+30624,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70994,10.41066,5
+30625,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70995,10.41058,6
+30626,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71002,10.41043,7
+30627,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71006,10.4104,8
+30628,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71008,10.41036,9
+30629,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.7101,10.41032,10
+30630,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71011,10.41027,11
+30631,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71011,10.41022,12
+30632,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.7101,10.41017,13
+30633,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71009,10.41013,14
+30634,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71006,10.41009,15
+30635,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71002,10.41005,16
+30636,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70998,10.40978,17
+30637,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71007,10.40776,18
+30638,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71014,10.40774,19
+30639,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71018,10.40769,20
+30640,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71019,10.40765,21
+30641,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.7102,10.4076,22
+30642,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71019,10.40752,23
+30643,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71017,10.40749,24
+30644,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71014,10.40745,25
+30645,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.7101,10.40743,26
+30646,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71008,10.40743,27
+30647,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71015,10.4061,28
+30648,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71019,10.4058,29
+30649,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71021,10.40573,30
+30650,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71027,10.40559,31
+30651,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.7104,10.4055,32
+30652,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71043,10.40545,33
+30653,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71044,10.40536,34
+30654,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71044,10.4053,35
+30655,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71041,10.40524,36
+30656,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71035,10.4052,37
+30657,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.7103,10.4052,38
+30658,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71019,10.40527,39
+30659,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.7101,10.40527,40
+30660,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.71006,10.40525,41
+30661,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70988,10.40513,42
+30662,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70974,10.40512,43
+30663,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70969,10.40513,44
+30664,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70959,10.4052,45
+30665,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70953,10.40562,46
+30666,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70919,10.40552,47
+30667,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70824,10.40505,48
+30668,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70776,10.40479,49
+30669,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70741,10.40576,50
+30670,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70675,10.40529,51
+30671,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70611,10.40711,52
+30672,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70588,10.4077,53
+30673,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70583,10.40781,54
+30674,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.7058,10.40785,55
+30675,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70561,10.40805,56
+30676,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.7048,10.40879,57
+30677,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70471,10.40891,58
+30678,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70465,10.40904,59
+30679,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70461,10.4092,60
+30680,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70456,10.40981,61
+30681,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70467,10.40993,62
+30682,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.7044,10.41019,63
+30683,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70435,10.41024,64
+30684,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70429,10.41036,65
+30685,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70421,10.41057,66
+30686,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70417,10.4107,67
+30687,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70412,10.4109,68
+30688,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70409,10.41094,69
+30689,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70407,10.41101,70
+30690,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70407,10.41105,71
+30691,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70408,10.41109,72
+30692,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.7041,10.41113,73
+30693,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70423,10.41121,74
+30694,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70424,10.41125,75
+30695,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70447,10.41253,76
+30696,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70449,10.4126,77
+30697,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70449,10.41268,78
+30698,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70451,10.41274,79
+30699,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70456,10.4131,80
+30700,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70443,10.41358,81
+30701,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70436,10.41382,82
+30702,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70432,10.41389,83
+30703,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70426,10.41399,84
+30704,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70444,10.41415,85
+30705,Carrefour Express Pisanova,Ipercoop Pisa,route_1290,43.70449,10.41421,86
+30706,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71032,10.41095,0
+30707,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71006,10.41121,1
+30708,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71006,10.41143,2
+30709,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.70999,10.41147,3
+30710,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.7099,10.41147,4
+30711,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.70991,10.41172,5
+30712,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.70992,10.41199,6
+30713,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.70997,10.41245,7
+30714,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71037,10.41529,8
+30715,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71068,10.41746,9
+30716,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71091,10.41974,10
+30717,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.7109,10.4199,11
+30718,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71092,10.4202,12
+30719,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71094,10.42031,13
+30720,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71098,10.42043,14
+30721,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71101,10.42058,15
+30722,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.711,10.42062,16
+30723,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71101,10.42067,17
+30724,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71103,10.4207,18
+30725,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71105,10.42071,19
+30726,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71109,10.4207,20
+30727,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71111,10.42068,21
+30728,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71223,10.42094,22
+30729,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71242,10.4202,23
+30730,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71253,10.41978,24
+30731,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71266,10.41937,25
+30732,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.7128,10.41885,26
+30733,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.71292,10.4183,27
+30734,Carrefour Express Pisanova,Via Cisanello 170,route_1291,43.713,10.4178,28
+30735,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71032,10.41095,0
+30736,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71006,10.41121,1
+30737,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71006,10.41143,2
+30738,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.70999,10.41147,3
+30739,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.7099,10.41147,4
+30740,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.70991,10.41172,5
+30741,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.70992,10.41199,6
+30742,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.70997,10.41245,7
+30743,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71037,10.41529,8
+30744,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71068,10.41746,9
+30745,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71091,10.41974,10
+30746,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.7109,10.4199,11
+30747,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71092,10.4202,12
+30748,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71094,10.42031,13
+30749,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71098,10.42043,14
+30750,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71101,10.42058,15
+30751,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.711,10.42062,16
+30752,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71101,10.42067,17
+30753,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71103,10.4207,18
+30754,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71105,10.42071,19
+30755,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71109,10.4207,20
+30756,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71111,10.42068,21
+30757,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71156,10.42078,22
+30758,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71281,10.42107,23
+30759,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71497,10.42159,24
+30760,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71498,10.42148,25
+30761,Carrefour Express Pisanova,Farmacia Cisanello,route_1292,43.71348,10.42113,26
+30762,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71032,10.41095,0
+30763,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71006,10.41121,1
+30764,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71006,10.41143,2
+30765,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70999,10.41147,3
+30766,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.7099,10.41147,4
+30767,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70994,10.41066,5
+30768,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70995,10.41058,6
+30769,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71002,10.41043,7
+30770,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71006,10.4104,8
+30771,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71008,10.41036,9
+30772,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.7101,10.41032,10
+30773,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71011,10.41027,11
+30774,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71011,10.41022,12
+30775,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.7101,10.41017,13
+30776,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71009,10.41013,14
+30777,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71006,10.41009,15
+30778,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71002,10.41005,16
+30779,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70998,10.40978,17
+30780,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71007,10.40776,18
+30781,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71014,10.40774,19
+30782,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71018,10.40769,20
+30783,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71019,10.40765,21
+30784,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.7102,10.4076,22
+30785,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71019,10.40752,23
+30786,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71017,10.40749,24
+30787,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71014,10.40745,25
+30788,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.7101,10.40743,26
+30789,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71008,10.40743,27
+30790,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71015,10.4061,28
+30791,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71019,10.4058,29
+30792,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71021,10.40573,30
+30793,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71027,10.40559,31
+30794,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.7104,10.4055,32
+30795,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71043,10.40545,33
+30796,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71044,10.40536,34
+30797,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71044,10.4053,35
+30798,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71041,10.40524,36
+30799,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71035,10.4052,37
+30800,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.7103,10.4052,38
+30801,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71019,10.40527,39
+30802,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.7101,10.40527,40
+30803,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.71006,10.40525,41
+30804,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70988,10.40513,42
+30805,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70974,10.40512,43
+30806,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70969,10.40513,44
+30807,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70959,10.4052,45
+30808,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70953,10.40562,46
+30809,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70919,10.40552,47
+30810,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70824,10.40505,48
+30811,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70776,10.40479,49
+30812,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70741,10.40576,50
+30813,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70675,10.40529,51
+30814,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70611,10.40711,52
+30815,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70609,10.40749,53
+30816,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70609,10.40762,54
+30817,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70611,10.40773,55
+30818,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70614,10.40784,56
+30819,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70623,10.40805,57
+30820,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70638,10.40833,58
+30821,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70581,10.40886,59
+30822,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70568,10.40859,60
+30823,Carrefour Express Pisanova,Ristorante Il Mio Capriccio,route_1293,43.70578,10.40849,61
+30824,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71032,10.41095,0
+30825,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71006,10.41121,1
+30826,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71006,10.41143,2
+30827,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.70999,10.41147,3
+30828,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.7099,10.41147,4
+30829,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.70994,10.41066,5
+30830,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.70995,10.41058,6
+30831,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71002,10.41043,7
+30832,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71006,10.4104,8
+30833,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71008,10.41036,9
+30834,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.7101,10.41032,10
+30835,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71011,10.41027,11
+30836,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71011,10.41022,12
+30837,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.7101,10.41017,13
+30838,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71009,10.41013,14
+30839,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71006,10.41009,15
+30840,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71002,10.41005,16
+30841,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.70998,10.40978,17
+30842,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71007,10.40776,18
+30843,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71014,10.40774,19
+30844,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71018,10.40769,20
+30845,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71027,10.40767,21
+30846,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71063,10.40769,22
+30847,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71112,10.40773,23
+30848,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71118,10.40776,24
+30849,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71127,10.40782,25
+30850,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71131,10.40786,26
+30851,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71138,10.40789,27
+30852,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71204,10.40793,28
+30853,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71261,10.40789,29
+30854,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71299,10.40783,30
+30855,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71305,10.40781,31
+30856,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71307,10.40778,32
+30857,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.7139,10.40851,33
+30858,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.7141,10.40867,34
+30859,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71421,10.40873,35
+30860,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.7147,10.40895,36
+30861,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71478,10.40897,37
+30862,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71514,10.40902,38
+30863,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71597,10.40908,39
+30864,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71617,10.40905,40
+30865,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71637,10.40896,41
+30866,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.7167,10.40875,42
+30867,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.7168,10.40872,43
+30868,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71686,10.40874,44
+30869,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71695,10.40879,45
+30870,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71862,10.41041,46
+30871,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71872,10.41046,47
+30872,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71879,10.41046,48
+30873,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71868,10.40905,49
+30874,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71855,10.40739,50
+30875,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71935,10.40741,51
+30876,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71973,10.40736,52
+30877,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71972,10.40631,53
+30878,Carrefour Express Pisanova,Via del Borghetto 102,route_1294,43.71974,10.40577,54
+30879,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71032,10.41095,0
+30880,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71006,10.41121,1
+30881,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71006,10.41143,2
+30882,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.70999,10.41147,3
+30883,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.7099,10.41147,4
+30884,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.70991,10.41172,5
+30885,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.70992,10.41199,6
+30886,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.70997,10.41245,7
+30887,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71037,10.41529,8
+30888,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71068,10.41746,9
+30889,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71091,10.41974,10
+30890,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.7109,10.4199,11
+30891,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71092,10.4202,12
+30892,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71094,10.42031,13
+30893,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71098,10.42043,14
+30894,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71101,10.42058,15
+30895,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.711,10.42062,16
+30896,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71101,10.42067,17
+30897,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71103,10.4207,18
+30898,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71105,10.42071,19
+30899,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71109,10.4207,20
+30900,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71111,10.42068,21
+30901,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71223,10.42094,22
+30902,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71242,10.4202,23
+30903,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71253,10.41978,24
+30904,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71266,10.41937,25
+30905,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.7128,10.41885,26
+30906,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71292,10.4183,27
+30907,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71339,10.41835,28
+30908,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71342,10.4184,29
+30909,Carrefour Express Pisanova,Parcheggio di Cisanello,route_1295,43.71361,10.41843,30
+30910,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71032,10.41095,0
+30911,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71006,10.41121,1
+30912,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71006,10.41143,2
+30913,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70999,10.41147,3
+30914,Carrefour Express Pisanova,OBI Pisa,route_1296,43.7099,10.41147,4
+30915,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70994,10.41066,5
+30916,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70995,10.41058,6
+30917,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71002,10.41043,7
+30918,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71006,10.4104,8
+30919,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71008,10.41036,9
+30920,Carrefour Express Pisanova,OBI Pisa,route_1296,43.7101,10.41032,10
+30921,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71011,10.41027,11
+30922,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71011,10.41022,12
+30923,Carrefour Express Pisanova,OBI Pisa,route_1296,43.7101,10.41017,13
+30924,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71009,10.41013,14
+30925,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71006,10.41009,15
+30926,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71002,10.41005,16
+30927,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70998,10.40978,17
+30928,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71007,10.40776,18
+30929,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71014,10.40774,19
+30930,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71018,10.40769,20
+30931,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71019,10.40765,21
+30932,Carrefour Express Pisanova,OBI Pisa,route_1296,43.7102,10.4076,22
+30933,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71019,10.40752,23
+30934,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71017,10.40749,24
+30935,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71014,10.40745,25
+30936,Carrefour Express Pisanova,OBI Pisa,route_1296,43.7101,10.40743,26
+30937,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71008,10.40743,27
+30938,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71015,10.4061,28
+30939,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71019,10.4058,29
+30940,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71021,10.40573,30
+30941,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71027,10.40559,31
+30942,Carrefour Express Pisanova,OBI Pisa,route_1296,43.7104,10.4055,32
+30943,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71043,10.40545,33
+30944,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71044,10.40536,34
+30945,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71044,10.4053,35
+30946,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71041,10.40524,36
+30947,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71035,10.4052,37
+30948,Carrefour Express Pisanova,OBI Pisa,route_1296,43.7103,10.4052,38
+30949,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71019,10.40527,39
+30950,Carrefour Express Pisanova,OBI Pisa,route_1296,43.7101,10.40527,40
+30951,Carrefour Express Pisanova,OBI Pisa,route_1296,43.71006,10.40525,41
+30952,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70988,10.40513,42
+30953,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70974,10.40502,43
+30954,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70967,10.40492,44
+30955,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70965,10.40486,45
+30956,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70975,10.40422,46
+30957,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70988,10.40324,47
+30958,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70958,10.40294,48
+30959,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70931,10.40264,49
+30960,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70908,10.40242,50
+30961,Carrefour Express Pisanova,OBI Pisa,route_1296,43.7087,10.40213,51
+30962,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70831,10.40184,52
+30963,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70795,10.40155,53
+30964,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70789,10.40152,54
+30965,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70786,10.40151,55
+30966,Carrefour Express Pisanova,OBI Pisa,route_1296,43.7078,10.40151,56
+30967,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70777,10.40153,57
+30968,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70771,10.40159,58
+30969,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70765,10.40172,59
+30970,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70712,10.40318,60
+30971,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70614,10.40251,61
+30972,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70553,10.40214,62
+30973,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70547,10.40207,63
+30974,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70535,10.40184,64
+30975,Carrefour Express Pisanova,OBI Pisa,route_1296,43.7053,10.40178,65
+30976,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70524,10.40171,66
+30977,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70471,10.40133,67
+30978,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70455,10.40124,68
+30979,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70276,10.40076,69
+30980,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70252,10.40069,70
+30981,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70247,10.40067,71
+30982,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70244,10.40064,72
+30983,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70245,10.40061,73
+30984,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70245,10.40056,74
+30985,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70244,10.40052,75
+30986,Carrefour Express Pisanova,OBI Pisa,route_1296,43.7024,10.40047,76
+30987,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70237,10.40046,77
+30988,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70234,10.40046,78
+30989,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70231,10.40048,79
+30990,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70229,10.40051,80
+30991,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70228,10.40054,81
+30992,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70227,10.40058,82
+30993,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70215,10.40059,83
+30994,Carrefour Express Pisanova,OBI Pisa,route_1296,43.7018,10.40051,84
+30995,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70155,10.40042,85
+30996,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70036,10.3998,86
+30997,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70022,10.39969,87
+30998,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70002,10.39958,88
+30999,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69981,10.39948,89
+31000,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69978,10.39945,90
+31001,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69975,10.39939,91
+31002,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69973,10.39932,92
+31003,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69971,10.39917,93
+31004,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69979,10.39842,94
+31005,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69985,10.39803,95
+31006,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69986,10.39795,96
+31007,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69986,10.39785,97
+31008,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69985,10.39773,98
+31009,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69984,10.39757,99
+31010,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69985,10.39744,100
+31011,Carrefour Express Pisanova,OBI Pisa,route_1296,43.6999,10.39727,101
+31012,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69998,10.39716,102
+31013,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70003,10.3971,103
+31014,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70009,10.39713,104
+31015,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70014,10.39713,105
+31016,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70018,10.39714,106
+31017,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70025,10.3972,107
+31018,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70032,10.3973,108
+31019,Carrefour Express Pisanova,OBI Pisa,route_1296,43.7004,10.39742,109
+31020,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70048,10.39756,110
+31021,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70052,10.39767,111
+31022,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70055,10.39782,112
+31023,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70057,10.39795,113
+31024,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70058,10.39808,114
+31025,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70055,10.39822,115
+31026,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70052,10.3983,116
+31027,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70047,10.39837,117
+31028,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70042,10.39841,118
+31029,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70038,10.39842,119
+31030,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70033,10.39842,120
+31031,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70026,10.3984,121
+31032,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70023,10.39837,122
+31033,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70019,10.39831,123
+31034,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70014,10.39817,124
+31035,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70014,10.39808,125
+31036,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70016,10.3977,126
+31037,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70013,10.39718,127
+31038,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70016,10.39669,128
+31039,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70016,10.39634,129
+31040,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70014,10.39574,130
+31041,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70011,10.39535,131
+31042,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70005,10.39477,132
+31043,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69972,10.39251,133
+31044,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69964,10.39173,134
+31045,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69962,10.39127,135
+31046,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69963,10.39086,136
+31047,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69966,10.3904,137
+31048,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69981,10.38975,138
+31049,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69988,10.38958,139
+31050,Carrefour Express Pisanova,OBI Pisa,route_1296,43.69994,10.38947,140
+31051,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70001,10.38938,141
+31052,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70014,10.38924,142
+31053,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70025,10.38915,143
+31054,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70058,10.38895,144
+31055,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70094,10.38877,145
+31056,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70137,10.38851,146
+31057,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70158,10.38833,147
+31058,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70163,10.38828,148
+31059,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70172,10.38815,149
+31060,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70195,10.38796,150
+31061,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70218,10.38777,151
+31062,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70243,10.38759,152
+31063,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70275,10.38734,153
+31064,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70284,10.38726,154
+31065,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70302,10.38699,155
+31066,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70308,10.38696,156
+31067,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70312,10.3869,157
+31068,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70313,10.38686,158
+31069,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70313,10.38678,159
+31070,Carrefour Express Pisanova,OBI Pisa,route_1296,43.7031,10.3867,160
+31071,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70306,10.38666,161
+31072,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70293,10.38661,162
+31073,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70273,10.38649,163
+31074,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70261,10.38638,164
+31075,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70233,10.38598,165
+31076,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70201,10.38547,166
+31077,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70116,10.3842,167
+31078,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70076,10.38359,168
+31079,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70069,10.38352,169
+31080,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70073,10.38348,170
+31081,Carrefour Express Pisanova,OBI Pisa,route_1296,43.70073,10.38346,171
+31082,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71032,10.41095,0
+31083,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71006,10.41121,1
+31084,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71006,10.41143,2
+31085,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70999,10.41147,3
+31086,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.7099,10.41147,4
+31087,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70994,10.41066,5
+31088,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70995,10.41058,6
+31089,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71002,10.41043,7
+31090,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71006,10.4104,8
+31091,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71008,10.41036,9
+31092,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.7101,10.41032,10
+31093,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71011,10.41027,11
+31094,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71011,10.41022,12
+31095,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.7101,10.41017,13
+31096,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71009,10.41013,14
+31097,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71006,10.41009,15
+31098,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71002,10.41005,16
+31099,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70998,10.40978,17
+31100,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71007,10.40776,18
+31101,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71014,10.40774,19
+31102,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71018,10.40769,20
+31103,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71019,10.40765,21
+31104,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.7102,10.4076,22
+31105,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71019,10.40752,23
+31106,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71017,10.40749,24
+31107,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71014,10.40745,25
+31108,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.7101,10.40743,26
+31109,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71008,10.40743,27
+31110,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71015,10.4061,28
+31111,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71019,10.4058,29
+31112,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71021,10.40573,30
+31113,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71027,10.40559,31
+31114,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.7104,10.4055,32
+31115,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71043,10.40545,33
+31116,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71044,10.40536,34
+31117,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71044,10.4053,35
+31118,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71041,10.40524,36
+31119,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71035,10.4052,37
+31120,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.7103,10.4052,38
+31121,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71019,10.40527,39
+31122,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.7101,10.40527,40
+31123,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.71006,10.40525,41
+31124,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70988,10.40513,42
+31125,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70974,10.40502,43
+31126,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70967,10.40492,44
+31127,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70965,10.40486,45
+31128,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70975,10.40422,46
+31129,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70988,10.40324,47
+31130,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70958,10.40294,48
+31131,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70931,10.40264,49
+31132,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70908,10.40242,50
+31133,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.7087,10.40213,51
+31134,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70831,10.40184,52
+31135,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70795,10.40155,53
+31136,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70789,10.40152,54
+31137,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70786,10.40151,55
+31138,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.7078,10.40151,56
+31139,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70777,10.40153,57
+31140,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70771,10.40159,58
+31141,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70765,10.40172,59
+31142,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70712,10.40318,60
+31143,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70614,10.40251,61
+31144,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70553,10.40214,62
+31145,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70547,10.40207,63
+31146,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70535,10.40184,64
+31147,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.7053,10.40178,65
+31148,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70524,10.40171,66
+31149,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70471,10.40133,67
+31150,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70455,10.40124,68
+31151,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70276,10.40076,69
+31152,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70252,10.40069,70
+31153,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70247,10.40067,71
+31154,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70244,10.40064,72
+31155,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70245,10.40061,73
+31156,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70245,10.40056,74
+31157,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70244,10.40052,75
+31158,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.7024,10.40047,76
+31159,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70243,10.40034,77
+31160,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.7025,10.39945,78
+31161,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.7025,10.39922,79
+31162,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70247,10.399,80
+31163,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70244,10.39887,81
+31164,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70238,10.39866,82
+31165,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70231,10.39852,83
+31166,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70222,10.39838,84
+31167,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70211,10.39825,85
+31168,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70199,10.39815,86
+31169,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70098,10.39752,87
+31170,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.7008,10.3974,88
+31171,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70065,10.39723,89
+31172,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70058,10.39707,90
+31173,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70053,10.39683,91
+31174,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70053,10.39669,92
+31175,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70055,10.39644,93
+31176,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70065,10.39604,94
+31177,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70076,10.39611,95
+31178,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70138,10.39664,96
+31179,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70178,10.39694,97
+31180,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70257,10.39752,98
+31181,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70293,10.39775,99
+31182,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70326,10.398,100
+31183,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70344,10.39813,101
+31184,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70363,10.39827,102
+31185,Carrefour Express Pisanova,Ristorante La Greppia,route_1297,43.70434,10.39885,103

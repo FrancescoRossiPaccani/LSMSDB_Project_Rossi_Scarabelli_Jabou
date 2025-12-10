@@ -1,0 +1,500 @@
+id,start,end,route_id,lat,lon,idx
+6325,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71689,10.40402,0
+6326,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71691,10.40421,1
+6327,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71724,10.4042,2
+6328,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71824,10.40412,3
+6329,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71824,10.40424,4
+6330,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.7183,10.40516,5
+6331,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71787,10.40533,6
+6332,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71772,10.40538,7
+6333,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71681,10.4055,8
+6334,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71648,10.40552,9
+6335,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71635,10.40554,10
+6336,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.7163,10.40557,11
+6337,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71617,10.40557,12
+6338,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71613,10.40598,13
+6339,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71592,10.40592,14
+6340,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71587,10.40606,15
+6341,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71581,10.40621,16
+6342,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71573,10.40649,17
+6343,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71559,10.40706,18
+6344,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71554,10.40711,19
+6345,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71614,10.40717,20
+6346,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71645,10.40719,21
+6347,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71652,10.40718,22
+6348,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71635,10.4062,23
+6349,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71635,10.40613,24
+6350,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71636,10.40594,25
+6351,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71747,10.40586,26
+6352,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.7178,10.40585,27
+6353,Via Gabriele Vettori 18,Facolta di Ingegneria Polo A,route_270,43.71799,10.40583,28
+6354,Via Gabriele Vettori 18,Polo Fibonacci,route_271,43.71689,10.40402,0
+6355,Via Gabriele Vettori 18,Polo Fibonacci,route_271,43.71691,10.40421,1
+6356,Via Gabriele Vettori 18,Polo Fibonacci,route_271,43.71724,10.4042,2
+6357,Via Gabriele Vettori 18,Polo Fibonacci,route_271,43.71824,10.40412,3
+6358,Via Gabriele Vettori 18,Polo Fibonacci,route_271,43.71824,10.40424,4
+6359,Via Gabriele Vettori 18,Polo Fibonacci,route_271,43.7183,10.40516,5
+6360,Via Gabriele Vettori 18,Polo Fibonacci,route_271,43.71842,10.40618,6
+6361,Via Gabriele Vettori 18,Polo Fibonacci,route_271,43.71847,10.4067,7
+6362,Via Gabriele Vettori 18,Polo Fibonacci,route_271,43.71855,10.40739,8
+6363,Via Gabriele Vettori 18,Polo Fibonacci,route_271,43.71899,10.4074,9
+6364,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71689,10.40402,0
+6365,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71687,10.40374,1
+6366,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71643,10.40367,2
+6367,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.7162,10.40361,3
+6368,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71591,10.40346,4
+6369,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71557,10.40465,5
+6370,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71546,10.40496,6
+6371,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71525,10.40549,7
+6372,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71463,10.40691,8
+6373,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71428,10.40766,9
+6374,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71397,10.40838,10
+6375,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.7139,10.40851,11
+6376,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71307,10.40778,12
+6377,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.7136,10.40622,13
+6378,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71372,10.40591,14
+6379,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71412,10.40501,15
+6380,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71493,10.40327,16
+6381,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71519,10.40267,17
+6382,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.7154,10.40214,18
+6383,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71551,10.40181,19
+6384,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71566,10.40129,20
+6385,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.7157,10.40111,21
+6386,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71576,10.40067,22
+6387,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.7158,10.40037,23
+6388,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71583,10.39998,24
+6389,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71583,10.39968,25
+6390,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.7158,10.39919,26
+6391,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71577,10.39888,27
+6392,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71523,10.39891,28
+6393,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.7149,10.39892,29
+6394,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71473,10.3989,30
+6395,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71402,10.39876,31
+6396,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71386,10.39871,32
+6397,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71345,10.3985,33
+6398,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71333,10.39846,34
+6399,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71318,10.39848,35
+6400,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.7128,10.39854,36
+6401,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.7124,10.39857,37
+6402,Via Gabriele Vettori 18,Stazione Leopolda,route_272,43.71197,10.39863,38
+6403,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71689,10.40402,0
+6404,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71687,10.40374,1
+6405,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71643,10.40367,2
+6406,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.7162,10.40361,3
+6407,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71591,10.40346,4
+6408,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71557,10.40465,5
+6409,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71546,10.40496,6
+6410,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71525,10.40549,7
+6411,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71463,10.40691,8
+6412,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71428,10.40766,9
+6413,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71397,10.40838,10
+6414,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.7139,10.40851,11
+6415,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71307,10.40778,12
+6416,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.7136,10.40622,13
+6417,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71372,10.40591,14
+6418,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71412,10.40501,15
+6419,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71493,10.40327,16
+6420,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71526,10.4025,17
+6421,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.7154,10.40214,18
+6422,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71555,10.40168,19
+6423,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71566,10.40129,20
+6424,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.7157,10.40111,21
+6425,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71576,10.40067,22
+6426,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.7158,10.40037,23
+6427,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71583,10.39998,24
+6428,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71583,10.39968,25
+6429,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.7158,10.39919,26
+6430,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71577,10.39888,27
+6431,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71571,10.39854,28
+6432,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71565,10.39827,29
+6433,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71557,10.39791,30
+6434,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71542,10.39746,31
+6435,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71511,10.3966,32
+6436,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71508,10.39645,33
+6437,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71496,10.39619,34
+6438,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71481,10.39588,35
+6439,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71421,10.39466,36
+6440,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71376,10.39381,37
+6441,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71333,10.39296,38
+6442,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.7129,10.39217,39
+6443,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71261,10.39159,40
+6444,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71248,10.39131,41
+6445,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71241,10.3912,42
+6446,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71236,10.39115,43
+6447,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71187,10.39133,44
+6448,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71178,10.39133,45
+6449,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71172,10.3913,46
+6450,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71162,10.39112,47
+6451,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71157,10.39094,48
+6452,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71149,10.39071,49
+6453,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71113,10.38974,50
+6454,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71103,10.38981,51
+6455,Via Gabriele Vettori 18,Stazione San Rossore,route_273,43.71107,10.38995,52
+6456,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71689,10.40402,0
+6457,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71687,10.40374,1
+6458,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71643,10.40367,2
+6459,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.7162,10.40361,3
+6460,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71591,10.40346,4
+6461,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71557,10.40465,5
+6462,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71546,10.40496,6
+6463,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71525,10.40549,7
+6464,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71463,10.40691,8
+6465,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71428,10.40766,9
+6466,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71397,10.40838,10
+6467,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.7139,10.40851,11
+6468,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71307,10.40778,12
+6469,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.7136,10.40622,13
+6470,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71372,10.40591,14
+6471,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71412,10.40501,15
+6472,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71493,10.40327,16
+6473,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71526,10.4025,17
+6474,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.7154,10.40214,18
+6475,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71555,10.40168,19
+6476,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71566,10.40129,20
+6477,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.7157,10.40111,21
+6478,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71576,10.40067,22
+6479,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.7158,10.40037,23
+6480,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71583,10.39998,24
+6481,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71583,10.39968,25
+6482,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.7158,10.39919,26
+6483,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71577,10.39888,27
+6484,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71571,10.39854,28
+6485,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71565,10.39827,29
+6486,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71557,10.39791,30
+6487,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71542,10.39746,31
+6488,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71511,10.3966,32
+6489,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71508,10.39645,33
+6490,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71496,10.39619,34
+6491,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71481,10.39588,35
+6492,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71421,10.39466,36
+6493,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71376,10.39381,37
+6494,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71333,10.39296,38
+6495,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.7129,10.39217,39
+6496,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71261,10.39159,40
+6497,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71248,10.39131,41
+6498,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71241,10.3912,42
+6499,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71236,10.39115,43
+6500,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71187,10.39133,44
+6501,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71178,10.39133,45
+6502,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71172,10.3913,46
+6503,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71162,10.39112,47
+6504,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71157,10.39094,48
+6505,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71149,10.39071,49
+6506,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71112,10.3897,50
+6507,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71068,10.38834,51
+6508,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71052,10.38788,52
+6509,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71045,10.38769,53
+6510,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.70995,10.38612,54
+6511,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.70992,10.3859,55
+6512,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.70996,10.38589,56
+6513,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.70998,10.38587,57
+6514,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.70999,10.38584,58
+6515,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.71,10.38579,59
+6516,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.70998,10.38574,60
+6517,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.70995,10.38571,61
+6518,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.70991,10.3857,62
+6519,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.70989,10.38571,63
+6520,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.70986,10.38575,64
+6521,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.70985,10.38581,65
+6522,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.70986,10.38586,66
+6523,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.70977,10.38592,67
+6524,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.70908,10.38601,68
+6525,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.70978,10.38807,69
+6526,Via Gabriele Vettori 18,Parco San Rossore,route_274,43.70999,10.38795,70
+6527,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71689,10.40402,0
+6528,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71687,10.40374,1
+6529,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71643,10.40367,2
+6530,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.7162,10.40361,3
+6531,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71591,10.40346,4
+6532,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71557,10.40465,5
+6533,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71546,10.40496,6
+6534,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71525,10.40549,7
+6535,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71463,10.40691,8
+6536,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71428,10.40766,9
+6537,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71397,10.40838,10
+6538,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.7139,10.40851,11
+6539,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71307,10.40778,12
+6540,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.7136,10.40622,13
+6541,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71372,10.40591,14
+6542,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71412,10.40501,15
+6543,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71493,10.40327,16
+6544,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71526,10.4025,17
+6545,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.7154,10.40214,18
+6546,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71555,10.40168,19
+6547,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71566,10.40129,20
+6548,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.7157,10.40111,21
+6549,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71576,10.40067,22
+6550,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.7158,10.40037,23
+6551,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71583,10.39998,24
+6552,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71583,10.39968,25
+6553,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.7158,10.39919,26
+6554,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71577,10.39888,27
+6555,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71571,10.39854,28
+6556,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71565,10.39827,29
+6557,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71557,10.39791,30
+6558,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71542,10.39746,31
+6559,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71511,10.3966,32
+6560,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71508,10.39645,33
+6561,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71496,10.39619,34
+6562,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71481,10.39588,35
+6563,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71421,10.39466,36
+6564,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71376,10.39381,37
+6565,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71333,10.39296,38
+6566,Via Gabriele Vettori 18,Lidl Pisa,route_275,43.71287,10.39212,39
+6567,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71689,10.40402,0
+6568,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71687,10.40374,1
+6569,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71643,10.40367,2
+6570,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.7162,10.40361,3
+6571,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71591,10.40346,4
+6572,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71557,10.40465,5
+6573,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71546,10.40496,6
+6574,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71525,10.40549,7
+6575,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71463,10.40691,8
+6576,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71415,10.40796,9
+6577,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71397,10.40838,10
+6578,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71384,10.40863,11
+6579,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71382,10.40869,12
+6580,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71375,10.40881,13
+6581,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71363,10.40896,14
+6582,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71343,10.40916,15
+6583,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71329,10.40926,16
+6584,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71311,10.40938,17
+6585,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71297,10.40944,18
+6586,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71286,10.40947,19
+6587,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71141,10.40947,20
+6588,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71076,10.40944,21
+6589,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71019,10.40941,22
+6590,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.7101,10.40935,23
+6591,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71005,10.40929,24
+6592,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71003,10.40924,25
+6593,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71001,10.40915,26
+6594,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71007,10.40776,27
+6595,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71014,10.40774,28
+6596,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71018,10.40769,29
+6597,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71019,10.40765,30
+6598,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.7102,10.4076,31
+6599,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71019,10.40752,32
+6600,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71017,10.40749,33
+6601,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71014,10.40745,34
+6602,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.7101,10.40743,35
+6603,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71008,10.40743,36
+6604,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71015,10.4061,37
+6605,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71019,10.4058,38
+6606,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71021,10.40573,39
+6607,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71027,10.40559,40
+6608,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.7104,10.4055,41
+6609,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71043,10.40545,42
+6610,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71044,10.40536,43
+6611,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71044,10.4053,44
+6612,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71041,10.40524,45
+6613,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71035,10.4052,46
+6614,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.7103,10.4052,47
+6615,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71019,10.40527,48
+6616,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.7101,10.40527,49
+6617,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.71006,10.40525,50
+6618,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70988,10.40513,51
+6619,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70974,10.40502,52
+6620,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70967,10.40492,53
+6621,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70965,10.40486,54
+6622,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70975,10.40422,55
+6623,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70988,10.40324,56
+6624,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70958,10.40294,57
+6625,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70931,10.40264,58
+6626,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70908,10.40242,59
+6627,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.7087,10.40213,60
+6628,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70831,10.40184,61
+6629,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70795,10.40155,62
+6630,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70789,10.40152,63
+6631,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70786,10.40151,64
+6632,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.7078,10.40151,65
+6633,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70777,10.40153,66
+6634,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70771,10.40159,67
+6635,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70765,10.40172,68
+6636,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70712,10.40318,69
+6637,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70614,10.40251,70
+6638,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70553,10.40214,71
+6639,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70547,10.40207,72
+6640,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70535,10.40184,73
+6641,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.7053,10.40178,74
+6642,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70524,10.40171,75
+6643,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70471,10.40133,76
+6644,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70455,10.40124,77
+6645,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70276,10.40076,78
+6646,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70252,10.40069,79
+6647,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70247,10.40067,80
+6648,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70244,10.40064,81
+6649,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70245,10.40061,82
+6650,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70245,10.40056,83
+6651,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70244,10.40052,84
+6652,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.7024,10.40047,85
+6653,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70237,10.40046,86
+6654,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70234,10.40046,87
+6655,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70231,10.40048,88
+6656,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70229,10.40051,89
+6657,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70228,10.40054,90
+6658,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70227,10.40058,91
+6659,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70215,10.40059,92
+6660,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.7018,10.40051,93
+6661,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70155,10.40042,94
+6662,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70036,10.3998,95
+6663,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70022,10.39969,96
+6664,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70002,10.39958,97
+6665,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69981,10.39948,98
+6666,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69978,10.39945,99
+6667,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69975,10.39939,100
+6668,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69973,10.39932,101
+6669,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69971,10.39917,102
+6670,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69979,10.39842,103
+6671,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69985,10.39803,104
+6672,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69986,10.39795,105
+6673,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69986,10.39785,106
+6674,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69985,10.39773,107
+6675,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69984,10.39757,108
+6676,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69985,10.39744,109
+6677,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.6999,10.39727,110
+6678,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69998,10.39716,111
+6679,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70003,10.3971,112
+6680,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70009,10.39713,113
+6681,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70014,10.39713,114
+6682,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70018,10.39714,115
+6683,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70025,10.3972,116
+6684,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70032,10.3973,117
+6685,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.7004,10.39742,118
+6686,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70048,10.39756,119
+6687,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70052,10.39767,120
+6688,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70055,10.39782,121
+6689,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70057,10.39795,122
+6690,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70058,10.39808,123
+6691,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70055,10.39822,124
+6692,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70052,10.3983,125
+6693,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70047,10.39837,126
+6694,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70042,10.39841,127
+6695,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70038,10.39842,128
+6696,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70033,10.39842,129
+6697,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70026,10.3984,130
+6698,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70023,10.39837,131
+6699,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70019,10.39831,132
+6700,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70014,10.39817,133
+6701,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70014,10.39808,134
+6702,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70016,10.3977,135
+6703,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70013,10.39718,136
+6704,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70016,10.39669,137
+6705,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70016,10.39634,138
+6706,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70014,10.39574,139
+6707,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70011,10.39535,140
+6708,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70005,10.39477,141
+6709,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69998,10.39431,142
+6710,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69979,10.39303,143
+6711,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69972,10.39251,144
+6712,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69964,10.39173,145
+6713,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69962,10.39127,146
+6714,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69963,10.39086,147
+6715,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69967,10.39018,148
+6716,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69975,10.38967,149
+6717,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69984,10.38924,150
+6718,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69996,10.38883,151
+6719,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70009,10.38843,152
+6720,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70029,10.388,153
+6721,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70033,10.38794,154
+6722,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70047,10.38778,155
+6723,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70054,10.38774,156
+6724,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70061,10.38771,157
+6725,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70068,10.38769,158
+6726,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70077,10.3877,159
+6727,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70082,10.38771,160
+6728,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70088,10.38775,161
+6729,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70092,10.3878,162
+6730,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.701,10.38791,163
+6731,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70103,10.38799,164
+6732,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70105,10.3881,165
+6733,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70104,10.38825,166
+6734,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.701,10.38837,167
+6735,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70096,10.38847,168
+6736,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70087,10.38858,169
+6737,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70079,10.38865,170
+6738,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70017,10.38897,171
+6739,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69995,10.38902,172
+6740,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69977,10.38903,173
+6741,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69955,10.38901,174
+6742,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69951,10.38899,175
+6743,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69947,10.38899,176
+6744,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69944,10.389,177
+6745,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.6994,10.38904,178
+6746,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69938,10.38909,179
+6747,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69937,10.38917,180
+6748,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.6994,10.38925,181
+6749,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69944,10.3893,182
+6750,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.6995,10.3893,183
+6751,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.69975,10.38946,184
+6752,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.6999,10.38952,185
+6753,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70009,10.38957,186
+6754,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70016,10.38967,187
+6755,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70051,10.39053,188
+6756,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70056,10.39066,189
+6757,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70059,10.39073,190
+6758,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70068,10.39075,191
+6759,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70082,10.39074,192
+6760,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70104,10.39065,193
+6761,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70121,10.39055,194
+6762,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70133,10.39046,195
+6763,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70147,10.39033,196
+6764,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70156,10.39021,197
+6765,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70167,10.39004,198
+6766,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70173,10.38991,199
+6767,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70182,10.3897,200
+6768,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70188,10.38944,201
+6769,Via Gabriele Vettori 18,McDonald's Pisa Aurelia,route_276,43.70189,10.38935,202
+6770,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.71689,10.40402,0
+6771,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.71691,10.40421,1
+6772,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.71724,10.4042,2
+6773,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.71824,10.40412,3
+6774,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.71824,10.40424,4
+6775,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.7183,10.40516,5
+6776,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.71842,10.40618,6
+6777,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.71847,10.4067,7
+6778,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.71855,10.40739,8
+6779,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.71935,10.40741,9
+6780,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.71973,10.40736,10
+6781,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.71999,10.40735,11
+6782,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72213,10.40733,12
+6783,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72272,10.40686,13
+6784,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72307,10.40728,14
+6785,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.7232,10.40743,15
+6786,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72345,10.40777,16
+6787,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72353,10.40787,17
+6788,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72356,10.40789,18
+6789,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72363,10.40807,19
+6790,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72364,10.4081,20
+6791,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72367,10.40814,21
+6792,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72372,10.40815,22
+6793,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72375,10.40813,23
+6794,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72378,10.40807,24
+6795,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72438,10.4084,25
+6796,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72441,10.40848,26
+6797,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72446,10.40882,27
+6798,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72444,10.40889,28
+6799,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72443,10.40894,29
+6800,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72444,10.409,30
+6801,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72445,10.40904,31
+6802,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72447,10.40908,32
+6803,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.7245,10.40912,33
+6804,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72453,10.40914,34
+6805,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.7246,10.40923,35
+6806,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72461,10.40929,36
+6807,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72461,10.40939,37
+6808,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72457,10.40954,38
+6809,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72457,10.40959,39
+6810,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72459,10.40963,40
+6811,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72463,10.40966,41
+6812,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72467,10.40966,42
+6813,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72473,10.4097,43
+6814,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72478,10.40975,44
+6815,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72505,10.41095,45
+6816,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.7251,10.41115,46
+6817,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72526,10.41164,47
+6818,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72559,10.41258,48
+6819,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72575,10.41297,49
+6820,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72588,10.41326,50
+6821,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.72601,10.41349,51
+6822,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.7266,10.41445,52
+6823,Via Gabriele Vettori 18,Parcheggio Via Paparelli,route_277,43.7272,10.41538,53

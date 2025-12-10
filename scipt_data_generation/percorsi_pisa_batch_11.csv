@@ -1,0 +1,981 @@
+id,start,end,route_id,lat,lon,idx
+6824,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71689,10.40402,0
+6825,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71687,10.40374,1
+6826,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71643,10.40367,2
+6827,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.7162,10.40361,3
+6828,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71591,10.40346,4
+6829,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71557,10.40465,5
+6830,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71546,10.40496,6
+6831,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71525,10.40549,7
+6832,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71463,10.40691,8
+6833,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71415,10.40796,9
+6834,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71397,10.40838,10
+6835,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71384,10.40863,11
+6836,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71382,10.40869,12
+6837,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71375,10.40881,13
+6838,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71363,10.40896,14
+6839,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71343,10.40916,15
+6840,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71329,10.40926,16
+6841,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71311,10.40938,17
+6842,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71297,10.40944,18
+6843,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71286,10.40947,19
+6844,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71141,10.40947,20
+6845,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71076,10.40944,21
+6846,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71019,10.40941,22
+6847,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.7101,10.40935,23
+6848,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71005,10.40929,24
+6849,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71003,10.40924,25
+6850,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71001,10.40915,26
+6851,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71007,10.40776,27
+6852,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71014,10.40774,28
+6853,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71018,10.40769,29
+6854,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71019,10.40765,30
+6855,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.7102,10.4076,31
+6856,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71019,10.40752,32
+6857,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71017,10.40749,33
+6858,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71014,10.40745,34
+6859,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.7101,10.40743,35
+6860,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71008,10.40743,36
+6861,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71015,10.4061,37
+6862,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71019,10.4058,38
+6863,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71021,10.40573,39
+6864,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71027,10.40559,40
+6865,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.7104,10.4055,41
+6866,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71043,10.40545,42
+6867,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71044,10.40536,43
+6868,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71044,10.4053,44
+6869,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71041,10.40524,45
+6870,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71035,10.4052,46
+6871,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.7103,10.4052,47
+6872,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71019,10.40527,48
+6873,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.7101,10.40527,49
+6874,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.71006,10.40525,50
+6875,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70988,10.40513,51
+6876,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70974,10.40502,52
+6877,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70967,10.40492,53
+6878,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70965,10.40486,54
+6879,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70975,10.40422,55
+6880,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70988,10.40324,56
+6881,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70958,10.40294,57
+6882,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70931,10.40264,58
+6883,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70908,10.40242,59
+6884,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.7087,10.40213,60
+6885,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70831,10.40184,61
+6886,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70795,10.40155,62
+6887,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70789,10.40152,63
+6888,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70786,10.40151,64
+6889,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.7078,10.40151,65
+6890,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70777,10.40153,66
+6891,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70771,10.40159,67
+6892,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70765,10.40172,68
+6893,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70712,10.40318,69
+6894,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70614,10.40251,70
+6895,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70553,10.40214,71
+6896,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70547,10.40207,72
+6897,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70535,10.40184,73
+6898,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.7053,10.40178,74
+6899,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70524,10.40171,75
+6900,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70471,10.40133,76
+6901,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70455,10.40124,77
+6902,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70276,10.40076,78
+6903,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70252,10.40069,79
+6904,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70247,10.40067,80
+6905,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70244,10.40064,81
+6906,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70245,10.40061,82
+6907,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70245,10.40056,83
+6908,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70244,10.40052,84
+6909,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.7024,10.40047,85
+6910,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70237,10.40046,86
+6911,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70234,10.40046,87
+6912,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70231,10.40048,88
+6913,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70229,10.40051,89
+6914,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70228,10.40054,90
+6915,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70227,10.40058,91
+6916,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70215,10.40059,92
+6917,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.7018,10.40051,93
+6918,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70155,10.40042,94
+6919,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70036,10.3998,95
+6920,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70022,10.39969,96
+6921,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70002,10.39958,97
+6922,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69981,10.39948,98
+6923,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69978,10.39945,99
+6924,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69975,10.39939,100
+6925,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69973,10.39932,101
+6926,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69971,10.39917,102
+6927,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69979,10.39842,103
+6928,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69985,10.39803,104
+6929,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69986,10.39795,105
+6930,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69986,10.39785,106
+6931,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69985,10.39773,107
+6932,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69984,10.39757,108
+6933,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69985,10.39744,109
+6934,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.6999,10.39727,110
+6935,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69998,10.39716,111
+6936,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70003,10.3971,112
+6937,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70009,10.39713,113
+6938,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70014,10.39713,114
+6939,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70018,10.39714,115
+6940,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70025,10.3972,116
+6941,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70032,10.3973,117
+6942,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.7004,10.39742,118
+6943,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70048,10.39756,119
+6944,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70052,10.39767,120
+6945,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70055,10.39782,121
+6946,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70057,10.39795,122
+6947,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70058,10.39808,123
+6948,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70055,10.39822,124
+6949,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70052,10.3983,125
+6950,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70047,10.39837,126
+6951,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70042,10.39841,127
+6952,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70038,10.39842,128
+6953,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70033,10.39842,129
+6954,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70026,10.3984,130
+6955,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70023,10.39837,131
+6956,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70019,10.39831,132
+6957,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70014,10.39817,133
+6958,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70014,10.39808,134
+6959,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70016,10.3977,135
+6960,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70013,10.39718,136
+6961,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70016,10.39669,137
+6962,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70016,10.39634,138
+6963,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70014,10.39574,139
+6964,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70011,10.39535,140
+6965,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70005,10.39477,141
+6966,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69972,10.39251,142
+6967,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69964,10.39173,143
+6968,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69962,10.39127,144
+6969,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69963,10.39086,145
+6970,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69966,10.3904,146
+6971,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69981,10.38975,147
+6972,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69988,10.38958,148
+6973,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.69994,10.38947,149
+6974,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70001,10.38938,150
+6975,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70014,10.38924,151
+6976,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70025,10.38915,152
+6977,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70058,10.38895,153
+6978,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70094,10.38877,154
+6979,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70137,10.38851,155
+6980,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70158,10.38833,156
+6981,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70163,10.38828,157
+6982,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70172,10.38815,158
+6983,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70195,10.38796,159
+6984,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70218,10.38777,160
+6985,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70243,10.38759,161
+6986,Via Gabriele Vettori 18,Conad Pian di Marco,route_300,43.70264,10.38743,162
+6987,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71689,10.40402,0
+6988,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71687,10.40374,1
+6989,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71643,10.40367,2
+6990,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.7162,10.40361,3
+6991,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71591,10.40346,4
+6992,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71557,10.40465,5
+6993,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71546,10.40496,6
+6994,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71525,10.40549,7
+6995,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71463,10.40691,8
+6996,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71415,10.40796,9
+6997,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71397,10.40838,10
+6998,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71384,10.40863,11
+6999,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71382,10.40869,12
+7000,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71375,10.40881,13
+7001,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71363,10.40896,14
+7002,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71343,10.40916,15
+7003,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71329,10.40926,16
+7004,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71311,10.40938,17
+7005,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71297,10.40944,18
+7006,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71286,10.40947,19
+7007,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71141,10.40947,20
+7008,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71076,10.40944,21
+7009,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71019,10.40941,22
+7010,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.7101,10.40935,23
+7011,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71005,10.40929,24
+7012,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71003,10.40924,25
+7013,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71001,10.40915,26
+7014,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71007,10.40776,27
+7015,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71014,10.40774,28
+7016,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71018,10.40769,29
+7017,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71019,10.40765,30
+7018,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.7102,10.4076,31
+7019,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71019,10.40752,32
+7020,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71017,10.40749,33
+7021,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71014,10.40745,34
+7022,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.7101,10.40743,35
+7023,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71008,10.40743,36
+7024,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71015,10.4061,37
+7025,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71019,10.4058,38
+7026,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71021,10.40573,39
+7027,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71027,10.40559,40
+7028,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.7104,10.4055,41
+7029,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71043,10.40545,42
+7030,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71044,10.40536,43
+7031,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71044,10.4053,44
+7032,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71041,10.40524,45
+7033,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71035,10.4052,46
+7034,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.7103,10.4052,47
+7035,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71019,10.40527,48
+7036,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.7101,10.40527,49
+7037,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.71006,10.40525,50
+7038,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70988,10.40513,51
+7039,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70974,10.40502,52
+7040,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70967,10.40492,53
+7041,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70965,10.40486,54
+7042,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70975,10.40422,55
+7043,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70988,10.40324,56
+7044,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70958,10.40294,57
+7045,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70931,10.40264,58
+7046,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70908,10.40242,59
+7047,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.7087,10.40213,60
+7048,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70831,10.40184,61
+7049,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70795,10.40155,62
+7050,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70789,10.40152,63
+7051,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70786,10.40151,64
+7052,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.7078,10.40151,65
+7053,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70777,10.40153,66
+7054,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70771,10.40159,67
+7055,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70765,10.40172,68
+7056,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70712,10.40318,69
+7057,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70614,10.40251,70
+7058,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70553,10.40214,71
+7059,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70547,10.40207,72
+7060,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70535,10.40184,73
+7061,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.7053,10.40178,74
+7062,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70524,10.40171,75
+7063,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70471,10.40133,76
+7064,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70455,10.40124,77
+7065,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70276,10.40076,78
+7066,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70252,10.40069,79
+7067,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70247,10.40067,80
+7068,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70244,10.40064,81
+7069,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70245,10.40061,82
+7070,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70245,10.40056,83
+7071,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70244,10.40052,84
+7072,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.7024,10.40047,85
+7073,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70237,10.40046,86
+7074,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70234,10.40046,87
+7075,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70231,10.40048,88
+7076,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70229,10.40051,89
+7077,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70228,10.40054,90
+7078,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70227,10.40058,91
+7079,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70215,10.40059,92
+7080,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.7018,10.40051,93
+7081,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70155,10.40042,94
+7082,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70036,10.3998,95
+7083,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70022,10.39969,96
+7084,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.70002,10.39958,97
+7085,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69981,10.39948,98
+7086,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69978,10.39945,99
+7087,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69975,10.39939,100
+7088,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69973,10.39932,101
+7089,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69971,10.39917,102
+7090,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69979,10.39842,103
+7091,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69985,10.39803,104
+7092,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69986,10.39795,105
+7093,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69986,10.39785,106
+7094,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69985,10.39773,107
+7095,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69981,10.39763,108
+7096,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69966,10.39739,109
+7097,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69957,10.39741,110
+7098,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69949,10.39741,111
+7099,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69919,10.39734,112
+7100,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69894,10.39734,113
+7101,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69887,10.39731,114
+7102,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69883,10.39727,115
+7103,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69882,10.39713,116
+7104,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69886,10.39679,117
+7105,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69889,10.39669,118
+7106,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69895,10.39647,119
+7107,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.699,10.39648,120
+7108,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69904,10.39645,121
+7109,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69906,10.39639,122
+7110,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69906,10.39632,123
+7111,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69904,10.39628,124
+7112,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.699,10.39624,125
+7113,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69893,10.39599,126
+7114,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69892,10.39586,127
+7115,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69891,10.39577,128
+7116,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69885,10.39576,129
+7117,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.6987,10.39581,130
+7118,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69858,10.3958,131
+7119,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69844,10.39577,132
+7120,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69809,10.39567,133
+7121,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69753,10.39547,134
+7122,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69642,10.39518,135
+7123,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.6963,10.39505,136
+7124,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.6963,10.39499,137
+7125,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69623,10.39469,138
+7126,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69629,10.39371,139
+7127,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69629,10.39337,140
+7128,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69627,10.39299,141
+7129,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69624,10.39256,142
+7130,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69613,10.39162,143
+7131,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69609,10.39107,144
+7132,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69608,10.38984,145
+7133,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69607,10.38605,146
+7134,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69607,10.38547,147
+7135,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69617,10.38453,148
+7136,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69623,10.38433,149
+7137,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.6963,10.38418,150
+7138,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69636,10.38413,151
+7139,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.6964,10.38405,152
+7140,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69642,10.38397,153
+7141,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69641,10.38385,154
+7142,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69639,10.38378,155
+7143,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69636,10.38372,156
+7144,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69631,10.38368,157
+7145,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69624,10.38365,158
+7146,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69617,10.38365,159
+7147,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69611,10.38369,160
+7148,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69607,10.38374,161
+7149,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69604,10.38381,162
+7150,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69602,10.38386,163
+7151,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69602,10.38392,164
+7152,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69603,10.38401,165
+7153,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69613,10.38429,166
+7154,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69614,10.38437,167
+7155,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.6961,10.38485,168
+7156,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69606,10.38512,169
+7157,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69601,10.38551,170
+7158,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.6959,10.38717,171
+7159,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69586,10.38727,172
+7160,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69584,10.38732,173
+7161,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69574,10.38745,174
+7162,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69567,10.3875,175
+7163,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69561,10.38752,176
+7164,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69546,10.38754,177
+7165,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69518,10.38747,178
+7166,Via Gabriele Vettori 18,Hotel Galilei Pisa,route_301,43.69324,10.38662,179
+7167,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71689,10.40402,0
+7168,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71687,10.40374,1
+7169,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71643,10.40367,2
+7170,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.7162,10.40361,3
+7171,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71591,10.40346,4
+7172,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71557,10.40465,5
+7173,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71546,10.40496,6
+7174,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71525,10.40549,7
+7175,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71463,10.40691,8
+7176,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71415,10.40796,9
+7177,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71397,10.40838,10
+7178,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71384,10.40863,11
+7179,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71382,10.40869,12
+7180,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71375,10.40881,13
+7181,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71363,10.40896,14
+7182,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71343,10.40916,15
+7183,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71329,10.40926,16
+7184,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71311,10.40938,17
+7185,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71297,10.40944,18
+7186,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71286,10.40947,19
+7187,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71141,10.40947,20
+7188,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71076,10.40944,21
+7189,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71059,10.40962,22
+7190,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71028,10.41003,23
+7191,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.7102,10.41008,24
+7192,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71011,10.41009,25
+7193,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71006,10.41009,26
+7194,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71002,10.41005,27
+7195,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.70996,10.41004,28
+7196,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.70992,10.41005,29
+7197,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.70987,10.41009,30
+7198,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.70983,10.41016,31
+7199,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.70982,10.41022,32
+7200,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.70983,10.4103,33
+7201,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.70985,10.41035,34
+7202,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.70988,10.4104,35
+7203,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.70993,10.41076,36
+7204,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.7099,10.41147,37
+7205,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.70991,10.41172,38
+7206,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.70992,10.41199,39
+7207,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.70997,10.41245,40
+7208,Via Gabriele Vettori 18,Pizzeria Pisanova,route_302,43.71009,10.41323,41
+7209,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71689,10.40402,0
+7210,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71687,10.40374,1
+7211,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71643,10.40367,2
+7212,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.7162,10.40361,3
+7213,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71591,10.40346,4
+7214,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71557,10.40465,5
+7215,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71546,10.40496,6
+7216,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71525,10.40549,7
+7217,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71463,10.40691,8
+7218,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71428,10.40766,9
+7219,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71397,10.40838,10
+7220,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.7139,10.40851,11
+7221,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71307,10.40778,12
+7222,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.7136,10.40622,13
+7223,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71372,10.40591,14
+7224,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71412,10.40501,15
+7225,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71493,10.40327,16
+7226,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71526,10.4025,17
+7227,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.7154,10.40214,18
+7228,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71551,10.40181,19
+7229,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71566,10.40129,20
+7230,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.7157,10.40111,21
+7231,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71576,10.40067,22
+7232,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.7158,10.40037,23
+7233,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71583,10.39998,24
+7234,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71583,10.39968,25
+7235,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.7158,10.39919,26
+7236,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71577,10.39888,27
+7237,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71571,10.39854,28
+7238,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71557,10.39791,29
+7239,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71542,10.39746,30
+7240,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71511,10.3966,31
+7241,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71508,10.39645,32
+7242,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71496,10.39619,33
+7243,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71472,10.39571,34
+7244,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.7156,10.39498,35
+7245,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.7154,10.39451,36
+7246,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.7153,10.3943,37
+7247,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71495,10.39362,38
+7248,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71451,10.39274,39
+7249,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71413,10.39183,40
+7250,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71406,10.39165,41
+7251,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71405,10.39151,42
+7252,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71401,10.39126,43
+7253,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71401,10.39117,44
+7254,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71407,10.39084,45
+7255,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71408,10.39068,46
+7256,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71401,10.39043,47
+7257,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71385,10.39001,48
+7258,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71384,10.38995,49
+7259,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71376,10.38983,50
+7260,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71371,10.38969,51
+7261,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71353,10.38923,52
+7262,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71345,10.38902,53
+7263,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71344,10.38891,54
+7264,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71346,10.38884,55
+7265,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71345,10.38878,56
+7266,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71344,10.38876,57
+7267,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71337,10.38865,58
+7268,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.7133,10.3884,59
+7269,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71328,10.38836,60
+7270,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71324,10.38836,61
+7271,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71319,10.38837,62
+7272,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71301,10.38844,63
+7273,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71297,10.38844,64
+7274,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71292,10.38844,65
+7275,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71286,10.38841,66
+7276,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.7128,10.38836,67
+7277,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71275,10.38828,68
+7278,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71273,10.38822,69
+7279,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71262,10.38783,70
+7280,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71182,10.38436,71
+7281,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71224,10.38411,72
+7282,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71258,10.38383,73
+7283,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71262,10.38381,74
+7284,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71273,10.3838,75
+7285,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71279,10.38379,76
+7286,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71284,10.38375,77
+7287,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71287,10.38369,78
+7288,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71288,10.38361,79
+7289,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71288,10.38358,80
+7290,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71286,10.38351,81
+7291,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71285,10.38347,82
+7292,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.7128,10.38342,83
+7293,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71277,10.38341,84
+7294,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71271,10.3834,85
+7295,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71253,10.38325,86
+7296,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.7115,10.38155,87
+7297,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71139,10.38128,88
+7298,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71131,10.38101,89
+7299,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71125,10.38068,90
+7300,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71087,10.37801,91
+7301,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71082,10.37777,92
+7302,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71073,10.37738,93
+7303,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71063,10.37703,94
+7304,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.71056,10.37685,95
+7305,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70989,10.37495,96
+7306,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70982,10.37478,97
+7307,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70973,10.37462,98
+7308,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.7096,10.37428,99
+7309,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70961,10.37419,100
+7310,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70961,10.37413,101
+7311,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70958,10.37405,102
+7312,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70956,10.37401,103
+7313,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.7095,10.37395,104
+7314,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70947,10.37394,105
+7315,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70942,10.37394,106
+7316,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70936,10.37396,107
+7317,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70896,10.37432,108
+7318,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70884,10.37448,109
+7319,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70747,10.37576,110
+7320,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70742,10.37578,111
+7321,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.7074,10.37574,112
+7322,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70736,10.37572,113
+7323,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70732,10.37574,114
+7324,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.7073,10.37577,115
+7325,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70716,10.37549,116
+7326,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70657,10.37427,117
+7327,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70551,10.37202,118
+7328,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70296,10.3666,119
+7329,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70287,10.36639,120
+7330,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70212,10.36483,121
+7331,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.702,10.36461,122
+7332,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.7018,10.36429,123
+7333,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70163,10.36405,124
+7334,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70138,10.36374,125
+7335,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.70092,10.36328,126
+7336,Via Gabriele Vettori 18,Ristorante Il Rustichello - San Piero,route_303,43.69993,10.36235,127
+7337,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71689,10.40402,0
+7338,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71687,10.40374,1
+7339,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71643,10.40367,2
+7340,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7162,10.40361,3
+7341,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71591,10.40346,4
+7342,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71557,10.40465,5
+7343,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71546,10.40496,6
+7344,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71525,10.40549,7
+7345,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71463,10.40691,8
+7346,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71428,10.40766,9
+7347,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71397,10.40838,10
+7348,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7139,10.40851,11
+7349,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71307,10.40778,12
+7350,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7136,10.40622,13
+7351,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71372,10.40591,14
+7352,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71412,10.40501,15
+7353,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71493,10.40327,16
+7354,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71526,10.4025,17
+7355,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7154,10.40214,18
+7356,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71551,10.40181,19
+7357,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71566,10.40129,20
+7358,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7157,10.40111,21
+7359,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71576,10.40067,22
+7360,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7158,10.40037,23
+7361,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71583,10.39998,24
+7362,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71583,10.39968,25
+7363,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7158,10.39919,26
+7364,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71577,10.39888,27
+7365,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71571,10.39854,28
+7366,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71557,10.39791,29
+7367,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71542,10.39746,30
+7368,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71511,10.3966,31
+7369,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71508,10.39645,32
+7370,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71496,10.39619,33
+7371,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71472,10.39571,34
+7372,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7156,10.39498,35
+7373,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7154,10.39451,36
+7374,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7153,10.3943,37
+7375,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71495,10.39362,38
+7376,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71451,10.39274,39
+7377,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71413,10.39183,40
+7378,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71406,10.39165,41
+7379,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71405,10.39151,42
+7380,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71401,10.39126,43
+7381,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71401,10.39117,44
+7382,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71407,10.39084,45
+7383,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71408,10.39068,46
+7384,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71401,10.39043,47
+7385,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71385,10.39001,48
+7386,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71384,10.38995,49
+7387,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71376,10.38983,50
+7388,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71371,10.38969,51
+7389,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71353,10.38923,52
+7390,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71345,10.38902,53
+7391,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71344,10.38891,54
+7392,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71346,10.38884,55
+7393,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71345,10.38878,56
+7394,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71344,10.38876,57
+7395,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71337,10.38865,58
+7396,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7133,10.3884,59
+7397,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71328,10.38836,60
+7398,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71324,10.38836,61
+7399,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71319,10.38837,62
+7400,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71301,10.38844,63
+7401,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71297,10.38844,64
+7402,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71292,10.38844,65
+7403,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71286,10.38841,66
+7404,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7128,10.38836,67
+7405,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71275,10.38828,68
+7406,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71273,10.38822,69
+7407,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71262,10.38783,70
+7408,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71182,10.38436,71
+7409,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71224,10.38411,72
+7410,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71258,10.38383,73
+7411,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71262,10.38381,74
+7412,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71273,10.3838,75
+7413,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71279,10.38379,76
+7414,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71284,10.38375,77
+7415,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71287,10.38369,78
+7416,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71288,10.38361,79
+7417,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71288,10.38358,80
+7418,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71286,10.38351,81
+7419,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71285,10.38347,82
+7420,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7128,10.38342,83
+7421,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71277,10.38341,84
+7422,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71271,10.3834,85
+7423,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71253,10.38325,86
+7424,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7115,10.38155,87
+7425,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71139,10.38128,88
+7426,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71131,10.38101,89
+7427,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71125,10.38068,90
+7428,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71087,10.37801,91
+7429,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71082,10.37777,92
+7430,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71073,10.37738,93
+7431,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71063,10.37703,94
+7432,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.71056,10.37685,95
+7433,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70989,10.37495,96
+7434,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70982,10.37478,97
+7435,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70973,10.37462,98
+7436,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7096,10.37428,99
+7437,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70961,10.37419,100
+7438,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70961,10.37413,101
+7439,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70958,10.37405,102
+7440,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70956,10.37401,103
+7441,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7095,10.37395,104
+7442,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70947,10.37394,105
+7443,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70942,10.37394,106
+7444,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70936,10.37396,107
+7445,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70896,10.37432,108
+7446,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70884,10.37448,109
+7447,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70747,10.37576,110
+7448,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70742,10.37578,111
+7449,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7074,10.37574,112
+7450,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70736,10.37572,113
+7451,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70732,10.37574,114
+7452,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7073,10.37577,115
+7453,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7073,10.37581,116
+7454,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70724,10.37581,117
+7455,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70718,10.37585,118
+7456,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70716,10.37589,119
+7457,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70714,10.37596,120
+7458,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7071,10.37621,121
+7459,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70709,10.37626,122
+7460,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70705,10.37632,123
+7461,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70698,10.3762,124
+7462,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70685,10.37602,125
+7463,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70644,10.37562,126
+7464,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70624,10.37541,127
+7465,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70616,10.37528,128
+7466,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70608,10.37513,129
+7467,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70575,10.37431,130
+7468,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70526,10.37277,131
+7469,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7051,10.37239,132
+7470,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7038,10.37014,133
+7471,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70333,10.36931,134
+7472,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70325,10.36919,135
+7473,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70303,10.36894,136
+7474,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70278,10.36872,137
+7475,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.7013,10.36756,138
+7476,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70077,10.36712,139
+7477,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.70008,10.36649,140
+7478,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.69983,10.36629,141
+7479,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.69973,10.36623,142
+7480,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.69914,10.36602,143
+7481,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.69876,10.36592,144
+7482,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.69857,10.36589,145
+7483,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.69839,10.36589,146
+7484,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.69825,10.36592,147
+7485,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.69737,10.36619,148
+7486,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.69719,10.36621,149
+7487,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.69622,10.36622,150
+7488,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.69594,10.36624,151
+7489,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.69576,10.36627,152
+7490,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.69498,10.36653,153
+7491,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.69443,10.36667,154
+7492,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.69412,10.36675,155
+7493,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.69298,10.36693,156
+7494,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.69223,10.36713,157
+7495,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.69192,10.3672,158
+7496,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.6914,10.36728,159
+7497,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.69033,10.36734,160
+7498,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.6901,10.36733,161
+7499,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.68975,10.36729,162
+7500,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.68953,10.36725,163
+7501,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.68936,10.36719,164
+7502,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.68916,10.36711,165
+7503,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.68902,10.36702,166
+7504,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.68889,10.36693,167
+7505,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.68846,10.36657,168
+7506,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.68812,10.36758,169
+7507,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.68763,10.36873,170
+7508,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.68705,10.37013,171
+7509,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.68616,10.37213,172
+7510,Via Gabriele Vettori 18,Eurospin Ospedaletto,route_304,43.68598,10.37277,173
+7511,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.71689,10.40402,0
+7512,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.71691,10.40421,1
+7513,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.71724,10.4042,2
+7514,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.71752,10.40418,3
+7515,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.71751,10.40392,4
+7516,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.71752,10.40381,5
+7517,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.71753,10.40356,6
+7518,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.71828,10.40356,7
+7519,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.71824,10.40408,8
+7520,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.7197,10.40409,9
+7521,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.7211,10.40404,10
+7522,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72117,10.40403,11
+7523,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72129,10.40397,12
+7524,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72133,10.40392,13
+7525,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72135,10.40388,14
+7526,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72138,10.40376,15
+7527,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72142,10.40352,16
+7528,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72144,10.40328,17
+7529,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72146,10.40302,18
+7530,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72146,10.40218,19
+7531,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.7218,10.40213,20
+7532,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72191,10.4021,21
+7533,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72207,10.40186,22
+7534,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72219,10.4017,23
+7535,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72265,10.40173,24
+7536,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72284,10.40176,25
+7537,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72347,10.39894,26
+7538,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72359,10.39853,27
+7539,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.724,10.39723,28
+7540,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72409,10.39685,29
+7541,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72469,10.39364,30
+7542,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.7249,10.3925,31
+7543,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72495,10.39213,32
+7544,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72497,10.39193,33
+7545,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72494,10.39137,34
+7546,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72498,10.39135,35
+7547,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72501,10.39131,36
+7548,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72501,10.39126,37
+7549,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72501,10.39123,38
+7550,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.725,10.39119,39
+7551,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72496,10.39116,40
+7552,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72493,10.39115,41
+7553,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.7249,10.39116,42
+7554,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72435,10.38669,43
+7555,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72391,10.38318,44
+7556,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.7237,10.38149,45
+7557,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72353,10.37997,46
+7558,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72352,10.37959,47
+7559,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72353,10.37953,48
+7560,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72356,10.37946,49
+7561,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72356,10.37941,50
+7562,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72356,10.37936,51
+7563,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72354,10.37931,52
+7564,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72347,10.37916,53
+7565,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72337,10.37888,54
+7566,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72333,10.37835,55
+7567,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72329,10.37802,56
+7568,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72288,10.37472,57
+7569,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72263,10.37273,58
+7570,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72229,10.36996,59
+7571,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72196,10.36727,60
+7572,Via Gabriele Vettori 18,McDonald's Barbaricina,route_305,43.72127,10.36178,61
+7573,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.71689,10.40402,0
+7574,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.71691,10.40421,1
+7575,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.71724,10.4042,2
+7576,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.71752,10.40418,3
+7577,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.71751,10.40392,4
+7578,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.71752,10.40381,5
+7579,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.71753,10.40356,6
+7580,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.71828,10.40356,7
+7581,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.71824,10.40408,8
+7582,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.7197,10.40409,9
+7583,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.7211,10.40404,10
+7584,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72117,10.40403,11
+7585,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72129,10.40397,12
+7586,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72133,10.40392,13
+7587,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72135,10.40388,14
+7588,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72138,10.40376,15
+7589,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72142,10.40352,16
+7590,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72144,10.40328,17
+7591,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72146,10.40302,18
+7592,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72146,10.40218,19
+7593,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.7218,10.40213,20
+7594,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72191,10.4021,21
+7595,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72207,10.40186,22
+7596,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72219,10.4017,23
+7597,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72265,10.40173,24
+7598,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72284,10.40176,25
+7599,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72347,10.39894,26
+7600,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72359,10.39853,27
+7601,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.724,10.39723,28
+7602,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72409,10.39685,29
+7603,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72469,10.39364,30
+7604,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.7249,10.3925,31
+7605,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72495,10.39213,32
+7606,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72497,10.39193,33
+7607,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72494,10.39137,34
+7608,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72498,10.39135,35
+7609,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72501,10.39131,36
+7610,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72501,10.39126,37
+7611,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72501,10.39123,38
+7612,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.725,10.39119,39
+7613,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72496,10.39116,40
+7614,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72493,10.39115,41
+7615,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.7249,10.39116,42
+7616,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72435,10.38669,43
+7617,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72391,10.38318,44
+7618,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.7237,10.38149,45
+7619,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72353,10.37997,46
+7620,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72352,10.37959,47
+7621,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72353,10.37953,48
+7622,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72356,10.37946,49
+7623,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72356,10.37941,50
+7624,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72356,10.37936,51
+7625,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72354,10.37931,52
+7626,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72347,10.37916,53
+7627,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72337,10.37888,54
+7628,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72333,10.37835,55
+7629,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72329,10.37802,56
+7630,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72288,10.37472,57
+7631,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72263,10.37273,58
+7632,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72229,10.36996,59
+7633,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72196,10.36727,60
+7634,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72111,10.36056,61
+7635,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72066,10.35688,62
+7636,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72066,10.35673,63
+7637,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72067,10.35656,64
+7638,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.7219,10.35048,65
+7639,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72182,10.35042,66
+7640,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72176,10.35042,67
+7641,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72162,10.35055,68
+7642,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72097,10.35372,69
+7643,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72089,10.35385,70
+7644,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72082,10.3539,71
+7645,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72068,10.35388,72
+7646,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.72021,10.35377,73
+7647,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.7186,10.35336,74
+7648,Via Gabriele Vettori 18,Conad La Vettola,route_306,43.71283,10.35194,75
+7649,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71689,10.40402,0
+7650,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71687,10.40374,1
+7651,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71643,10.40367,2
+7652,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.7162,10.40361,3
+7653,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71591,10.40346,4
+7654,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71557,10.40465,5
+7655,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71546,10.40496,6
+7656,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71525,10.40549,7
+7657,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71463,10.40691,8
+7658,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71415,10.40796,9
+7659,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71397,10.40838,10
+7660,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71384,10.40863,11
+7661,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71382,10.40869,12
+7662,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71375,10.40881,13
+7663,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71363,10.40896,14
+7664,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71343,10.40916,15
+7665,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71329,10.40926,16
+7666,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71311,10.40938,17
+7667,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71297,10.40944,18
+7668,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71286,10.40947,19
+7669,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71141,10.40947,20
+7670,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71076,10.40944,21
+7671,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71019,10.40941,22
+7672,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.7101,10.40935,23
+7673,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71005,10.40929,24
+7674,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71003,10.40924,25
+7675,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71001,10.40915,26
+7676,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71007,10.40776,27
+7677,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71014,10.40774,28
+7678,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71018,10.40769,29
+7679,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71019,10.40765,30
+7680,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.7102,10.4076,31
+7681,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71019,10.40752,32
+7682,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71017,10.40749,33
+7683,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71014,10.40745,34
+7684,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.7101,10.40743,35
+7685,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71008,10.40743,36
+7686,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71015,10.4061,37
+7687,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71019,10.4058,38
+7688,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71021,10.40573,39
+7689,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71027,10.40559,40
+7690,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.7104,10.4055,41
+7691,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71043,10.40545,42
+7692,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71044,10.40536,43
+7693,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71044,10.4053,44
+7694,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71041,10.40524,45
+7695,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71035,10.4052,46
+7696,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.7103,10.4052,47
+7697,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71019,10.40527,48
+7698,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.7101,10.40527,49
+7699,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.71006,10.40525,50
+7700,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70988,10.40513,51
+7701,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70974,10.40512,52
+7702,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70969,10.40513,53
+7703,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70959,10.4052,54
+7704,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70953,10.40562,55
+7705,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70919,10.40552,56
+7706,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70824,10.40505,57
+7707,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70776,10.40479,58
+7708,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70741,10.40576,59
+7709,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70675,10.40529,60
+7710,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70611,10.40711,61
+7711,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70588,10.4077,62
+7712,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70583,10.40781,63
+7713,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.7058,10.40785,64
+7714,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70561,10.40805,65
+7715,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.7048,10.40879,66
+7716,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70471,10.40891,67
+7717,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70465,10.40904,68
+7718,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70461,10.4092,69
+7719,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70456,10.40981,70
+7720,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70467,10.40993,71
+7721,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.7044,10.41019,72
+7722,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70435,10.41024,73
+7723,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70429,10.41036,74
+7724,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70421,10.41057,75
+7725,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70417,10.4107,76
+7726,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70412,10.4109,77
+7727,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70409,10.41094,78
+7728,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70407,10.41101,79
+7729,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70396,10.41122,80
+7730,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70386,10.4114,81
+7731,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70376,10.41157,82
+7732,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70362,10.41176,83
+7733,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70356,10.41182,84
+7734,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70334,10.41196,85
+7735,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70313,10.41207,86
+7736,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70296,10.41212,87
+7737,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70287,10.41213,88
+7738,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70268,10.41213,89
+7739,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70205,10.41205,90
+7740,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70153,10.41197,91
+7741,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70139,10.41197,92
+7742,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70125,10.412,93
+7743,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70104,10.41205,94
+7744,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70095,10.41205,95
+7745,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70089,10.41203,96
+7746,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70086,10.412,97
+7747,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70083,10.412,98
+7748,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70079,10.41203,99
+7749,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70078,10.4121,100
+7750,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70069,10.41232,101
+7751,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70016,10.41292,102
+7752,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.70005,10.41301,103
+7753,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69997,10.41306,104
+7754,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69937,10.41326,105
+7755,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69846,10.41356,106
+7756,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69756,10.41387,107
+7757,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69732,10.41399,108
+7758,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69698,10.41418,109
+7759,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69701,10.41463,110
+7760,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.697,10.41506,111
+7761,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69695,10.41553,112
+7762,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69685,10.41619,113
+7763,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69681,10.41641,114
+7764,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69672,10.4167,115
+7765,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69647,10.41732,116
+7766,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69643,10.41755,117
+7767,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69637,10.41797,118
+7768,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69631,10.41862,119
+7769,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69628,10.41874,120
+7770,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69619,10.41891,121
+7771,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69615,10.41903,122
+7772,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69609,10.41931,123
+7773,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69607,10.4195,124
+7774,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69606,10.42078,125
+7775,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69609,10.42109,126
+7776,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69611,10.42122,127
+7777,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69633,10.42198,128
+7778,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69635,10.42212,129
+7779,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69635,10.42223,130
+7780,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69633,10.42236,131
+7781,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69623,10.42278,132
+7782,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69623,10.42292,133
+7783,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69627,10.42348,134
+7784,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69597,10.42362,135
+7785,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69561,10.42373,136
+7786,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69499,10.42393,137
+7787,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69382,10.42443,138
+7788,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69294,10.42461,139
+7789,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69253,10.42453,140
+7790,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.6922,10.42451,141
+7791,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69185,10.42453,142
+7792,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69158,10.42458,143
+7793,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69134,10.42467,144
+7794,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69123,10.42472,145
+7795,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69103,10.42484,146
+7796,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69088,10.42495,147
+7797,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69073,10.42508,148
+7798,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69038,10.42543,149
+7799,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69052,10.42541,150
+7800,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69086,10.42825,151
+7801,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69057,10.42831,152
+7802,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.6902,10.42836,153
+7803,Via Gabriele Vettori 18,MD Discount Riglione,route_307,43.69009,10.42827,154

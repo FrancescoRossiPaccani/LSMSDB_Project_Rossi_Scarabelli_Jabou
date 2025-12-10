@@ -1,0 +1,663 @@
+id,start,end,route_id,lat,lon,idx
+10778,Stazione San Rossore,Esselunga Cisanello,route_510,43.71107,10.38995,0
+10779,Stazione San Rossore,Esselunga Cisanello,route_510,43.71103,10.38981,1
+10780,Stazione San Rossore,Esselunga Cisanello,route_510,43.71113,10.38974,2
+10781,Stazione San Rossore,Esselunga Cisanello,route_510,43.71157,10.39094,3
+10782,Stazione San Rossore,Esselunga Cisanello,route_510,43.71162,10.39112,4
+10783,Stazione San Rossore,Esselunga Cisanello,route_510,43.71163,10.39133,5
+10784,Stazione San Rossore,Esselunga Cisanello,route_510,43.71162,10.39139,6
+10785,Stazione San Rossore,Esselunga Cisanello,route_510,43.71158,10.39142,7
+10786,Stazione San Rossore,Esselunga Cisanello,route_510,43.71133,10.39152,8
+10787,Stazione San Rossore,Esselunga Cisanello,route_510,43.71093,10.39162,9
+10788,Stazione San Rossore,Esselunga Cisanello,route_510,43.71082,10.39166,10
+10789,Stazione San Rossore,Esselunga Cisanello,route_510,43.71072,10.39173,11
+10790,Stazione San Rossore,Esselunga Cisanello,route_510,43.71067,10.39179,12
+10791,Stazione San Rossore,Esselunga Cisanello,route_510,43.71063,10.39186,13
+10792,Stazione San Rossore,Esselunga Cisanello,route_510,43.71061,10.39193,14
+10793,Stazione San Rossore,Esselunga Cisanello,route_510,43.7106,10.39206,15
+10794,Stazione San Rossore,Esselunga Cisanello,route_510,43.71058,10.39434,16
+10795,Stazione San Rossore,Esselunga Cisanello,route_510,43.71057,10.39451,17
+10796,Stazione San Rossore,Esselunga Cisanello,route_510,43.71054,10.39481,18
+10797,Stazione San Rossore,Esselunga Cisanello,route_510,43.71041,10.39568,19
+10798,Stazione San Rossore,Esselunga Cisanello,route_510,43.71036,10.39568,20
+10799,Stazione San Rossore,Esselunga Cisanello,route_510,43.71033,10.39573,21
+10800,Stazione San Rossore,Esselunga Cisanello,route_510,43.71032,10.3958,22
+10801,Stazione San Rossore,Esselunga Cisanello,route_510,43.71034,10.39585,23
+10802,Stazione San Rossore,Esselunga Cisanello,route_510,43.71038,10.39588,24
+10803,Stazione San Rossore,Esselunga Cisanello,route_510,43.71033,10.39616,25
+10804,Stazione San Rossore,Esselunga Cisanello,route_510,43.7101,10.39766,26
+10805,Stazione San Rossore,Esselunga Cisanello,route_510,43.71009,10.39768,27
+10806,Stazione San Rossore,Esselunga Cisanello,route_510,43.71006,10.39775,28
+10807,Stazione San Rossore,Esselunga Cisanello,route_510,43.71006,10.39784,29
+10808,Stazione San Rossore,Esselunga Cisanello,route_510,43.71001,10.39838,30
+10809,Stazione San Rossore,Esselunga Cisanello,route_510,43.70997,10.3988,31
+10810,Stazione San Rossore,Esselunga Cisanello,route_510,43.70992,10.39879,32
+10811,Stazione San Rossore,Esselunga Cisanello,route_510,43.70989,10.39881,33
+10812,Stazione San Rossore,Esselunga Cisanello,route_510,43.70986,10.39884,34
+10813,Stazione San Rossore,Esselunga Cisanello,route_510,43.70984,10.3989,35
+10814,Stazione San Rossore,Esselunga Cisanello,route_510,43.70984,10.39895,36
+10815,Stazione San Rossore,Esselunga Cisanello,route_510,43.70986,10.399,37
+10816,Stazione San Rossore,Esselunga Cisanello,route_510,43.7099,10.39904,38
+10817,Stazione San Rossore,Esselunga Cisanello,route_510,43.70994,10.39905,39
+10818,Stazione San Rossore,Esselunga Cisanello,route_510,43.70994,10.39992,40
+10819,Stazione San Rossore,Esselunga Cisanello,route_510,43.70997,10.40207,41
+10820,Stazione San Rossore,Esselunga Cisanello,route_510,43.70997,10.40252,42
+10821,Stazione San Rossore,Esselunga Cisanello,route_510,43.70988,10.40324,43
+10822,Stazione San Rossore,Esselunga Cisanello,route_510,43.70975,10.40422,44
+10823,Stazione San Rossore,Esselunga Cisanello,route_510,43.70959,10.4052,45
+10824,Stazione San Rossore,Esselunga Cisanello,route_510,43.70953,10.40562,46
+10825,Stazione San Rossore,Esselunga Cisanello,route_510,43.70953,10.40571,47
+10826,Stazione San Rossore,Esselunga Cisanello,route_510,43.70954,10.40577,48
+10827,Stazione San Rossore,Esselunga Cisanello,route_510,43.70958,10.40585,49
+10828,Stazione San Rossore,Esselunga Cisanello,route_510,43.70962,10.40589,50
+10829,Stazione San Rossore,Esselunga Cisanello,route_510,43.7097,10.40593,51
+10830,Stazione San Rossore,Esselunga Cisanello,route_510,43.70981,10.40586,52
+10831,Stazione San Rossore,Esselunga Cisanello,route_510,43.70996,10.40588,53
+10832,Stazione San Rossore,Esselunga Cisanello,route_510,43.71001,10.4059,54
+10833,Stazione San Rossore,Esselunga Cisanello,route_510,43.71007,10.40596,55
+10834,Stazione San Rossore,Esselunga Cisanello,route_510,43.71009,10.40599,56
+10835,Stazione San Rossore,Esselunga Cisanello,route_510,43.71015,10.4061,57
+10836,Stazione San Rossore,Esselunga Cisanello,route_510,43.71008,10.40743,58
+10837,Stazione San Rossore,Esselunga Cisanello,route_510,43.71004,10.40744,59
+10838,Stazione San Rossore,Esselunga Cisanello,route_510,43.71001,10.40747,60
+10839,Stazione San Rossore,Esselunga Cisanello,route_510,43.70998,10.40751,61
+10840,Stazione San Rossore,Esselunga Cisanello,route_510,43.70997,10.40755,62
+10841,Stazione San Rossore,Esselunga Cisanello,route_510,43.70997,10.40763,63
+10842,Stazione San Rossore,Esselunga Cisanello,route_510,43.70998,10.40769,64
+10843,Stazione San Rossore,Esselunga Cisanello,route_510,43.71003,10.40774,65
+10844,Stazione San Rossore,Esselunga Cisanello,route_510,43.71007,10.40776,66
+10845,Stazione San Rossore,Esselunga Cisanello,route_510,43.70998,10.40978,67
+10846,Stazione San Rossore,Esselunga Cisanello,route_510,43.70992,10.41005,68
+10847,Stazione San Rossore,Esselunga Cisanello,route_510,43.70987,10.41009,69
+10848,Stazione San Rossore,Esselunga Cisanello,route_510,43.70983,10.41016,70
+10849,Stazione San Rossore,Esselunga Cisanello,route_510,43.70982,10.41022,71
+10850,Stazione San Rossore,Esselunga Cisanello,route_510,43.70983,10.4103,72
+10851,Stazione San Rossore,Esselunga Cisanello,route_510,43.70985,10.41035,73
+10852,Stazione San Rossore,Esselunga Cisanello,route_510,43.70988,10.4104,74
+10853,Stazione San Rossore,Esselunga Cisanello,route_510,43.70993,10.41076,75
+10854,Stazione San Rossore,Esselunga Cisanello,route_510,43.7099,10.41147,76
+10855,Stazione San Rossore,Esselunga Cisanello,route_510,43.70991,10.41172,77
+10856,Stazione San Rossore,Esselunga Cisanello,route_510,43.70992,10.41199,78
+10857,Stazione San Rossore,Esselunga Cisanello,route_510,43.70997,10.41245,79
+10858,Stazione San Rossore,Esselunga Cisanello,route_510,43.71037,10.41529,80
+10859,Stazione San Rossore,Esselunga Cisanello,route_510,43.71068,10.41746,81
+10860,Stazione San Rossore,Esselunga Cisanello,route_510,43.71091,10.41974,82
+10861,Stazione San Rossore,Esselunga Cisanello,route_510,43.7109,10.4199,83
+10862,Stazione San Rossore,Esselunga Cisanello,route_510,43.71092,10.42019,84
+10863,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.71107,10.38995,0
+10864,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.71103,10.38981,1
+10865,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.71113,10.38974,2
+10866,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.71068,10.38834,3
+10867,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.71052,10.38788,4
+10868,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.71045,10.38769,5
+10869,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.71012,10.38667,6
+10870,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70995,10.38612,7
+10871,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70992,10.3859,8
+10872,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70996,10.38589,9
+10873,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70999,10.38584,10
+10874,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.71,10.38579,11
+10875,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70998,10.38574,12
+10876,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70995,10.38571,13
+10877,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70997,10.38565,14
+10878,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.71002,10.38541,15
+10879,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.71005,10.38526,16
+10880,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.71006,10.38491,17
+10881,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.71007,10.38437,18
+10882,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.71009,10.38429,19
+10883,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.71013,10.3842,20
+10884,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.71019,10.38418,21
+10885,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.71024,10.38419,22
+10886,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.71028,10.38424,23
+10887,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.71031,10.3843,24
+10888,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.71043,10.3849,25
+10889,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70998,10.38502,26
+10890,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70928,10.38523,27
+10891,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70908,10.38529,28
+10892,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70895,10.38528,29
+10893,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70886,10.38525,30
+10894,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70882,10.38519,31
+10895,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70878,10.38515,32
+10896,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70871,10.38514,33
+10897,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70865,10.38515,34
+10898,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70861,10.3852,35
+10899,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70859,10.38527,36
+10900,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70852,10.38534,37
+10901,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70847,10.38539,38
+10902,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70842,10.38541,39
+10903,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70751,10.38564,40
+10904,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70737,10.38569,41
+10905,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70729,10.38573,42
+10906,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70409,10.38652,43
+10907,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70371,10.3866,44
+10908,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70339,10.38672,45
+10909,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70325,10.38673,46
+10910,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.7031,10.3867,47
+10911,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70306,10.38666,48
+10912,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70303,10.38665,49
+10913,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70297,10.38666,50
+10914,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70292,10.3867,51
+10915,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70289,10.38677,52
+10916,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70289,10.38685,53
+10917,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70284,10.38717,54
+10918,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70281,10.38728,55
+10919,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70279,10.38731,56
+10920,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70243,10.38759,57
+10921,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70218,10.38777,58
+10922,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70152,10.38831,59
+10923,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.7013,10.38846,60
+10924,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70116,10.38855,61
+10925,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70098,10.38865,62
+10926,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70059,10.38883,63
+10927,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.70017,10.38897,64
+10928,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69995,10.38902,65
+10929,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69977,10.38903,66
+10930,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69955,10.38901,67
+10931,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69951,10.38899,68
+10932,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69947,10.38899,69
+10933,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69944,10.389,70
+10934,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.6994,10.38904,71
+10935,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.6992,10.38905,72
+10936,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69895,10.38902,73
+10937,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69871,10.38897,74
+10938,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.6985,10.38892,75
+10939,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69794,10.38869,76
+10940,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69779,10.38864,77
+10941,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69653,10.38806,78
+10942,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69642,10.38798,79
+10943,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69637,10.38793,80
+10944,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69631,10.38782,81
+10945,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69629,10.38777,82
+10946,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69626,10.38767,83
+10947,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69619,10.38759,84
+10948,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69611,10.38755,85
+10949,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69602,10.38756,86
+10950,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69594,10.38762,87
+10951,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69591,10.38766,88
+10952,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69575,10.38767,89
+10953,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69557,10.38764,90
+10954,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69351,10.38675,91
+10955,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69179,10.38598,92
+10956,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69153,10.38584,93
+10957,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69145,10.38577,94
+10958,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69134,10.38566,95
+10959,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69113,10.38537,96
+10960,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.6911,10.3853,97
+10961,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69105,10.38526,98
+10962,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69101,10.38525,99
+10963,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69095,10.38527,100
+10964,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69054,10.38527,101
+10965,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69038,10.38522,102
+10966,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.69027,10.38517,103
+10967,Stazione San Rossore,Piscina Comunale Camalich,route_511,43.6866,10.38313,104
+10968,Stazione San Rossore,Conad Pian di Marco,route_512,43.71107,10.38995,0
+10969,Stazione San Rossore,Conad Pian di Marco,route_512,43.71103,10.38981,1
+10970,Stazione San Rossore,Conad Pian di Marco,route_512,43.71113,10.38974,2
+10971,Stazione San Rossore,Conad Pian di Marco,route_512,43.71068,10.38834,3
+10972,Stazione San Rossore,Conad Pian di Marco,route_512,43.71052,10.38788,4
+10973,Stazione San Rossore,Conad Pian di Marco,route_512,43.71045,10.38769,5
+10974,Stazione San Rossore,Conad Pian di Marco,route_512,43.71012,10.38667,6
+10975,Stazione San Rossore,Conad Pian di Marco,route_512,43.70995,10.38612,7
+10976,Stazione San Rossore,Conad Pian di Marco,route_512,43.70992,10.3859,8
+10977,Stazione San Rossore,Conad Pian di Marco,route_512,43.70996,10.38589,9
+10978,Stazione San Rossore,Conad Pian di Marco,route_512,43.70999,10.38584,10
+10979,Stazione San Rossore,Conad Pian di Marco,route_512,43.71,10.38579,11
+10980,Stazione San Rossore,Conad Pian di Marco,route_512,43.70998,10.38574,12
+10981,Stazione San Rossore,Conad Pian di Marco,route_512,43.70995,10.38571,13
+10982,Stazione San Rossore,Conad Pian di Marco,route_512,43.70997,10.38565,14
+10983,Stazione San Rossore,Conad Pian di Marco,route_512,43.71002,10.38541,15
+10984,Stazione San Rossore,Conad Pian di Marco,route_512,43.71005,10.38526,16
+10985,Stazione San Rossore,Conad Pian di Marco,route_512,43.71006,10.38491,17
+10986,Stazione San Rossore,Conad Pian di Marco,route_512,43.71007,10.38437,18
+10987,Stazione San Rossore,Conad Pian di Marco,route_512,43.71009,10.38429,19
+10988,Stazione San Rossore,Conad Pian di Marco,route_512,43.71013,10.3842,20
+10989,Stazione San Rossore,Conad Pian di Marco,route_512,43.71019,10.38418,21
+10990,Stazione San Rossore,Conad Pian di Marco,route_512,43.71024,10.38419,22
+10991,Stazione San Rossore,Conad Pian di Marco,route_512,43.71028,10.38424,23
+10992,Stazione San Rossore,Conad Pian di Marco,route_512,43.71031,10.3843,24
+10993,Stazione San Rossore,Conad Pian di Marco,route_512,43.71043,10.3849,25
+10994,Stazione San Rossore,Conad Pian di Marco,route_512,43.70998,10.38502,26
+10995,Stazione San Rossore,Conad Pian di Marco,route_512,43.70928,10.38523,27
+10996,Stazione San Rossore,Conad Pian di Marco,route_512,43.70908,10.38529,28
+10997,Stazione San Rossore,Conad Pian di Marco,route_512,43.70895,10.38528,29
+10998,Stazione San Rossore,Conad Pian di Marco,route_512,43.70886,10.38525,30
+10999,Stazione San Rossore,Conad Pian di Marco,route_512,43.70882,10.38519,31
+11000,Stazione San Rossore,Conad Pian di Marco,route_512,43.70878,10.38515,32
+11001,Stazione San Rossore,Conad Pian di Marco,route_512,43.70871,10.38514,33
+11002,Stazione San Rossore,Conad Pian di Marco,route_512,43.70865,10.38515,34
+11003,Stazione San Rossore,Conad Pian di Marco,route_512,43.70861,10.3852,35
+11004,Stazione San Rossore,Conad Pian di Marco,route_512,43.70859,10.38527,36
+11005,Stazione San Rossore,Conad Pian di Marco,route_512,43.70852,10.38534,37
+11006,Stazione San Rossore,Conad Pian di Marco,route_512,43.70847,10.38539,38
+11007,Stazione San Rossore,Conad Pian di Marco,route_512,43.70842,10.38541,39
+11008,Stazione San Rossore,Conad Pian di Marco,route_512,43.70751,10.38564,40
+11009,Stazione San Rossore,Conad Pian di Marco,route_512,43.70737,10.38569,41
+11010,Stazione San Rossore,Conad Pian di Marco,route_512,43.70729,10.38573,42
+11011,Stazione San Rossore,Conad Pian di Marco,route_512,43.70409,10.38652,43
+11012,Stazione San Rossore,Conad Pian di Marco,route_512,43.70371,10.3866,44
+11013,Stazione San Rossore,Conad Pian di Marco,route_512,43.70339,10.38672,45
+11014,Stazione San Rossore,Conad Pian di Marco,route_512,43.70325,10.38673,46
+11015,Stazione San Rossore,Conad Pian di Marco,route_512,43.7031,10.3867,47
+11016,Stazione San Rossore,Conad Pian di Marco,route_512,43.70306,10.38666,48
+11017,Stazione San Rossore,Conad Pian di Marco,route_512,43.70303,10.38665,49
+11018,Stazione San Rossore,Conad Pian di Marco,route_512,43.70297,10.38666,50
+11019,Stazione San Rossore,Conad Pian di Marco,route_512,43.70292,10.3867,51
+11020,Stazione San Rossore,Conad Pian di Marco,route_512,43.70289,10.38677,52
+11021,Stazione San Rossore,Conad Pian di Marco,route_512,43.70289,10.38685,53
+11022,Stazione San Rossore,Conad Pian di Marco,route_512,43.70284,10.38717,54
+11023,Stazione San Rossore,Conad Pian di Marco,route_512,43.70281,10.38728,55
+11024,Stazione San Rossore,Conad Pian di Marco,route_512,43.70279,10.38731,56
+11025,Stazione San Rossore,Conad Pian di Marco,route_512,43.70275,10.38734,57
+11026,Stazione San Rossore,Conad Pian di Marco,route_512,43.70264,10.38743,58
+11027,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.71107,10.38995,0
+11028,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.71103,10.38981,1
+11029,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.71113,10.38974,2
+11030,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.71068,10.38834,3
+11031,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.71052,10.38788,4
+11032,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.71045,10.38769,5
+11033,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.71012,10.38667,6
+11034,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70995,10.38612,7
+11035,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70992,10.3859,8
+11036,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70996,10.38589,9
+11037,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70999,10.38584,10
+11038,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.71,10.38579,11
+11039,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70998,10.38574,12
+11040,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70995,10.38571,13
+11041,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70997,10.38565,14
+11042,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.71002,10.38541,15
+11043,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.71005,10.38526,16
+11044,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.71006,10.38491,17
+11045,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.71007,10.38437,18
+11046,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.71009,10.38429,19
+11047,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.71013,10.3842,20
+11048,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.71019,10.38418,21
+11049,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.71024,10.38419,22
+11050,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.71028,10.38424,23
+11051,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.71031,10.3843,24
+11052,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.71043,10.3849,25
+11053,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70998,10.38502,26
+11054,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70928,10.38523,27
+11055,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70908,10.38529,28
+11056,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70895,10.38528,29
+11057,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70886,10.38525,30
+11058,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70882,10.38519,31
+11059,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70878,10.38515,32
+11060,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70871,10.38514,33
+11061,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70865,10.38515,34
+11062,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70861,10.3852,35
+11063,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70859,10.38527,36
+11064,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70852,10.38534,37
+11065,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70847,10.38539,38
+11066,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70842,10.38541,39
+11067,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70751,10.38564,40
+11068,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70737,10.38569,41
+11069,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70729,10.38573,42
+11070,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70409,10.38652,43
+11071,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70371,10.3866,44
+11072,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70339,10.38672,45
+11073,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70325,10.38673,46
+11074,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.7031,10.3867,47
+11075,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70306,10.38666,48
+11076,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70303,10.38665,49
+11077,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70297,10.38666,50
+11078,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70292,10.3867,51
+11079,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70289,10.38677,52
+11080,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70289,10.38685,53
+11081,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70284,10.38717,54
+11082,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70281,10.38728,55
+11083,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70279,10.38731,56
+11084,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70243,10.38759,57
+11085,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70218,10.38777,58
+11086,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70152,10.38831,59
+11087,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.7013,10.38846,60
+11088,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70116,10.38855,61
+11089,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70098,10.38865,62
+11090,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70059,10.38883,63
+11091,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.70017,10.38897,64
+11092,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69995,10.38902,65
+11093,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69977,10.38903,66
+11094,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69955,10.38901,67
+11095,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69951,10.38899,68
+11096,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69947,10.38899,69
+11097,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69944,10.389,70
+11098,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.6994,10.38904,71
+11099,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.6992,10.38905,72
+11100,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69895,10.38902,73
+11101,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69871,10.38897,74
+11102,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.6985,10.38892,75
+11103,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69794,10.38869,76
+11104,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69779,10.38864,77
+11105,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69653,10.38806,78
+11106,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69642,10.38798,79
+11107,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69637,10.38793,80
+11108,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69631,10.38782,81
+11109,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69629,10.38777,82
+11110,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69626,10.38767,83
+11111,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69619,10.38759,84
+11112,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69611,10.38755,85
+11113,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69602,10.38756,86
+11114,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69594,10.38762,87
+11115,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69591,10.38766,88
+11116,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69575,10.38767,89
+11117,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69557,10.38764,90
+11118,Stazione San Rossore,Hotel Galilei Pisa,route_513,43.69324,10.38662,91
+11119,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71107,10.38995,0
+11120,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71103,10.38981,1
+11121,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71113,10.38974,2
+11122,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71157,10.39094,3
+11123,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71162,10.39112,4
+11124,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71163,10.39133,5
+11125,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71162,10.39139,6
+11126,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71158,10.39142,7
+11127,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71133,10.39152,8
+11128,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71093,10.39162,9
+11129,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71082,10.39166,10
+11130,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71072,10.39173,11
+11131,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71067,10.39179,12
+11132,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71063,10.39186,13
+11133,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71061,10.39193,14
+11134,Stazione San Rossore,Pizzeria Pisanova,route_514,43.7106,10.39206,15
+11135,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71058,10.39434,16
+11136,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71057,10.39451,17
+11137,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71054,10.39481,18
+11138,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71041,10.39568,19
+11139,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71036,10.39568,20
+11140,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71033,10.39573,21
+11141,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71032,10.3958,22
+11142,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71034,10.39585,23
+11143,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71038,10.39588,24
+11144,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71033,10.39616,25
+11145,Stazione San Rossore,Pizzeria Pisanova,route_514,43.7101,10.39766,26
+11146,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71009,10.39768,27
+11147,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71006,10.39775,28
+11148,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71006,10.39784,29
+11149,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71001,10.39838,30
+11150,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70997,10.3988,31
+11151,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70992,10.39879,32
+11152,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70989,10.39881,33
+11153,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70986,10.39884,34
+11154,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70984,10.3989,35
+11155,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70984,10.39895,36
+11156,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70986,10.399,37
+11157,Stazione San Rossore,Pizzeria Pisanova,route_514,43.7099,10.39904,38
+11158,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70994,10.39905,39
+11159,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70994,10.39992,40
+11160,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70997,10.40207,41
+11161,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70997,10.40252,42
+11162,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70988,10.40324,43
+11163,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70975,10.40422,44
+11164,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70959,10.4052,45
+11165,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70953,10.40562,46
+11166,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70953,10.40571,47
+11167,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70954,10.40577,48
+11168,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70958,10.40585,49
+11169,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70962,10.40589,50
+11170,Stazione San Rossore,Pizzeria Pisanova,route_514,43.7097,10.40593,51
+11171,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70981,10.40586,52
+11172,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70996,10.40588,53
+11173,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71001,10.4059,54
+11174,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71007,10.40596,55
+11175,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71009,10.40599,56
+11176,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71015,10.4061,57
+11177,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71008,10.40743,58
+11178,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71004,10.40744,59
+11179,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71001,10.40747,60
+11180,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70998,10.40751,61
+11181,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70997,10.40755,62
+11182,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70997,10.40763,63
+11183,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70998,10.40769,64
+11184,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71003,10.40774,65
+11185,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71007,10.40776,66
+11186,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70998,10.40978,67
+11187,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70992,10.41005,68
+11188,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70987,10.41009,69
+11189,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70983,10.41016,70
+11190,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70982,10.41022,71
+11191,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70983,10.4103,72
+11192,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70985,10.41035,73
+11193,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70988,10.4104,74
+11194,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70993,10.41076,75
+11195,Stazione San Rossore,Pizzeria Pisanova,route_514,43.7099,10.41147,76
+11196,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70991,10.41172,77
+11197,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70992,10.41199,78
+11198,Stazione San Rossore,Pizzeria Pisanova,route_514,43.70997,10.41245,79
+11199,Stazione San Rossore,Pizzeria Pisanova,route_514,43.71009,10.41323,80
+11200,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71107,10.38995,0
+11201,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71103,10.38981,1
+11202,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71113,10.38974,2
+11203,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71052,10.38788,3
+11204,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71056,10.38773,4
+11205,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71064,10.38746,5
+11206,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71088,10.38679,6
+11207,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71061,10.3858,7
+11208,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71043,10.3849,8
+11209,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71106,10.38465,9
+11210,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71172,10.38437,10
+11211,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71177,10.38437,11
+11212,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71182,10.38436,12
+11213,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71224,10.38411,13
+11214,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71258,10.38383,14
+11215,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71262,10.38381,15
+11216,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71273,10.3838,16
+11217,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71279,10.38379,17
+11218,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71284,10.38375,18
+11219,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71287,10.38369,19
+11220,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71288,10.38361,20
+11221,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71288,10.38358,21
+11222,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71286,10.38351,22
+11223,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71285,10.38347,23
+11224,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.7128,10.38342,24
+11225,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71277,10.38341,25
+11226,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71271,10.3834,26
+11227,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71253,10.38325,27
+11228,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.7115,10.38155,28
+11229,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71139,10.38128,29
+11230,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71131,10.38101,30
+11231,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71125,10.38068,31
+11232,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71087,10.37801,32
+11233,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71082,10.37777,33
+11234,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71073,10.37738,34
+11235,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71063,10.37703,35
+11236,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.71056,10.37685,36
+11237,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70989,10.37495,37
+11238,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70982,10.37478,38
+11239,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70973,10.37462,39
+11240,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.7096,10.37428,40
+11241,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70961,10.37419,41
+11242,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70961,10.37413,42
+11243,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70958,10.37405,43
+11244,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70956,10.37401,44
+11245,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.7095,10.37395,45
+11246,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70947,10.37394,46
+11247,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70942,10.37394,47
+11248,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70936,10.37396,48
+11249,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70896,10.37432,49
+11250,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70884,10.37448,50
+11251,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70747,10.37576,51
+11252,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70742,10.37578,52
+11253,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.7074,10.37574,53
+11254,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70736,10.37572,54
+11255,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70732,10.37574,55
+11256,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.7073,10.37577,56
+11257,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70716,10.37549,57
+11258,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70657,10.37427,58
+11259,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70551,10.37202,59
+11260,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70296,10.3666,60
+11261,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70287,10.36639,61
+11262,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70212,10.36483,62
+11263,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.702,10.36461,63
+11264,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.7018,10.36429,64
+11265,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70163,10.36405,65
+11266,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70138,10.36374,66
+11267,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.70092,10.36328,67
+11268,Stazione San Rossore,Ristorante Il Rustichello - San Piero,route_515,43.69993,10.36235,68
+11269,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71107,10.38995,0
+11270,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71103,10.38981,1
+11271,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71113,10.38974,2
+11272,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71052,10.38788,3
+11273,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71056,10.38773,4
+11274,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71064,10.38746,5
+11275,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71088,10.38679,6
+11276,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71061,10.3858,7
+11277,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71043,10.3849,8
+11278,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71106,10.38465,9
+11279,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71172,10.38437,10
+11280,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71177,10.38437,11
+11281,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71182,10.38436,12
+11282,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71224,10.38411,13
+11283,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71258,10.38383,14
+11284,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71262,10.38381,15
+11285,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71273,10.3838,16
+11286,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71279,10.38379,17
+11287,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71284,10.38375,18
+11288,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71287,10.38369,19
+11289,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71288,10.38361,20
+11290,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71288,10.38358,21
+11291,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71286,10.38351,22
+11292,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71285,10.38347,23
+11293,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.7128,10.38342,24
+11294,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71277,10.38341,25
+11295,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71271,10.3834,26
+11296,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71253,10.38325,27
+11297,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.7115,10.38155,28
+11298,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71139,10.38128,29
+11299,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71131,10.38101,30
+11300,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71125,10.38068,31
+11301,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71087,10.37801,32
+11302,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71082,10.37777,33
+11303,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71073,10.37738,34
+11304,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71063,10.37703,35
+11305,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.71056,10.37685,36
+11306,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70989,10.37495,37
+11307,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70982,10.37478,38
+11308,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70973,10.37462,39
+11309,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.7096,10.37428,40
+11310,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70961,10.37419,41
+11311,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70961,10.37413,42
+11312,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70958,10.37405,43
+11313,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70956,10.37401,44
+11314,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.7095,10.37395,45
+11315,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70947,10.37394,46
+11316,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70942,10.37394,47
+11317,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70936,10.37396,48
+11318,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70896,10.37432,49
+11319,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70884,10.37448,50
+11320,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70747,10.37576,51
+11321,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70742,10.37578,52
+11322,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.7074,10.37574,53
+11323,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70736,10.37572,54
+11324,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70732,10.37574,55
+11325,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.7073,10.37577,56
+11326,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.7073,10.37581,57
+11327,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70724,10.37581,58
+11328,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70718,10.37585,59
+11329,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70716,10.37589,60
+11330,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70714,10.37596,61
+11331,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.7071,10.37621,62
+11332,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70709,10.37626,63
+11333,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70705,10.37632,64
+11334,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70698,10.3762,65
+11335,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70685,10.37602,66
+11336,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70644,10.37562,67
+11337,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70624,10.37541,68
+11338,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70616,10.37528,69
+11339,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70608,10.37513,70
+11340,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70575,10.37431,71
+11341,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70526,10.37277,72
+11342,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.7051,10.37239,73
+11343,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.7038,10.37014,74
+11344,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70333,10.36931,75
+11345,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70325,10.36919,76
+11346,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70303,10.36894,77
+11347,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70278,10.36872,78
+11348,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.7013,10.36756,79
+11349,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70077,10.36712,80
+11350,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.70008,10.36649,81
+11351,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.69983,10.36629,82
+11352,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.69973,10.36623,83
+11353,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.69914,10.36602,84
+11354,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.69876,10.36592,85
+11355,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.69857,10.36589,86
+11356,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.69839,10.36589,87
+11357,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.69825,10.36592,88
+11358,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.69737,10.36619,89
+11359,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.69719,10.36621,90
+11360,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.69622,10.36622,91
+11361,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.69594,10.36624,92
+11362,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.69576,10.36627,93
+11363,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.69498,10.36653,94
+11364,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.69443,10.36667,95
+11365,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.69412,10.36675,96
+11366,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.69298,10.36693,97
+11367,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.69223,10.36713,98
+11368,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.69192,10.3672,99
+11369,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.6914,10.36728,100
+11370,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.69033,10.36734,101
+11371,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.6901,10.36733,102
+11372,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.68975,10.36729,103
+11373,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.68953,10.36725,104
+11374,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.68936,10.36719,105
+11375,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.68916,10.36711,106
+11376,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.68902,10.36702,107
+11377,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.68889,10.36693,108
+11378,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.68846,10.36657,109
+11379,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.68812,10.36758,110
+11380,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.68763,10.36873,111
+11381,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.68705,10.37013,112
+11382,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.68616,10.37213,113
+11383,Stazione San Rossore,Eurospin Ospedaletto,route_516,43.68598,10.37277,114
+11384,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71107,10.38995,0
+11385,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71103,10.38981,1
+11386,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71113,10.38974,2
+11387,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71052,10.38788,3
+11388,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71056,10.38773,4
+11389,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71064,10.38746,5
+11390,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71088,10.38679,6
+11391,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71061,10.3858,7
+11392,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71043,10.3849,8
+11393,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71106,10.38465,9
+11394,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71172,10.38437,10
+11395,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71177,10.38437,11
+11396,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71182,10.38436,12
+11397,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71224,10.38411,13
+11398,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71258,10.38383,14
+11399,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71262,10.38381,15
+11400,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71273,10.3838,16
+11401,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71279,10.38379,17
+11402,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71284,10.38375,18
+11403,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71285,10.38372,19
+11404,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71296,10.38369,20
+11405,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71318,10.38364,21
+11406,Stazione San Rossore,McDonald's Barbaricina,route_517,43.7133,10.38364,22
+11407,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71348,10.38361,23
+11408,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71586,10.38263,24
+11409,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71678,10.38224,25
+11410,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71689,10.38222,26
+11411,Stazione San Rossore,McDonald's Barbaricina,route_517,43.717,10.38214,27
+11412,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71707,10.38216,28
+11413,Stazione San Rossore,McDonald's Barbaricina,route_517,43.7171,10.38214,29
+11414,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71713,10.38212,30
+11415,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71718,10.38205,31
+11416,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71724,10.38201,32
+11417,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71746,10.38197,33
+11418,Stazione San Rossore,McDonald's Barbaricina,route_517,43.71749,10.38194,34
+11419,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72295,10.3797,35
+11420,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72307,10.37968,36
+11421,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72315,10.37964,37
+11422,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72324,10.37958,38
+11423,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72336,10.37954,39
+11424,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72341,10.37957,40
+11425,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72347,10.37957,41
+11426,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72353,10.37953,42
+11427,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72356,10.37946,43
+11428,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72356,10.37941,44
+11429,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72356,10.37936,45
+11430,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72354,10.37931,46
+11431,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72347,10.37916,47
+11432,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72337,10.37888,48
+11433,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72333,10.37835,49
+11434,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72329,10.37802,50
+11435,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72288,10.37472,51
+11436,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72263,10.37273,52
+11437,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72229,10.36996,53
+11438,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72196,10.36727,54
+11439,Stazione San Rossore,McDonald's Barbaricina,route_517,43.72127,10.36178,55

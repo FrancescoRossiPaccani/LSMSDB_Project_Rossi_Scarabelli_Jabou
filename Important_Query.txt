@@ -39,10 +39,10 @@ Ex of structure of db:
 }
 {
     Rewiew | Document Db
-    .
-    .
-    .
-    .
+    id
+    start (0-5, 0.5)
+    comment
+    passanger_id
 
 }
 
@@ -56,5 +56,6 @@ Ex of structure of db:
     bank,
     time, 
     sender_user_id;
+    reciver_user_id
     ride_id;
 }

@@ -162,4 +162,4 @@ for batch_file in csv_files:
     except Exception as e:
         print(f"Errore eliminando {batch_file}: {e}")
 
-print("\Script terminato")
+print("\n Script terminato \n")

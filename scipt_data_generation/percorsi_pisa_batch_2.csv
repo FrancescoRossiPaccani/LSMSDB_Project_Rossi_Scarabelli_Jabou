@@ -1,0 +1,851 @@
+id,start,end,route_id,lat,lon,idx
+288,Torre,Ristorante Tuscany 2,route_30,43.723,10.39797,0
+289,Torre,Ristorante Tuscany 2,route_30,43.72234,10.40105,1
+290,Torre,Ristorante Tuscany 2,route_30,43.72221,10.40159,2
+291,Torre,Ristorante Tuscany 2,route_30,43.72219,10.4017,3
+292,Torre,Ristorante Tuscany 2,route_30,43.72265,10.40173,4
+293,Torre,Ristorante Tuscany 2,route_30,43.72284,10.40176,5
+294,Torre,Ristorante Tuscany 2,route_30,43.72371,10.40559,6
+295,Torre,Ristorante Tuscany 2,route_30,43.72414,10.40742,7
+296,Torre,Ristorante Tuscany 2,route_30,43.7241,10.40746,8
+297,Torre,Ristorante Tuscany 2,route_30,43.72384,10.40783,9
+298,Torre,Ristorante Tuscany 2,route_30,43.72372,10.40793,10
+299,Torre,Ristorante Tuscany 2,route_30,43.72367,10.40794,11
+300,Torre,Ristorante Tuscany 2,route_30,43.72365,10.40796,12
+301,Torre,Ristorante Tuscany 2,route_30,43.72363,10.40801,13
+302,Torre,Ristorante Tuscany 2,route_30,43.72363,10.40807,14
+303,Torre,Ristorante Tuscany 2,route_30,43.72364,10.4081,15
+304,Torre,Ristorante Tuscany 2,route_30,43.72367,10.40814,16
+305,Torre,Ristorante Tuscany 2,route_30,43.72374,10.40833,17
+306,Torre,Ristorante Tuscany 2,route_30,43.72374,10.40862,18
+307,Torre,Ristorante Tuscany 2,route_30,43.72373,10.40865,19
+308,Torre,Ristorante Tuscany 2,route_30,43.72368,10.40868,20
+309,Torre,Ristorante Tuscany 2,route_30,43.72211,10.40906,21
+310,Torre,Ristorante Tuscany 2,route_30,43.722,10.4091,22
+311,Torre,Ristorante Tuscany 2,route_30,43.72194,10.40914,23
+312,Torre,Ristorante Tuscany 2,route_30,43.72187,10.4092,24
+313,Torre,Ristorante Tuscany 2,route_30,43.72155,10.40964,25
+314,Torre,Ristorante Tuscany 2,route_30,43.72097,10.4105,26
+315,Torre,Ristorante Tuscany 2,route_30,43.7207,10.41088,27
+316,Torre,Ristorante Tuscany 2,route_30,43.72017,10.41165,28
+317,Torre,Ristorante Tuscany 2,route_30,43.72015,10.41164,29
+318,Torre,Ristorante Tuscany 2,route_30,43.72012,10.41164,30
+319,Torre,Ristorante Tuscany 2,route_30,43.72002,10.41157,31
+320,Torre,Ristorante Tuscany 2,route_30,43.71902,10.41072,32
+321,Torre,Ristorante Tuscany 2,route_30,43.71894,10.41071,33
+322,Torre,Ristorante Tuscany 2,route_30,43.71888,10.41072,34
+323,Torre,Ristorante Tuscany 2,route_30,43.71884,10.41077,35
+324,Torre,Ristorante Tuscany 2,route_30,43.71883,10.41085,36
+325,Torre,Ristorante Tuscany 2,route_30,43.71885,10.4111,37
+326,Torre,Ristorante Tuscany 2,route_30,43.71926,10.41634,38
+327,Torre,Ristorante Tuscany 2,route_30,43.71935,10.41737,39
+328,Torre,Ristorante Tuscany 2,route_30,43.7194,10.41822,40
+329,Torre,Ristorante Tuscany 2,route_30,43.7194,10.41833,41
+330,Torre,Ristorante Tuscany 2,route_30,43.71936,10.41865,42
+331,Torre,Ristorante Tuscany 2,route_30,43.71933,10.41881,43
+332,Torre,Ristorante Tuscany 2,route_30,43.71929,10.41893,44
+333,Torre,Ristorante Tuscany 2,route_30,43.71924,10.41903,45
+334,Torre,Ristorante Tuscany 2,route_30,43.71916,10.41911,46
+335,Torre,Ristorante Tuscany 2,route_30,43.71892,10.41922,47
+336,Torre,Ristorante Tuscany 2,route_30,43.71876,10.41921,48
+337,Torre,Ristorante Tuscany 2,route_30,43.71869,10.41923,49
+338,Torre,Ristorante Tuscany 2,route_30,43.71865,10.41925,50
+339,Torre,Ristorante Tuscany 2,route_30,43.71859,10.41932,51
+340,Torre,Ristorante Tuscany 2,route_30,43.71855,10.41941,52
+341,Torre,Ristorante Tuscany 2,route_30,43.71854,10.4195,53
+342,Torre,Ristorante Tuscany 2,route_30,43.71853,10.4196,54
+343,Torre,Ristorante Tuscany 2,route_30,43.7185,10.41976,55
+344,Torre,Ristorante Tuscany 2,route_30,43.71844,10.41995,56
+345,Torre,Ristorante Tuscany 2,route_30,43.71834,10.42015,57
+346,Torre,Ristorante Tuscany 2,route_30,43.71829,10.42021,58
+347,Torre,Ristorante Tuscany 2,route_30,43.71718,10.42142,59
+348,Torre,Ristorante Tuscany 2,route_30,43.71709,10.42151,60
+349,Torre,Ristorante Tuscany 2,route_30,43.71694,10.42161,61
+350,Torre,Ristorante Tuscany 2,route_30,43.71683,10.42167,62
+351,Torre,Ristorante Tuscany 2,route_30,43.71661,10.42176,63
+352,Torre,Ristorante Tuscany 2,route_30,43.71649,10.42178,64
+353,Torre,Ristorante Tuscany 2,route_30,43.7163,10.4218,65
+354,Torre,Ristorante Tuscany 2,route_30,43.71608,10.42178,66
+355,Torre,Ristorante Tuscany 2,route_30,43.71498,10.42148,67
+356,Torre,Ristorante Tuscany 2,route_30,43.71196,10.42076,68
+357,Torre,Ristorante Tuscany 2,route_30,43.71128,10.42061,69
+358,Torre,Ristorante Tuscany 2,route_30,43.71109,10.42055,70
+359,Torre,Ristorante Tuscany 2,route_30,43.71108,10.42055,71
+360,Torre,Ristorante Tuscany 2,route_30,43.71102,10.42034,72
+361,Torre,Ristorante Tuscany 2,route_30,43.71095,10.41991,73
+362,Torre,Ristorante Tuscany 2,route_30,43.71091,10.41974,74
+363,Torre,Ristorante Tuscany 2,route_30,43.71085,10.41915,75
+364,Torre,Ristorante Tuscany 2,route_30,43.71078,10.41912,76
+365,Torre,Ristorante Tuscany 2,route_30,43.71051,10.41919,77
+366,Torre,Ristorante Tuscany 2,route_30,43.71025,10.41928,78
+367,Torre,Ristorante Tuscany 2,route_30,43.70985,10.41949,79
+368,Torre,Ristorante Tuscany 2,route_30,43.70994,10.42005,80
+369,Torre,Euronics Pisa Cisanello,route_31,43.723,10.39797,0
+370,Torre,Euronics Pisa Cisanello,route_31,43.72234,10.40105,1
+371,Torre,Euronics Pisa Cisanello,route_31,43.72192,10.40081,2
+372,Torre,Euronics Pisa Cisanello,route_31,43.72203,10.40033,3
+373,Torre,Euronics Pisa Cisanello,route_31,43.72205,10.40016,4
+374,Torre,Euronics Pisa Cisanello,route_31,43.72206,10.40001,5
+375,Torre,Euronics Pisa Cisanello,route_31,43.72206,10.39996,6
+376,Torre,Euronics Pisa Cisanello,route_31,43.72204,10.39988,7
+377,Torre,Euronics Pisa Cisanello,route_31,43.72202,10.39984,8
+378,Torre,Euronics Pisa Cisanello,route_31,43.72183,10.3998,9
+379,Torre,Euronics Pisa Cisanello,route_31,43.72177,10.39971,10
+380,Torre,Euronics Pisa Cisanello,route_31,43.72184,10.3996,11
+381,Torre,Euronics Pisa Cisanello,route_31,43.72192,10.39922,12
+382,Torre,Euronics Pisa Cisanello,route_31,43.72087,10.39909,13
+383,Torre,Euronics Pisa Cisanello,route_31,43.72061,10.39904,14
+384,Torre,Euronics Pisa Cisanello,route_31,43.72018,10.39904,15
+385,Torre,Euronics Pisa Cisanello,route_31,43.72,10.39899,16
+386,Torre,Euronics Pisa Cisanello,route_31,43.71982,10.39891,17
+387,Torre,Euronics Pisa Cisanello,route_31,43.71986,10.39878,18
+388,Torre,Euronics Pisa Cisanello,route_31,43.7199,10.39829,19
+389,Torre,Euronics Pisa Cisanello,route_31,43.71991,10.39776,20
+390,Torre,Euronics Pisa Cisanello,route_31,43.71991,10.39756,21
+391,Torre,Euronics Pisa Cisanello,route_31,43.71988,10.39736,22
+392,Torre,Euronics Pisa Cisanello,route_31,43.71941,10.39745,23
+393,Torre,Euronics Pisa Cisanello,route_31,43.71914,10.39747,24
+394,Torre,Euronics Pisa Cisanello,route_31,43.71903,10.39744,25
+395,Torre,Euronics Pisa Cisanello,route_31,43.71857,10.39719,26
+396,Torre,Euronics Pisa Cisanello,route_31,43.71813,10.39693,27
+397,Torre,Euronics Pisa Cisanello,route_31,43.71753,10.39652,28
+398,Torre,Euronics Pisa Cisanello,route_31,43.71738,10.39644,29
+399,Torre,Euronics Pisa Cisanello,route_31,43.71723,10.39637,30
+400,Torre,Euronics Pisa Cisanello,route_31,43.71703,10.39635,31
+401,Torre,Euronics Pisa Cisanello,route_31,43.7169,10.39635,32
+402,Torre,Euronics Pisa Cisanello,route_31,43.71674,10.39637,33
+403,Torre,Euronics Pisa Cisanello,route_31,43.71614,10.3966,34
+404,Torre,Euronics Pisa Cisanello,route_31,43.71632,10.39747,35
+405,Torre,Euronics Pisa Cisanello,route_31,43.71652,10.39855,36
+406,Torre,Euronics Pisa Cisanello,route_31,43.71656,10.39883,37
+407,Torre,Euronics Pisa Cisanello,route_31,43.71661,10.39923,38
+408,Torre,Euronics Pisa Cisanello,route_31,43.71663,10.39955,39
+409,Torre,Euronics Pisa Cisanello,route_31,43.71664,10.39989,40
+410,Torre,Euronics Pisa Cisanello,route_31,43.71662,10.40025,41
+411,Torre,Euronics Pisa Cisanello,route_31,43.71658,10.40067,42
+412,Torre,Euronics Pisa Cisanello,route_31,43.71649,10.40126,43
+413,Torre,Euronics Pisa Cisanello,route_31,43.71641,10.40165,44
+414,Torre,Euronics Pisa Cisanello,route_31,43.71628,10.40215,45
+415,Torre,Euronics Pisa Cisanello,route_31,43.71557,10.40465,46
+416,Torre,Euronics Pisa Cisanello,route_31,43.71546,10.40496,47
+417,Torre,Euronics Pisa Cisanello,route_31,43.71525,10.40549,48
+418,Torre,Euronics Pisa Cisanello,route_31,43.71463,10.40691,49
+419,Torre,Euronics Pisa Cisanello,route_31,43.71415,10.40796,50
+420,Torre,Euronics Pisa Cisanello,route_31,43.71397,10.40838,51
+421,Torre,Euronics Pisa Cisanello,route_31,43.71384,10.40863,52
+422,Torre,Euronics Pisa Cisanello,route_31,43.71382,10.40869,53
+423,Torre,Euronics Pisa Cisanello,route_31,43.71375,10.40881,54
+424,Torre,Euronics Pisa Cisanello,route_31,43.71363,10.40896,55
+425,Torre,Euronics Pisa Cisanello,route_31,43.71343,10.40916,56
+426,Torre,Euronics Pisa Cisanello,route_31,43.71329,10.40926,57
+427,Torre,Euronics Pisa Cisanello,route_31,43.71311,10.40938,58
+428,Torre,Euronics Pisa Cisanello,route_31,43.71297,10.40944,59
+429,Torre,Euronics Pisa Cisanello,route_31,43.71286,10.40947,60
+430,Torre,Euronics Pisa Cisanello,route_31,43.71141,10.40947,61
+431,Torre,Euronics Pisa Cisanello,route_31,43.71076,10.40944,62
+432,Torre,Euronics Pisa Cisanello,route_31,43.71059,10.40962,63
+433,Torre,Euronics Pisa Cisanello,route_31,43.71028,10.41003,64
+434,Torre,Euronics Pisa Cisanello,route_31,43.7102,10.41008,65
+435,Torre,Euronics Pisa Cisanello,route_31,43.71011,10.41009,66
+436,Torre,Euronics Pisa Cisanello,route_31,43.71006,10.41009,67
+437,Torre,Euronics Pisa Cisanello,route_31,43.71002,10.41005,68
+438,Torre,Euronics Pisa Cisanello,route_31,43.70996,10.41004,69
+439,Torre,Euronics Pisa Cisanello,route_31,43.70992,10.41005,70
+440,Torre,Euronics Pisa Cisanello,route_31,43.70987,10.41009,71
+441,Torre,Euronics Pisa Cisanello,route_31,43.70983,10.41016,72
+442,Torre,Euronics Pisa Cisanello,route_31,43.70982,10.41022,73
+443,Torre,Euronics Pisa Cisanello,route_31,43.70983,10.4103,74
+444,Torre,Euronics Pisa Cisanello,route_31,43.70985,10.41035,75
+445,Torre,Euronics Pisa Cisanello,route_31,43.70988,10.4104,76
+446,Torre,Euronics Pisa Cisanello,route_31,43.70993,10.41076,77
+447,Torre,Euronics Pisa Cisanello,route_31,43.7099,10.41147,78
+448,Torre,Euronics Pisa Cisanello,route_31,43.70991,10.41172,79
+449,Torre,Euronics Pisa Cisanello,route_31,43.70992,10.41199,80
+450,Torre,Euronics Pisa Cisanello,route_31,43.7098,10.41201,81
+451,Torre,Euronics Pisa Cisanello,route_31,43.70964,10.41211,82
+452,Torre,Euronics Pisa Cisanello,route_31,43.70956,10.41218,83
+453,Torre,Euronics Pisa Cisanello,route_31,43.70912,10.41268,84
+454,Torre,Euronics Pisa Cisanello,route_31,43.70819,10.41357,85
+455,Torre,Euronics Pisa Cisanello,route_31,43.70812,10.41342,86
+456,Torre,Euronics Pisa Cisanello,route_31,43.70784,10.41271,87
+457,Torre,Euronics Pisa Cisanello,route_31,43.70752,10.41198,88
+458,Torre,Euronics Pisa Cisanello,route_31,43.70725,10.41239,89
+459,Torre,Euronics Pisa Cisanello,route_31,43.70714,10.4126,90
+460,Torre,Euronics Pisa Cisanello,route_31,43.707,10.41288,91
+461,Torre,Euronics Pisa Cisanello,route_31,43.70682,10.41331,92
+462,Torre,Euronics Pisa Cisanello,route_31,43.70655,10.4141,93
+463,Torre,Euronics Pisa Cisanello,route_31,43.70644,10.41447,94
+464,Torre,Euronics Pisa Cisanello,route_31,43.70636,10.41485,95
+465,Torre,Euronics Pisa Cisanello,route_31,43.7063,10.41518,96
+466,Torre,Euronics Pisa Cisanello,route_31,43.70662,10.41532,97
+467,Torre,Euronics Pisa Cisanello,route_31,43.70665,10.41537,98
+468,Torre,Euronics Pisa Cisanello,route_31,43.70685,10.41483,99
+469,Torre,Hotel San Ranieri,route_32,43.723,10.39797,0
+470,Torre,Hotel San Ranieri,route_32,43.72234,10.40105,1
+471,Torre,Hotel San Ranieri,route_32,43.72221,10.40159,2
+472,Torre,Hotel San Ranieri,route_32,43.72219,10.4017,3
+473,Torre,Hotel San Ranieri,route_32,43.72265,10.40173,4
+474,Torre,Hotel San Ranieri,route_32,43.72284,10.40176,5
+475,Torre,Hotel San Ranieri,route_32,43.72371,10.40559,6
+476,Torre,Hotel San Ranieri,route_32,43.72414,10.40742,7
+477,Torre,Hotel San Ranieri,route_32,43.7241,10.40746,8
+478,Torre,Hotel San Ranieri,route_32,43.72384,10.40783,9
+479,Torre,Hotel San Ranieri,route_32,43.72372,10.40793,10
+480,Torre,Hotel San Ranieri,route_32,43.72367,10.40794,11
+481,Torre,Hotel San Ranieri,route_32,43.72365,10.40796,12
+482,Torre,Hotel San Ranieri,route_32,43.72363,10.40801,13
+483,Torre,Hotel San Ranieri,route_32,43.72363,10.40807,14
+484,Torre,Hotel San Ranieri,route_32,43.72364,10.4081,15
+485,Torre,Hotel San Ranieri,route_32,43.72367,10.40814,16
+486,Torre,Hotel San Ranieri,route_32,43.72374,10.40833,17
+487,Torre,Hotel San Ranieri,route_32,43.72374,10.40862,18
+488,Torre,Hotel San Ranieri,route_32,43.72373,10.40865,19
+489,Torre,Hotel San Ranieri,route_32,43.72368,10.40868,20
+490,Torre,Hotel San Ranieri,route_32,43.72211,10.40906,21
+491,Torre,Hotel San Ranieri,route_32,43.722,10.4091,22
+492,Torre,Hotel San Ranieri,route_32,43.72194,10.40914,23
+493,Torre,Hotel San Ranieri,route_32,43.72187,10.4092,24
+494,Torre,Hotel San Ranieri,route_32,43.72155,10.40964,25
+495,Torre,Hotel San Ranieri,route_32,43.72097,10.4105,26
+496,Torre,Hotel San Ranieri,route_32,43.7207,10.41088,27
+497,Torre,Hotel San Ranieri,route_32,43.72017,10.41165,28
+498,Torre,Hotel San Ranieri,route_32,43.72015,10.41164,29
+499,Torre,Hotel San Ranieri,route_32,43.72012,10.41164,30
+500,Torre,Hotel San Ranieri,route_32,43.72002,10.41157,31
+501,Torre,Hotel San Ranieri,route_32,43.71902,10.41072,32
+502,Torre,Hotel San Ranieri,route_32,43.71894,10.41071,33
+503,Torre,Hotel San Ranieri,route_32,43.71888,10.41072,34
+504,Torre,Hotel San Ranieri,route_32,43.71884,10.41077,35
+505,Torre,Hotel San Ranieri,route_32,43.71883,10.41085,36
+506,Torre,Hotel San Ranieri,route_32,43.71885,10.4111,37
+507,Torre,Hotel San Ranieri,route_32,43.71926,10.41634,38
+508,Torre,Hotel San Ranieri,route_32,43.71935,10.41737,39
+509,Torre,Hotel San Ranieri,route_32,43.7194,10.41822,40
+510,Torre,Hotel San Ranieri,route_32,43.7194,10.41833,41
+511,Torre,Hotel San Ranieri,route_32,43.71936,10.41865,42
+512,Torre,Hotel San Ranieri,route_32,43.71933,10.41881,43
+513,Torre,Hotel San Ranieri,route_32,43.71929,10.41893,44
+514,Torre,Hotel San Ranieri,route_32,43.71924,10.41903,45
+515,Torre,Hotel San Ranieri,route_32,43.71916,10.41911,46
+516,Torre,Hotel San Ranieri,route_32,43.71892,10.41922,47
+517,Torre,Hotel San Ranieri,route_32,43.71876,10.41921,48
+518,Torre,Hotel San Ranieri,route_32,43.71869,10.41923,49
+519,Torre,Hotel San Ranieri,route_32,43.71865,10.41925,50
+520,Torre,Hotel San Ranieri,route_32,43.71859,10.41932,51
+521,Torre,Hotel San Ranieri,route_32,43.71855,10.41941,52
+522,Torre,Hotel San Ranieri,route_32,43.71854,10.4195,53
+523,Torre,Hotel San Ranieri,route_32,43.71853,10.4196,54
+524,Torre,Hotel San Ranieri,route_32,43.7185,10.41976,55
+525,Torre,Hotel San Ranieri,route_32,43.71844,10.41995,56
+526,Torre,Hotel San Ranieri,route_32,43.71834,10.42015,57
+527,Torre,Hotel San Ranieri,route_32,43.71829,10.42021,58
+528,Torre,Hotel San Ranieri,route_32,43.71718,10.42142,59
+529,Torre,Hotel San Ranieri,route_32,43.71709,10.42151,60
+530,Torre,Hotel San Ranieri,route_32,43.71694,10.42161,61
+531,Torre,Hotel San Ranieri,route_32,43.71683,10.42167,62
+532,Torre,Hotel San Ranieri,route_32,43.71661,10.42176,63
+533,Torre,Hotel San Ranieri,route_32,43.71649,10.42178,64
+534,Torre,Hotel San Ranieri,route_32,43.7163,10.4218,65
+535,Torre,Hotel San Ranieri,route_32,43.71608,10.42178,66
+536,Torre,Hotel San Ranieri,route_32,43.71498,10.42148,67
+537,Torre,Hotel San Ranieri,route_32,43.71505,10.42054,68
+538,Torre,Hotel San Ranieri,route_32,43.71439,10.42038,69
+539,Torre,Hotel San Ranieri,route_32,43.71422,10.4206,70
+540,Torre,Hotel San Ranieri,route_32,43.71414,10.42117,71
+541,Torre,Hotel San Ranieri,route_32,43.71446,10.42125,72
+542,Torre,Hotel San Ranieri,route_32,43.71451,10.4208,73
+543,Torre,Esselunga Cisanello,route_33,43.723,10.39797,0
+544,Torre,Esselunga Cisanello,route_33,43.72234,10.40105,1
+545,Torre,Esselunga Cisanello,route_33,43.72221,10.40159,2
+546,Torre,Esselunga Cisanello,route_33,43.72219,10.4017,3
+547,Torre,Esselunga Cisanello,route_33,43.72265,10.40173,4
+548,Torre,Esselunga Cisanello,route_33,43.72284,10.40176,5
+549,Torre,Esselunga Cisanello,route_33,43.72371,10.40559,6
+550,Torre,Esselunga Cisanello,route_33,43.72414,10.40742,7
+551,Torre,Esselunga Cisanello,route_33,43.7241,10.40746,8
+552,Torre,Esselunga Cisanello,route_33,43.72384,10.40783,9
+553,Torre,Esselunga Cisanello,route_33,43.72372,10.40793,10
+554,Torre,Esselunga Cisanello,route_33,43.72367,10.40794,11
+555,Torre,Esselunga Cisanello,route_33,43.72365,10.40796,12
+556,Torre,Esselunga Cisanello,route_33,43.72363,10.40801,13
+557,Torre,Esselunga Cisanello,route_33,43.72363,10.40807,14
+558,Torre,Esselunga Cisanello,route_33,43.72364,10.4081,15
+559,Torre,Esselunga Cisanello,route_33,43.72367,10.40814,16
+560,Torre,Esselunga Cisanello,route_33,43.72374,10.40833,17
+561,Torre,Esselunga Cisanello,route_33,43.72374,10.40862,18
+562,Torre,Esselunga Cisanello,route_33,43.72373,10.40865,19
+563,Torre,Esselunga Cisanello,route_33,43.72368,10.40868,20
+564,Torre,Esselunga Cisanello,route_33,43.72211,10.40906,21
+565,Torre,Esselunga Cisanello,route_33,43.722,10.4091,22
+566,Torre,Esselunga Cisanello,route_33,43.72194,10.40914,23
+567,Torre,Esselunga Cisanello,route_33,43.72187,10.4092,24
+568,Torre,Esselunga Cisanello,route_33,43.72155,10.40964,25
+569,Torre,Esselunga Cisanello,route_33,43.72097,10.4105,26
+570,Torre,Esselunga Cisanello,route_33,43.7207,10.41088,27
+571,Torre,Esselunga Cisanello,route_33,43.72017,10.41165,28
+572,Torre,Esselunga Cisanello,route_33,43.72015,10.41164,29
+573,Torre,Esselunga Cisanello,route_33,43.72012,10.41164,30
+574,Torre,Esselunga Cisanello,route_33,43.72002,10.41157,31
+575,Torre,Esselunga Cisanello,route_33,43.71902,10.41072,32
+576,Torre,Esselunga Cisanello,route_33,43.71894,10.41071,33
+577,Torre,Esselunga Cisanello,route_33,43.71888,10.41072,34
+578,Torre,Esselunga Cisanello,route_33,43.71884,10.41077,35
+579,Torre,Esselunga Cisanello,route_33,43.71883,10.41085,36
+580,Torre,Esselunga Cisanello,route_33,43.71885,10.4111,37
+581,Torre,Esselunga Cisanello,route_33,43.71926,10.41634,38
+582,Torre,Esselunga Cisanello,route_33,43.71935,10.41737,39
+583,Torre,Esselunga Cisanello,route_33,43.7194,10.41822,40
+584,Torre,Esselunga Cisanello,route_33,43.7194,10.41833,41
+585,Torre,Esselunga Cisanello,route_33,43.71936,10.41865,42
+586,Torre,Esselunga Cisanello,route_33,43.71933,10.41881,43
+587,Torre,Esselunga Cisanello,route_33,43.71929,10.41893,44
+588,Torre,Esselunga Cisanello,route_33,43.71924,10.41903,45
+589,Torre,Esselunga Cisanello,route_33,43.71916,10.41911,46
+590,Torre,Esselunga Cisanello,route_33,43.71892,10.41922,47
+591,Torre,Esselunga Cisanello,route_33,43.71876,10.41921,48
+592,Torre,Esselunga Cisanello,route_33,43.71869,10.41923,49
+593,Torre,Esselunga Cisanello,route_33,43.71865,10.41925,50
+594,Torre,Esselunga Cisanello,route_33,43.71859,10.41932,51
+595,Torre,Esselunga Cisanello,route_33,43.71855,10.41941,52
+596,Torre,Esselunga Cisanello,route_33,43.71854,10.4195,53
+597,Torre,Esselunga Cisanello,route_33,43.71853,10.4196,54
+598,Torre,Esselunga Cisanello,route_33,43.7185,10.41976,55
+599,Torre,Esselunga Cisanello,route_33,43.71844,10.41995,56
+600,Torre,Esselunga Cisanello,route_33,43.71834,10.42015,57
+601,Torre,Esselunga Cisanello,route_33,43.71829,10.42021,58
+602,Torre,Esselunga Cisanello,route_33,43.71718,10.42142,59
+603,Torre,Esselunga Cisanello,route_33,43.71709,10.42151,60
+604,Torre,Esselunga Cisanello,route_33,43.71694,10.42161,61
+605,Torre,Esselunga Cisanello,route_33,43.71683,10.42167,62
+606,Torre,Esselunga Cisanello,route_33,43.71661,10.42176,63
+607,Torre,Esselunga Cisanello,route_33,43.71649,10.42178,64
+608,Torre,Esselunga Cisanello,route_33,43.7163,10.4218,65
+609,Torre,Esselunga Cisanello,route_33,43.71608,10.42178,66
+610,Torre,Esselunga Cisanello,route_33,43.71498,10.42148,67
+611,Torre,Esselunga Cisanello,route_33,43.71196,10.42076,68
+612,Torre,Esselunga Cisanello,route_33,43.71128,10.42061,69
+613,Torre,Esselunga Cisanello,route_33,43.71109,10.42055,70
+614,Torre,Esselunga Cisanello,route_33,43.71108,10.42055,71
+615,Torre,Esselunga Cisanello,route_33,43.71102,10.42034,72
+616,Torre,Esselunga Cisanello,route_33,43.71095,10.41991,73
+617,Torre,Esselunga Cisanello,route_33,43.71091,10.41974,74
+618,Torre,Esselunga Cisanello,route_33,43.71079,10.41857,75
+619,Torre,Esselunga Cisanello,route_33,43.71065,10.41858,76
+620,Torre,Esselunga Cisanello,route_33,43.71065,10.41872,77
+621,Torre,Esselunga Cisanello,route_33,43.71049,10.4187,78
+622,Torre,Esselunga Cisanello,route_33,43.71033,10.41871,79
+623,Torre,Esselunga Cisanello,route_33,43.71032,10.41859,80
+624,Torre,Esselunga Cisanello,route_33,43.71079,10.41857,81
+625,Torre,Esselunga Cisanello,route_33,43.71091,10.41974,82
+626,Torre,Esselunga Cisanello,route_33,43.7109,10.4199,83
+627,Torre,Esselunga Cisanello,route_33,43.71092,10.42019,84
+628,Torre,Piscina Comunale Camalich,route_34,43.723,10.39797,0
+629,Torre,Piscina Comunale Camalich,route_34,43.72234,10.40105,1
+630,Torre,Piscina Comunale Camalich,route_34,43.72221,10.40159,2
+631,Torre,Piscina Comunale Camalich,route_34,43.72219,10.4017,3
+632,Torre,Piscina Comunale Camalich,route_34,43.72265,10.40173,4
+633,Torre,Piscina Comunale Camalich,route_34,43.72284,10.40176,5
+634,Torre,Piscina Comunale Camalich,route_34,43.72347,10.39894,6
+635,Torre,Piscina Comunale Camalich,route_34,43.72359,10.39853,7
+636,Torre,Piscina Comunale Camalich,route_34,43.724,10.39723,8
+637,Torre,Piscina Comunale Camalich,route_34,43.72409,10.39685,9
+638,Torre,Piscina Comunale Camalich,route_34,43.72469,10.39364,10
+639,Torre,Piscina Comunale Camalich,route_34,43.7249,10.3925,11
+640,Torre,Piscina Comunale Camalich,route_34,43.72495,10.39213,12
+641,Torre,Piscina Comunale Camalich,route_34,43.72497,10.39193,13
+642,Torre,Piscina Comunale Camalich,route_34,43.72494,10.39137,14
+643,Torre,Piscina Comunale Camalich,route_34,43.72498,10.39135,15
+644,Torre,Piscina Comunale Camalich,route_34,43.72501,10.39131,16
+645,Torre,Piscina Comunale Camalich,route_34,43.72501,10.39126,17
+646,Torre,Piscina Comunale Camalich,route_34,43.72501,10.39123,18
+647,Torre,Piscina Comunale Camalich,route_34,43.725,10.39119,19
+648,Torre,Piscina Comunale Camalich,route_34,43.72496,10.39116,20
+649,Torre,Piscina Comunale Camalich,route_34,43.72493,10.39115,21
+650,Torre,Piscina Comunale Camalich,route_34,43.7249,10.39116,22
+651,Torre,Piscina Comunale Camalich,route_34,43.72435,10.38669,23
+652,Torre,Piscina Comunale Camalich,route_34,43.72391,10.38318,24
+653,Torre,Piscina Comunale Camalich,route_34,43.7237,10.38149,25
+654,Torre,Piscina Comunale Camalich,route_34,43.72353,10.37997,26
+655,Torre,Piscina Comunale Camalich,route_34,43.72352,10.37959,27
+656,Torre,Piscina Comunale Camalich,route_34,43.72353,10.37953,28
+657,Torre,Piscina Comunale Camalich,route_34,43.72356,10.37946,29
+658,Torre,Piscina Comunale Camalich,route_34,43.72356,10.37941,30
+659,Torre,Piscina Comunale Camalich,route_34,43.72356,10.37936,31
+660,Torre,Piscina Comunale Camalich,route_34,43.72354,10.37931,32
+661,Torre,Piscina Comunale Camalich,route_34,43.72352,10.37927,33
+662,Torre,Piscina Comunale Camalich,route_34,43.72349,10.37925,34
+663,Torre,Piscina Comunale Camalich,route_34,43.72345,10.37923,35
+664,Torre,Piscina Comunale Camalich,route_34,43.72341,10.37924,36
+665,Torre,Piscina Comunale Camalich,route_34,43.72338,10.37925,37
+666,Torre,Piscina Comunale Camalich,route_34,43.72335,10.37929,38
+667,Torre,Piscina Comunale Camalich,route_34,43.72326,10.37945,39
+668,Torre,Piscina Comunale Camalich,route_34,43.72318,10.37955,40
+669,Torre,Piscina Comunale Camalich,route_34,43.72295,10.3797,41
+670,Torre,Piscina Comunale Camalich,route_34,43.71749,10.38194,42
+671,Torre,Piscina Comunale Camalich,route_34,43.71746,10.38193,43
+672,Torre,Piscina Comunale Camalich,route_34,43.7173,10.38192,44
+673,Torre,Piscina Comunale Camalich,route_34,43.71717,10.38189,45
+674,Torre,Piscina Comunale Camalich,route_34,43.71714,10.38183,46
+675,Torre,Piscina Comunale Camalich,route_34,43.71711,10.3818,47
+676,Torre,Piscina Comunale Camalich,route_34,43.71708,10.38179,48
+677,Torre,Piscina Comunale Camalich,route_34,43.71703,10.38179,49
+678,Torre,Piscina Comunale Camalich,route_34,43.71699,10.38181,50
+679,Torre,Piscina Comunale Camalich,route_34,43.71696,10.38184,51
+680,Torre,Piscina Comunale Camalich,route_34,43.71694,10.38189,52
+681,Torre,Piscina Comunale Camalich,route_34,43.71692,10.38195,53
+682,Torre,Piscina Comunale Camalich,route_34,43.71692,10.382,54
+683,Torre,Piscina Comunale Camalich,route_34,43.71688,10.38212,55
+684,Torre,Piscina Comunale Camalich,route_34,43.71683,10.38219,56
+685,Torre,Piscina Comunale Camalich,route_34,43.71678,10.38224,57
+686,Torre,Piscina Comunale Camalich,route_34,43.71586,10.38263,58
+687,Torre,Piscina Comunale Camalich,route_34,43.71348,10.38361,59
+688,Torre,Piscina Comunale Camalich,route_34,43.7133,10.38364,60
+689,Torre,Piscina Comunale Camalich,route_34,43.71318,10.38364,61
+690,Torre,Piscina Comunale Camalich,route_34,43.71306,10.38361,62
+691,Torre,Piscina Comunale Camalich,route_34,43.71292,10.38355,63
+692,Torre,Piscina Comunale Camalich,route_34,43.71286,10.38351,64
+693,Torre,Piscina Comunale Camalich,route_34,43.71285,10.38347,65
+694,Torre,Piscina Comunale Camalich,route_34,43.7128,10.38342,66
+695,Torre,Piscina Comunale Camalich,route_34,43.71277,10.38341,67
+696,Torre,Piscina Comunale Camalich,route_34,43.71271,10.3834,68
+697,Torre,Piscina Comunale Camalich,route_34,43.71267,10.38342,69
+698,Torre,Piscina Comunale Camalich,route_34,43.71264,10.38346,70
+699,Torre,Piscina Comunale Camalich,route_34,43.71262,10.38349,71
+700,Torre,Piscina Comunale Camalich,route_34,43.7126,10.38353,72
+701,Torre,Piscina Comunale Camalich,route_34,43.71259,10.3836,73
+702,Torre,Piscina Comunale Camalich,route_34,43.71256,10.3837,74
+703,Torre,Piscina Comunale Camalich,route_34,43.71252,10.38376,75
+704,Torre,Piscina Comunale Camalich,route_34,43.71243,10.38387,76
+705,Torre,Piscina Comunale Camalich,route_34,43.71233,10.38396,77
+706,Torre,Piscina Comunale Camalich,route_34,43.71215,10.3841,78
+707,Torre,Piscina Comunale Camalich,route_34,43.71177,10.38429,79
+708,Torre,Piscina Comunale Camalich,route_34,43.71172,10.38437,80
+709,Torre,Piscina Comunale Camalich,route_34,43.71106,10.38465,81
+710,Torre,Piscina Comunale Camalich,route_34,43.71043,10.3849,82
+711,Torre,Piscina Comunale Camalich,route_34,43.70998,10.38502,83
+712,Torre,Piscina Comunale Camalich,route_34,43.70928,10.38523,84
+713,Torre,Piscina Comunale Camalich,route_34,43.70908,10.38529,85
+714,Torre,Piscina Comunale Camalich,route_34,43.70895,10.38528,86
+715,Torre,Piscina Comunale Camalich,route_34,43.70886,10.38525,87
+716,Torre,Piscina Comunale Camalich,route_34,43.70882,10.38519,88
+717,Torre,Piscina Comunale Camalich,route_34,43.70878,10.38515,89
+718,Torre,Piscina Comunale Camalich,route_34,43.70871,10.38514,90
+719,Torre,Piscina Comunale Camalich,route_34,43.70865,10.38515,91
+720,Torre,Piscina Comunale Camalich,route_34,43.70861,10.3852,92
+721,Torre,Piscina Comunale Camalich,route_34,43.70859,10.38527,93
+722,Torre,Piscina Comunale Camalich,route_34,43.70852,10.38534,94
+723,Torre,Piscina Comunale Camalich,route_34,43.70847,10.38539,95
+724,Torre,Piscina Comunale Camalich,route_34,43.70842,10.38541,96
+725,Torre,Piscina Comunale Camalich,route_34,43.70751,10.38564,97
+726,Torre,Piscina Comunale Camalich,route_34,43.70737,10.38569,98
+727,Torre,Piscina Comunale Camalich,route_34,43.70729,10.38573,99
+728,Torre,Piscina Comunale Camalich,route_34,43.70409,10.38652,100
+729,Torre,Piscina Comunale Camalich,route_34,43.70371,10.3866,101
+730,Torre,Piscina Comunale Camalich,route_34,43.70339,10.38672,102
+731,Torre,Piscina Comunale Camalich,route_34,43.70325,10.38673,103
+732,Torre,Piscina Comunale Camalich,route_34,43.7031,10.3867,104
+733,Torre,Piscina Comunale Camalich,route_34,43.70306,10.38666,105
+734,Torre,Piscina Comunale Camalich,route_34,43.70303,10.38665,106
+735,Torre,Piscina Comunale Camalich,route_34,43.70297,10.38666,107
+736,Torre,Piscina Comunale Camalich,route_34,43.70292,10.3867,108
+737,Torre,Piscina Comunale Camalich,route_34,43.70289,10.38677,109
+738,Torre,Piscina Comunale Camalich,route_34,43.70289,10.38685,110
+739,Torre,Piscina Comunale Camalich,route_34,43.70284,10.38717,111
+740,Torre,Piscina Comunale Camalich,route_34,43.70281,10.38728,112
+741,Torre,Piscina Comunale Camalich,route_34,43.70279,10.38731,113
+742,Torre,Piscina Comunale Camalich,route_34,43.70243,10.38759,114
+743,Torre,Piscina Comunale Camalich,route_34,43.70218,10.38777,115
+744,Torre,Piscina Comunale Camalich,route_34,43.70152,10.38831,116
+745,Torre,Piscina Comunale Camalich,route_34,43.7013,10.38846,117
+746,Torre,Piscina Comunale Camalich,route_34,43.70116,10.38855,118
+747,Torre,Piscina Comunale Camalich,route_34,43.70098,10.38865,119
+748,Torre,Piscina Comunale Camalich,route_34,43.70059,10.38883,120
+749,Torre,Piscina Comunale Camalich,route_34,43.70017,10.38897,121
+750,Torre,Piscina Comunale Camalich,route_34,43.69995,10.38902,122
+751,Torre,Piscina Comunale Camalich,route_34,43.69977,10.38903,123
+752,Torre,Piscina Comunale Camalich,route_34,43.69955,10.38901,124
+753,Torre,Piscina Comunale Camalich,route_34,43.69951,10.38899,125
+754,Torre,Piscina Comunale Camalich,route_34,43.69947,10.38899,126
+755,Torre,Piscina Comunale Camalich,route_34,43.69944,10.389,127
+756,Torre,Piscina Comunale Camalich,route_34,43.6994,10.38904,128
+757,Torre,Piscina Comunale Camalich,route_34,43.6992,10.38905,129
+758,Torre,Piscina Comunale Camalich,route_34,43.69895,10.38902,130
+759,Torre,Piscina Comunale Camalich,route_34,43.69871,10.38897,131
+760,Torre,Piscina Comunale Camalich,route_34,43.6985,10.38892,132
+761,Torre,Piscina Comunale Camalich,route_34,43.69794,10.38869,133
+762,Torre,Piscina Comunale Camalich,route_34,43.69779,10.38864,134
+763,Torre,Piscina Comunale Camalich,route_34,43.69653,10.38806,135
+764,Torre,Piscina Comunale Camalich,route_34,43.69642,10.38798,136
+765,Torre,Piscina Comunale Camalich,route_34,43.69637,10.38793,137
+766,Torre,Piscina Comunale Camalich,route_34,43.69631,10.38782,138
+767,Torre,Piscina Comunale Camalich,route_34,43.69629,10.38777,139
+768,Torre,Piscina Comunale Camalich,route_34,43.69626,10.38767,140
+769,Torre,Piscina Comunale Camalich,route_34,43.69619,10.38759,141
+770,Torre,Piscina Comunale Camalich,route_34,43.69611,10.38755,142
+771,Torre,Piscina Comunale Camalich,route_34,43.69602,10.38756,143
+772,Torre,Piscina Comunale Camalich,route_34,43.69594,10.38762,144
+773,Torre,Piscina Comunale Camalich,route_34,43.69591,10.38766,145
+774,Torre,Piscina Comunale Camalich,route_34,43.69575,10.38767,146
+775,Torre,Piscina Comunale Camalich,route_34,43.69557,10.38764,147
+776,Torre,Piscina Comunale Camalich,route_34,43.69351,10.38675,148
+777,Torre,Piscina Comunale Camalich,route_34,43.69179,10.38598,149
+778,Torre,Piscina Comunale Camalich,route_34,43.69153,10.38584,150
+779,Torre,Piscina Comunale Camalich,route_34,43.69145,10.38577,151
+780,Torre,Piscina Comunale Camalich,route_34,43.69134,10.38566,152
+781,Torre,Piscina Comunale Camalich,route_34,43.69113,10.38537,153
+782,Torre,Piscina Comunale Camalich,route_34,43.6911,10.3853,154
+783,Torre,Piscina Comunale Camalich,route_34,43.69105,10.38526,155
+784,Torre,Piscina Comunale Camalich,route_34,43.69101,10.38525,156
+785,Torre,Piscina Comunale Camalich,route_34,43.69095,10.38527,157
+786,Torre,Piscina Comunale Camalich,route_34,43.69054,10.38527,158
+787,Torre,Piscina Comunale Camalich,route_34,43.69038,10.38522,159
+788,Torre,Piscina Comunale Camalich,route_34,43.69027,10.38517,160
+789,Torre,Piscina Comunale Camalich,route_34,43.6866,10.38313,161
+790,Torre,Conad Pian di Marco,route_35,43.723,10.39797,0
+791,Torre,Conad Pian di Marco,route_35,43.72234,10.40105,1
+792,Torre,Conad Pian di Marco,route_35,43.72221,10.40159,2
+793,Torre,Conad Pian di Marco,route_35,43.72219,10.4017,3
+794,Torre,Conad Pian di Marco,route_35,43.72265,10.40173,4
+795,Torre,Conad Pian di Marco,route_35,43.72284,10.40176,5
+796,Torre,Conad Pian di Marco,route_35,43.72347,10.39894,6
+797,Torre,Conad Pian di Marco,route_35,43.72359,10.39853,7
+798,Torre,Conad Pian di Marco,route_35,43.724,10.39723,8
+799,Torre,Conad Pian di Marco,route_35,43.72409,10.39685,9
+800,Torre,Conad Pian di Marco,route_35,43.72469,10.39364,10
+801,Torre,Conad Pian di Marco,route_35,43.7249,10.3925,11
+802,Torre,Conad Pian di Marco,route_35,43.72495,10.39213,12
+803,Torre,Conad Pian di Marco,route_35,43.72497,10.39193,13
+804,Torre,Conad Pian di Marco,route_35,43.72494,10.39137,14
+805,Torre,Conad Pian di Marco,route_35,43.72498,10.39135,15
+806,Torre,Conad Pian di Marco,route_35,43.72501,10.39131,16
+807,Torre,Conad Pian di Marco,route_35,43.72501,10.39126,17
+808,Torre,Conad Pian di Marco,route_35,43.72501,10.39123,18
+809,Torre,Conad Pian di Marco,route_35,43.725,10.39119,19
+810,Torre,Conad Pian di Marco,route_35,43.72496,10.39116,20
+811,Torre,Conad Pian di Marco,route_35,43.72493,10.39115,21
+812,Torre,Conad Pian di Marco,route_35,43.7249,10.39116,22
+813,Torre,Conad Pian di Marco,route_35,43.72435,10.38669,23
+814,Torre,Conad Pian di Marco,route_35,43.72391,10.38318,24
+815,Torre,Conad Pian di Marco,route_35,43.7237,10.38149,25
+816,Torre,Conad Pian di Marco,route_35,43.72353,10.37997,26
+817,Torre,Conad Pian di Marco,route_35,43.72352,10.37959,27
+818,Torre,Conad Pian di Marco,route_35,43.72353,10.37953,28
+819,Torre,Conad Pian di Marco,route_35,43.72356,10.37946,29
+820,Torre,Conad Pian di Marco,route_35,43.72356,10.37941,30
+821,Torre,Conad Pian di Marco,route_35,43.72356,10.37936,31
+822,Torre,Conad Pian di Marco,route_35,43.72354,10.37931,32
+823,Torre,Conad Pian di Marco,route_35,43.72352,10.37927,33
+824,Torre,Conad Pian di Marco,route_35,43.72349,10.37925,34
+825,Torre,Conad Pian di Marco,route_35,43.72345,10.37923,35
+826,Torre,Conad Pian di Marco,route_35,43.72341,10.37924,36
+827,Torre,Conad Pian di Marco,route_35,43.72338,10.37925,37
+828,Torre,Conad Pian di Marco,route_35,43.72335,10.37929,38
+829,Torre,Conad Pian di Marco,route_35,43.72326,10.37945,39
+830,Torre,Conad Pian di Marco,route_35,43.72318,10.37955,40
+831,Torre,Conad Pian di Marco,route_35,43.72295,10.3797,41
+832,Torre,Conad Pian di Marco,route_35,43.71749,10.38194,42
+833,Torre,Conad Pian di Marco,route_35,43.71746,10.38193,43
+834,Torre,Conad Pian di Marco,route_35,43.7173,10.38192,44
+835,Torre,Conad Pian di Marco,route_35,43.71717,10.38189,45
+836,Torre,Conad Pian di Marco,route_35,43.71714,10.38183,46
+837,Torre,Conad Pian di Marco,route_35,43.71711,10.3818,47
+838,Torre,Conad Pian di Marco,route_35,43.71708,10.38179,48
+839,Torre,Conad Pian di Marco,route_35,43.71703,10.38179,49
+840,Torre,Conad Pian di Marco,route_35,43.71699,10.38181,50
+841,Torre,Conad Pian di Marco,route_35,43.71696,10.38184,51
+842,Torre,Conad Pian di Marco,route_35,43.71694,10.38189,52
+843,Torre,Conad Pian di Marco,route_35,43.71692,10.38195,53
+844,Torre,Conad Pian di Marco,route_35,43.71692,10.382,54
+845,Torre,Conad Pian di Marco,route_35,43.71688,10.38212,55
+846,Torre,Conad Pian di Marco,route_35,43.71683,10.38219,56
+847,Torre,Conad Pian di Marco,route_35,43.71678,10.38224,57
+848,Torre,Conad Pian di Marco,route_35,43.71586,10.38263,58
+849,Torre,Conad Pian di Marco,route_35,43.71348,10.38361,59
+850,Torre,Conad Pian di Marco,route_35,43.7133,10.38364,60
+851,Torre,Conad Pian di Marco,route_35,43.71318,10.38364,61
+852,Torre,Conad Pian di Marco,route_35,43.71306,10.38361,62
+853,Torre,Conad Pian di Marco,route_35,43.71292,10.38355,63
+854,Torre,Conad Pian di Marco,route_35,43.71286,10.38351,64
+855,Torre,Conad Pian di Marco,route_35,43.71285,10.38347,65
+856,Torre,Conad Pian di Marco,route_35,43.7128,10.38342,66
+857,Torre,Conad Pian di Marco,route_35,43.71277,10.38341,67
+858,Torre,Conad Pian di Marco,route_35,43.71271,10.3834,68
+859,Torre,Conad Pian di Marco,route_35,43.71267,10.38342,69
+860,Torre,Conad Pian di Marco,route_35,43.71264,10.38346,70
+861,Torre,Conad Pian di Marco,route_35,43.71262,10.38349,71
+862,Torre,Conad Pian di Marco,route_35,43.7126,10.38353,72
+863,Torre,Conad Pian di Marco,route_35,43.71259,10.3836,73
+864,Torre,Conad Pian di Marco,route_35,43.71256,10.3837,74
+865,Torre,Conad Pian di Marco,route_35,43.71252,10.38376,75
+866,Torre,Conad Pian di Marco,route_35,43.71243,10.38387,76
+867,Torre,Conad Pian di Marco,route_35,43.71233,10.38396,77
+868,Torre,Conad Pian di Marco,route_35,43.71215,10.3841,78
+869,Torre,Conad Pian di Marco,route_35,43.71177,10.38429,79
+870,Torre,Conad Pian di Marco,route_35,43.71172,10.38437,80
+871,Torre,Conad Pian di Marco,route_35,43.71106,10.38465,81
+872,Torre,Conad Pian di Marco,route_35,43.71043,10.3849,82
+873,Torre,Conad Pian di Marco,route_35,43.70998,10.38502,83
+874,Torre,Conad Pian di Marco,route_35,43.70928,10.38523,84
+875,Torre,Conad Pian di Marco,route_35,43.70908,10.38529,85
+876,Torre,Conad Pian di Marco,route_35,43.70895,10.38528,86
+877,Torre,Conad Pian di Marco,route_35,43.70886,10.38525,87
+878,Torre,Conad Pian di Marco,route_35,43.70882,10.38519,88
+879,Torre,Conad Pian di Marco,route_35,43.70878,10.38515,89
+880,Torre,Conad Pian di Marco,route_35,43.70871,10.38514,90
+881,Torre,Conad Pian di Marco,route_35,43.70865,10.38515,91
+882,Torre,Conad Pian di Marco,route_35,43.70861,10.3852,92
+883,Torre,Conad Pian di Marco,route_35,43.70859,10.38527,93
+884,Torre,Conad Pian di Marco,route_35,43.70852,10.38534,94
+885,Torre,Conad Pian di Marco,route_35,43.70847,10.38539,95
+886,Torre,Conad Pian di Marco,route_35,43.70842,10.38541,96
+887,Torre,Conad Pian di Marco,route_35,43.70751,10.38564,97
+888,Torre,Conad Pian di Marco,route_35,43.70737,10.38569,98
+889,Torre,Conad Pian di Marco,route_35,43.70729,10.38573,99
+890,Torre,Conad Pian di Marco,route_35,43.70409,10.38652,100
+891,Torre,Conad Pian di Marco,route_35,43.70371,10.3866,101
+892,Torre,Conad Pian di Marco,route_35,43.70339,10.38672,102
+893,Torre,Conad Pian di Marco,route_35,43.70325,10.38673,103
+894,Torre,Conad Pian di Marco,route_35,43.7031,10.3867,104
+895,Torre,Conad Pian di Marco,route_35,43.70306,10.38666,105
+896,Torre,Conad Pian di Marco,route_35,43.70303,10.38665,106
+897,Torre,Conad Pian di Marco,route_35,43.70297,10.38666,107
+898,Torre,Conad Pian di Marco,route_35,43.70292,10.3867,108
+899,Torre,Conad Pian di Marco,route_35,43.70289,10.38677,109
+900,Torre,Conad Pian di Marco,route_35,43.70289,10.38685,110
+901,Torre,Conad Pian di Marco,route_35,43.70284,10.38717,111
+902,Torre,Conad Pian di Marco,route_35,43.70281,10.38728,112
+903,Torre,Conad Pian di Marco,route_35,43.70279,10.38731,113
+904,Torre,Conad Pian di Marco,route_35,43.70275,10.38734,114
+905,Torre,Conad Pian di Marco,route_35,43.70264,10.38743,115
+906,Torre,Hotel Galilei Pisa,route_36,43.723,10.39797,0
+907,Torre,Hotel Galilei Pisa,route_36,43.72234,10.40105,1
+908,Torre,Hotel Galilei Pisa,route_36,43.72221,10.40159,2
+909,Torre,Hotel Galilei Pisa,route_36,43.72219,10.4017,3
+910,Torre,Hotel Galilei Pisa,route_36,43.72265,10.40173,4
+911,Torre,Hotel Galilei Pisa,route_36,43.72284,10.40176,5
+912,Torre,Hotel Galilei Pisa,route_36,43.72347,10.39894,6
+913,Torre,Hotel Galilei Pisa,route_36,43.72359,10.39853,7
+914,Torre,Hotel Galilei Pisa,route_36,43.724,10.39723,8
+915,Torre,Hotel Galilei Pisa,route_36,43.72409,10.39685,9
+916,Torre,Hotel Galilei Pisa,route_36,43.72469,10.39364,10
+917,Torre,Hotel Galilei Pisa,route_36,43.7249,10.3925,11
+918,Torre,Hotel Galilei Pisa,route_36,43.72495,10.39213,12
+919,Torre,Hotel Galilei Pisa,route_36,43.72497,10.39193,13
+920,Torre,Hotel Galilei Pisa,route_36,43.72494,10.39137,14
+921,Torre,Hotel Galilei Pisa,route_36,43.72498,10.39135,15
+922,Torre,Hotel Galilei Pisa,route_36,43.72501,10.39131,16
+923,Torre,Hotel Galilei Pisa,route_36,43.72501,10.39126,17
+924,Torre,Hotel Galilei Pisa,route_36,43.72501,10.39123,18
+925,Torre,Hotel Galilei Pisa,route_36,43.725,10.39119,19
+926,Torre,Hotel Galilei Pisa,route_36,43.72496,10.39116,20
+927,Torre,Hotel Galilei Pisa,route_36,43.72493,10.39115,21
+928,Torre,Hotel Galilei Pisa,route_36,43.7249,10.39116,22
+929,Torre,Hotel Galilei Pisa,route_36,43.72435,10.38669,23
+930,Torre,Hotel Galilei Pisa,route_36,43.72391,10.38318,24
+931,Torre,Hotel Galilei Pisa,route_36,43.7237,10.38149,25
+932,Torre,Hotel Galilei Pisa,route_36,43.72353,10.37997,26
+933,Torre,Hotel Galilei Pisa,route_36,43.72352,10.37959,27
+934,Torre,Hotel Galilei Pisa,route_36,43.72353,10.37953,28
+935,Torre,Hotel Galilei Pisa,route_36,43.72356,10.37946,29
+936,Torre,Hotel Galilei Pisa,route_36,43.72356,10.37941,30
+937,Torre,Hotel Galilei Pisa,route_36,43.72356,10.37936,31
+938,Torre,Hotel Galilei Pisa,route_36,43.72354,10.37931,32
+939,Torre,Hotel Galilei Pisa,route_36,43.72352,10.37927,33
+940,Torre,Hotel Galilei Pisa,route_36,43.72349,10.37925,34
+941,Torre,Hotel Galilei Pisa,route_36,43.72345,10.37923,35
+942,Torre,Hotel Galilei Pisa,route_36,43.72341,10.37924,36
+943,Torre,Hotel Galilei Pisa,route_36,43.72338,10.37925,37
+944,Torre,Hotel Galilei Pisa,route_36,43.72335,10.37929,38
+945,Torre,Hotel Galilei Pisa,route_36,43.72326,10.37945,39
+946,Torre,Hotel Galilei Pisa,route_36,43.72318,10.37955,40
+947,Torre,Hotel Galilei Pisa,route_36,43.72295,10.3797,41
+948,Torre,Hotel Galilei Pisa,route_36,43.71749,10.38194,42
+949,Torre,Hotel Galilei Pisa,route_36,43.71746,10.38193,43
+950,Torre,Hotel Galilei Pisa,route_36,43.7173,10.38192,44
+951,Torre,Hotel Galilei Pisa,route_36,43.71717,10.38189,45
+952,Torre,Hotel Galilei Pisa,route_36,43.71714,10.38183,46
+953,Torre,Hotel Galilei Pisa,route_36,43.71711,10.3818,47
+954,Torre,Hotel Galilei Pisa,route_36,43.71708,10.38179,48
+955,Torre,Hotel Galilei Pisa,route_36,43.71703,10.38179,49
+956,Torre,Hotel Galilei Pisa,route_36,43.71699,10.38181,50
+957,Torre,Hotel Galilei Pisa,route_36,43.71696,10.38184,51
+958,Torre,Hotel Galilei Pisa,route_36,43.71694,10.38189,52
+959,Torre,Hotel Galilei Pisa,route_36,43.71692,10.38195,53
+960,Torre,Hotel Galilei Pisa,route_36,43.71692,10.382,54
+961,Torre,Hotel Galilei Pisa,route_36,43.71688,10.38212,55
+962,Torre,Hotel Galilei Pisa,route_36,43.71683,10.38219,56
+963,Torre,Hotel Galilei Pisa,route_36,43.71678,10.38224,57
+964,Torre,Hotel Galilei Pisa,route_36,43.71586,10.38263,58
+965,Torre,Hotel Galilei Pisa,route_36,43.71348,10.38361,59
+966,Torre,Hotel Galilei Pisa,route_36,43.7133,10.38364,60
+967,Torre,Hotel Galilei Pisa,route_36,43.71318,10.38364,61
+968,Torre,Hotel Galilei Pisa,route_36,43.71306,10.38361,62
+969,Torre,Hotel Galilei Pisa,route_36,43.71292,10.38355,63
+970,Torre,Hotel Galilei Pisa,route_36,43.71286,10.38351,64
+971,Torre,Hotel Galilei Pisa,route_36,43.71285,10.38347,65
+972,Torre,Hotel Galilei Pisa,route_36,43.7128,10.38342,66
+973,Torre,Hotel Galilei Pisa,route_36,43.71277,10.38341,67
+974,Torre,Hotel Galilei Pisa,route_36,43.71271,10.3834,68
+975,Torre,Hotel Galilei Pisa,route_36,43.71267,10.38342,69
+976,Torre,Hotel Galilei Pisa,route_36,43.71264,10.38346,70
+977,Torre,Hotel Galilei Pisa,route_36,43.71262,10.38349,71
+978,Torre,Hotel Galilei Pisa,route_36,43.7126,10.38353,72
+979,Torre,Hotel Galilei Pisa,route_36,43.71259,10.3836,73
+980,Torre,Hotel Galilei Pisa,route_36,43.71256,10.3837,74
+981,Torre,Hotel Galilei Pisa,route_36,43.71252,10.38376,75
+982,Torre,Hotel Galilei Pisa,route_36,43.71243,10.38387,76
+983,Torre,Hotel Galilei Pisa,route_36,43.71233,10.38396,77
+984,Torre,Hotel Galilei Pisa,route_36,43.71215,10.3841,78
+985,Torre,Hotel Galilei Pisa,route_36,43.71177,10.38429,79
+986,Torre,Hotel Galilei Pisa,route_36,43.71172,10.38437,80
+987,Torre,Hotel Galilei Pisa,route_36,43.71106,10.38465,81
+988,Torre,Hotel Galilei Pisa,route_36,43.71043,10.3849,82
+989,Torre,Hotel Galilei Pisa,route_36,43.70998,10.38502,83
+990,Torre,Hotel Galilei Pisa,route_36,43.70928,10.38523,84
+991,Torre,Hotel Galilei Pisa,route_36,43.70908,10.38529,85
+992,Torre,Hotel Galilei Pisa,route_36,43.70895,10.38528,86
+993,Torre,Hotel Galilei Pisa,route_36,43.70886,10.38525,87
+994,Torre,Hotel Galilei Pisa,route_36,43.70882,10.38519,88
+995,Torre,Hotel Galilei Pisa,route_36,43.70878,10.38515,89
+996,Torre,Hotel Galilei Pisa,route_36,43.70871,10.38514,90
+997,Torre,Hotel Galilei Pisa,route_36,43.70865,10.38515,91
+998,Torre,Hotel Galilei Pisa,route_36,43.70861,10.3852,92
+999,Torre,Hotel Galilei Pisa,route_36,43.70859,10.38527,93
+1000,Torre,Hotel Galilei Pisa,route_36,43.70852,10.38534,94
+1001,Torre,Hotel Galilei Pisa,route_36,43.70847,10.38539,95
+1002,Torre,Hotel Galilei Pisa,route_36,43.70842,10.38541,96
+1003,Torre,Hotel Galilei Pisa,route_36,43.70751,10.38564,97
+1004,Torre,Hotel Galilei Pisa,route_36,43.70737,10.38569,98
+1005,Torre,Hotel Galilei Pisa,route_36,43.70729,10.38573,99
+1006,Torre,Hotel Galilei Pisa,route_36,43.70409,10.38652,100
+1007,Torre,Hotel Galilei Pisa,route_36,43.70371,10.3866,101
+1008,Torre,Hotel Galilei Pisa,route_36,43.70339,10.38672,102
+1009,Torre,Hotel Galilei Pisa,route_36,43.70325,10.38673,103
+1010,Torre,Hotel Galilei Pisa,route_36,43.7031,10.3867,104
+1011,Torre,Hotel Galilei Pisa,route_36,43.70306,10.38666,105
+1012,Torre,Hotel Galilei Pisa,route_36,43.70303,10.38665,106
+1013,Torre,Hotel Galilei Pisa,route_36,43.70297,10.38666,107
+1014,Torre,Hotel Galilei Pisa,route_36,43.70292,10.3867,108
+1015,Torre,Hotel Galilei Pisa,route_36,43.70289,10.38677,109
+1016,Torre,Hotel Galilei Pisa,route_36,43.70289,10.38685,110
+1017,Torre,Hotel Galilei Pisa,route_36,43.70284,10.38717,111
+1018,Torre,Hotel Galilei Pisa,route_36,43.70281,10.38728,112
+1019,Torre,Hotel Galilei Pisa,route_36,43.70279,10.38731,113
+1020,Torre,Hotel Galilei Pisa,route_36,43.70243,10.38759,114
+1021,Torre,Hotel Galilei Pisa,route_36,43.70218,10.38777,115
+1022,Torre,Hotel Galilei Pisa,route_36,43.70152,10.38831,116
+1023,Torre,Hotel Galilei Pisa,route_36,43.7013,10.38846,117
+1024,Torre,Hotel Galilei Pisa,route_36,43.70116,10.38855,118
+1025,Torre,Hotel Galilei Pisa,route_36,43.70098,10.38865,119
+1026,Torre,Hotel Galilei Pisa,route_36,43.70059,10.38883,120
+1027,Torre,Hotel Galilei Pisa,route_36,43.70017,10.38897,121
+1028,Torre,Hotel Galilei Pisa,route_36,43.69995,10.38902,122
+1029,Torre,Hotel Galilei Pisa,route_36,43.69977,10.38903,123
+1030,Torre,Hotel Galilei Pisa,route_36,43.69955,10.38901,124
+1031,Torre,Hotel Galilei Pisa,route_36,43.69951,10.38899,125
+1032,Torre,Hotel Galilei Pisa,route_36,43.69947,10.38899,126
+1033,Torre,Hotel Galilei Pisa,route_36,43.69944,10.389,127
+1034,Torre,Hotel Galilei Pisa,route_36,43.6994,10.38904,128
+1035,Torre,Hotel Galilei Pisa,route_36,43.6992,10.38905,129
+1036,Torre,Hotel Galilei Pisa,route_36,43.69895,10.38902,130
+1037,Torre,Hotel Galilei Pisa,route_36,43.69871,10.38897,131
+1038,Torre,Hotel Galilei Pisa,route_36,43.6985,10.38892,132
+1039,Torre,Hotel Galilei Pisa,route_36,43.69794,10.38869,133
+1040,Torre,Hotel Galilei Pisa,route_36,43.69779,10.38864,134
+1041,Torre,Hotel Galilei Pisa,route_36,43.69653,10.38806,135
+1042,Torre,Hotel Galilei Pisa,route_36,43.69642,10.38798,136
+1043,Torre,Hotel Galilei Pisa,route_36,43.69637,10.38793,137
+1044,Torre,Hotel Galilei Pisa,route_36,43.69631,10.38782,138
+1045,Torre,Hotel Galilei Pisa,route_36,43.69629,10.38777,139
+1046,Torre,Hotel Galilei Pisa,route_36,43.69626,10.38767,140
+1047,Torre,Hotel Galilei Pisa,route_36,43.69619,10.38759,141
+1048,Torre,Hotel Galilei Pisa,route_36,43.69611,10.38755,142
+1049,Torre,Hotel Galilei Pisa,route_36,43.69602,10.38756,143
+1050,Torre,Hotel Galilei Pisa,route_36,43.69594,10.38762,144
+1051,Torre,Hotel Galilei Pisa,route_36,43.69591,10.38766,145
+1052,Torre,Hotel Galilei Pisa,route_36,43.69575,10.38767,146
+1053,Torre,Hotel Galilei Pisa,route_36,43.69557,10.38764,147
+1054,Torre,Hotel Galilei Pisa,route_36,43.69324,10.38662,148
+1055,Torre,Pizzeria Pisanova,route_37,43.723,10.39797,0
+1056,Torre,Pizzeria Pisanova,route_37,43.72234,10.40105,1
+1057,Torre,Pizzeria Pisanova,route_37,43.72192,10.40081,2
+1058,Torre,Pizzeria Pisanova,route_37,43.72203,10.40033,3
+1059,Torre,Pizzeria Pisanova,route_37,43.72205,10.40016,4
+1060,Torre,Pizzeria Pisanova,route_37,43.72206,10.40001,5
+1061,Torre,Pizzeria Pisanova,route_37,43.72206,10.39996,6
+1062,Torre,Pizzeria Pisanova,route_37,43.72204,10.39988,7
+1063,Torre,Pizzeria Pisanova,route_37,43.72202,10.39984,8
+1064,Torre,Pizzeria Pisanova,route_37,43.72183,10.3998,9
+1065,Torre,Pizzeria Pisanova,route_37,43.72177,10.39971,10
+1066,Torre,Pizzeria Pisanova,route_37,43.72184,10.3996,11
+1067,Torre,Pizzeria Pisanova,route_37,43.72192,10.39922,12
+1068,Torre,Pizzeria Pisanova,route_37,43.72087,10.39909,13
+1069,Torre,Pizzeria Pisanova,route_37,43.72061,10.39904,14
+1070,Torre,Pizzeria Pisanova,route_37,43.72018,10.39904,15
+1071,Torre,Pizzeria Pisanova,route_37,43.72,10.39899,16
+1072,Torre,Pizzeria Pisanova,route_37,43.71982,10.39891,17
+1073,Torre,Pizzeria Pisanova,route_37,43.71986,10.39878,18
+1074,Torre,Pizzeria Pisanova,route_37,43.7199,10.39829,19
+1075,Torre,Pizzeria Pisanova,route_37,43.71991,10.39776,20
+1076,Torre,Pizzeria Pisanova,route_37,43.71991,10.39756,21
+1077,Torre,Pizzeria Pisanova,route_37,43.71988,10.39736,22
+1078,Torre,Pizzeria Pisanova,route_37,43.71941,10.39745,23
+1079,Torre,Pizzeria Pisanova,route_37,43.71914,10.39747,24
+1080,Torre,Pizzeria Pisanova,route_37,43.71903,10.39744,25
+1081,Torre,Pizzeria Pisanova,route_37,43.71857,10.39719,26
+1082,Torre,Pizzeria Pisanova,route_37,43.71813,10.39693,27
+1083,Torre,Pizzeria Pisanova,route_37,43.71753,10.39652,28
+1084,Torre,Pizzeria Pisanova,route_37,43.71738,10.39644,29
+1085,Torre,Pizzeria Pisanova,route_37,43.71723,10.39637,30
+1086,Torre,Pizzeria Pisanova,route_37,43.71703,10.39635,31
+1087,Torre,Pizzeria Pisanova,route_37,43.7169,10.39635,32
+1088,Torre,Pizzeria Pisanova,route_37,43.71674,10.39637,33
+1089,Torre,Pizzeria Pisanova,route_37,43.71614,10.3966,34
+1090,Torre,Pizzeria Pisanova,route_37,43.71632,10.39747,35
+1091,Torre,Pizzeria Pisanova,route_37,43.71652,10.39855,36
+1092,Torre,Pizzeria Pisanova,route_37,43.71656,10.39883,37
+1093,Torre,Pizzeria Pisanova,route_37,43.71661,10.39923,38
+1094,Torre,Pizzeria Pisanova,route_37,43.71663,10.39955,39
+1095,Torre,Pizzeria Pisanova,route_37,43.71664,10.39989,40
+1096,Torre,Pizzeria Pisanova,route_37,43.71662,10.40025,41
+1097,Torre,Pizzeria Pisanova,route_37,43.71658,10.40067,42
+1098,Torre,Pizzeria Pisanova,route_37,43.71649,10.40126,43
+1099,Torre,Pizzeria Pisanova,route_37,43.71641,10.40165,44
+1100,Torre,Pizzeria Pisanova,route_37,43.71628,10.40215,45
+1101,Torre,Pizzeria Pisanova,route_37,43.71557,10.40465,46
+1102,Torre,Pizzeria Pisanova,route_37,43.71546,10.40496,47
+1103,Torre,Pizzeria Pisanova,route_37,43.71525,10.40549,48
+1104,Torre,Pizzeria Pisanova,route_37,43.71463,10.40691,49
+1105,Torre,Pizzeria Pisanova,route_37,43.71415,10.40796,50
+1106,Torre,Pizzeria Pisanova,route_37,43.71397,10.40838,51
+1107,Torre,Pizzeria Pisanova,route_37,43.71384,10.40863,52
+1108,Torre,Pizzeria Pisanova,route_37,43.71382,10.40869,53
+1109,Torre,Pizzeria Pisanova,route_37,43.71375,10.40881,54
+1110,Torre,Pizzeria Pisanova,route_37,43.71363,10.40896,55
+1111,Torre,Pizzeria Pisanova,route_37,43.71343,10.40916,56
+1112,Torre,Pizzeria Pisanova,route_37,43.71329,10.40926,57
+1113,Torre,Pizzeria Pisanova,route_37,43.71311,10.40938,58
+1114,Torre,Pizzeria Pisanova,route_37,43.71297,10.40944,59
+1115,Torre,Pizzeria Pisanova,route_37,43.71286,10.40947,60
+1116,Torre,Pizzeria Pisanova,route_37,43.71141,10.40947,61
+1117,Torre,Pizzeria Pisanova,route_37,43.71076,10.40944,62
+1118,Torre,Pizzeria Pisanova,route_37,43.71059,10.40962,63
+1119,Torre,Pizzeria Pisanova,route_37,43.71028,10.41003,64
+1120,Torre,Pizzeria Pisanova,route_37,43.7102,10.41008,65
+1121,Torre,Pizzeria Pisanova,route_37,43.71011,10.41009,66
+1122,Torre,Pizzeria Pisanova,route_37,43.71006,10.41009,67
+1123,Torre,Pizzeria Pisanova,route_37,43.71002,10.41005,68
+1124,Torre,Pizzeria Pisanova,route_37,43.70996,10.41004,69
+1125,Torre,Pizzeria Pisanova,route_37,43.70992,10.41005,70
+1126,Torre,Pizzeria Pisanova,route_37,43.70987,10.41009,71
+1127,Torre,Pizzeria Pisanova,route_37,43.70983,10.41016,72
+1128,Torre,Pizzeria Pisanova,route_37,43.70982,10.41022,73
+1129,Torre,Pizzeria Pisanova,route_37,43.70983,10.4103,74
+1130,Torre,Pizzeria Pisanova,route_37,43.70985,10.41035,75
+1131,Torre,Pizzeria Pisanova,route_37,43.70988,10.4104,76
+1132,Torre,Pizzeria Pisanova,route_37,43.70993,10.41076,77
+1133,Torre,Pizzeria Pisanova,route_37,43.7099,10.41147,78
+1134,Torre,Pizzeria Pisanova,route_37,43.70991,10.41172,79
+1135,Torre,Pizzeria Pisanova,route_37,43.70992,10.41199,80
+1136,Torre,Pizzeria Pisanova,route_37,43.70997,10.41245,81
+1137,Torre,Pizzeria Pisanova,route_37,43.71009,10.41323,82

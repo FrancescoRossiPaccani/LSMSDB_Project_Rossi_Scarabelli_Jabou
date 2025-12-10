@@ -1,0 +1,607 @@
+id,start,end,route_id,lat,lon,idx
+15205,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.7272,10.41538,0
+15206,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.7266,10.41445,1
+15207,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72601,10.41349,2
+15208,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72588,10.41326,3
+15209,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72575,10.41297,4
+15210,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72559,10.41258,5
+15211,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72526,10.41164,6
+15212,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.7251,10.41115,7
+15213,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72505,10.41095,8
+15214,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72478,10.40975,9
+15215,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72468,10.40937,10
+15216,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72467,10.4092,11
+15217,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72467,10.4091,12
+15218,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72471,10.40903,13
+15219,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72472,10.40896,14
+15220,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72471,10.40886,15
+15221,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72467,10.40879,16
+15222,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72462,10.40875,17
+15223,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72455,10.40875,18
+15224,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72447,10.40862,19
+15225,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72441,10.40848,20
+15226,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72438,10.4084,21
+15227,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72411,10.40731,22
+15228,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72371,10.40559,23
+15229,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72284,10.40176,24
+15230,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72347,10.39894,25
+15231,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72359,10.39853,26
+15232,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.724,10.39723,27
+15233,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72409,10.39685,28
+15234,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72469,10.39364,29
+15235,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.7249,10.3925,30
+15236,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72495,10.39213,31
+15237,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72497,10.39193,32
+15238,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72494,10.39137,33
+15239,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72498,10.39135,34
+15240,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72501,10.39131,35
+15241,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72501,10.39126,36
+15242,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72501,10.39123,37
+15243,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.725,10.39119,38
+15244,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72496,10.39116,39
+15245,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72493,10.39115,40
+15246,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.7249,10.39116,41
+15247,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72487,10.39119,42
+15248,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72486,10.39123,43
+15249,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72486,10.3913,44
+15250,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72369,10.3919,45
+15251,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72306,10.39219,46
+15252,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72295,10.39222,47
+15253,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72283,10.39223,48
+15254,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72264,10.3922,49
+15255,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72197,10.39191,50
+15256,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.7218,10.39181,51
+15257,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.72147,10.39162,52
+15258,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71818,10.38945,53
+15259,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.716,10.38799,54
+15260,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71589,10.38791,55
+15261,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71573,10.38784,56
+15262,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71563,10.38783,57
+15263,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71552,10.38782,58
+15264,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71541,10.38785,59
+15265,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71368,10.38866,60
+15266,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71357,10.38868,61
+15267,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71349,10.38872,62
+15268,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71344,10.38876,63
+15269,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71341,10.38881,64
+15270,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71339,10.38884,65
+15271,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71339,10.38889,66
+15272,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71339,10.38899,67
+15273,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71344,10.38914,68
+15274,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71369,10.38974,69
+15275,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.7137,10.38993,70
+15276,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71364,10.39007,71
+15277,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71359,10.39014,72
+15278,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.7135,10.39022,73
+15279,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71236,10.39115,74
+15280,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71187,10.39133,75
+15281,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71179,10.39138,76
+15282,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71169,10.39143,77
+15283,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71166,10.3914,78
+15284,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71162,10.39139,79
+15285,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71158,10.39142,80
+15286,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71133,10.39152,81
+15287,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71093,10.39162,82
+15288,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71082,10.39166,83
+15289,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71072,10.39173,84
+15290,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71067,10.39179,85
+15291,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71063,10.39186,86
+15292,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71061,10.39193,87
+15293,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.7106,10.39206,88
+15294,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71058,10.39434,89
+15295,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71057,10.39451,90
+15296,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71054,10.39481,91
+15297,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71041,10.39568,92
+15298,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71036,10.39568,93
+15299,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71033,10.39573,94
+15300,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71032,10.3958,95
+15301,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71034,10.39585,96
+15302,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71038,10.39588,97
+15303,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71033,10.39616,98
+15304,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.71012,10.39608,99
+15305,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.70953,10.39581,100
+15306,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.70918,10.39565,101
+15307,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.70897,10.39558,102
+15308,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.70892,10.39609,103
+15309,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.70892,10.3962,104
+15310,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.70894,10.3963,105
+15311,Parcheggio Via Paparelli,Stazione Pisa Centrale,route_690,43.70875,10.39738,106
+15312,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.7272,10.41538,0
+15313,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.7266,10.41445,1
+15314,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72601,10.41349,2
+15315,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72588,10.41326,3
+15316,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72575,10.41297,4
+15317,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72559,10.41258,5
+15318,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72526,10.41164,6
+15319,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.7251,10.41115,7
+15320,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72505,10.41095,8
+15321,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72478,10.40975,9
+15322,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72468,10.40937,10
+15323,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72467,10.4092,11
+15324,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72467,10.4091,12
+15325,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72471,10.40903,13
+15326,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72472,10.40896,14
+15327,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72471,10.40886,15
+15328,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72467,10.40879,16
+15329,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72462,10.40875,17
+15330,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72455,10.40875,18
+15331,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72447,10.40862,19
+15332,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72441,10.40848,20
+15333,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72438,10.4084,21
+15334,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72414,10.40742,22
+15335,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.7241,10.40746,23
+15336,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72384,10.40783,24
+15337,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72372,10.40793,25
+15338,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72367,10.40794,26
+15339,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72365,10.40796,27
+15340,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72363,10.40801,28
+15341,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72363,10.40807,29
+15342,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72364,10.4081,30
+15343,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72367,10.40814,31
+15344,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72374,10.40833,32
+15345,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72374,10.40862,33
+15346,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72373,10.40865,34
+15347,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72368,10.40868,35
+15348,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72211,10.40906,36
+15349,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.722,10.4091,37
+15350,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72194,10.40914,38
+15351,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72187,10.4092,39
+15352,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72155,10.40964,40
+15353,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72097,10.4105,41
+15354,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.7207,10.41088,42
+15355,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72017,10.41165,43
+15356,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72015,10.41164,44
+15357,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72012,10.41164,45
+15358,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.72002,10.41157,46
+15359,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.71902,10.41072,47
+15360,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.71886,10.41055,48
+15361,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.71879,10.41046,49
+15362,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.71868,10.40905,50
+15363,Parcheggio Via Paparelli,Universita di Pisa,route_691,43.7186,10.40806,51
+15364,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.7272,10.41538,0
+15365,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.7266,10.41445,1
+15366,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72601,10.41349,2
+15367,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72588,10.41326,3
+15368,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72575,10.41297,4
+15369,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72559,10.41258,5
+15370,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72526,10.41164,6
+15371,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.7251,10.41115,7
+15372,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72505,10.41095,8
+15373,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72478,10.40975,9
+15374,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72468,10.40937,10
+15375,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72467,10.4092,11
+15376,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72467,10.4091,12
+15377,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72471,10.40903,13
+15378,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72472,10.40896,14
+15379,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72471,10.40886,15
+15380,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72467,10.40879,16
+15381,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72462,10.40875,17
+15382,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72455,10.40875,18
+15383,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72447,10.40862,19
+15384,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72441,10.40848,20
+15385,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72438,10.4084,21
+15386,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72414,10.40742,22
+15387,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.7241,10.40746,23
+15388,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72384,10.40783,24
+15389,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72372,10.40793,25
+15390,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72367,10.40794,26
+15391,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72365,10.40796,27
+15392,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72363,10.40801,28
+15393,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72363,10.40807,29
+15394,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72364,10.4081,30
+15395,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72367,10.40814,31
+15396,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72374,10.40833,32
+15397,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72374,10.40862,33
+15398,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72373,10.40865,34
+15399,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72368,10.40868,35
+15400,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72211,10.40906,36
+15401,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.722,10.4091,37
+15402,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72194,10.40914,38
+15403,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72187,10.4092,39
+15404,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72155,10.40964,40
+15405,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72097,10.4105,41
+15406,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.7207,10.41088,42
+15407,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72017,10.41165,43
+15408,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72015,10.41164,44
+15409,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72012,10.41164,45
+15410,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.72002,10.41157,46
+15411,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71902,10.41072,47
+15412,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71894,10.41071,48
+15413,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71888,10.41072,49
+15414,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71884,10.41077,50
+15415,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71883,10.41085,51
+15416,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71885,10.4111,52
+15417,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71926,10.41634,53
+15418,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71935,10.41737,54
+15419,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.7194,10.41822,55
+15420,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.7194,10.41833,56
+15421,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71936,10.41865,57
+15422,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71933,10.41881,58
+15423,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71929,10.41893,59
+15424,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71924,10.41903,60
+15425,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71916,10.41911,61
+15426,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71892,10.41922,62
+15427,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.7189,10.41921,63
+15428,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71889,10.41917,64
+15429,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71888,10.41913,65
+15430,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71869,10.41895,66
+15431,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71858,10.4188,67
+15432,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71841,10.41855,68
+15433,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71769,10.41735,69
+15434,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71713,10.41645,70
+15435,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71675,10.41587,71
+15436,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71621,10.41509,72
+15437,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71616,10.415,73
+15438,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71609,10.41484,74
+15439,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71578,10.41341,75
+15440,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71556,10.41263,76
+15441,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71553,10.41248,77
+15442,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71536,10.41169,78
+15443,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71492,10.40977,79
+15444,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71479,10.40916,80
+15445,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71478,10.40897,81
+15446,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.7147,10.40895,82
+15447,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71421,10.40873,83
+15448,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.7141,10.40867,84
+15449,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.7139,10.40851,85
+15450,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71307,10.40778,86
+15451,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.7136,10.40622,87
+15452,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71372,10.40591,88
+15453,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71412,10.40501,89
+15454,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71493,10.40327,90
+15455,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71526,10.4025,91
+15456,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.7154,10.40214,92
+15457,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71551,10.40181,93
+15458,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71566,10.40129,94
+15459,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.7157,10.40111,95
+15460,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71576,10.40067,96
+15461,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.7158,10.40037,97
+15462,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71551,10.40027,98
+15463,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71527,10.40016,99
+15464,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71522,10.40016,100
+15465,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71507,10.40011,101
+15466,Parcheggio Via Paparelli,Via Aretino Spinello 11,route_692,43.71498,10.40006,102
+15467,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.7272,10.41538,0
+15468,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.7266,10.41445,1
+15469,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72601,10.41349,2
+15470,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72588,10.41326,3
+15471,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72575,10.41297,4
+15472,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72559,10.41258,5
+15473,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72526,10.41164,6
+15474,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.7251,10.41115,7
+15475,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72505,10.41095,8
+15476,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72478,10.40975,9
+15477,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72468,10.40937,10
+15478,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72467,10.4092,11
+15479,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72467,10.4091,12
+15480,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72471,10.40903,13
+15481,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72472,10.40896,14
+15482,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72471,10.40886,15
+15483,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72467,10.40879,16
+15484,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72462,10.40875,17
+15485,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72455,10.40875,18
+15486,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72447,10.40862,19
+15487,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72441,10.40848,20
+15488,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72438,10.4084,21
+15489,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72414,10.40742,22
+15490,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.7241,10.40746,23
+15491,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72384,10.40783,24
+15492,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72372,10.40793,25
+15493,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72367,10.40794,26
+15494,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72365,10.40796,27
+15495,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72363,10.40801,28
+15496,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72363,10.40807,29
+15497,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72364,10.4081,30
+15498,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72367,10.40814,31
+15499,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72374,10.40833,32
+15500,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72374,10.40862,33
+15501,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72373,10.40865,34
+15502,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72368,10.40868,35
+15503,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72211,10.40906,36
+15504,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.722,10.4091,37
+15505,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72194,10.40914,38
+15506,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72187,10.4092,39
+15507,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72155,10.40964,40
+15508,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72097,10.4105,41
+15509,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.7207,10.41088,42
+15510,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72017,10.41165,43
+15511,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72015,10.41164,44
+15512,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72012,10.41164,45
+15513,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.72002,10.41157,46
+15514,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71902,10.41072,47
+15515,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71894,10.41071,48
+15516,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71888,10.41072,49
+15517,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71884,10.41077,50
+15518,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71883,10.41085,51
+15519,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71885,10.4111,52
+15520,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71926,10.41634,53
+15521,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71935,10.41737,54
+15522,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.7194,10.41822,55
+15523,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.7194,10.41833,56
+15524,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71936,10.41865,57
+15525,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71933,10.41881,58
+15526,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71929,10.41893,59
+15527,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71924,10.41903,60
+15528,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71916,10.41911,61
+15529,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71892,10.41922,62
+15530,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.7189,10.41921,63
+15531,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71889,10.41917,64
+15532,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71888,10.41913,65
+15533,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71869,10.41895,66
+15534,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71858,10.4188,67
+15535,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71841,10.41855,68
+15536,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71769,10.41735,69
+15537,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71713,10.41645,70
+15538,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71675,10.41587,71
+15539,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71621,10.41509,72
+15540,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71616,10.415,73
+15541,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71609,10.41484,74
+15542,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71578,10.41341,75
+15543,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71556,10.41263,76
+15544,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71553,10.41248,77
+15545,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71536,10.41169,78
+15546,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71492,10.40977,79
+15547,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71479,10.40916,80
+15548,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71478,10.40897,81
+15549,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.7147,10.40895,82
+15550,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71421,10.40873,83
+15551,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.7141,10.40867,84
+15552,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.7139,10.40851,85
+15553,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71307,10.40778,86
+15554,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.7136,10.40622,87
+15555,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71372,10.40591,88
+15556,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71412,10.40501,89
+15557,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71493,10.40327,90
+15558,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71519,10.40267,91
+15559,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.7154,10.40214,92
+15560,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71555,10.40168,93
+15561,Parcheggio Via Paparelli,Via Angelo Battelli 5,route_693,43.71621,10.40211,94
+15562,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.7272,10.41538,0
+15563,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.7266,10.41445,1
+15564,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72601,10.41349,2
+15565,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72588,10.41326,3
+15566,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72575,10.41297,4
+15567,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72559,10.41258,5
+15568,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72526,10.41164,6
+15569,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.7251,10.41115,7
+15570,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72505,10.41095,8
+15571,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72478,10.40975,9
+15572,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72468,10.40937,10
+15573,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72467,10.4092,11
+15574,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72467,10.4091,12
+15575,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72471,10.40903,13
+15576,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72472,10.40896,14
+15577,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72471,10.40886,15
+15578,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72467,10.40879,16
+15579,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72462,10.40875,17
+15580,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72455,10.40875,18
+15581,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72447,10.40862,19
+15582,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72441,10.40848,20
+15583,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72438,10.4084,21
+15584,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72414,10.40742,22
+15585,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.7241,10.40746,23
+15586,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72384,10.40783,24
+15587,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72372,10.40793,25
+15588,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72367,10.40794,26
+15589,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72356,10.40789,27
+15590,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72353,10.40787,28
+15591,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.7232,10.40743,29
+15592,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72307,10.40728,30
+15593,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72272,10.40686,31
+15594,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.72213,10.40733,32
+15595,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.71999,10.40735,33
+15596,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.71973,10.40736,34
+15597,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.71935,10.40741,35
+15598,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.71848,10.40738,36
+15599,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.71748,10.40734,37
+15600,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.71686,10.40729,38
+15601,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.71676,10.40725,39
+15602,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.71658,10.40724,40
+15603,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.71652,10.40718,41
+15604,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.71635,10.4062,42
+15605,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.71635,10.40613,43
+15606,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.71636,10.40594,44
+15607,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.71636,10.40574,45
+15608,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.71635,10.40554,46
+15609,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.71635,10.4053,47
+15610,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.71641,10.40425,48
+15611,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.71691,10.40421,49
+15612,Parcheggio Via Paparelli,Via Gabriele Vettori 18,route_694,43.71689,10.40402,50
+15613,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.7272,10.41538,0
+15614,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.7266,10.41445,1
+15615,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72601,10.41349,2
+15616,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72588,10.41326,3
+15617,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72575,10.41297,4
+15618,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72559,10.41258,5
+15619,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72526,10.41164,6
+15620,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.7251,10.41115,7
+15621,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72505,10.41095,8
+15622,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72478,10.40975,9
+15623,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72468,10.40937,10
+15624,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72467,10.4092,11
+15625,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72467,10.4091,12
+15626,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72471,10.40903,13
+15627,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72472,10.40896,14
+15628,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72471,10.40886,15
+15629,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72467,10.40879,16
+15630,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72462,10.40875,17
+15631,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72455,10.40875,18
+15632,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72447,10.40862,19
+15633,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72441,10.40848,20
+15634,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72438,10.4084,21
+15635,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72414,10.40742,22
+15636,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.7241,10.40746,23
+15637,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72384,10.40783,24
+15638,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72372,10.40793,25
+15639,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72367,10.40794,26
+15640,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72356,10.40789,27
+15641,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72353,10.40787,28
+15642,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.7232,10.40743,29
+15643,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72307,10.40728,30
+15644,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72272,10.40686,31
+15645,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.72213,10.40733,32
+15646,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.71999,10.40735,33
+15647,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.71973,10.40736,34
+15648,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.71935,10.40741,35
+15649,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.71848,10.40738,36
+15650,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.71748,10.40734,37
+15651,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.71686,10.40729,38
+15652,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.71676,10.40725,39
+15653,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.71658,10.40724,40
+15654,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.71652,10.40718,41
+15655,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.71635,10.4062,42
+15656,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.71635,10.40613,43
+15657,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.71636,10.40594,44
+15658,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.71747,10.40586,45
+15659,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.7178,10.40585,46
+15660,Parcheggio Via Paparelli,Facolta di Ingegneria Polo A,route_695,43.71799,10.40583,47
+15661,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.7272,10.41538,0
+15662,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.7266,10.41445,1
+15663,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72601,10.41349,2
+15664,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72588,10.41326,3
+15665,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72575,10.41297,4
+15666,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72559,10.41258,5
+15667,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72526,10.41164,6
+15668,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.7251,10.41115,7
+15669,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72505,10.41095,8
+15670,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72478,10.40975,9
+15671,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72468,10.40937,10
+15672,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72467,10.4092,11
+15673,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72467,10.4091,12
+15674,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72471,10.40903,13
+15675,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72472,10.40896,14
+15676,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72471,10.40886,15
+15677,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72467,10.40879,16
+15678,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72462,10.40875,17
+15679,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72455,10.40875,18
+15680,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72447,10.40862,19
+15681,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72441,10.40848,20
+15682,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72438,10.4084,21
+15683,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72414,10.40742,22
+15684,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.7241,10.40746,23
+15685,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72384,10.40783,24
+15686,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72372,10.40793,25
+15687,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72367,10.40794,26
+15688,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72356,10.40789,27
+15689,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72353,10.40787,28
+15690,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.7232,10.40743,29
+15691,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72307,10.40728,30
+15692,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72272,10.40686,31
+15693,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.72213,10.40733,32
+15694,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.71999,10.40735,33
+15695,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.71973,10.40736,34
+15696,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.71935,10.40741,35
+15697,Parcheggio Via Paparelli,Polo Fibonacci,route_696,43.71899,10.4074,36
+15698,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.7272,10.41538,0
+15699,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.7266,10.41445,1
+15700,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72601,10.41349,2
+15701,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72588,10.41326,3
+15702,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72575,10.41297,4
+15703,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72559,10.41258,5
+15704,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72526,10.41164,6
+15705,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.7251,10.41115,7
+15706,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72505,10.41095,8
+15707,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72478,10.40975,9
+15708,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72468,10.40937,10
+15709,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72467,10.4092,11
+15710,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72467,10.4091,12
+15711,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72471,10.40903,13
+15712,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72472,10.40896,14
+15713,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72471,10.40886,15
+15714,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72467,10.40879,16
+15715,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72462,10.40875,17
+15716,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72455,10.40875,18
+15717,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72447,10.40862,19
+15718,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72441,10.40848,20
+15719,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72438,10.4084,21
+15720,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72414,10.40742,22
+15721,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.7241,10.40746,23
+15722,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72384,10.40783,24
+15723,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72372,10.40793,25
+15724,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72367,10.40794,26
+15725,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72365,10.40796,27
+15726,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72363,10.40801,28
+15727,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72363,10.40807,29
+15728,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72364,10.4081,30
+15729,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72367,10.40814,31
+15730,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72374,10.40833,32
+15731,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72374,10.40862,33
+15732,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72373,10.40865,34
+15733,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72368,10.40868,35
+15734,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72211,10.40906,36
+15735,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.722,10.4091,37
+15736,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72194,10.40914,38
+15737,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72187,10.4092,39
+15738,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72155,10.40964,40
+15739,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72097,10.4105,41
+15740,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.7207,10.41088,42
+15741,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72017,10.41165,43
+15742,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72015,10.41164,44
+15743,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72012,10.41164,45
+15744,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.72002,10.41157,46
+15745,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71902,10.41072,47
+15746,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71894,10.41071,48
+15747,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71888,10.41072,49
+15748,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71884,10.41077,50
+15749,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71883,10.41085,51
+15750,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71885,10.4111,52
+15751,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71926,10.41634,53
+15752,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71935,10.41737,54
+15753,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.7194,10.41822,55
+15754,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.7194,10.41833,56
+15755,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71936,10.41865,57
+15756,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71933,10.41881,58
+15757,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71929,10.41893,59
+15758,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71924,10.41903,60
+15759,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71916,10.41911,61
+15760,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71892,10.41922,62
+15761,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.7189,10.41921,63
+15762,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71889,10.41917,64
+15763,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71888,10.41913,65
+15764,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71869,10.41895,66
+15765,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71858,10.4188,67
+15766,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71841,10.41855,68
+15767,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71769,10.41735,69
+15768,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71713,10.41645,70
+15769,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71675,10.41587,71
+15770,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71621,10.41509,72
+15771,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71616,10.415,73
+15772,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71609,10.41484,74
+15773,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71578,10.41341,75
+15774,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71556,10.41263,76
+15775,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71553,10.41248,77
+15776,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71536,10.41169,78
+15777,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71492,10.40977,79
+15778,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71479,10.40916,80
+15779,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71478,10.40897,81
+15780,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.7147,10.40895,82
+15781,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71421,10.40873,83
+15782,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.7141,10.40867,84
+15783,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.7139,10.40851,85
+15784,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71307,10.40778,86
+15785,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.7136,10.40622,87
+15786,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71372,10.40591,88
+15787,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71412,10.40501,89
+15788,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71493,10.40327,90
+15789,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71519,10.40267,91
+15790,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.7154,10.40214,92
+15791,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71551,10.40181,93
+15792,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71566,10.40129,94
+15793,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.7157,10.40111,95
+15794,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71576,10.40067,96
+15795,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.7158,10.40037,97
+15796,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71583,10.39998,98
+15797,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71583,10.39968,99
+15798,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.7158,10.39919,100
+15799,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71577,10.39888,101
+15800,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71523,10.39891,102
+15801,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.7149,10.39892,103
+15802,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71473,10.3989,104
+15803,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71402,10.39876,105
+15804,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71386,10.39871,106
+15805,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71345,10.3985,107
+15806,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71333,10.39846,108
+15807,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71318,10.39848,109
+15808,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.7128,10.39854,110
+15809,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.7124,10.39857,111
+15810,Parcheggio Via Paparelli,Stazione Leopolda,route_697,43.71197,10.39863,112

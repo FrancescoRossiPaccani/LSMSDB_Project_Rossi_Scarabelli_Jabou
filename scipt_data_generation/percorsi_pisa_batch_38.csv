@@ -1,0 +1,810 @@
+id,start,end,route_id,lat,lon,idx
+27073,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71348,10.42113,0
+27074,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71226,10.42083,1
+27075,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71223,10.42094,2
+27076,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71497,10.42159,3
+27077,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71609,10.42188,4
+27078,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71632,10.4219,5
+27079,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71651,10.42189,6
+27080,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71665,10.42186,7
+27081,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71677,10.42181,8
+27082,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71695,10.42173,9
+27083,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71711,10.42161,10
+27084,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71725,10.42149,11
+27085,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71836,10.42028,12
+27086,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71845,10.42022,13
+27087,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71854,10.42019,14
+27088,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71879,10.42017,15
+27089,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71892,10.42014,16
+27090,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71943,10.42031,17
+27091,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71965,10.42048,18
+27092,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.71975,10.42058,19
+27093,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72032,10.42132,20
+27094,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.7205,10.42159,21
+27095,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72056,10.42174,22
+27096,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72055,10.42177,23
+27097,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72056,10.42183,24
+27098,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72059,10.42188,25
+27099,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72062,10.42191,26
+27100,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72068,10.42192,27
+27101,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72071,10.4219,28
+27102,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72073,10.42188,29
+27103,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72076,10.42182,30
+27104,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72076,10.42177,31
+27105,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72076,10.42173,32
+27106,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72073,10.42167,33
+27107,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72076,10.42139,34
+27108,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72088,10.42104,35
+27109,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72134,10.41937,36
+27110,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72172,10.41809,37
+27111,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.7222,10.41633,38
+27112,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72232,10.41585,39
+27113,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72243,10.41575,40
+27114,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72249,10.41571,41
+27115,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72255,10.41568,42
+27116,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72259,10.41569,43
+27117,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72263,10.4157,44
+27118,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72268,10.41575,45
+27119,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72272,10.41581,46
+27120,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72277,10.41589,47
+27121,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72282,10.41595,48
+27122,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72291,10.41599,49
+27123,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72298,10.41598,50
+27124,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72305,10.41595,51
+27125,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72309,10.4159,52
+27126,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72314,10.41583,53
+27127,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72316,10.41574,54
+27128,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72317,10.41566,55
+27129,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72316,10.41557,56
+27130,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72314,10.41552,57
+27131,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72309,10.41542,58
+27132,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72308,10.41523,59
+27133,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72311,10.41503,60
+27134,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72325,10.41453,61
+27135,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72446,10.41,62
+27136,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72452,10.40984,63
+27137,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72457,10.40975,64
+27138,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72462,10.40969,65
+27139,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72467,10.40966,66
+27140,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.7247,10.40964,67
+27141,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72472,10.40959,68
+27142,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72472,10.40954,69
+27143,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72468,10.40937,70
+27144,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72467,10.40928,71
+27145,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72467,10.4092,72
+27146,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72467,10.4091,73
+27147,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72471,10.40903,74
+27148,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72472,10.40896,75
+27149,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72488,10.40864,76
+27150,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72491,10.40856,77
+27151,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72498,10.4083,78
+27152,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72501,10.40801,79
+27153,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72515,10.40612,80
+27154,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72519,10.4057,81
+27155,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72526,10.40545,82
+27156,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72567,10.4041,83
+27157,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72572,10.40409,84
+27158,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72575,10.40408,85
+27159,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72577,10.40405,86
+27160,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72578,10.40402,87
+27161,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72632,10.40468,88
+27162,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72667,10.40505,89
+27163,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72704,10.40536,90
+27164,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72721,10.40548,91
+27165,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72729,10.40552,92
+27166,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72823,10.40592,93
+27167,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.72877,10.40621,94
+27168,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.73021,10.40703,95
+27169,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.73046,10.40712,96
+27170,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.73094,10.40724,97
+27171,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.73103,10.40727,98
+27172,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.73115,10.40732,99
+27173,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.73143,10.40747,100
+27174,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.73187,10.40771,101
+27175,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.73253,10.4081,102
+27176,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.73314,10.40847,103
+27177,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.73383,10.40888,104
+27178,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.73447,10.40931,105
+27179,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.73514,10.40978,106
+27180,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.73563,10.4102,107
+27181,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.73741,10.4117,108
+27182,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.73986,10.41367,109
+27183,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.74106,10.41464,110
+27184,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.74435,10.41719,111
+27185,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.74509,10.41423,112
+27186,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.74586,10.41124,113
+27187,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.74592,10.41131,114
+27188,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.74675,10.41192,115
+27189,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.74689,10.41201,116
+27190,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.74699,10.41207,117
+27191,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.74712,10.41217,118
+27192,Farmacia Cisanello,Ristorante Il Lago (Nodica),route_1110,43.74909,10.41291,119
+27193,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.71348,10.42113,0
+27194,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.71128,10.42061,1
+27195,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.71109,10.42055,2
+27196,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.71108,10.42055,3
+27197,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.71104,10.42055,4
+27198,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.71101,10.42058,5
+27199,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.711,10.42062,6
+27200,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.71101,10.42067,7
+27201,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.71099,10.42074,8
+27202,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.71098,10.42106,9
+27203,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.71101,10.42188,10
+27204,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.71101,10.42217,11
+27205,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.71099,10.42282,12
+27206,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.71096,10.42328,13
+27207,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.71093,10.42348,14
+27208,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.71089,10.42368,15
+27209,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.71081,10.42402,16
+27210,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.71069,10.4244,17
+27211,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.7097,10.42692,18
+27212,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70948,10.42755,19
+27213,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70945,10.42761,20
+27214,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70939,10.42767,21
+27215,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70935,10.42768,22
+27216,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.7093,10.42772,23
+27217,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70926,10.42778,24
+27218,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70923,10.42786,25
+27219,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70923,10.42794,26
+27220,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70923,10.428,27
+27221,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70927,10.42809,28
+27222,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70925,10.42822,29
+27223,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70919,10.42839,30
+27224,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70705,10.43434,31
+27225,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70695,10.4346,32
+27226,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70691,10.43468,33
+27227,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70666,10.43507,34
+27228,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70661,10.43518,35
+27229,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70654,10.43527,36
+27230,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.7065,10.43537,37
+27231,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70648,10.43548,38
+27232,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70649,10.43559,39
+27233,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70651,10.4357,40
+27234,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70653,10.43574,41
+27235,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70658,10.43582,42
+27236,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70664,10.43588,43
+27237,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70672,10.43591,44
+27238,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70679,10.43592,45
+27239,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70685,10.4359,46
+27240,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70695,10.43584,47
+27241,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70699,10.43578,48
+27242,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70703,10.4357,49
+27243,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70706,10.43561,50
+27244,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70706,10.43547,51
+27245,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70706,10.43542,52
+27246,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70707,10.43485,53
+27247,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70708,10.43473,54
+27248,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70713,10.43444,55
+27249,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70718,10.43425,56
+27250,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70873,10.42994,57
+27251,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70889,10.43004,58
+27252,Farmacia Cisanello,Pizzeria Colignola,route_1111,43.70906,10.42954,59
+27253,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71348,10.42113,0
+27254,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71226,10.42083,1
+27255,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71223,10.42094,2
+27256,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71497,10.42159,3
+27257,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71609,10.42188,4
+27258,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71632,10.4219,5
+27259,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71651,10.42189,6
+27260,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71665,10.42186,7
+27261,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71677,10.42181,8
+27262,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71695,10.42173,9
+27263,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71711,10.42161,10
+27264,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71725,10.42149,11
+27265,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71836,10.42028,12
+27266,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71845,10.42022,13
+27267,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71854,10.42019,14
+27268,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71879,10.42017,15
+27269,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71892,10.42014,16
+27270,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71943,10.42031,17
+27271,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71965,10.42048,18
+27272,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.71975,10.42058,19
+27273,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72032,10.42132,20
+27274,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.7205,10.42159,21
+27275,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72056,10.42174,22
+27276,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72055,10.42177,23
+27277,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72056,10.42183,24
+27278,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72059,10.42188,25
+27279,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72062,10.42191,26
+27280,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72068,10.42192,27
+27281,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72071,10.4219,28
+27282,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72073,10.42188,29
+27283,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72076,10.42182,30
+27284,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72076,10.42177,31
+27285,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72076,10.42173,32
+27286,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72073,10.42167,33
+27287,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72076,10.42139,34
+27288,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72088,10.42104,35
+27289,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72134,10.41937,36
+27290,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72172,10.41809,37
+27291,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.7222,10.41633,38
+27292,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72232,10.41585,39
+27293,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72243,10.41575,40
+27294,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72249,10.41571,41
+27295,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72255,10.41568,42
+27296,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72259,10.41569,43
+27297,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72263,10.4157,44
+27298,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72268,10.41575,45
+27299,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72272,10.41581,46
+27300,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72277,10.41589,47
+27301,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72282,10.41595,48
+27302,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72291,10.41599,49
+27303,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72298,10.41598,50
+27304,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72305,10.41595,51
+27305,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72309,10.4159,52
+27306,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72318,10.41576,53
+27307,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72322,10.41573,54
+27308,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72333,10.41566,55
+27309,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.724,10.41565,56
+27310,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72414,10.41566,57
+27311,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72421,10.41569,58
+27312,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72428,10.41573,59
+27313,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72465,10.41603,60
+27314,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72472,10.41612,61
+27315,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72523,10.41654,62
+27316,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72554,10.4168,63
+27317,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72658,10.41766,64
+27318,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72703,10.41802,65
+27319,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72831,10.4191,66
+27320,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.7284,10.41919,67
+27321,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.7285,10.41933,68
+27322,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72859,10.4195,69
+27323,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72864,10.41963,70
+27324,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72868,10.41976,71
+27325,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72869,10.41981,72
+27326,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72869,10.4199,73
+27327,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72865,10.42004,74
+27328,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72863,10.4201,75
+27329,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72857,10.42019,76
+27330,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72853,10.42026,77
+27331,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.7285,10.42034,78
+27332,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72849,10.42043,79
+27333,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72851,10.42053,80
+27334,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72854,10.42061,81
+27335,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72861,10.42069,82
+27336,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72869,10.42072,83
+27337,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72886,10.42084,84
+27338,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72891,10.4209,85
+27339,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72899,10.42102,86
+27340,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72947,10.42209,87
+27341,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.72968,10.42245,88
+27342,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.7299,10.42273,89
+27343,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73002,10.42286,90
+27344,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73024,10.42307,91
+27345,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73034,10.42315,92
+27346,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73052,10.42328,93
+27347,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73393,10.42531,94
+27348,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73412,10.42548,95
+27349,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73415,10.42553,96
+27350,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73416,10.42554,97
+27351,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.7342,10.42553,98
+27352,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73422,10.42552,99
+27353,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73424,10.42547,100
+27354,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73424,10.42545,101
+27355,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73435,10.4251,102
+27356,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73463,10.42398,103
+27357,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.7347,10.42376,104
+27358,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73474,10.42368,105
+27359,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.7348,10.4236,106
+27360,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73491,10.42352,107
+27361,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73502,10.42346,108
+27362,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73512,10.42344,109
+27363,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73522,10.42344,110
+27364,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73531,10.42346,111
+27365,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.7355,10.42354,112
+27366,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73594,10.42379,113
+27367,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73608,10.42388,114
+27368,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73623,10.42399,115
+27369,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73657,10.42428,116
+27370,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73664,10.42431,117
+27371,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73674,10.42432,118
+27372,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.7368,10.4243,119
+27373,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73685,10.42424,120
+27374,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73688,10.4242,121
+27375,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73697,10.42399,122
+27376,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73745,10.42427,123
+27377,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73784,10.42447,124
+27378,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73894,10.42498,125
+27379,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73901,10.42476,126
+27380,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73953,10.4232,127
+27381,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.73969,10.42332,128
+27382,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.74021,10.42396,129
+27383,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.7407,10.42452,130
+27384,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.74089,10.42477,131
+27385,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.74123,10.42503,132
+27386,Farmacia Cisanello,Supermercato Coop Ghezzano,route_1112,43.74147,10.42519,133
+27387,Ristorante Il Mio Capriccio,Torre,route_1113,43.70578,10.40849,0
+27388,Ristorante Il Mio Capriccio,Torre,route_1113,43.70568,10.40859,1
+27389,Ristorante Il Mio Capriccio,Torre,route_1113,43.70581,10.40886,2
+27390,Ristorante Il Mio Capriccio,Torre,route_1113,43.70479,10.40983,3
+27391,Ristorante Il Mio Capriccio,Torre,route_1113,43.7044,10.41019,4
+27392,Ristorante Il Mio Capriccio,Torre,route_1113,43.70435,10.41024,5
+27393,Ristorante Il Mio Capriccio,Torre,route_1113,43.70429,10.41036,6
+27394,Ristorante Il Mio Capriccio,Torre,route_1113,43.70421,10.41057,7
+27395,Ristorante Il Mio Capriccio,Torre,route_1113,43.70417,10.4107,8
+27396,Ristorante Il Mio Capriccio,Torre,route_1113,43.70412,10.4109,9
+27397,Ristorante Il Mio Capriccio,Torre,route_1113,43.70409,10.41094,10
+27398,Ristorante Il Mio Capriccio,Torre,route_1113,43.70407,10.41101,11
+27399,Ristorante Il Mio Capriccio,Torre,route_1113,43.70407,10.41105,12
+27400,Ristorante Il Mio Capriccio,Torre,route_1113,43.70408,10.41109,13
+27401,Ristorante Il Mio Capriccio,Torre,route_1113,43.7041,10.41113,14
+27402,Ristorante Il Mio Capriccio,Torre,route_1113,43.70423,10.41121,15
+27403,Ristorante Il Mio Capriccio,Torre,route_1113,43.70424,10.41125,16
+27404,Ristorante Il Mio Capriccio,Torre,route_1113,43.70447,10.41253,17
+27405,Ristorante Il Mio Capriccio,Torre,route_1113,43.70449,10.4126,18
+27406,Ristorante Il Mio Capriccio,Torre,route_1113,43.70449,10.41268,19
+27407,Ristorante Il Mio Capriccio,Torre,route_1113,43.70451,10.41274,20
+27408,Ristorante Il Mio Capriccio,Torre,route_1113,43.70453,10.41276,21
+27409,Ristorante Il Mio Capriccio,Torre,route_1113,43.70458,10.41277,22
+27410,Ristorante Il Mio Capriccio,Torre,route_1113,43.70461,10.41276,23
+27411,Ristorante Il Mio Capriccio,Torre,route_1113,43.70464,10.41271,24
+27412,Ristorante Il Mio Capriccio,Torre,route_1113,43.70469,10.4125,25
+27413,Ristorante Il Mio Capriccio,Torre,route_1113,43.70479,10.41176,26
+27414,Ristorante Il Mio Capriccio,Torre,route_1113,43.70482,10.41163,27
+27415,Ristorante Il Mio Capriccio,Torre,route_1113,43.7049,10.41133,28
+27416,Ristorante Il Mio Capriccio,Torre,route_1113,43.70496,10.41122,29
+27417,Ristorante Il Mio Capriccio,Torre,route_1113,43.70502,10.41112,30
+27418,Ristorante Il Mio Capriccio,Torre,route_1113,43.7051,10.41103,31
+27419,Ristorante Il Mio Capriccio,Torre,route_1113,43.70534,10.41085,32
+27420,Ristorante Il Mio Capriccio,Torre,route_1113,43.7054,10.41079,33
+27421,Ristorante Il Mio Capriccio,Torre,route_1113,43.70551,10.41062,34
+27422,Ristorante Il Mio Capriccio,Torre,route_1113,43.70566,10.4103,35
+27423,Ristorante Il Mio Capriccio,Torre,route_1113,43.70632,10.40853,36
+27424,Ristorante Il Mio Capriccio,Torre,route_1113,43.70644,10.40829,37
+27425,Ristorante Il Mio Capriccio,Torre,route_1113,43.70663,10.40808,38
+27426,Ristorante Il Mio Capriccio,Torre,route_1113,43.7067,10.40803,39
+27427,Ristorante Il Mio Capriccio,Torre,route_1113,43.70842,10.40681,40
+27428,Ristorante Il Mio Capriccio,Torre,route_1113,43.70922,10.40625,41
+27429,Ristorante Il Mio Capriccio,Torre,route_1113,43.70944,10.40613,42
+27430,Ristorante Il Mio Capriccio,Torre,route_1113,43.7097,10.40593,43
+27431,Ristorante Il Mio Capriccio,Torre,route_1113,43.70981,10.40586,44
+27432,Ristorante Il Mio Capriccio,Torre,route_1113,43.70996,10.40588,45
+27433,Ristorante Il Mio Capriccio,Torre,route_1113,43.71001,10.4059,46
+27434,Ristorante Il Mio Capriccio,Torre,route_1113,43.71007,10.40596,47
+27435,Ristorante Il Mio Capriccio,Torre,route_1113,43.71009,10.40599,48
+27436,Ristorante Il Mio Capriccio,Torre,route_1113,43.71015,10.4061,49
+27437,Ristorante Il Mio Capriccio,Torre,route_1113,43.71008,10.40743,50
+27438,Ristorante Il Mio Capriccio,Torre,route_1113,43.71004,10.40744,51
+27439,Ristorante Il Mio Capriccio,Torre,route_1113,43.71001,10.40747,52
+27440,Ristorante Il Mio Capriccio,Torre,route_1113,43.70998,10.40751,53
+27441,Ristorante Il Mio Capriccio,Torre,route_1113,43.70997,10.40755,54
+27442,Ristorante Il Mio Capriccio,Torre,route_1113,43.70997,10.40763,55
+27443,Ristorante Il Mio Capriccio,Torre,route_1113,43.70998,10.40769,56
+27444,Ristorante Il Mio Capriccio,Torre,route_1113,43.71003,10.40774,57
+27445,Ristorante Il Mio Capriccio,Torre,route_1113,43.71007,10.40776,58
+27446,Ristorante Il Mio Capriccio,Torre,route_1113,43.71014,10.40774,59
+27447,Ristorante Il Mio Capriccio,Torre,route_1113,43.71018,10.40769,60
+27448,Ristorante Il Mio Capriccio,Torre,route_1113,43.71027,10.40767,61
+27449,Ristorante Il Mio Capriccio,Torre,route_1113,43.71063,10.40769,62
+27450,Ristorante Il Mio Capriccio,Torre,route_1113,43.71112,10.40773,63
+27451,Ristorante Il Mio Capriccio,Torre,route_1113,43.71118,10.40776,64
+27452,Ristorante Il Mio Capriccio,Torre,route_1113,43.71127,10.40782,65
+27453,Ristorante Il Mio Capriccio,Torre,route_1113,43.71131,10.40786,66
+27454,Ristorante Il Mio Capriccio,Torre,route_1113,43.71138,10.40789,67
+27455,Ristorante Il Mio Capriccio,Torre,route_1113,43.71204,10.40793,68
+27456,Ristorante Il Mio Capriccio,Torre,route_1113,43.71261,10.40789,69
+27457,Ristorante Il Mio Capriccio,Torre,route_1113,43.71299,10.40783,70
+27458,Ristorante Il Mio Capriccio,Torre,route_1113,43.71305,10.40781,71
+27459,Ristorante Il Mio Capriccio,Torre,route_1113,43.71307,10.40778,72
+27460,Ristorante Il Mio Capriccio,Torre,route_1113,43.7139,10.40851,73
+27461,Ristorante Il Mio Capriccio,Torre,route_1113,43.7141,10.40867,74
+27462,Ristorante Il Mio Capriccio,Torre,route_1113,43.71421,10.40873,75
+27463,Ristorante Il Mio Capriccio,Torre,route_1113,43.7147,10.40895,76
+27464,Ristorante Il Mio Capriccio,Torre,route_1113,43.71478,10.40897,77
+27465,Ristorante Il Mio Capriccio,Torre,route_1113,43.71514,10.40902,78
+27466,Ristorante Il Mio Capriccio,Torre,route_1113,43.71597,10.40908,79
+27467,Ristorante Il Mio Capriccio,Torre,route_1113,43.71617,10.40905,80
+27468,Ristorante Il Mio Capriccio,Torre,route_1113,43.71637,10.40896,81
+27469,Ristorante Il Mio Capriccio,Torre,route_1113,43.7167,10.40875,82
+27470,Ristorante Il Mio Capriccio,Torre,route_1113,43.7168,10.40872,83
+27471,Ristorante Il Mio Capriccio,Torre,route_1113,43.71686,10.40874,84
+27472,Ristorante Il Mio Capriccio,Torre,route_1113,43.71695,10.40879,85
+27473,Ristorante Il Mio Capriccio,Torre,route_1113,43.71862,10.41041,86
+27474,Ristorante Il Mio Capriccio,Torre,route_1113,43.71872,10.41046,87
+27475,Ristorante Il Mio Capriccio,Torre,route_1113,43.71879,10.41046,88
+27476,Ristorante Il Mio Capriccio,Torre,route_1113,43.71868,10.40905,89
+27477,Ristorante Il Mio Capriccio,Torre,route_1113,43.71855,10.40739,90
+27478,Ristorante Il Mio Capriccio,Torre,route_1113,43.71935,10.40741,91
+27479,Ristorante Il Mio Capriccio,Torre,route_1113,43.71973,10.40736,92
+27480,Ristorante Il Mio Capriccio,Torre,route_1113,43.71999,10.40735,93
+27481,Ristorante Il Mio Capriccio,Torre,route_1113,43.72213,10.40733,94
+27482,Ristorante Il Mio Capriccio,Torre,route_1113,43.72272,10.40686,95
+27483,Ristorante Il Mio Capriccio,Torre,route_1113,43.72307,10.40728,96
+27484,Ristorante Il Mio Capriccio,Torre,route_1113,43.7232,10.40743,97
+27485,Ristorante Il Mio Capriccio,Torre,route_1113,43.72345,10.40777,98
+27486,Ristorante Il Mio Capriccio,Torre,route_1113,43.72353,10.40787,99
+27487,Ristorante Il Mio Capriccio,Torre,route_1113,43.72356,10.40789,100
+27488,Ristorante Il Mio Capriccio,Torre,route_1113,43.72363,10.40807,101
+27489,Ristorante Il Mio Capriccio,Torre,route_1113,43.72364,10.4081,102
+27490,Ristorante Il Mio Capriccio,Torre,route_1113,43.72367,10.40814,103
+27491,Ristorante Il Mio Capriccio,Torre,route_1113,43.72372,10.40815,104
+27492,Ristorante Il Mio Capriccio,Torre,route_1113,43.72375,10.40813,105
+27493,Ristorante Il Mio Capriccio,Torre,route_1113,43.72378,10.40807,106
+27494,Ristorante Il Mio Capriccio,Torre,route_1113,43.72438,10.4084,107
+27495,Ristorante Il Mio Capriccio,Torre,route_1113,43.72441,10.40848,108
+27496,Ristorante Il Mio Capriccio,Torre,route_1113,43.72446,10.40882,109
+27497,Ristorante Il Mio Capriccio,Torre,route_1113,43.72444,10.40889,110
+27498,Ristorante Il Mio Capriccio,Torre,route_1113,43.72443,10.40894,111
+27499,Ristorante Il Mio Capriccio,Torre,route_1113,43.72444,10.409,112
+27500,Ristorante Il Mio Capriccio,Torre,route_1113,43.72445,10.40904,113
+27501,Ristorante Il Mio Capriccio,Torre,route_1113,43.72447,10.40908,114
+27502,Ristorante Il Mio Capriccio,Torre,route_1113,43.7245,10.40912,115
+27503,Ristorante Il Mio Capriccio,Torre,route_1113,43.72453,10.40914,116
+27504,Ristorante Il Mio Capriccio,Torre,route_1113,43.7246,10.40914,117
+27505,Ristorante Il Mio Capriccio,Torre,route_1113,43.72464,10.40913,118
+27506,Ristorante Il Mio Capriccio,Torre,route_1113,43.72467,10.4091,119
+27507,Ristorante Il Mio Capriccio,Torre,route_1113,43.72471,10.40903,120
+27508,Ristorante Il Mio Capriccio,Torre,route_1113,43.72472,10.40896,121
+27509,Ristorante Il Mio Capriccio,Torre,route_1113,43.72471,10.40886,122
+27510,Ristorante Il Mio Capriccio,Torre,route_1113,43.72467,10.40879,123
+27511,Ristorante Il Mio Capriccio,Torre,route_1113,43.72462,10.40875,124
+27512,Ristorante Il Mio Capriccio,Torre,route_1113,43.72455,10.40875,125
+27513,Ristorante Il Mio Capriccio,Torre,route_1113,43.72447,10.40862,126
+27514,Ristorante Il Mio Capriccio,Torre,route_1113,43.72441,10.40848,127
+27515,Ristorante Il Mio Capriccio,Torre,route_1113,43.72438,10.4084,128
+27516,Ristorante Il Mio Capriccio,Torre,route_1113,43.72411,10.40731,129
+27517,Ristorante Il Mio Capriccio,Torre,route_1113,43.72371,10.40559,130
+27518,Ristorante Il Mio Capriccio,Torre,route_1113,43.72284,10.40176,131
+27519,Ristorante Il Mio Capriccio,Torre,route_1113,43.72346,10.39899,132
+27520,Ristorante Il Mio Capriccio,Torre,route_1113,43.72359,10.39853,133
+27521,Ristorante Il Mio Capriccio,Torre,route_1113,43.72344,10.39844,134
+27522,Ristorante Il Mio Capriccio,Torre,route_1113,43.72295,10.39822,135
+27523,Ristorante Il Mio Capriccio,Torre,route_1113,43.723,10.39797,136
+27524,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70578,10.40849,0
+27525,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70568,10.40859,1
+27526,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70581,10.40886,2
+27527,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70479,10.40983,3
+27528,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.7044,10.41019,4
+27529,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70435,10.41024,5
+27530,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70429,10.41036,6
+27531,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70421,10.41057,7
+27532,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70417,10.4107,8
+27533,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70412,10.4109,9
+27534,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70409,10.41094,10
+27535,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70407,10.41101,11
+27536,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70407,10.41105,12
+27537,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70408,10.41109,13
+27538,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.7041,10.41113,14
+27539,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70423,10.41121,15
+27540,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70424,10.41125,16
+27541,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70447,10.41253,17
+27542,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70449,10.4126,18
+27543,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70449,10.41268,19
+27544,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70451,10.41274,20
+27545,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70453,10.41276,21
+27546,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70458,10.41277,22
+27547,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70461,10.41276,23
+27548,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70464,10.41271,24
+27549,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70469,10.4125,25
+27550,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70479,10.41176,26
+27551,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70482,10.41163,27
+27552,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.7049,10.41133,28
+27553,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70496,10.41122,29
+27554,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70502,10.41112,30
+27555,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.7051,10.41103,31
+27556,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70534,10.41085,32
+27557,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.7054,10.41079,33
+27558,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70551,10.41062,34
+27559,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70566,10.4103,35
+27560,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70632,10.40853,36
+27561,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70644,10.40829,37
+27562,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70663,10.40808,38
+27563,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.7067,10.40803,39
+27564,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70842,10.40681,40
+27565,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70922,10.40625,41
+27566,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70944,10.40613,42
+27567,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.7097,10.40593,43
+27568,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70981,10.40586,44
+27569,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71027,10.40559,45
+27570,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.7104,10.4055,46
+27571,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71043,10.40545,47
+27572,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71044,10.40536,48
+27573,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71044,10.4053,49
+27574,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71041,10.40524,50
+27575,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71035,10.4052,51
+27576,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.7103,10.4052,52
+27577,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71019,10.40527,53
+27578,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.7101,10.40527,54
+27579,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71006,10.40525,55
+27580,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70988,10.40513,56
+27581,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70974,10.40502,57
+27582,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70967,10.40492,58
+27583,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70965,10.40486,59
+27584,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70975,10.40422,60
+27585,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70988,10.40324,61
+27586,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70997,10.40252,62
+27587,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70997,10.40207,63
+27588,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70994,10.39992,64
+27589,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70994,10.39905,65
+27590,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70997,10.39904,66
+27591,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71001,10.39899,67
+27592,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71003,10.39892,68
+27593,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71001,10.39885,69
+27594,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70999,10.39882,70
+27595,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70997,10.3988,71
+27596,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71001,10.39838,72
+27597,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71008,10.39813,73
+27598,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.7101,10.39807,74
+27599,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71016,10.39794,75
+27600,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71019,10.39794,76
+27601,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71022,10.39792,77
+27602,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71025,10.3979,78
+27603,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71027,10.39786,79
+27604,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71028,10.39781,80
+27605,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71028,10.39777,81
+27606,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71027,10.39772,82
+27607,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71025,10.39769,83
+27608,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71022,10.39766,84
+27609,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71018,10.39764,85
+27610,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71016,10.39755,86
+27611,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71014,10.39743,87
+27612,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71033,10.39616,88
+27613,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.71012,10.39608,89
+27614,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70953,10.39581,90
+27615,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70918,10.39565,91
+27616,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70897,10.39558,92
+27617,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70892,10.39609,93
+27618,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70892,10.3962,94
+27619,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70894,10.3963,95
+27620,Ristorante Il Mio Capriccio,Stazione Pisa Centrale,route_1114,43.70875,10.39738,96
+27621,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70578,10.40849,0
+27622,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70568,10.40859,1
+27623,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70581,10.40886,2
+27624,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70479,10.40983,3
+27625,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.7044,10.41019,4
+27626,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70435,10.41024,5
+27627,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70429,10.41036,6
+27628,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70421,10.41057,7
+27629,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70417,10.4107,8
+27630,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70412,10.4109,9
+27631,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70409,10.41094,10
+27632,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70407,10.41101,11
+27633,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70407,10.41105,12
+27634,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70408,10.41109,13
+27635,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.7041,10.41113,14
+27636,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70423,10.41121,15
+27637,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70424,10.41125,16
+27638,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70447,10.41253,17
+27639,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70449,10.4126,18
+27640,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70449,10.41268,19
+27641,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70451,10.41274,20
+27642,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70453,10.41276,21
+27643,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70458,10.41277,22
+27644,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70461,10.41276,23
+27645,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70464,10.41271,24
+27646,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70469,10.4125,25
+27647,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70479,10.41176,26
+27648,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70482,10.41163,27
+27649,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.7049,10.41133,28
+27650,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70496,10.41122,29
+27651,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70502,10.41112,30
+27652,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.7051,10.41103,31
+27653,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70534,10.41085,32
+27654,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.7054,10.41079,33
+27655,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70551,10.41062,34
+27656,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70566,10.4103,35
+27657,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70632,10.40853,36
+27658,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70644,10.40829,37
+27659,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70663,10.40808,38
+27660,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.7067,10.40803,39
+27661,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70842,10.40681,40
+27662,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70922,10.40625,41
+27663,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70944,10.40613,42
+27664,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.7097,10.40593,43
+27665,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70981,10.40586,44
+27666,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70996,10.40588,45
+27667,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71001,10.4059,46
+27668,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71007,10.40596,47
+27669,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71009,10.40599,48
+27670,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71015,10.4061,49
+27671,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71008,10.40743,50
+27672,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71004,10.40744,51
+27673,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71001,10.40747,52
+27674,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70998,10.40751,53
+27675,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70997,10.40755,54
+27676,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70997,10.40763,55
+27677,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.70998,10.40769,56
+27678,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71003,10.40774,57
+27679,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71007,10.40776,58
+27680,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71014,10.40774,59
+27681,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71018,10.40769,60
+27682,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71027,10.40767,61
+27683,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71063,10.40769,62
+27684,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71112,10.40773,63
+27685,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71118,10.40776,64
+27686,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71127,10.40782,65
+27687,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71131,10.40786,66
+27688,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71138,10.40789,67
+27689,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71204,10.40793,68
+27690,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71261,10.40789,69
+27691,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71299,10.40783,70
+27692,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71305,10.40781,71
+27693,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71307,10.40778,72
+27694,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.7139,10.40851,73
+27695,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.7141,10.40867,74
+27696,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71421,10.40873,75
+27697,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.7147,10.40895,76
+27698,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71478,10.40897,77
+27699,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71514,10.40902,78
+27700,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71597,10.40908,79
+27701,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71617,10.40905,80
+27702,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71637,10.40896,81
+27703,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.7167,10.40875,82
+27704,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.7168,10.40872,83
+27705,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71686,10.40874,84
+27706,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71695,10.40879,85
+27707,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71862,10.41041,86
+27708,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71872,10.41046,87
+27709,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71879,10.41046,88
+27710,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.71868,10.40905,89
+27711,Ristorante Il Mio Capriccio,Universita di Pisa,route_1115,43.7186,10.40806,90
+27712,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70578,10.40849,0
+27713,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70568,10.40859,1
+27714,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70581,10.40886,2
+27715,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70479,10.40983,3
+27716,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.7044,10.41019,4
+27717,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70435,10.41024,5
+27718,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70429,10.41036,6
+27719,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70421,10.41057,7
+27720,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70417,10.4107,8
+27721,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70412,10.4109,9
+27722,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70409,10.41094,10
+27723,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70407,10.41101,11
+27724,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70407,10.41105,12
+27725,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70408,10.41109,13
+27726,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.7041,10.41113,14
+27727,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70423,10.41121,15
+27728,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70424,10.41125,16
+27729,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70447,10.41253,17
+27730,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70449,10.4126,18
+27731,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70449,10.41268,19
+27732,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70451,10.41274,20
+27733,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70453,10.41276,21
+27734,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70458,10.41277,22
+27735,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70461,10.41276,23
+27736,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70464,10.41271,24
+27737,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70469,10.4125,25
+27738,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70479,10.41176,26
+27739,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70482,10.41163,27
+27740,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.7049,10.41133,28
+27741,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70496,10.41122,29
+27742,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70502,10.41112,30
+27743,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.7051,10.41103,31
+27744,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70534,10.41085,32
+27745,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.7054,10.41079,33
+27746,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70551,10.41062,34
+27747,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70566,10.4103,35
+27748,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70632,10.40853,36
+27749,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70644,10.40829,37
+27750,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70663,10.40808,38
+27751,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.7067,10.40803,39
+27752,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70842,10.40681,40
+27753,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70922,10.40625,41
+27754,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70944,10.40613,42
+27755,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.7097,10.40593,43
+27756,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70981,10.40586,44
+27757,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70996,10.40588,45
+27758,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71001,10.4059,46
+27759,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71007,10.40596,47
+27760,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71009,10.40599,48
+27761,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71015,10.4061,49
+27762,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71008,10.40743,50
+27763,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71004,10.40744,51
+27764,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71001,10.40747,52
+27765,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70998,10.40751,53
+27766,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70997,10.40755,54
+27767,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70997,10.40763,55
+27768,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.70998,10.40769,56
+27769,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71003,10.40774,57
+27770,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71007,10.40776,58
+27771,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71014,10.40774,59
+27772,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71018,10.40769,60
+27773,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71027,10.40767,61
+27774,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71063,10.40769,62
+27775,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71112,10.40773,63
+27776,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71118,10.40776,64
+27777,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71127,10.40782,65
+27778,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71131,10.40786,66
+27779,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71138,10.40789,67
+27780,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71204,10.40793,68
+27781,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71261,10.40789,69
+27782,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71299,10.40783,70
+27783,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71305,10.40781,71
+27784,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71307,10.40778,72
+27785,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.7136,10.40622,73
+27786,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71372,10.40591,74
+27787,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71412,10.40501,75
+27788,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71493,10.40327,76
+27789,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71526,10.4025,77
+27790,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.7154,10.40214,78
+27791,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71551,10.40181,79
+27792,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71566,10.40129,80
+27793,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.7157,10.40111,81
+27794,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71576,10.40067,82
+27795,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.7158,10.40037,83
+27796,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71551,10.40027,84
+27797,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71527,10.40016,85
+27798,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71522,10.40016,86
+27799,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71507,10.40011,87
+27800,Ristorante Il Mio Capriccio,Via Aretino Spinello 11,route_1116,43.71498,10.40006,88
+27801,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70578,10.40849,0
+27802,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70568,10.40859,1
+27803,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70581,10.40886,2
+27804,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70479,10.40983,3
+27805,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.7044,10.41019,4
+27806,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70435,10.41024,5
+27807,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70429,10.41036,6
+27808,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70421,10.41057,7
+27809,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70417,10.4107,8
+27810,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70412,10.4109,9
+27811,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70409,10.41094,10
+27812,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70407,10.41101,11
+27813,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70407,10.41105,12
+27814,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70408,10.41109,13
+27815,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.7041,10.41113,14
+27816,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70423,10.41121,15
+27817,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70424,10.41125,16
+27818,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70447,10.41253,17
+27819,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70449,10.4126,18
+27820,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70449,10.41268,19
+27821,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70451,10.41274,20
+27822,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70453,10.41276,21
+27823,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70458,10.41277,22
+27824,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70461,10.41276,23
+27825,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70464,10.41271,24
+27826,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70469,10.4125,25
+27827,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70479,10.41176,26
+27828,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70482,10.41163,27
+27829,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.7049,10.41133,28
+27830,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70496,10.41122,29
+27831,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70502,10.41112,30
+27832,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.7051,10.41103,31
+27833,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70534,10.41085,32
+27834,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.7054,10.41079,33
+27835,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70551,10.41062,34
+27836,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70566,10.4103,35
+27837,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70632,10.40853,36
+27838,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70644,10.40829,37
+27839,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70663,10.40808,38
+27840,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.7067,10.40803,39
+27841,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70842,10.40681,40
+27842,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70922,10.40625,41
+27843,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70944,10.40613,42
+27844,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.7097,10.40593,43
+27845,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70981,10.40586,44
+27846,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70996,10.40588,45
+27847,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71001,10.4059,46
+27848,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71007,10.40596,47
+27849,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71009,10.40599,48
+27850,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71015,10.4061,49
+27851,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71008,10.40743,50
+27852,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71004,10.40744,51
+27853,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71001,10.40747,52
+27854,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70998,10.40751,53
+27855,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70997,10.40755,54
+27856,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70997,10.40763,55
+27857,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.70998,10.40769,56
+27858,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71003,10.40774,57
+27859,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71007,10.40776,58
+27860,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71014,10.40774,59
+27861,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71018,10.40769,60
+27862,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71027,10.40767,61
+27863,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71063,10.40769,62
+27864,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71112,10.40773,63
+27865,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71118,10.40776,64
+27866,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71127,10.40782,65
+27867,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71131,10.40786,66
+27868,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71138,10.40789,67
+27869,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71204,10.40793,68
+27870,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71261,10.40789,69
+27871,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71299,10.40783,70
+27872,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71305,10.40781,71
+27873,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71307,10.40778,72
+27874,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.7136,10.40622,73
+27875,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71372,10.40591,74
+27876,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71412,10.40501,75
+27877,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71493,10.40327,76
+27878,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71519,10.40267,77
+27879,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.7154,10.40214,78
+27880,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71555,10.40168,79
+27881,Ristorante Il Mio Capriccio,Via Angelo Battelli 5,route_1117,43.71621,10.40211,80

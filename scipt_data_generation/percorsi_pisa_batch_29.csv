@@ -1,0 +1,1983 @@
+id,start,end,route_id,lat,lon,idx
+19373,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70751,10.41201,0
+19374,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70725,10.41239,1
+19375,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70714,10.4126,2
+19376,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.707,10.41288,3
+19377,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70682,10.41331,4
+19378,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70655,10.4141,5
+19379,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70644,10.41447,6
+19380,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70636,10.41485,7
+19381,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.7063,10.41518,8
+19382,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70662,10.41532,9
+19383,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70665,10.41537,10
+19384,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70667,10.41547,11
+19385,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70747,10.41593,12
+19386,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70807,10.41632,13
+19387,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70812,10.41608,14
+19388,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70816,10.41598,15
+19389,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.7082,10.4159,16
+19390,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70829,10.41575,17
+19391,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70855,10.41539,18
+19392,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70862,10.41523,19
+19393,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70869,10.41503,20
+19394,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70885,10.4142,21
+19395,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70895,10.4143,22
+19396,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70907,10.41439,23
+19397,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.7092,10.41448,24
+19398,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70934,10.41454,25
+19399,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70944,10.41455,26
+19400,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71025,10.41445,27
+19401,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70997,10.41245,28
+19402,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70992,10.41199,29
+19403,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70991,10.41172,30
+19404,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.7099,10.41147,31
+19405,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70993,10.41076,32
+19406,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70994,10.41066,33
+19407,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70995,10.41058,34
+19408,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71002,10.41043,35
+19409,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71006,10.4104,36
+19410,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71008,10.41036,37
+19411,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.7101,10.41032,38
+19412,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71011,10.41027,39
+19413,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71011,10.41022,40
+19414,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.7101,10.41017,41
+19415,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71009,10.41013,42
+19416,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71006,10.41009,43
+19417,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71002,10.41005,44
+19418,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70998,10.40978,45
+19419,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71007,10.40776,46
+19420,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71014,10.40774,47
+19421,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71018,10.40769,48
+19422,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71019,10.40765,49
+19423,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.7102,10.4076,50
+19424,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71019,10.40752,51
+19425,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71017,10.40749,52
+19426,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71014,10.40745,53
+19427,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.7101,10.40743,54
+19428,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71008,10.40743,55
+19429,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71015,10.4061,56
+19430,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71019,10.4058,57
+19431,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71021,10.40573,58
+19432,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71027,10.40559,59
+19433,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.7104,10.4055,60
+19434,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71043,10.40545,61
+19435,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71044,10.40536,62
+19436,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71044,10.4053,63
+19437,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71041,10.40524,64
+19438,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71035,10.4052,65
+19439,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.7103,10.4052,66
+19440,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71019,10.40527,67
+19441,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.7101,10.40527,68
+19442,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.71006,10.40525,69
+19443,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70988,10.40513,70
+19444,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70974,10.40502,71
+19445,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70967,10.40492,72
+19446,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70965,10.40486,73
+19447,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70975,10.40422,74
+19448,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70988,10.40324,75
+19449,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70958,10.40294,76
+19450,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70931,10.40264,77
+19451,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70908,10.40242,78
+19452,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.7087,10.40213,79
+19453,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70831,10.40184,80
+19454,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70795,10.40155,81
+19455,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70789,10.40152,82
+19456,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70786,10.40151,83
+19457,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.7078,10.40151,84
+19458,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70777,10.40153,85
+19459,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70771,10.40159,86
+19460,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70765,10.40172,87
+19461,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70712,10.40318,88
+19462,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70614,10.40251,89
+19463,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70553,10.40214,90
+19464,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70547,10.40207,91
+19465,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70535,10.40184,92
+19466,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.7053,10.40178,93
+19467,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70524,10.40171,94
+19468,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70471,10.40133,95
+19469,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70455,10.40124,96
+19470,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70276,10.40076,97
+19471,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70252,10.40069,98
+19472,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70247,10.40067,99
+19473,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70244,10.40064,100
+19474,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70245,10.40061,101
+19475,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70245,10.40056,102
+19476,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70244,10.40052,103
+19477,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.7024,10.40047,104
+19478,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70237,10.40046,105
+19479,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70234,10.40046,106
+19480,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70231,10.40048,107
+19481,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70229,10.40051,108
+19482,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70228,10.40054,109
+19483,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70227,10.40058,110
+19484,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70215,10.40059,111
+19485,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.7018,10.40051,112
+19486,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70155,10.40042,113
+19487,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70036,10.3998,114
+19488,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70022,10.39969,115
+19489,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70002,10.39958,116
+19490,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69981,10.39948,117
+19491,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69978,10.39945,118
+19492,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69975,10.39939,119
+19493,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69973,10.39932,120
+19494,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69971,10.39917,121
+19495,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69979,10.39842,122
+19496,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69985,10.39803,123
+19497,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69986,10.39795,124
+19498,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69986,10.39785,125
+19499,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69985,10.39773,126
+19500,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69984,10.39757,127
+19501,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69985,10.39744,128
+19502,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6999,10.39727,129
+19503,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69998,10.39716,130
+19504,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70003,10.3971,131
+19505,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70009,10.39713,132
+19506,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70014,10.39713,133
+19507,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70018,10.39714,134
+19508,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70025,10.3972,135
+19509,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70032,10.3973,136
+19510,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.7004,10.39742,137
+19511,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70048,10.39756,138
+19512,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70052,10.39767,139
+19513,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70055,10.39782,140
+19514,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70057,10.39795,141
+19515,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70058,10.39808,142
+19516,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70055,10.39822,143
+19517,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70052,10.3983,144
+19518,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70047,10.39837,145
+19519,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70042,10.39841,146
+19520,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70038,10.39842,147
+19521,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70033,10.39842,148
+19522,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70026,10.3984,149
+19523,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70023,10.39837,150
+19524,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70019,10.39831,151
+19525,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70014,10.39817,152
+19526,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70014,10.39808,153
+19527,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70016,10.3977,154
+19528,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70013,10.39718,155
+19529,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70016,10.39669,156
+19530,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70016,10.39634,157
+19531,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70014,10.39574,158
+19532,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70011,10.39535,159
+19533,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70005,10.39477,160
+19534,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69972,10.39251,161
+19535,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69964,10.39173,162
+19536,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69962,10.39127,163
+19537,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69963,10.39086,164
+19538,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69967,10.39018,165
+19539,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69975,10.38967,166
+19540,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69984,10.38924,167
+19541,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69996,10.38883,168
+19542,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70009,10.38843,169
+19543,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70036,10.38767,170
+19544,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70047,10.38733,171
+19545,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70068,10.38654,172
+19546,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70081,10.38604,173
+19547,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70097,10.3852,174
+19548,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70105,10.38467,175
+19549,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70109,10.38423,176
+19550,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70115,10.38346,177
+19551,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70117,10.38282,178
+19552,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70117,10.38227,179
+19553,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70115,10.38181,180
+19554,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70113,10.38153,181
+19555,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70106,10.38084,182
+19556,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.701,10.38039,183
+19557,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70093,10.37999,184
+19558,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70078,10.37926,185
+19559,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70062,10.37866,186
+19560,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70051,10.37826,187
+19561,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70032,10.37773,188
+19562,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.70024,10.37751,189
+19563,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69999,10.3769,190
+19564,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69984,10.37658,191
+19565,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69967,10.37625,192
+19566,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69775,10.37273,193
+19567,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69686,10.37109,194
+19568,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69673,10.37081,195
+19569,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6965,10.37025,196
+19570,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69633,10.36975,197
+19571,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69625,10.36946,198
+19572,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69612,10.36889,199
+19573,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69594,10.36792,200
+19574,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69561,10.36605,201
+19575,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69534,10.36448,202
+19576,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69525,10.36399,203
+19577,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69519,10.36374,204
+19578,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69509,10.36336,205
+19579,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69498,10.36299,206
+19580,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69485,10.36265,207
+19581,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69459,10.36203,208
+19582,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69449,10.3618,209
+19583,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69435,10.36146,210
+19584,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69423,10.36118,211
+19585,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69335,10.35937,212
+19586,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69324,10.35905,213
+19587,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6932,10.35887,214
+19588,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69316,10.35867,215
+19589,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69313,10.35831,216
+19590,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69309,10.35808,217
+19591,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69307,10.35765,218
+19592,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69305,10.35753,219
+19593,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69301,10.35729,220
+19594,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69294,10.35704,221
+19595,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.69285,10.35677,222
+19596,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6927,10.35647,223
+19597,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6925,10.35611,224
+19598,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68909,10.35052,225
+19599,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68887,10.35023,226
+19600,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68869,10.35004,227
+19601,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68854,10.34991,228
+19602,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68836,10.34975,229
+19603,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68818,10.34963,230
+19604,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68803,10.34955,231
+19605,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68788,10.34948,232
+19606,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68759,10.34938,233
+19607,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68745,10.34934,234
+19608,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68719,10.3493,235
+19609,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68695,10.3493,236
+19610,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68674,10.34932,237
+19611,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68654,10.34936,238
+19612,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6864,10.3494,239
+19613,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68615,10.3495,240
+19614,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68588,10.34965,241
+19615,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68573,10.34976,242
+19616,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68558,10.34989,243
+19617,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68537,10.3501,244
+19618,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68512,10.3504,245
+19619,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68491,10.35074,246
+19620,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68427,10.35214,247
+19621,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68417,10.35233,248
+19622,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68408,10.35248,249
+19623,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6839,10.35275,250
+19624,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68372,10.35298,251
+19625,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68361,10.35308,252
+19626,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68335,10.3533,253
+19627,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68315,10.35342,254
+19628,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68289,10.35354,255
+19629,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68254,10.35363,256
+19630,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68225,10.35365,257
+19631,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.682,10.35365,258
+19632,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67764,10.35311,259
+19633,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67723,10.35303,260
+19634,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6769,10.35293,261
+19635,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67667,10.35284,262
+19636,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67641,10.3527,263
+19637,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67606,10.35247,264
+19638,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67587,10.35231,265
+19639,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67563,10.35205,266
+19640,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67539,10.35175,267
+19641,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67522,10.35149,268
+19642,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67491,10.35097,269
+19643,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67429,10.34975,270
+19644,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67373,10.34866,271
+19645,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67369,10.34854,272
+19646,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67357,10.34829,273
+19647,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67351,10.34806,274
+19648,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67352,10.34798,275
+19649,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67362,10.34781,276
+19650,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67368,10.34775,277
+19651,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67384,10.34761,278
+19652,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67453,10.34742,279
+19653,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67682,10.34706,280
+19654,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67712,10.347,281
+19655,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67711,10.34608,282
+19656,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67712,10.34597,283
+19657,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67713,10.34587,284
+19658,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67716,10.3458,285
+19659,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67718,10.34574,286
+19660,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67724,10.34566,287
+19661,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67733,10.34558,288
+19662,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67738,10.34556,289
+19663,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6775,10.34553,290
+19664,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6795,10.34539,291
+19665,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6796,10.34535,292
+19666,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67967,10.3453,293
+19667,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67971,10.34527,294
+19668,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67976,10.34519,295
+19669,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67981,10.345,296
+19670,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67984,10.3448,297
+19671,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68001,10.34327,298
+19672,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68017,10.34175,299
+19673,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68018,10.34153,300
+19674,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68018,10.34126,301
+19675,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68017,10.34093,302
+19676,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68016,10.34036,303
+19677,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68019,10.3396,304
+19678,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68019,10.33928,305
+19679,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68013,10.33823,306
+19680,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68001,10.33624,307
+19681,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68001,10.33592,308
+19682,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68003,10.33542,309
+19683,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68001,10.33468,310
+19684,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.68,10.33441,311
+19685,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67996,10.33418,312
+19686,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67856,10.32873,313
+19687,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67847,10.32857,314
+19688,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67831,10.32808,315
+19689,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67817,10.32767,316
+19690,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67794,10.32714,317
+19691,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67709,10.3253,318
+19692,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6769,10.32489,319
+19693,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67676,10.32453,320
+19694,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67662,10.32415,321
+19695,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67651,10.32383,322
+19696,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67642,10.32352,323
+19697,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67626,10.32287,324
+19698,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67604,10.32199,325
+19699,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67595,10.32175,326
+19700,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6757,10.32124,327
+19701,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67513,10.32036,328
+19702,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.67467,10.31963,329
+19703,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6736,10.31798,330
+19704,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66954,10.31179,331
+19705,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6694,10.31159,332
+19706,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6693,10.31147,333
+19707,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6692,10.3114,334
+19708,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66906,10.31138,335
+19709,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66756,10.31138,336
+19710,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66716,10.3114,337
+19711,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66673,10.31143,338
+19712,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66667,10.31142,339
+19713,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66664,10.3114,340
+19714,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66659,10.31136,341
+19715,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66656,10.31131,342
+19716,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66636,10.31082,343
+19717,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.666,10.31009,344
+19718,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66588,10.30981,345
+19719,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66581,10.30965,346
+19720,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66574,10.30953,347
+19721,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6657,10.30947,348
+19722,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66502,10.30857,349
+19723,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66459,10.30806,350
+19724,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66444,10.3079,351
+19725,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66418,10.30765,352
+19726,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66386,10.30737,353
+19727,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66319,10.30676,354
+19728,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66298,10.30655,355
+19729,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66266,10.30628,356
+19730,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66251,10.30618,357
+19731,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66241,10.30614,358
+19732,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66231,10.30612,359
+19733,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66209,10.30614,360
+19734,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66181,10.3062,361
+19735,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66082,10.30645,362
+19736,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.66013,10.30664,363
+19737,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.65868,10.30713,364
+19738,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.65579,10.30816,365
+19739,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.65462,10.30856,366
+19740,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.65399,10.30881,367
+19741,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.65314,10.30922,368
+19742,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.65308,10.30921,369
+19743,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.65303,10.30916,370
+19744,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.65236,10.30765,371
+19745,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.65165,10.30609,372
+19746,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6508,10.30423,373
+19747,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64976,10.30195,374
+19748,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64816,10.29839,375
+19749,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64713,10.29614,376
+19750,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64573,10.29305,377
+19751,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64552,10.29259,378
+19752,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64547,10.29249,379
+19753,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64544,10.29244,380
+19754,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64545,10.2924,381
+19755,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64544,10.29235,382
+19756,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6454,10.29232,383
+19757,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64538,10.29231,384
+19758,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64536,10.29225,385
+19759,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64531,10.29212,386
+19760,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64483,10.29108,387
+19761,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64404,10.28934,388
+19762,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.644,10.2892,389
+19763,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64395,10.28904,390
+19764,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64395,10.289,391
+19765,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64399,10.28899,392
+19766,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64401,10.28895,393
+19767,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64402,10.2889,394
+19768,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64402,10.28885,395
+19769,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64398,10.2888,396
+19770,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64396,10.28879,397
+19771,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64393,10.28879,398
+19772,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6439,10.28881,399
+19773,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64388,10.28884,400
+19774,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64387,10.28889,401
+19775,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64387,10.28893,402
+19776,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64385,10.28893,403
+19777,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64238,10.28979,404
+19778,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64199,10.28998,405
+19779,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64154,10.29019,406
+19780,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64093,10.29043,407
+19781,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.64023,10.29069,408
+19782,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.63956,10.29092,409
+19783,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.63953,10.2908,410
+19784,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.63927,10.29018,411
+19785,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.63836,10.28813,412
+19786,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.63834,10.28806,413
+19787,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.63816,10.28794,414
+19788,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.63808,10.28781,415
+19789,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.6379,10.28777,416
+19790,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.63767,10.28764,417
+19791,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.63736,10.28764,418
+19792,MediaWorld Pisa,Centro Commerciale Darsena (Tirrenia),route_840,43.63653,10.28784,419
+19793,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70751,10.41201,0
+19794,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70725,10.41239,1
+19795,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70714,10.4126,2
+19796,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.707,10.41288,3
+19797,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70682,10.41331,4
+19798,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70655,10.4141,5
+19799,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70644,10.41447,6
+19800,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70636,10.41485,7
+19801,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7063,10.41518,8
+19802,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70662,10.41532,9
+19803,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70665,10.41537,10
+19804,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70667,10.41547,11
+19805,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70747,10.41593,12
+19806,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70807,10.41632,13
+19807,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70812,10.41608,14
+19808,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70816,10.41598,15
+19809,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7082,10.4159,16
+19810,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70829,10.41575,17
+19811,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70855,10.41539,18
+19812,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70862,10.41523,19
+19813,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70869,10.41503,20
+19814,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70885,10.4142,21
+19815,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70895,10.4143,22
+19816,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70907,10.41439,23
+19817,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7092,10.41448,24
+19818,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70934,10.41454,25
+19819,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.70944,10.41455,26
+19820,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71025,10.41445,27
+19821,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71068,10.41746,28
+19822,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71091,10.41974,29
+19823,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7109,10.4199,30
+19824,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71092,10.4202,31
+19825,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71094,10.42031,32
+19826,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71098,10.42043,33
+19827,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71101,10.42058,34
+19828,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.711,10.42062,35
+19829,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71101,10.42067,36
+19830,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71103,10.4207,37
+19831,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71105,10.42071,38
+19832,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71109,10.4207,39
+19833,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71111,10.42068,40
+19834,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71156,10.42078,41
+19835,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71281,10.42107,42
+19836,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71497,10.42159,43
+19837,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71609,10.42188,44
+19838,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71632,10.4219,45
+19839,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71651,10.42189,46
+19840,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71665,10.42186,47
+19841,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71677,10.42181,48
+19842,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71695,10.42173,49
+19843,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71711,10.42161,50
+19844,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71725,10.42149,51
+19845,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71836,10.42028,52
+19846,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71845,10.42022,53
+19847,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71854,10.42019,54
+19848,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71879,10.42017,55
+19849,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71892,10.42014,56
+19850,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71943,10.42031,57
+19851,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71965,10.42048,58
+19852,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.71975,10.42058,59
+19853,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72032,10.42132,60
+19854,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7205,10.42159,61
+19855,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72056,10.42174,62
+19856,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72055,10.42177,63
+19857,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72056,10.42183,64
+19858,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72059,10.42188,65
+19859,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72062,10.42191,66
+19860,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72068,10.42192,67
+19861,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72071,10.4219,68
+19862,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72073,10.42188,69
+19863,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72076,10.42182,70
+19864,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72076,10.42177,71
+19865,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72076,10.42173,72
+19866,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72073,10.42167,73
+19867,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72076,10.42139,74
+19868,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72088,10.42104,75
+19869,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72134,10.41937,76
+19870,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72172,10.41809,77
+19871,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7222,10.41633,78
+19872,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72232,10.41585,79
+19873,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72243,10.41575,80
+19874,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72249,10.41571,81
+19875,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72255,10.41568,82
+19876,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72259,10.41569,83
+19877,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72263,10.4157,84
+19878,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72268,10.41575,85
+19879,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72272,10.41581,86
+19880,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72277,10.41589,87
+19881,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72282,10.41595,88
+19882,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72291,10.41599,89
+19883,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72298,10.41598,90
+19884,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72305,10.41595,91
+19885,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72309,10.4159,92
+19886,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72318,10.41576,93
+19887,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72322,10.41573,94
+19888,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72333,10.41566,95
+19889,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.724,10.41565,96
+19890,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72414,10.41566,97
+19891,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72421,10.41569,98
+19892,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72428,10.41573,99
+19893,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72465,10.41603,100
+19894,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72472,10.41612,101
+19895,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72523,10.41654,102
+19896,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72554,10.4168,103
+19897,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72658,10.41766,104
+19898,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72703,10.41802,105
+19899,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72831,10.4191,106
+19900,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7284,10.41919,107
+19901,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7285,10.41933,108
+19902,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72859,10.4195,109
+19903,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72864,10.41963,110
+19904,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72868,10.41976,111
+19905,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72869,10.41981,112
+19906,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72869,10.4199,113
+19907,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72865,10.42004,114
+19908,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72863,10.4201,115
+19909,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72857,10.42019,116
+19910,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72853,10.42026,117
+19911,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7285,10.42034,118
+19912,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72849,10.42043,119
+19913,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72851,10.42053,120
+19914,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72854,10.42061,121
+19915,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72861,10.42069,122
+19916,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72869,10.42072,123
+19917,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72886,10.42084,124
+19918,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72891,10.4209,125
+19919,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72899,10.42102,126
+19920,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72947,10.42209,127
+19921,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.72968,10.42245,128
+19922,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7299,10.42273,129
+19923,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73002,10.42286,130
+19924,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73024,10.42307,131
+19925,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73034,10.42315,132
+19926,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73052,10.42328,133
+19927,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73393,10.42531,134
+19928,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73412,10.42548,135
+19929,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73415,10.42553,136
+19930,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73416,10.42554,137
+19931,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7342,10.42553,138
+19932,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73422,10.42552,139
+19933,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73424,10.42547,140
+19934,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73424,10.42545,141
+19935,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73435,10.4251,142
+19936,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73463,10.42398,143
+19937,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7347,10.42376,144
+19938,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73474,10.42368,145
+19939,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7348,10.4236,146
+19940,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73491,10.42352,147
+19941,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73502,10.42346,148
+19942,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73512,10.42344,149
+19943,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73522,10.42344,150
+19944,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73531,10.42346,151
+19945,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7355,10.42354,152
+19946,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73594,10.42379,153
+19947,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73608,10.42388,154
+19948,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73623,10.42399,155
+19949,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73657,10.42428,156
+19950,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73664,10.42431,157
+19951,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73674,10.42432,158
+19952,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7368,10.4243,159
+19953,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73685,10.42424,160
+19954,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73688,10.4242,161
+19955,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73697,10.42399,162
+19956,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73745,10.42427,163
+19957,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73784,10.42447,164
+19958,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73979,10.42538,165
+19959,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.73997,10.4255,166
+19960,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.74079,10.42617,167
+19961,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.74099,10.42634,168
+19962,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.74316,10.42844,169
+19963,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.74363,10.42888,170
+19964,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.74503,10.43008,171
+19965,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.74671,10.43146,172
+19966,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.74724,10.43196,173
+19967,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.74825,10.43284,174
+19968,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7488,10.43331,175
+19969,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75062,10.43474,176
+19970,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75134,10.43538,177
+19971,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75193,10.43596,178
+19972,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75209,10.4361,179
+19973,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75223,10.43618,180
+19974,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75266,10.43635,181
+19975,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75288,10.43646,182
+19976,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75315,10.43661,183
+19977,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75338,10.43676,184
+19978,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75393,10.43722,185
+19979,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75401,10.43729,186
+19980,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75413,10.43742,187
+19981,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75436,10.43774,188
+19982,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75451,10.43789,189
+19983,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7546,10.43795,190
+19984,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75483,10.43805,191
+19985,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75503,10.43809,192
+19986,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75537,10.43813,193
+19987,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75552,10.43812,194
+19988,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7556,10.43811,195
+19989,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75592,10.43813,196
+19990,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75599,10.4382,197
+19991,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75607,10.43821,198
+19992,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75614,10.43819,199
+19993,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75619,10.43814,200
+19994,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75621,10.4381,201
+19995,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75624,10.43803,202
+19996,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75625,10.43798,203
+19997,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75624,10.43789,204
+19998,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75627,10.43775,205
+19999,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75635,10.43752,206
+20000,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75719,10.4362,207
+20001,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7582,10.43463,208
+20002,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75835,10.43444,209
+20003,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75859,10.4342,210
+20004,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75868,10.43417,211
+20005,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75877,10.43417,212
+20006,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75882,10.43421,213
+20007,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75888,10.43422,214
+20008,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75894,10.43421,215
+20009,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75899,10.43417,216
+20010,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75903,10.43412,217
+20011,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75906,10.43407,218
+20012,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75907,10.434,219
+20013,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75908,10.43393,220
+20014,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75907,10.43386,221
+20015,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75905,10.4338,222
+20016,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75901,10.43374,223
+20017,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75896,10.4337,224
+20018,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75891,10.43368,225
+20019,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75886,10.43367,226
+20020,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75881,10.43369,227
+20021,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75877,10.43372,228
+20022,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75869,10.43372,229
+20023,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75856,10.43364,230
+20024,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75713,10.43236,231
+20025,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75708,10.43199,232
+20026,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75701,10.43122,233
+20027,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75699,10.431,234
+20028,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75699,10.43076,235
+20029,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75701,10.43061,236
+20030,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75708,10.43027,237
+20031,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.7572,10.42981,238
+20032,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75734,10.42938,239
+20033,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75791,10.4297,240
+20034,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75808,10.42978,241
+20035,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75816,10.42984,242
+20036,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75828,10.43,243
+20037,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75829,10.43004,244
+20038,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75831,10.43009,245
+20039,MediaWorld Pisa,Parcheggio San Giuliano Terme,route_841,43.75828,10.43025,246
+20040,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70751,10.41201,0
+20041,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70725,10.41239,1
+20042,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70714,10.4126,2
+20043,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.707,10.41288,3
+20044,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70682,10.41331,4
+20045,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70655,10.4141,5
+20046,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70644,10.41447,6
+20047,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70636,10.41485,7
+20048,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.7063,10.41518,8
+20049,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70662,10.41532,9
+20050,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70665,10.41537,10
+20051,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70667,10.41547,11
+20052,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70747,10.41593,12
+20053,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70807,10.41632,13
+20054,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70812,10.41608,14
+20055,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70816,10.41598,15
+20056,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.7082,10.4159,16
+20057,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70829,10.41575,17
+20058,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70855,10.41539,18
+20059,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70862,10.41523,19
+20060,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70869,10.41503,20
+20061,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70885,10.4142,21
+20062,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70895,10.4143,22
+20063,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70907,10.41439,23
+20064,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.7092,10.41448,24
+20065,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70934,10.41454,25
+20066,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70944,10.41455,26
+20067,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71025,10.41445,27
+20068,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70997,10.41245,28
+20069,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70992,10.41199,29
+20070,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70991,10.41172,30
+20071,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.7099,10.41147,31
+20072,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70993,10.41076,32
+20073,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70994,10.41066,33
+20074,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70995,10.41058,34
+20075,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71002,10.41043,35
+20076,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71006,10.4104,36
+20077,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71008,10.41036,37
+20078,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.7101,10.41032,38
+20079,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71011,10.41027,39
+20080,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71011,10.41022,40
+20081,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.7101,10.41017,41
+20082,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71009,10.41013,42
+20083,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71006,10.41009,43
+20084,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71002,10.41005,44
+20085,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70998,10.40978,45
+20086,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71007,10.40776,46
+20087,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71014,10.40774,47
+20088,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71018,10.40769,48
+20089,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71019,10.40765,49
+20090,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.7102,10.4076,50
+20091,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71019,10.40752,51
+20092,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71017,10.40749,52
+20093,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71014,10.40745,53
+20094,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.7101,10.40743,54
+20095,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71008,10.40743,55
+20096,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71015,10.4061,56
+20097,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71019,10.4058,57
+20098,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71021,10.40573,58
+20099,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71027,10.40559,59
+20100,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.7104,10.4055,60
+20101,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71043,10.40545,61
+20102,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71044,10.40536,62
+20103,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71044,10.4053,63
+20104,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71041,10.40524,64
+20105,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71035,10.4052,65
+20106,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.7103,10.4052,66
+20107,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71019,10.40527,67
+20108,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.7101,10.40527,68
+20109,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.71006,10.40525,69
+20110,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70988,10.40513,70
+20111,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70974,10.40502,71
+20112,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70967,10.40492,72
+20113,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70965,10.40486,73
+20114,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70975,10.40422,74
+20115,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70988,10.40324,75
+20116,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70958,10.40294,76
+20117,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70931,10.40264,77
+20118,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70908,10.40242,78
+20119,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.7087,10.40213,79
+20120,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70831,10.40184,80
+20121,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70795,10.40155,81
+20122,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70789,10.40152,82
+20123,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70786,10.40151,83
+20124,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.7078,10.40151,84
+20125,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70777,10.40153,85
+20126,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70771,10.40159,86
+20127,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70765,10.40172,87
+20128,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70712,10.40318,88
+20129,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70614,10.40251,89
+20130,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70553,10.40214,90
+20131,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70547,10.40207,91
+20132,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70535,10.40184,92
+20133,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.7053,10.40178,93
+20134,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70524,10.40171,94
+20135,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70471,10.40133,95
+20136,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70455,10.40124,96
+20137,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70276,10.40076,97
+20138,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70252,10.40069,98
+20139,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70247,10.40067,99
+20140,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70244,10.40064,100
+20141,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70245,10.40061,101
+20142,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70245,10.40056,102
+20143,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70244,10.40052,103
+20144,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.7024,10.40047,104
+20145,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70237,10.40046,105
+20146,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70234,10.40046,106
+20147,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70231,10.40048,107
+20148,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70229,10.40051,108
+20149,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70228,10.40054,109
+20150,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70227,10.40058,110
+20151,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70215,10.40059,111
+20152,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.7018,10.40051,112
+20153,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70155,10.40042,113
+20154,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70036,10.3998,114
+20155,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70022,10.39969,115
+20156,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70002,10.39958,116
+20157,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69981,10.39948,117
+20158,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69978,10.39945,118
+20159,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69975,10.39939,119
+20160,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69973,10.39932,120
+20161,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69971,10.39917,121
+20162,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69979,10.39842,122
+20163,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69985,10.39803,123
+20164,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69986,10.39795,124
+20165,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69986,10.39785,125
+20166,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69985,10.39773,126
+20167,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69984,10.39757,127
+20168,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69985,10.39744,128
+20169,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.6999,10.39727,129
+20170,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69998,10.39716,130
+20171,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70003,10.3971,131
+20172,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70009,10.39713,132
+20173,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70014,10.39713,133
+20174,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70018,10.39714,134
+20175,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70025,10.3972,135
+20176,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70032,10.3973,136
+20177,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.7004,10.39742,137
+20178,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70048,10.39756,138
+20179,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70052,10.39767,139
+20180,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70055,10.39782,140
+20181,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70057,10.39795,141
+20182,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70058,10.39808,142
+20183,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70055,10.39822,143
+20184,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70052,10.3983,144
+20185,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70047,10.39837,145
+20186,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70042,10.39841,146
+20187,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70038,10.39842,147
+20188,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70033,10.39842,148
+20189,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70026,10.3984,149
+20190,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70023,10.39837,150
+20191,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70019,10.39831,151
+20192,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70014,10.39817,152
+20193,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70014,10.39808,153
+20194,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70016,10.3977,154
+20195,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70013,10.39718,155
+20196,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70016,10.39669,156
+20197,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70016,10.39634,157
+20198,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70014,10.39574,158
+20199,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70011,10.39535,159
+20200,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70005,10.39477,160
+20201,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69972,10.39251,161
+20202,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69964,10.39173,162
+20203,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69962,10.39127,163
+20204,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69963,10.39086,164
+20205,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69967,10.39018,165
+20206,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69975,10.38967,166
+20207,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69984,10.38924,167
+20208,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69996,10.38883,168
+20209,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70009,10.38843,169
+20210,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70036,10.38767,170
+20211,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70047,10.38733,171
+20212,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70068,10.38654,172
+20213,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70081,10.38604,173
+20214,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70097,10.3852,174
+20215,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70105,10.38467,175
+20216,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70109,10.38423,176
+20217,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70115,10.38346,177
+20218,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70117,10.38282,178
+20219,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70117,10.38227,179
+20220,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70115,10.38181,180
+20221,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70113,10.38153,181
+20222,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70106,10.38084,182
+20223,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.701,10.38039,183
+20224,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70093,10.37999,184
+20225,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70078,10.37926,185
+20226,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70062,10.37866,186
+20227,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70051,10.37826,187
+20228,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70032,10.37773,188
+20229,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.70024,10.37751,189
+20230,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69999,10.3769,190
+20231,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69984,10.37658,191
+20232,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69967,10.37625,192
+20233,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69775,10.37273,193
+20234,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69686,10.37109,194
+20235,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69673,10.37081,195
+20236,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.6965,10.37025,196
+20237,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69633,10.36975,197
+20238,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69625,10.36946,198
+20239,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69612,10.36889,199
+20240,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69594,10.36792,200
+20241,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69561,10.36605,201
+20242,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69534,10.36448,202
+20243,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69525,10.36399,203
+20244,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69519,10.36374,204
+20245,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69509,10.36336,205
+20246,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69498,10.36299,206
+20247,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69485,10.36265,207
+20248,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69459,10.36203,208
+20249,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69449,10.3618,209
+20250,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69435,10.36146,210
+20251,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69423,10.36118,211
+20252,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69335,10.35937,212
+20253,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69324,10.35905,213
+20254,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.6932,10.35887,214
+20255,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69316,10.35867,215
+20256,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69313,10.35831,216
+20257,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69309,10.35808,217
+20258,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69307,10.35765,218
+20259,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69305,10.35753,219
+20260,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69301,10.35729,220
+20261,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69294,10.35704,221
+20262,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.69285,10.35677,222
+20263,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.6927,10.35647,223
+20264,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.6925,10.35611,224
+20265,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68909,10.35052,225
+20266,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68887,10.35023,226
+20267,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68869,10.35004,227
+20268,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68854,10.34991,228
+20269,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68836,10.34975,229
+20270,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68818,10.34963,230
+20271,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68803,10.34955,231
+20272,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68788,10.34948,232
+20273,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68759,10.34938,233
+20274,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68745,10.34934,234
+20275,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68719,10.3493,235
+20276,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68695,10.3493,236
+20277,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68674,10.34932,237
+20278,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68654,10.34936,238
+20279,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.6864,10.3494,239
+20280,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68615,10.3495,240
+20281,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68588,10.34965,241
+20282,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68573,10.34976,242
+20283,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68558,10.34989,243
+20284,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68537,10.3501,244
+20285,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68512,10.3504,245
+20286,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68491,10.35074,246
+20287,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68427,10.35214,247
+20288,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68417,10.35233,248
+20289,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68408,10.35248,249
+20290,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.6839,10.35275,250
+20291,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68372,10.35298,251
+20292,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68361,10.35308,252
+20293,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68335,10.3533,253
+20294,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68315,10.35342,254
+20295,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68289,10.35354,255
+20296,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68254,10.35363,256
+20297,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68225,10.35365,257
+20298,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.682,10.35365,258
+20299,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67764,10.35311,259
+20300,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67723,10.35303,260
+20301,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.6769,10.35293,261
+20302,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67667,10.35284,262
+20303,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67641,10.3527,263
+20304,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67606,10.35247,264
+20305,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67587,10.35231,265
+20306,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67563,10.35205,266
+20307,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67539,10.35175,267
+20308,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67522,10.35149,268
+20309,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67491,10.35097,269
+20310,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67429,10.34975,270
+20311,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67373,10.34866,271
+20312,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67369,10.34854,272
+20313,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67357,10.34829,273
+20314,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67351,10.34806,274
+20315,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67352,10.34798,275
+20316,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67362,10.34781,276
+20317,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67368,10.34775,277
+20318,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67384,10.34761,278
+20319,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67453,10.34742,279
+20320,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67682,10.34706,280
+20321,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67712,10.347,281
+20322,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67711,10.34608,282
+20323,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67712,10.34597,283
+20324,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67713,10.34587,284
+20325,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67716,10.3458,285
+20326,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67718,10.34574,286
+20327,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67724,10.34566,287
+20328,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67733,10.34558,288
+20329,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67738,10.34556,289
+20330,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.6775,10.34553,290
+20331,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.6795,10.34539,291
+20332,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.6796,10.34535,292
+20333,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67967,10.3453,293
+20334,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67971,10.34527,294
+20335,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67976,10.34519,295
+20336,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67981,10.345,296
+20337,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67984,10.3448,297
+20338,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68001,10.34327,298
+20339,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68017,10.34175,299
+20340,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68018,10.34153,300
+20341,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68018,10.34126,301
+20342,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68017,10.34093,302
+20343,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68016,10.34036,303
+20344,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68019,10.3396,304
+20345,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68019,10.33928,305
+20346,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68013,10.33823,306
+20347,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68001,10.33624,307
+20348,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68001,10.33592,308
+20349,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68003,10.33542,309
+20350,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68001,10.33468,310
+20351,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.68,10.33441,311
+20352,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67996,10.33418,312
+20353,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67856,10.32873,313
+20354,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67847,10.32857,314
+20355,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67831,10.32808,315
+20356,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67817,10.32767,316
+20357,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67794,10.32714,317
+20358,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67709,10.3253,318
+20359,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.6769,10.32489,319
+20360,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67676,10.32453,320
+20361,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67662,10.32415,321
+20362,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67651,10.32383,322
+20363,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67642,10.32352,323
+20364,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67626,10.32287,324
+20365,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67604,10.32199,325
+20366,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67595,10.32175,326
+20367,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.6757,10.32124,327
+20368,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67513,10.32036,328
+20369,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.67467,10.31963,329
+20370,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.6736,10.31798,330
+20371,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66954,10.31179,331
+20372,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.6694,10.31159,332
+20373,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.6693,10.31147,333
+20374,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.6692,10.3114,334
+20375,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66906,10.31138,335
+20376,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66756,10.31138,336
+20377,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66716,10.3114,337
+20378,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66673,10.31143,338
+20379,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66667,10.31142,339
+20380,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66664,10.3114,340
+20381,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66659,10.31136,341
+20382,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66656,10.31131,342
+20383,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66636,10.31082,343
+20384,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.666,10.31009,344
+20385,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66588,10.30981,345
+20386,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66581,10.30965,346
+20387,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66574,10.30953,347
+20388,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.6657,10.30947,348
+20389,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66502,10.30857,349
+20390,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66459,10.30806,350
+20391,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66444,10.3079,351
+20392,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66418,10.30765,352
+20393,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66386,10.30737,353
+20394,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66319,10.30676,354
+20395,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66298,10.30655,355
+20396,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66266,10.30628,356
+20397,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66251,10.30618,357
+20398,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66241,10.30614,358
+20399,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66231,10.30612,359
+20400,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66209,10.30614,360
+20401,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66181,10.3062,361
+20402,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66082,10.30645,362
+20403,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.66013,10.30664,363
+20404,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.65868,10.30713,364
+20405,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.65579,10.30816,365
+20406,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.65462,10.30856,366
+20407,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.65399,10.30881,367
+20408,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.65314,10.30922,368
+20409,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.65308,10.30921,369
+20410,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.65303,10.30916,370
+20411,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.65236,10.30765,371
+20412,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.65165,10.30609,372
+20413,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.6508,10.30423,373
+20414,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.64976,10.30195,374
+20415,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.64816,10.29839,375
+20416,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.64752,10.29699,376
+20417,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.64759,10.29694,377
+20418,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.64915,10.29609,378
+20419,MediaWorld Pisa,Hotel Continental Tirrenia,route_842,43.64922,10.29608,379
+20420,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70751,10.41201,0
+20421,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70725,10.41239,1
+20422,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70714,10.4126,2
+20423,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.707,10.41288,3
+20424,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70682,10.41331,4
+20425,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70655,10.4141,5
+20426,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70644,10.41447,6
+20427,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70636,10.41485,7
+20428,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7063,10.41518,8
+20429,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70662,10.41532,9
+20430,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70665,10.41537,10
+20431,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70667,10.41547,11
+20432,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70747,10.41593,12
+20433,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70807,10.41632,13
+20434,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70812,10.41608,14
+20435,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70816,10.41598,15
+20436,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7082,10.4159,16
+20437,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70829,10.41575,17
+20438,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70855,10.41539,18
+20439,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70862,10.41523,19
+20440,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70869,10.41503,20
+20441,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70885,10.4142,21
+20442,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70895,10.4143,22
+20443,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70907,10.41439,23
+20444,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7092,10.41448,24
+20445,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70934,10.41454,25
+20446,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70944,10.41455,26
+20447,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71025,10.41445,27
+20448,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70997,10.41245,28
+20449,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70992,10.41199,29
+20450,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70991,10.41172,30
+20451,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7099,10.41147,31
+20452,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70993,10.41076,32
+20453,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70994,10.41066,33
+20454,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70995,10.41058,34
+20455,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71002,10.41043,35
+20456,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71006,10.4104,36
+20457,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71008,10.41036,37
+20458,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7101,10.41032,38
+20459,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71011,10.41027,39
+20460,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71011,10.41022,40
+20461,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7101,10.41017,41
+20462,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71009,10.41013,42
+20463,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71006,10.41009,43
+20464,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71002,10.41005,44
+20465,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.70998,10.40978,45
+20466,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71007,10.40776,46
+20467,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71014,10.40774,47
+20468,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71018,10.40769,48
+20469,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71027,10.40767,49
+20470,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71063,10.40769,50
+20471,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71112,10.40773,51
+20472,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71118,10.40776,52
+20473,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71127,10.40782,53
+20474,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71131,10.40786,54
+20475,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71138,10.40789,55
+20476,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71204,10.40793,56
+20477,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71261,10.40789,57
+20478,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71299,10.40783,58
+20479,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71305,10.40781,59
+20480,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71307,10.40778,60
+20481,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7136,10.40622,61
+20482,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71372,10.40591,62
+20483,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71412,10.40501,63
+20484,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71493,10.40327,64
+20485,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71526,10.4025,65
+20486,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7154,10.40214,66
+20487,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71551,10.40181,67
+20488,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71566,10.40129,68
+20489,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7157,10.40111,69
+20490,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71576,10.40067,70
+20491,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7158,10.40037,71
+20492,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71583,10.39998,72
+20493,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71583,10.39968,73
+20494,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7158,10.39919,74
+20495,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71577,10.39888,75
+20496,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71571,10.39854,76
+20497,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71557,10.39791,77
+20498,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71542,10.39746,78
+20499,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71511,10.3966,79
+20500,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71508,10.39645,80
+20501,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71496,10.39619,81
+20502,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71472,10.39571,82
+20503,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7156,10.39498,83
+20504,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7154,10.39451,84
+20505,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7153,10.3943,85
+20506,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71495,10.39362,86
+20507,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71451,10.39274,87
+20508,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71413,10.39183,88
+20509,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71406,10.39165,89
+20510,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71405,10.39151,90
+20511,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71401,10.39126,91
+20512,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71401,10.39117,92
+20513,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71407,10.39084,93
+20514,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71408,10.39068,94
+20515,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71401,10.39043,95
+20516,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71385,10.39001,96
+20517,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71384,10.38995,97
+20518,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71376,10.38983,98
+20519,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71371,10.38969,99
+20520,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71353,10.38923,100
+20521,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71345,10.38902,101
+20522,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71344,10.38891,102
+20523,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71346,10.38884,103
+20524,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71345,10.38878,104
+20525,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71344,10.38876,105
+20526,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71337,10.38865,106
+20527,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7133,10.3884,107
+20528,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71328,10.38836,108
+20529,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71324,10.38836,109
+20530,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71319,10.38837,110
+20531,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71301,10.38844,111
+20532,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71297,10.38844,112
+20533,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71292,10.38844,113
+20534,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71286,10.38841,114
+20535,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7128,10.38836,115
+20536,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71275,10.38828,116
+20537,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71273,10.38822,117
+20538,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71262,10.38783,118
+20539,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71182,10.38436,119
+20540,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71224,10.38411,120
+20541,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71258,10.38383,121
+20542,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71262,10.38381,122
+20543,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71273,10.3838,123
+20544,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71279,10.38379,124
+20545,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71284,10.38375,125
+20546,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71285,10.38372,126
+20547,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71296,10.38369,127
+20548,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71318,10.38364,128
+20549,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7133,10.38364,129
+20550,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71348,10.38361,130
+20551,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71586,10.38263,131
+20552,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71678,10.38224,132
+20553,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71689,10.38222,133
+20554,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.717,10.38214,134
+20555,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71707,10.38216,135
+20556,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7171,10.38214,136
+20557,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71713,10.38212,137
+20558,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71718,10.38205,138
+20559,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71724,10.38201,139
+20560,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71746,10.38197,140
+20561,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.71749,10.38194,141
+20562,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.72295,10.3797,142
+20563,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.72307,10.37968,143
+20564,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.72315,10.37964,144
+20565,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.72324,10.37958,145
+20566,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.72336,10.37954,146
+20567,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.72341,10.37957,147
+20568,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.72347,10.37957,148
+20569,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.72353,10.37953,149
+20570,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.72354,10.3795,150
+20571,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.72366,10.37941,151
+20572,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.72382,10.37933,152
+20573,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.72417,10.3792,153
+20574,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.72551,10.37863,154
+20575,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.72694,10.37805,155
+20576,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.72831,10.37747,156
+20577,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7288,10.37725,157
+20578,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.72901,10.37713,158
+20579,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7303,10.37624,159
+20580,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.73252,10.37474,160
+20581,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.73316,10.37432,161
+20582,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.73337,10.3742,162
+20583,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.73365,10.37406,163
+20584,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.73378,10.37402,164
+20585,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.73412,10.37393,165
+20586,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.73435,10.3739,166
+20587,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7353,10.37381,167
+20588,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.73605,10.37376,168
+20589,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7372,10.37369,169
+20590,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.73763,10.37368,170
+20591,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.738,10.37368,171
+20592,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7389,10.37364,172
+20593,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74018,10.37356,173
+20594,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74044,10.37354,174
+20595,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74058,10.37366,175
+20596,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74061,10.3737,176
+20597,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74065,10.37372,177
+20598,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7407,10.37373,178
+20599,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74074,10.37371,179
+20600,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74094,10.37352,180
+20601,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7417,10.37347,181
+20602,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7422,10.37343,182
+20603,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74251,10.37337,183
+20604,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74278,10.37326,184
+20605,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74302,10.37311,185
+20606,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74312,10.37302,186
+20607,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74327,10.37286,187
+20608,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74336,10.37275,188
+20609,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74348,10.3726,189
+20610,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.744,10.37177,190
+20611,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74407,10.37169,191
+20612,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74415,10.37164,192
+20613,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74425,10.37161,193
+20614,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74429,10.37155,194
+20615,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74431,10.3715,195
+20616,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74431,10.37144,196
+20617,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7443,10.37139,197
+20618,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74431,10.37126,198
+20619,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74883,10.36364,199
+20620,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.74993,10.36179,200
+20621,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.75074,10.36045,201
+20622,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7515,10.35918,202
+20623,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.75159,10.35899,203
+20624,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.75164,10.35886,204
+20625,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.75192,10.35809,205
+20626,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.75204,10.35781,206
+20627,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.75213,10.35763,207
+20628,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7522,10.35754,208
+20629,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.75256,10.35711,209
+20630,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7531,10.35652,210
+20631,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.75539,10.35403,211
+20632,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.75555,10.35382,212
+20633,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.75578,10.35359,213
+20634,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.75944,10.34959,214
+20635,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.76129,10.34755,215
+20636,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.76163,10.34718,216
+20637,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.76175,10.34703,217
+20638,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.76194,10.34677,218
+20639,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.76226,10.34625,219
+20640,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.76311,10.34474,220
+20641,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7644,10.34249,221
+20642,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.76505,10.34338,222
+20643,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.76576,10.34311,223
+20644,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.76603,10.34382,224
+20645,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.76613,10.34397,225
+20646,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.76617,10.34401,226
+20647,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.76624,10.34405,227
+20648,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.76641,10.34405,228
+20649,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.76801,10.34372,229
+20650,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.76835,10.34367,230
+20651,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.76852,10.34366,231
+20652,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.76893,10.34367,232
+20653,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.76977,10.34373,233
+20654,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77005,10.34376,234
+20655,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77024,10.34382,235
+20656,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77047,10.34391,236
+20657,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77065,10.34402,237
+20658,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77117,10.34444,238
+20659,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77233,10.34541,239
+20660,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77268,10.34572,240
+20661,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7739,10.34676,241
+20662,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77401,10.34686,242
+20663,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77408,10.34693,243
+20664,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77415,10.34705,244
+20665,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77421,10.34716,245
+20666,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77452,10.34841,246
+20667,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77519,10.35097,247
+20668,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77523,10.35105,248
+20669,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77528,10.35113,249
+20670,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77534,10.35119,250
+20671,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77604,10.35174,251
+20672,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77625,10.35192,252
+20673,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77891,10.35478,253
+20674,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77924,10.35515,254
+20675,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77934,10.35526,255
+20676,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77943,10.3554,256
+20677,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77949,10.35552,257
+20678,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.77956,10.35569,258
+20679,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.78009,10.35747,259
+20680,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7803,10.35813,260
+20681,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7804,10.35834,261
+20682,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.78045,10.35841,262
+20683,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.78059,10.35857,263
+20684,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.78101,10.35893,264
+20685,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7814,10.35922,265
+20686,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.78232,10.35998,266
+20687,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.78259,10.36018,267
+20688,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.78318,10.36067,268
+20689,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.78349,10.3609,269
+20690,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.78391,10.36117,270
+20691,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.78476,10.36168,271
+20692,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.7851,10.3619,272
+20693,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.78478,10.36303,273
+20694,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.78468,10.36345,274
+20695,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.78376,10.36296,275
+20696,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.78376,10.3629,276
+20697,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.78379,10.36278,277
+20698,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.78382,10.36272,278
+20699,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.78386,10.3627,279
+20700,MediaWorld Pisa,Parcheggio Migliarino,route_843,43.78393,10.36274,280
+20701,MediaWorld Pisa,Conad Metato,route_844,43.70751,10.41201,0
+20702,MediaWorld Pisa,Conad Metato,route_844,43.70725,10.41239,1
+20703,MediaWorld Pisa,Conad Metato,route_844,43.70714,10.4126,2
+20704,MediaWorld Pisa,Conad Metato,route_844,43.707,10.41288,3
+20705,MediaWorld Pisa,Conad Metato,route_844,43.70682,10.41331,4
+20706,MediaWorld Pisa,Conad Metato,route_844,43.70655,10.4141,5
+20707,MediaWorld Pisa,Conad Metato,route_844,43.70644,10.41447,6
+20708,MediaWorld Pisa,Conad Metato,route_844,43.70636,10.41485,7
+20709,MediaWorld Pisa,Conad Metato,route_844,43.7063,10.41518,8
+20710,MediaWorld Pisa,Conad Metato,route_844,43.70662,10.41532,9
+20711,MediaWorld Pisa,Conad Metato,route_844,43.70665,10.41537,10
+20712,MediaWorld Pisa,Conad Metato,route_844,43.70667,10.41547,11
+20713,MediaWorld Pisa,Conad Metato,route_844,43.70747,10.41593,12
+20714,MediaWorld Pisa,Conad Metato,route_844,43.70807,10.41632,13
+20715,MediaWorld Pisa,Conad Metato,route_844,43.70812,10.41608,14
+20716,MediaWorld Pisa,Conad Metato,route_844,43.70816,10.41598,15
+20717,MediaWorld Pisa,Conad Metato,route_844,43.7082,10.4159,16
+20718,MediaWorld Pisa,Conad Metato,route_844,43.70829,10.41575,17
+20719,MediaWorld Pisa,Conad Metato,route_844,43.70855,10.41539,18
+20720,MediaWorld Pisa,Conad Metato,route_844,43.70862,10.41523,19
+20721,MediaWorld Pisa,Conad Metato,route_844,43.70869,10.41503,20
+20722,MediaWorld Pisa,Conad Metato,route_844,43.70885,10.4142,21
+20723,MediaWorld Pisa,Conad Metato,route_844,43.70895,10.4143,22
+20724,MediaWorld Pisa,Conad Metato,route_844,43.70907,10.41439,23
+20725,MediaWorld Pisa,Conad Metato,route_844,43.7092,10.41448,24
+20726,MediaWorld Pisa,Conad Metato,route_844,43.70934,10.41454,25
+20727,MediaWorld Pisa,Conad Metato,route_844,43.70944,10.41455,26
+20728,MediaWorld Pisa,Conad Metato,route_844,43.71025,10.41445,27
+20729,MediaWorld Pisa,Conad Metato,route_844,43.71068,10.41746,28
+20730,MediaWorld Pisa,Conad Metato,route_844,43.71091,10.41974,29
+20731,MediaWorld Pisa,Conad Metato,route_844,43.7109,10.4199,30
+20732,MediaWorld Pisa,Conad Metato,route_844,43.71092,10.4202,31
+20733,MediaWorld Pisa,Conad Metato,route_844,43.71094,10.42031,32
+20734,MediaWorld Pisa,Conad Metato,route_844,43.71098,10.42043,33
+20735,MediaWorld Pisa,Conad Metato,route_844,43.71101,10.42058,34
+20736,MediaWorld Pisa,Conad Metato,route_844,43.711,10.42062,35
+20737,MediaWorld Pisa,Conad Metato,route_844,43.71101,10.42067,36
+20738,MediaWorld Pisa,Conad Metato,route_844,43.71103,10.4207,37
+20739,MediaWorld Pisa,Conad Metato,route_844,43.71105,10.42071,38
+20740,MediaWorld Pisa,Conad Metato,route_844,43.71109,10.4207,39
+20741,MediaWorld Pisa,Conad Metato,route_844,43.71111,10.42068,40
+20742,MediaWorld Pisa,Conad Metato,route_844,43.71156,10.42078,41
+20743,MediaWorld Pisa,Conad Metato,route_844,43.71281,10.42107,42
+20744,MediaWorld Pisa,Conad Metato,route_844,43.71497,10.42159,43
+20745,MediaWorld Pisa,Conad Metato,route_844,43.71609,10.42188,44
+20746,MediaWorld Pisa,Conad Metato,route_844,43.71632,10.4219,45
+20747,MediaWorld Pisa,Conad Metato,route_844,43.71651,10.42189,46
+20748,MediaWorld Pisa,Conad Metato,route_844,43.71665,10.42186,47
+20749,MediaWorld Pisa,Conad Metato,route_844,43.71677,10.42181,48
+20750,MediaWorld Pisa,Conad Metato,route_844,43.71695,10.42173,49
+20751,MediaWorld Pisa,Conad Metato,route_844,43.71711,10.42161,50
+20752,MediaWorld Pisa,Conad Metato,route_844,43.71725,10.42149,51
+20753,MediaWorld Pisa,Conad Metato,route_844,43.71836,10.42028,52
+20754,MediaWorld Pisa,Conad Metato,route_844,43.71845,10.42022,53
+20755,MediaWorld Pisa,Conad Metato,route_844,43.71854,10.42019,54
+20756,MediaWorld Pisa,Conad Metato,route_844,43.71879,10.42017,55
+20757,MediaWorld Pisa,Conad Metato,route_844,43.71892,10.42014,56
+20758,MediaWorld Pisa,Conad Metato,route_844,43.71943,10.42031,57
+20759,MediaWorld Pisa,Conad Metato,route_844,43.71965,10.42048,58
+20760,MediaWorld Pisa,Conad Metato,route_844,43.71975,10.42058,59
+20761,MediaWorld Pisa,Conad Metato,route_844,43.72032,10.42132,60
+20762,MediaWorld Pisa,Conad Metato,route_844,43.7205,10.42159,61
+20763,MediaWorld Pisa,Conad Metato,route_844,43.72056,10.42174,62
+20764,MediaWorld Pisa,Conad Metato,route_844,43.72055,10.42177,63
+20765,MediaWorld Pisa,Conad Metato,route_844,43.72056,10.42183,64
+20766,MediaWorld Pisa,Conad Metato,route_844,43.72059,10.42188,65
+20767,MediaWorld Pisa,Conad Metato,route_844,43.72062,10.42191,66
+20768,MediaWorld Pisa,Conad Metato,route_844,43.72068,10.42192,67
+20769,MediaWorld Pisa,Conad Metato,route_844,43.72071,10.4219,68
+20770,MediaWorld Pisa,Conad Metato,route_844,43.72073,10.42188,69
+20771,MediaWorld Pisa,Conad Metato,route_844,43.72076,10.42182,70
+20772,MediaWorld Pisa,Conad Metato,route_844,43.72076,10.42177,71
+20773,MediaWorld Pisa,Conad Metato,route_844,43.72076,10.42173,72
+20774,MediaWorld Pisa,Conad Metato,route_844,43.72073,10.42167,73
+20775,MediaWorld Pisa,Conad Metato,route_844,43.72076,10.42139,74
+20776,MediaWorld Pisa,Conad Metato,route_844,43.72088,10.42104,75
+20777,MediaWorld Pisa,Conad Metato,route_844,43.72134,10.41937,76
+20778,MediaWorld Pisa,Conad Metato,route_844,43.72172,10.41809,77
+20779,MediaWorld Pisa,Conad Metato,route_844,43.7222,10.41633,78
+20780,MediaWorld Pisa,Conad Metato,route_844,43.72232,10.41585,79
+20781,MediaWorld Pisa,Conad Metato,route_844,43.72243,10.41575,80
+20782,MediaWorld Pisa,Conad Metato,route_844,43.72249,10.41571,81
+20783,MediaWorld Pisa,Conad Metato,route_844,43.72255,10.41568,82
+20784,MediaWorld Pisa,Conad Metato,route_844,43.72259,10.41569,83
+20785,MediaWorld Pisa,Conad Metato,route_844,43.72263,10.4157,84
+20786,MediaWorld Pisa,Conad Metato,route_844,43.72268,10.41575,85
+20787,MediaWorld Pisa,Conad Metato,route_844,43.72272,10.41581,86
+20788,MediaWorld Pisa,Conad Metato,route_844,43.72277,10.41589,87
+20789,MediaWorld Pisa,Conad Metato,route_844,43.72282,10.41595,88
+20790,MediaWorld Pisa,Conad Metato,route_844,43.72291,10.41599,89
+20791,MediaWorld Pisa,Conad Metato,route_844,43.72298,10.41598,90
+20792,MediaWorld Pisa,Conad Metato,route_844,43.72305,10.41595,91
+20793,MediaWorld Pisa,Conad Metato,route_844,43.72309,10.4159,92
+20794,MediaWorld Pisa,Conad Metato,route_844,43.72318,10.41576,93
+20795,MediaWorld Pisa,Conad Metato,route_844,43.72322,10.41573,94
+20796,MediaWorld Pisa,Conad Metato,route_844,43.72333,10.41566,95
+20797,MediaWorld Pisa,Conad Metato,route_844,43.724,10.41565,96
+20798,MediaWorld Pisa,Conad Metato,route_844,43.72414,10.41566,97
+20799,MediaWorld Pisa,Conad Metato,route_844,43.72421,10.41569,98
+20800,MediaWorld Pisa,Conad Metato,route_844,43.72428,10.41573,99
+20801,MediaWorld Pisa,Conad Metato,route_844,43.72465,10.41603,100
+20802,MediaWorld Pisa,Conad Metato,route_844,43.72472,10.41612,101
+20803,MediaWorld Pisa,Conad Metato,route_844,43.72523,10.41654,102
+20804,MediaWorld Pisa,Conad Metato,route_844,43.72554,10.4168,103
+20805,MediaWorld Pisa,Conad Metato,route_844,43.72658,10.41766,104
+20806,MediaWorld Pisa,Conad Metato,route_844,43.72703,10.41802,105
+20807,MediaWorld Pisa,Conad Metato,route_844,43.72831,10.4191,106
+20808,MediaWorld Pisa,Conad Metato,route_844,43.7284,10.41919,107
+20809,MediaWorld Pisa,Conad Metato,route_844,43.7285,10.41933,108
+20810,MediaWorld Pisa,Conad Metato,route_844,43.72859,10.4195,109
+20811,MediaWorld Pisa,Conad Metato,route_844,43.72864,10.41963,110
+20812,MediaWorld Pisa,Conad Metato,route_844,43.72868,10.41976,111
+20813,MediaWorld Pisa,Conad Metato,route_844,43.72869,10.41981,112
+20814,MediaWorld Pisa,Conad Metato,route_844,43.72869,10.4199,113
+20815,MediaWorld Pisa,Conad Metato,route_844,43.72865,10.42004,114
+20816,MediaWorld Pisa,Conad Metato,route_844,43.72863,10.4201,115
+20817,MediaWorld Pisa,Conad Metato,route_844,43.72857,10.42019,116
+20818,MediaWorld Pisa,Conad Metato,route_844,43.72853,10.42026,117
+20819,MediaWorld Pisa,Conad Metato,route_844,43.7285,10.42034,118
+20820,MediaWorld Pisa,Conad Metato,route_844,43.72849,10.42043,119
+20821,MediaWorld Pisa,Conad Metato,route_844,43.72851,10.42053,120
+20822,MediaWorld Pisa,Conad Metato,route_844,43.72854,10.42061,121
+20823,MediaWorld Pisa,Conad Metato,route_844,43.72861,10.42069,122
+20824,MediaWorld Pisa,Conad Metato,route_844,43.72869,10.42072,123
+20825,MediaWorld Pisa,Conad Metato,route_844,43.72886,10.42084,124
+20826,MediaWorld Pisa,Conad Metato,route_844,43.72891,10.4209,125
+20827,MediaWorld Pisa,Conad Metato,route_844,43.72899,10.42102,126
+20828,MediaWorld Pisa,Conad Metato,route_844,43.72947,10.42209,127
+20829,MediaWorld Pisa,Conad Metato,route_844,43.72968,10.42245,128
+20830,MediaWorld Pisa,Conad Metato,route_844,43.7299,10.42273,129
+20831,MediaWorld Pisa,Conad Metato,route_844,43.73002,10.42286,130
+20832,MediaWorld Pisa,Conad Metato,route_844,43.73024,10.42307,131
+20833,MediaWorld Pisa,Conad Metato,route_844,43.73034,10.42315,132
+20834,MediaWorld Pisa,Conad Metato,route_844,43.73052,10.42328,133
+20835,MediaWorld Pisa,Conad Metato,route_844,43.73393,10.42531,134
+20836,MediaWorld Pisa,Conad Metato,route_844,43.73412,10.42548,135
+20837,MediaWorld Pisa,Conad Metato,route_844,43.73415,10.42553,136
+20838,MediaWorld Pisa,Conad Metato,route_844,43.73416,10.42554,137
+20839,MediaWorld Pisa,Conad Metato,route_844,43.7342,10.42553,138
+20840,MediaWorld Pisa,Conad Metato,route_844,43.73422,10.42552,139
+20841,MediaWorld Pisa,Conad Metato,route_844,43.73424,10.42547,140
+20842,MediaWorld Pisa,Conad Metato,route_844,43.73424,10.42545,141
+20843,MediaWorld Pisa,Conad Metato,route_844,43.73435,10.4251,142
+20844,MediaWorld Pisa,Conad Metato,route_844,43.73463,10.42398,143
+20845,MediaWorld Pisa,Conad Metato,route_844,43.7347,10.42376,144
+20846,MediaWorld Pisa,Conad Metato,route_844,43.73474,10.42368,145
+20847,MediaWorld Pisa,Conad Metato,route_844,43.7348,10.4236,146
+20848,MediaWorld Pisa,Conad Metato,route_844,43.73491,10.42352,147
+20849,MediaWorld Pisa,Conad Metato,route_844,43.73502,10.42346,148
+20850,MediaWorld Pisa,Conad Metato,route_844,43.73512,10.42344,149
+20851,MediaWorld Pisa,Conad Metato,route_844,43.73522,10.42344,150
+20852,MediaWorld Pisa,Conad Metato,route_844,43.73531,10.42346,151
+20853,MediaWorld Pisa,Conad Metato,route_844,43.7355,10.42354,152
+20854,MediaWorld Pisa,Conad Metato,route_844,43.73594,10.42379,153
+20855,MediaWorld Pisa,Conad Metato,route_844,43.73608,10.42388,154
+20856,MediaWorld Pisa,Conad Metato,route_844,43.73623,10.42399,155
+20857,MediaWorld Pisa,Conad Metato,route_844,43.73657,10.42428,156
+20858,MediaWorld Pisa,Conad Metato,route_844,43.73664,10.42431,157
+20859,MediaWorld Pisa,Conad Metato,route_844,43.73674,10.42432,158
+20860,MediaWorld Pisa,Conad Metato,route_844,43.7368,10.4243,159
+20861,MediaWorld Pisa,Conad Metato,route_844,43.73685,10.42424,160
+20862,MediaWorld Pisa,Conad Metato,route_844,43.73688,10.4242,161
+20863,MediaWorld Pisa,Conad Metato,route_844,43.73697,10.42399,162
+20864,MediaWorld Pisa,Conad Metato,route_844,43.73745,10.42427,163
+20865,MediaWorld Pisa,Conad Metato,route_844,43.73784,10.42447,164
+20866,MediaWorld Pisa,Conad Metato,route_844,43.73979,10.42538,165
+20867,MediaWorld Pisa,Conad Metato,route_844,43.73997,10.4255,166
+20868,MediaWorld Pisa,Conad Metato,route_844,43.74079,10.42617,167
+20869,MediaWorld Pisa,Conad Metato,route_844,43.74099,10.42634,168
+20870,MediaWorld Pisa,Conad Metato,route_844,43.74316,10.42844,169
+20871,MediaWorld Pisa,Conad Metato,route_844,43.74363,10.42888,170
+20872,MediaWorld Pisa,Conad Metato,route_844,43.74503,10.43008,171
+20873,MediaWorld Pisa,Conad Metato,route_844,43.74671,10.43146,172
+20874,MediaWorld Pisa,Conad Metato,route_844,43.74724,10.43196,173
+20875,MediaWorld Pisa,Conad Metato,route_844,43.74825,10.43284,174
+20876,MediaWorld Pisa,Conad Metato,route_844,43.7488,10.43331,175
+20877,MediaWorld Pisa,Conad Metato,route_844,43.75062,10.43474,176
+20878,MediaWorld Pisa,Conad Metato,route_844,43.75134,10.43538,177
+20879,MediaWorld Pisa,Conad Metato,route_844,43.75193,10.43596,178
+20880,MediaWorld Pisa,Conad Metato,route_844,43.75209,10.4361,179
+20881,MediaWorld Pisa,Conad Metato,route_844,43.75223,10.43618,180
+20882,MediaWorld Pisa,Conad Metato,route_844,43.75266,10.43635,181
+20883,MediaWorld Pisa,Conad Metato,route_844,43.75288,10.43646,182
+20884,MediaWorld Pisa,Conad Metato,route_844,43.75315,10.43661,183
+20885,MediaWorld Pisa,Conad Metato,route_844,43.75338,10.43676,184
+20886,MediaWorld Pisa,Conad Metato,route_844,43.75393,10.43722,185
+20887,MediaWorld Pisa,Conad Metato,route_844,43.75401,10.43729,186
+20888,MediaWorld Pisa,Conad Metato,route_844,43.75413,10.43742,187
+20889,MediaWorld Pisa,Conad Metato,route_844,43.75436,10.43774,188
+20890,MediaWorld Pisa,Conad Metato,route_844,43.75451,10.43789,189
+20891,MediaWorld Pisa,Conad Metato,route_844,43.7546,10.43795,190
+20892,MediaWorld Pisa,Conad Metato,route_844,43.75483,10.43805,191
+20893,MediaWorld Pisa,Conad Metato,route_844,43.75503,10.43809,192
+20894,MediaWorld Pisa,Conad Metato,route_844,43.75537,10.43813,193
+20895,MediaWorld Pisa,Conad Metato,route_844,43.75552,10.43812,194
+20896,MediaWorld Pisa,Conad Metato,route_844,43.7556,10.43811,195
+20897,MediaWorld Pisa,Conad Metato,route_844,43.75592,10.43813,196
+20898,MediaWorld Pisa,Conad Metato,route_844,43.75599,10.4382,197
+20899,MediaWorld Pisa,Conad Metato,route_844,43.75607,10.43821,198
+20900,MediaWorld Pisa,Conad Metato,route_844,43.75614,10.43819,199
+20901,MediaWorld Pisa,Conad Metato,route_844,43.75619,10.43814,200
+20902,MediaWorld Pisa,Conad Metato,route_844,43.75621,10.4381,201
+20903,MediaWorld Pisa,Conad Metato,route_844,43.75624,10.43803,202
+20904,MediaWorld Pisa,Conad Metato,route_844,43.75625,10.43798,203
+20905,MediaWorld Pisa,Conad Metato,route_844,43.75624,10.43789,204
+20906,MediaWorld Pisa,Conad Metato,route_844,43.75627,10.43775,205
+20907,MediaWorld Pisa,Conad Metato,route_844,43.75635,10.43752,206
+20908,MediaWorld Pisa,Conad Metato,route_844,43.75719,10.4362,207
+20909,MediaWorld Pisa,Conad Metato,route_844,43.7582,10.43463,208
+20910,MediaWorld Pisa,Conad Metato,route_844,43.75835,10.43444,209
+20911,MediaWorld Pisa,Conad Metato,route_844,43.75859,10.4342,210
+20912,MediaWorld Pisa,Conad Metato,route_844,43.75868,10.43417,211
+20913,MediaWorld Pisa,Conad Metato,route_844,43.75877,10.43417,212
+20914,MediaWorld Pisa,Conad Metato,route_844,43.75882,10.43421,213
+20915,MediaWorld Pisa,Conad Metato,route_844,43.75888,10.43422,214
+20916,MediaWorld Pisa,Conad Metato,route_844,43.75894,10.43421,215
+20917,MediaWorld Pisa,Conad Metato,route_844,43.75899,10.43417,216
+20918,MediaWorld Pisa,Conad Metato,route_844,43.75903,10.43412,217
+20919,MediaWorld Pisa,Conad Metato,route_844,43.75906,10.43407,218
+20920,MediaWorld Pisa,Conad Metato,route_844,43.75907,10.434,219
+20921,MediaWorld Pisa,Conad Metato,route_844,43.75908,10.43393,220
+20922,MediaWorld Pisa,Conad Metato,route_844,43.75907,10.43386,221
+20923,MediaWorld Pisa,Conad Metato,route_844,43.75905,10.4338,222
+20924,MediaWorld Pisa,Conad Metato,route_844,43.75912,10.43362,223
+20925,MediaWorld Pisa,Conad Metato,route_844,43.75976,10.43275,224
+20926,MediaWorld Pisa,Conad Metato,route_844,43.75986,10.4326,225
+20927,MediaWorld Pisa,Conad Metato,route_844,43.76202,10.42921,226
+20928,MediaWorld Pisa,Conad Metato,route_844,43.76216,10.42892,227
+20929,MediaWorld Pisa,Conad Metato,route_844,43.76221,10.42886,228
+20930,MediaWorld Pisa,Conad Metato,route_844,43.76228,10.42881,229
+20931,MediaWorld Pisa,Conad Metato,route_844,43.76233,10.42878,230
+20932,MediaWorld Pisa,Conad Metato,route_844,43.76238,10.42874,231
+20933,MediaWorld Pisa,Conad Metato,route_844,43.76241,10.42868,232
+20934,MediaWorld Pisa,Conad Metato,route_844,43.76243,10.42862,233
+20935,MediaWorld Pisa,Conad Metato,route_844,43.76244,10.42853,234
+20936,MediaWorld Pisa,Conad Metato,route_844,43.76243,10.42843,235
+20937,MediaWorld Pisa,Conad Metato,route_844,43.7624,10.42837,236
+20938,MediaWorld Pisa,Conad Metato,route_844,43.76235,10.42831,237
+20939,MediaWorld Pisa,Conad Metato,route_844,43.76229,10.42827,238
+20940,MediaWorld Pisa,Conad Metato,route_844,43.76223,10.42826,239
+20941,MediaWorld Pisa,Conad Metato,route_844,43.76217,10.42828,240
+20942,MediaWorld Pisa,Conad Metato,route_844,43.7621,10.42835,241
+20943,MediaWorld Pisa,Conad Metato,route_844,43.76203,10.42836,242
+20944,MediaWorld Pisa,Conad Metato,route_844,43.76196,10.42835,243
+20945,MediaWorld Pisa,Conad Metato,route_844,43.76187,10.42832,244
+20946,MediaWorld Pisa,Conad Metato,route_844,43.76034,10.42738,245
+20947,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70751,10.41201,0
+20948,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70725,10.41239,1
+20949,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70714,10.4126,2
+20950,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.707,10.41288,3
+20951,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70682,10.41331,4
+20952,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70655,10.4141,5
+20953,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70644,10.41447,6
+20954,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70636,10.41485,7
+20955,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.7063,10.41518,8
+20956,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70662,10.41532,9
+20957,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70665,10.41537,10
+20958,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70667,10.41547,11
+20959,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70747,10.41593,12
+20960,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70807,10.41632,13
+20961,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70812,10.41608,14
+20962,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70816,10.41598,15
+20963,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.7082,10.4159,16
+20964,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70829,10.41575,17
+20965,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70855,10.41539,18
+20966,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70862,10.41523,19
+20967,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70869,10.41503,20
+20968,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70885,10.4142,21
+20969,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70895,10.4143,22
+20970,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70907,10.41439,23
+20971,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.7092,10.41448,24
+20972,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70934,10.41454,25
+20973,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.70944,10.41455,26
+20974,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71025,10.41445,27
+20975,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71068,10.41746,28
+20976,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71091,10.41974,29
+20977,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.7109,10.4199,30
+20978,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71092,10.4202,31
+20979,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71094,10.42031,32
+20980,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71098,10.42043,33
+20981,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71101,10.42058,34
+20982,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.711,10.42062,35
+20983,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71101,10.42067,36
+20984,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71103,10.4207,37
+20985,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71105,10.42071,38
+20986,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71109,10.4207,39
+20987,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71111,10.42068,40
+20988,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71156,10.42078,41
+20989,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71281,10.42107,42
+20990,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71497,10.42159,43
+20991,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71609,10.42188,44
+20992,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71632,10.4219,45
+20993,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71651,10.42189,46
+20994,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71665,10.42186,47
+20995,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71677,10.42181,48
+20996,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71695,10.42173,49
+20997,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71711,10.42161,50
+20998,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71725,10.42149,51
+20999,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71836,10.42028,52
+21000,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71845,10.42022,53
+21001,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71854,10.42019,54
+21002,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71879,10.42017,55
+21003,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71892,10.42014,56
+21004,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71943,10.42031,57
+21005,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71965,10.42048,58
+21006,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.71975,10.42058,59
+21007,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72032,10.42132,60
+21008,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.7205,10.42159,61
+21009,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72056,10.42174,62
+21010,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72055,10.42177,63
+21011,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72056,10.42183,64
+21012,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72059,10.42188,65
+21013,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72062,10.42191,66
+21014,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72068,10.42192,67
+21015,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72071,10.4219,68
+21016,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72073,10.42188,69
+21017,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72076,10.42182,70
+21018,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72076,10.42177,71
+21019,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72076,10.42173,72
+21020,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72073,10.42167,73
+21021,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72076,10.42139,74
+21022,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72088,10.42104,75
+21023,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72134,10.41937,76
+21024,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72172,10.41809,77
+21025,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.7222,10.41633,78
+21026,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72232,10.41585,79
+21027,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72243,10.41575,80
+21028,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72249,10.41571,81
+21029,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72255,10.41568,82
+21030,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72259,10.41569,83
+21031,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72263,10.4157,84
+21032,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72268,10.41575,85
+21033,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72272,10.41581,86
+21034,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72277,10.41589,87
+21035,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72282,10.41595,88
+21036,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72291,10.41599,89
+21037,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72298,10.41598,90
+21038,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72305,10.41595,91
+21039,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72309,10.4159,92
+21040,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72314,10.41583,93
+21041,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72316,10.41574,94
+21042,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72317,10.41566,95
+21043,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72316,10.41557,96
+21044,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72314,10.41552,97
+21045,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72309,10.41542,98
+21046,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72308,10.41523,99
+21047,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72311,10.41503,100
+21048,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72325,10.41453,101
+21049,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72446,10.41,102
+21050,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72452,10.40984,103
+21051,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72457,10.40975,104
+21052,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72462,10.40969,105
+21053,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72467,10.40966,106
+21054,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.7247,10.40964,107
+21055,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72472,10.40959,108
+21056,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72472,10.40954,109
+21057,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72468,10.40937,110
+21058,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72467,10.40928,111
+21059,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72467,10.4092,112
+21060,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72467,10.4091,113
+21061,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72471,10.40903,114
+21062,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72472,10.40896,115
+21063,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72488,10.40864,116
+21064,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72491,10.40856,117
+21065,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72498,10.4083,118
+21066,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72501,10.40801,119
+21067,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72515,10.40612,120
+21068,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72519,10.4057,121
+21069,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72526,10.40545,122
+21070,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72567,10.4041,123
+21071,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72572,10.40409,124
+21072,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72575,10.40408,125
+21073,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72577,10.40405,126
+21074,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72578,10.40402,127
+21075,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72632,10.40468,128
+21076,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72667,10.40505,129
+21077,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72704,10.40536,130
+21078,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72721,10.40548,131
+21079,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72729,10.40552,132
+21080,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72823,10.40592,133
+21081,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.72877,10.40621,134
+21082,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.73021,10.40703,135
+21083,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.73046,10.40712,136
+21084,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.73094,10.40724,137
+21085,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.73103,10.40727,138
+21086,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.73115,10.40732,139
+21087,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.73143,10.40747,140
+21088,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.73187,10.40771,141
+21089,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.73253,10.4081,142
+21090,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.73314,10.40847,143
+21091,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.73383,10.40888,144
+21092,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.73447,10.40931,145
+21093,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.73514,10.40978,146
+21094,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.73563,10.4102,147
+21095,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.73741,10.4117,148
+21096,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.73986,10.41367,149
+21097,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.74106,10.41464,150
+21098,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.74435,10.41719,151
+21099,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.74509,10.41423,152
+21100,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.74586,10.41124,153
+21101,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.74592,10.41131,154
+21102,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.74675,10.41192,155
+21103,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.74689,10.41201,156
+21104,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.74699,10.41207,157
+21105,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.74712,10.41217,158
+21106,MediaWorld Pisa,Ristorante Il Lago (Nodica),route_845,43.74909,10.41291,159
+21107,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70751,10.41201,0
+21108,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70725,10.41239,1
+21109,MediaWorld Pisa,Pizzeria Colignola,route_846,43.707,10.41288,2
+21110,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70682,10.41331,3
+21111,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70655,10.4141,4
+21112,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70644,10.41447,5
+21113,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70636,10.41485,6
+21114,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70607,10.4164,7
+21115,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70585,10.41762,8
+21116,MediaWorld Pisa,Pizzeria Colignola,route_846,43.7057,10.41852,9
+21117,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70562,10.41924,10
+21118,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70559,10.41985,11
+21119,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70557,10.4206,12
+21120,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70555,10.42202,13
+21121,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70555,10.4226,14
+21122,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70555,10.42305,15
+21123,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70554,10.42319,16
+21124,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70549,10.42354,17
+21125,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70533,10.42428,18
+21126,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70517,10.42483,19
+21127,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70503,10.42521,20
+21128,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70471,10.42589,21
+21129,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70277,10.42905,22
+21130,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70231,10.42986,23
+21131,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70184,10.43062,24
+21132,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70146,10.43117,25
+21133,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70132,10.43134,26
+21134,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70126,10.43132,27
+21135,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70121,10.43132,28
+21136,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70113,10.43136,29
+21137,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70107,10.43144,30
+21138,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70105,10.43152,31
+21139,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70104,10.43157,32
+21140,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70105,10.43166,33
+21141,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70106,10.4317,34
+21142,MediaWorld Pisa,Pizzeria Colignola,route_846,43.7011,10.43177,35
+21143,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70113,10.4318,36
+21144,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70119,10.43184,37
+21145,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70122,10.43184,38
+21146,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70129,10.43183,39
+21147,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70136,10.43196,40
+21148,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70211,10.43423,41
+21149,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70333,10.43356,42
+21150,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70316,10.43402,43
+21151,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70315,10.43413,44
+21152,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70317,10.43423,45
+21153,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70319,10.43429,46
+21154,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70342,10.43469,47
+21155,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70354,10.43485,48
+21156,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70359,10.4349,49
+21157,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70397,10.43518,50
+21158,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70371,10.43591,51
+21159,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70576,10.43573,52
+21160,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70593,10.43572,53
+21161,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70606,10.43573,54
+21162,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70621,10.43575,55
+21163,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70654,10.43586,56
+21164,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70664,10.43588,57
+21165,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70672,10.43591,58
+21166,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70679,10.43592,59
+21167,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70685,10.4359,60
+21168,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70695,10.43584,61
+21169,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70699,10.43578,62
+21170,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70703,10.4357,63
+21171,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70706,10.43561,64
+21172,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70706,10.43547,65
+21173,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70706,10.43542,66
+21174,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70707,10.43485,67
+21175,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70708,10.43473,68
+21176,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70713,10.43444,69
+21177,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70718,10.43425,70
+21178,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70873,10.42994,71
+21179,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70889,10.43004,72
+21180,MediaWorld Pisa,Pizzeria Colignola,route_846,43.70906,10.42954,73
+21181,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70751,10.41201,0
+21182,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70725,10.41239,1
+21183,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70714,10.4126,2
+21184,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.707,10.41288,3
+21185,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70682,10.41331,4
+21186,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70655,10.4141,5
+21187,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70644,10.41447,6
+21188,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70636,10.41485,7
+21189,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.7063,10.41518,8
+21190,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70662,10.41532,9
+21191,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70665,10.41537,10
+21192,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70667,10.41547,11
+21193,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70747,10.41593,12
+21194,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70807,10.41632,13
+21195,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70812,10.41608,14
+21196,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70816,10.41598,15
+21197,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.7082,10.4159,16
+21198,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70829,10.41575,17
+21199,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70855,10.41539,18
+21200,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70862,10.41523,19
+21201,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70869,10.41503,20
+21202,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70885,10.4142,21
+21203,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70895,10.4143,22
+21204,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70907,10.41439,23
+21205,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.7092,10.41448,24
+21206,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70934,10.41454,25
+21207,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.70944,10.41455,26
+21208,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71025,10.41445,27
+21209,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71068,10.41746,28
+21210,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71091,10.41974,29
+21211,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.7109,10.4199,30
+21212,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71092,10.4202,31
+21213,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71094,10.42031,32
+21214,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71098,10.42043,33
+21215,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71101,10.42058,34
+21216,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.711,10.42062,35
+21217,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71101,10.42067,36
+21218,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71103,10.4207,37
+21219,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71105,10.42071,38
+21220,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71109,10.4207,39
+21221,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71111,10.42068,40
+21222,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71156,10.42078,41
+21223,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71281,10.42107,42
+21224,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71497,10.42159,43
+21225,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71609,10.42188,44
+21226,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71632,10.4219,45
+21227,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71651,10.42189,46
+21228,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71665,10.42186,47
+21229,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71677,10.42181,48
+21230,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71695,10.42173,49
+21231,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71711,10.42161,50
+21232,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71725,10.42149,51
+21233,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71836,10.42028,52
+21234,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71845,10.42022,53
+21235,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71854,10.42019,54
+21236,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71879,10.42017,55
+21237,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71892,10.42014,56
+21238,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71943,10.42031,57
+21239,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71965,10.42048,58
+21240,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.71975,10.42058,59
+21241,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72032,10.42132,60
+21242,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.7205,10.42159,61
+21243,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72056,10.42174,62
+21244,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72055,10.42177,63
+21245,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72056,10.42183,64
+21246,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72059,10.42188,65
+21247,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72062,10.42191,66
+21248,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72068,10.42192,67
+21249,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72071,10.4219,68
+21250,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72073,10.42188,69
+21251,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72076,10.42182,70
+21252,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72076,10.42177,71
+21253,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72076,10.42173,72
+21254,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72073,10.42167,73
+21255,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72076,10.42139,74
+21256,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72088,10.42104,75
+21257,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72134,10.41937,76
+21258,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72172,10.41809,77
+21259,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.7222,10.41633,78
+21260,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72232,10.41585,79
+21261,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72243,10.41575,80
+21262,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72249,10.41571,81
+21263,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72255,10.41568,82
+21264,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72259,10.41569,83
+21265,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72263,10.4157,84
+21266,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72268,10.41575,85
+21267,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72272,10.41581,86
+21268,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72277,10.41589,87
+21269,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72282,10.41595,88
+21270,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72291,10.41599,89
+21271,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72298,10.41598,90
+21272,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72305,10.41595,91
+21273,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72309,10.4159,92
+21274,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72318,10.41576,93
+21275,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72322,10.41573,94
+21276,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72333,10.41566,95
+21277,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.724,10.41565,96
+21278,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72414,10.41566,97
+21279,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72421,10.41569,98
+21280,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72428,10.41573,99
+21281,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72465,10.41603,100
+21282,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72472,10.41612,101
+21283,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72523,10.41654,102
+21284,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72554,10.4168,103
+21285,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72658,10.41766,104
+21286,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72703,10.41802,105
+21287,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72831,10.4191,106
+21288,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.7284,10.41919,107
+21289,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.7285,10.41933,108
+21290,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72859,10.4195,109
+21291,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72864,10.41963,110
+21292,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72868,10.41976,111
+21293,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72869,10.41981,112
+21294,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72869,10.4199,113
+21295,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72865,10.42004,114
+21296,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72863,10.4201,115
+21297,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72857,10.42019,116
+21298,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72853,10.42026,117
+21299,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.7285,10.42034,118
+21300,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72849,10.42043,119
+21301,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72851,10.42053,120
+21302,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72854,10.42061,121
+21303,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72861,10.42069,122
+21304,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72869,10.42072,123
+21305,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72886,10.42084,124
+21306,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72891,10.4209,125
+21307,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72899,10.42102,126
+21308,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72947,10.42209,127
+21309,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.72968,10.42245,128
+21310,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.7299,10.42273,129
+21311,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73002,10.42286,130
+21312,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73024,10.42307,131
+21313,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73034,10.42315,132
+21314,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73052,10.42328,133
+21315,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73393,10.42531,134
+21316,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73412,10.42548,135
+21317,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73415,10.42553,136
+21318,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73416,10.42554,137
+21319,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.7342,10.42553,138
+21320,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73422,10.42552,139
+21321,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73424,10.42547,140
+21322,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73424,10.42545,141
+21323,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73435,10.4251,142
+21324,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73463,10.42398,143
+21325,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.7347,10.42376,144
+21326,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73474,10.42368,145
+21327,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.7348,10.4236,146
+21328,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73491,10.42352,147
+21329,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73502,10.42346,148
+21330,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73512,10.42344,149
+21331,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73522,10.42344,150
+21332,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73531,10.42346,151
+21333,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.7355,10.42354,152
+21334,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73594,10.42379,153
+21335,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73608,10.42388,154
+21336,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73623,10.42399,155
+21337,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73657,10.42428,156
+21338,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73664,10.42431,157
+21339,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73674,10.42432,158
+21340,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.7368,10.4243,159
+21341,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73685,10.42424,160
+21342,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73688,10.4242,161
+21343,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73697,10.42399,162
+21344,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73745,10.42427,163
+21345,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73784,10.42447,164
+21346,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73894,10.42498,165
+21347,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73901,10.42476,166
+21348,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73953,10.4232,167
+21349,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.73969,10.42332,168
+21350,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.74021,10.42396,169
+21351,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.7407,10.42452,170
+21352,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.74089,10.42477,171
+21353,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.74123,10.42503,172
+21354,MediaWorld Pisa,Supermercato Coop Ghezzano,route_847,43.74147,10.42519,173

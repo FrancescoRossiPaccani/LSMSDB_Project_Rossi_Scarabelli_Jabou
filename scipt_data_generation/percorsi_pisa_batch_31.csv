@@ -1,0 +1,618 @@
+id,start,end,route_id,lat,lon,idx
+22028,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.70952,10.41348,0
+22029,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.70912,10.41268,1
+22030,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.70819,10.41357,2
+22031,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.70826,10.41366,3
+22032,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.70832,10.41372,4
+22033,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.70879,10.41406,5
+22034,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.70884,10.41414,6
+22035,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.70885,10.4142,7
+22036,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.70895,10.4143,8
+22037,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.70907,10.41439,9
+22038,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.7092,10.41448,10
+22039,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.70934,10.41454,11
+22040,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.70944,10.41455,12
+22041,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71025,10.41445,13
+22042,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71068,10.41746,14
+22043,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71091,10.41974,15
+22044,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.7109,10.4199,16
+22045,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71092,10.4202,17
+22046,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71094,10.42031,18
+22047,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71098,10.42043,19
+22048,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71101,10.42058,20
+22049,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.711,10.42062,21
+22050,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71101,10.42067,22
+22051,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71103,10.4207,23
+22052,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71105,10.42071,24
+22053,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71109,10.4207,25
+22054,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71111,10.42068,26
+22055,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71156,10.42078,27
+22056,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71281,10.42107,28
+22057,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71497,10.42159,29
+22058,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71609,10.42188,30
+22059,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71632,10.4219,31
+22060,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71651,10.42189,32
+22061,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71665,10.42186,33
+22062,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71677,10.42181,34
+22063,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71695,10.42173,35
+22064,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71711,10.42161,36
+22065,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71725,10.42149,37
+22066,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71836,10.42028,38
+22067,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71845,10.42022,39
+22068,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71854,10.42019,40
+22069,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71879,10.42017,41
+22070,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71892,10.42014,42
+22071,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71943,10.42031,43
+22072,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71965,10.42048,44
+22073,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.71975,10.42058,45
+22074,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72032,10.42132,46
+22075,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.7205,10.42159,47
+22076,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72056,10.42174,48
+22077,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72055,10.42177,49
+22078,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72056,10.42183,50
+22079,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72059,10.42188,51
+22080,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72062,10.42191,52
+22081,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72068,10.42192,53
+22082,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72071,10.4219,54
+22083,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72073,10.42188,55
+22084,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72076,10.42182,56
+22085,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72076,10.42177,57
+22086,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72076,10.42173,58
+22087,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72073,10.42167,59
+22088,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72076,10.42139,60
+22089,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72088,10.42104,61
+22090,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72134,10.41937,62
+22091,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72172,10.41809,63
+22092,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.7222,10.41633,64
+22093,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72232,10.41585,65
+22094,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72243,10.41575,66
+22095,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72249,10.41571,67
+22096,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72255,10.41568,68
+22097,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72259,10.41569,69
+22098,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72263,10.4157,70
+22099,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72268,10.41575,71
+22100,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72272,10.41581,72
+22101,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72277,10.41589,73
+22102,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72282,10.41595,74
+22103,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72291,10.41599,75
+22104,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72298,10.41598,76
+22105,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72305,10.41595,77
+22106,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72309,10.4159,78
+22107,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72318,10.41576,79
+22108,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72322,10.41573,80
+22109,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72333,10.41566,81
+22110,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.724,10.41565,82
+22111,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72414,10.41566,83
+22112,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72421,10.41569,84
+22113,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72428,10.41573,85
+22114,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72465,10.41603,86
+22115,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72472,10.41612,87
+22116,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72523,10.41654,88
+22117,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72554,10.4168,89
+22118,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72658,10.41766,90
+22119,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72703,10.41802,91
+22120,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72831,10.4191,92
+22121,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.7284,10.41919,93
+22122,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.7285,10.41933,94
+22123,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72859,10.4195,95
+22124,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72864,10.41963,96
+22125,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72868,10.41976,97
+22126,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72869,10.41981,98
+22127,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72869,10.4199,99
+22128,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72865,10.42004,100
+22129,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72863,10.4201,101
+22130,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72857,10.42019,102
+22131,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72853,10.42026,103
+22132,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.7285,10.42034,104
+22133,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72849,10.42043,105
+22134,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72851,10.42053,106
+22135,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72854,10.42061,107
+22136,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72861,10.42069,108
+22137,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72869,10.42072,109
+22138,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72886,10.42084,110
+22139,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72891,10.4209,111
+22140,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72899,10.42102,112
+22141,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72947,10.42209,113
+22142,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.72968,10.42245,114
+22143,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.7299,10.42273,115
+22144,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73002,10.42286,116
+22145,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73024,10.42307,117
+22146,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73034,10.42315,118
+22147,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73052,10.42328,119
+22148,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73393,10.42531,120
+22149,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73412,10.42548,121
+22150,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73415,10.42553,122
+22151,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73416,10.42554,123
+22152,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.7342,10.42553,124
+22153,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73422,10.42552,125
+22154,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73424,10.42547,126
+22155,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73424,10.42545,127
+22156,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73435,10.4251,128
+22157,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73463,10.42398,129
+22158,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.7347,10.42376,130
+22159,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73474,10.42368,131
+22160,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.7348,10.4236,132
+22161,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73491,10.42352,133
+22162,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73502,10.42346,134
+22163,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73512,10.42344,135
+22164,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73522,10.42344,136
+22165,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73531,10.42346,137
+22166,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.7355,10.42354,138
+22167,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73594,10.42379,139
+22168,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73608,10.42388,140
+22169,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73623,10.42399,141
+22170,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73657,10.42428,142
+22171,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73664,10.42431,143
+22172,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73674,10.42432,144
+22173,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.7368,10.4243,145
+22174,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73685,10.42424,146
+22175,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73688,10.4242,147
+22176,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73697,10.42399,148
+22177,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73745,10.42427,149
+22178,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73784,10.42447,150
+22179,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73894,10.42498,151
+22180,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73901,10.42476,152
+22181,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73953,10.4232,153
+22182,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.73969,10.42332,154
+22183,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.74021,10.42396,155
+22184,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.7407,10.42452,156
+22185,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.74089,10.42477,157
+22186,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.74123,10.42503,158
+22187,Centro Commerciale Pisanova,Supermercato Coop Ghezzano,route_900,43.74147,10.42519,159
+22188,Ristorante Galileo,Torre,route_901,43.71048,10.41609,0
+22189,Ristorante Galileo,Torre,route_901,43.71068,10.41746,1
+22190,Ristorante Galileo,Torre,route_901,43.71091,10.41974,2
+22191,Ristorante Galileo,Torre,route_901,43.7109,10.4199,3
+22192,Ristorante Galileo,Torre,route_901,43.71092,10.4202,4
+22193,Ristorante Galileo,Torre,route_901,43.71094,10.42031,5
+22194,Ristorante Galileo,Torre,route_901,43.71098,10.42043,6
+22195,Ristorante Galileo,Torre,route_901,43.71101,10.42058,7
+22196,Ristorante Galileo,Torre,route_901,43.711,10.42062,8
+22197,Ristorante Galileo,Torre,route_901,43.71101,10.42067,9
+22198,Ristorante Galileo,Torre,route_901,43.71103,10.4207,10
+22199,Ristorante Galileo,Torre,route_901,43.71105,10.42071,11
+22200,Ristorante Galileo,Torre,route_901,43.71109,10.4207,12
+22201,Ristorante Galileo,Torre,route_901,43.71111,10.42068,13
+22202,Ristorante Galileo,Torre,route_901,43.71156,10.42078,14
+22203,Ristorante Galileo,Torre,route_901,43.71281,10.42107,15
+22204,Ristorante Galileo,Torre,route_901,43.71497,10.42159,16
+22205,Ristorante Galileo,Torre,route_901,43.71609,10.42188,17
+22206,Ristorante Galileo,Torre,route_901,43.71632,10.4219,18
+22207,Ristorante Galileo,Torre,route_901,43.71651,10.42189,19
+22208,Ristorante Galileo,Torre,route_901,43.71665,10.42186,20
+22209,Ristorante Galileo,Torre,route_901,43.71677,10.42181,21
+22210,Ristorante Galileo,Torre,route_901,43.71695,10.42173,22
+22211,Ristorante Galileo,Torre,route_901,43.71711,10.42161,23
+22212,Ristorante Galileo,Torre,route_901,43.71725,10.42149,24
+22213,Ristorante Galileo,Torre,route_901,43.71836,10.42028,25
+22214,Ristorante Galileo,Torre,route_901,43.71845,10.42022,26
+22215,Ristorante Galileo,Torre,route_901,43.71854,10.42019,27
+22216,Ristorante Galileo,Torre,route_901,43.71879,10.42017,28
+22217,Ristorante Galileo,Torre,route_901,43.71892,10.42014,29
+22218,Ristorante Galileo,Torre,route_901,43.71943,10.42031,30
+22219,Ristorante Galileo,Torre,route_901,43.71965,10.42048,31
+22220,Ristorante Galileo,Torre,route_901,43.71975,10.42058,32
+22221,Ristorante Galileo,Torre,route_901,43.72032,10.42132,33
+22222,Ristorante Galileo,Torre,route_901,43.7205,10.42159,34
+22223,Ristorante Galileo,Torre,route_901,43.72056,10.42174,35
+22224,Ristorante Galileo,Torre,route_901,43.72055,10.42177,36
+22225,Ristorante Galileo,Torre,route_901,43.72056,10.42183,37
+22226,Ristorante Galileo,Torre,route_901,43.72059,10.42188,38
+22227,Ristorante Galileo,Torre,route_901,43.72062,10.42191,39
+22228,Ristorante Galileo,Torre,route_901,43.72068,10.42192,40
+22229,Ristorante Galileo,Torre,route_901,43.72071,10.4219,41
+22230,Ristorante Galileo,Torre,route_901,43.72073,10.42188,42
+22231,Ristorante Galileo,Torre,route_901,43.72076,10.42182,43
+22232,Ristorante Galileo,Torre,route_901,43.72076,10.42177,44
+22233,Ristorante Galileo,Torre,route_901,43.72076,10.42173,45
+22234,Ristorante Galileo,Torre,route_901,43.72073,10.42167,46
+22235,Ristorante Galileo,Torre,route_901,43.72076,10.42139,47
+22236,Ristorante Galileo,Torre,route_901,43.72088,10.42104,48
+22237,Ristorante Galileo,Torre,route_901,43.72134,10.41937,49
+22238,Ristorante Galileo,Torre,route_901,43.72172,10.41809,50
+22239,Ristorante Galileo,Torre,route_901,43.7222,10.41633,51
+22240,Ristorante Galileo,Torre,route_901,43.72232,10.41585,52
+22241,Ristorante Galileo,Torre,route_901,43.72243,10.41575,53
+22242,Ristorante Galileo,Torre,route_901,43.72249,10.41571,54
+22243,Ristorante Galileo,Torre,route_901,43.72255,10.41568,55
+22244,Ristorante Galileo,Torre,route_901,43.72259,10.41569,56
+22245,Ristorante Galileo,Torre,route_901,43.72263,10.4157,57
+22246,Ristorante Galileo,Torre,route_901,43.72268,10.41575,58
+22247,Ristorante Galileo,Torre,route_901,43.72272,10.41581,59
+22248,Ristorante Galileo,Torre,route_901,43.72277,10.41589,60
+22249,Ristorante Galileo,Torre,route_901,43.72282,10.41595,61
+22250,Ristorante Galileo,Torre,route_901,43.72291,10.41599,62
+22251,Ristorante Galileo,Torre,route_901,43.72298,10.41598,63
+22252,Ristorante Galileo,Torre,route_901,43.72305,10.41595,64
+22253,Ristorante Galileo,Torre,route_901,43.72309,10.4159,65
+22254,Ristorante Galileo,Torre,route_901,43.72314,10.41583,66
+22255,Ristorante Galileo,Torre,route_901,43.72316,10.41574,67
+22256,Ristorante Galileo,Torre,route_901,43.72317,10.41566,68
+22257,Ristorante Galileo,Torre,route_901,43.72316,10.41557,69
+22258,Ristorante Galileo,Torre,route_901,43.72314,10.41552,70
+22259,Ristorante Galileo,Torre,route_901,43.72309,10.41542,71
+22260,Ristorante Galileo,Torre,route_901,43.72308,10.41523,72
+22261,Ristorante Galileo,Torre,route_901,43.72311,10.41503,73
+22262,Ristorante Galileo,Torre,route_901,43.72325,10.41453,74
+22263,Ristorante Galileo,Torre,route_901,43.72446,10.41,75
+22264,Ristorante Galileo,Torre,route_901,43.72452,10.40984,76
+22265,Ristorante Galileo,Torre,route_901,43.72457,10.40975,77
+22266,Ristorante Galileo,Torre,route_901,43.72462,10.40969,78
+22267,Ristorante Galileo,Torre,route_901,43.72467,10.40966,79
+22268,Ristorante Galileo,Torre,route_901,43.7247,10.40964,80
+22269,Ristorante Galileo,Torre,route_901,43.72472,10.40959,81
+22270,Ristorante Galileo,Torre,route_901,43.72472,10.40954,82
+22271,Ristorante Galileo,Torre,route_901,43.72468,10.40937,83
+22272,Ristorante Galileo,Torre,route_901,43.72467,10.40928,84
+22273,Ristorante Galileo,Torre,route_901,43.72467,10.4092,85
+22274,Ristorante Galileo,Torre,route_901,43.72467,10.4091,86
+22275,Ristorante Galileo,Torre,route_901,43.72471,10.40903,87
+22276,Ristorante Galileo,Torre,route_901,43.72472,10.40896,88
+22277,Ristorante Galileo,Torre,route_901,43.72471,10.40886,89
+22278,Ristorante Galileo,Torre,route_901,43.72467,10.40879,90
+22279,Ristorante Galileo,Torre,route_901,43.72462,10.40875,91
+22280,Ristorante Galileo,Torre,route_901,43.72455,10.40875,92
+22281,Ristorante Galileo,Torre,route_901,43.72447,10.40862,93
+22282,Ristorante Galileo,Torre,route_901,43.72441,10.40848,94
+22283,Ristorante Galileo,Torre,route_901,43.72438,10.4084,95
+22284,Ristorante Galileo,Torre,route_901,43.72411,10.40731,96
+22285,Ristorante Galileo,Torre,route_901,43.72371,10.40559,97
+22286,Ristorante Galileo,Torre,route_901,43.72284,10.40176,98
+22287,Ristorante Galileo,Torre,route_901,43.72346,10.39899,99
+22288,Ristorante Galileo,Torre,route_901,43.72359,10.39853,100
+22289,Ristorante Galileo,Torre,route_901,43.72344,10.39844,101
+22290,Ristorante Galileo,Torre,route_901,43.72295,10.39822,102
+22291,Ristorante Galileo,Torre,route_901,43.723,10.39797,103
+22292,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71048,10.41609,0
+22293,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70997,10.41245,1
+22294,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70992,10.41199,2
+22295,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70991,10.41172,3
+22296,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.7099,10.41147,4
+22297,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70993,10.41076,5
+22298,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70994,10.41066,6
+22299,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70995,10.41058,7
+22300,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71002,10.41043,8
+22301,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71006,10.4104,9
+22302,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71008,10.41036,10
+22303,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.7101,10.41032,11
+22304,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71011,10.41027,12
+22305,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71011,10.41022,13
+22306,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.7101,10.41017,14
+22307,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71009,10.41013,15
+22308,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71006,10.41009,16
+22309,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71002,10.41005,17
+22310,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70998,10.40978,18
+22311,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71007,10.40776,19
+22312,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71014,10.40774,20
+22313,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71018,10.40769,21
+22314,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71019,10.40765,22
+22315,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.7102,10.4076,23
+22316,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71019,10.40752,24
+22317,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71017,10.40749,25
+22318,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71014,10.40745,26
+22319,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.7101,10.40743,27
+22320,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71008,10.40743,28
+22321,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71015,10.4061,29
+22322,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71019,10.4058,30
+22323,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71021,10.40573,31
+22324,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71027,10.40559,32
+22325,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.7104,10.4055,33
+22326,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71043,10.40545,34
+22327,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71044,10.40536,35
+22328,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71044,10.4053,36
+22329,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71041,10.40524,37
+22330,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71035,10.4052,38
+22331,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.7103,10.4052,39
+22332,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71019,10.40527,40
+22333,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.7101,10.40527,41
+22334,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71006,10.40525,42
+22335,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70988,10.40513,43
+22336,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70974,10.40502,44
+22337,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70967,10.40492,45
+22338,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70965,10.40486,46
+22339,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70975,10.40422,47
+22340,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70988,10.40324,48
+22341,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70997,10.40252,49
+22342,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70997,10.40207,50
+22343,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70994,10.39992,51
+22344,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70994,10.39905,52
+22345,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70997,10.39904,53
+22346,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71001,10.39899,54
+22347,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71003,10.39892,55
+22348,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71001,10.39885,56
+22349,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70999,10.39882,57
+22350,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70997,10.3988,58
+22351,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71001,10.39838,59
+22352,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71008,10.39813,60
+22353,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.7101,10.39807,61
+22354,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71016,10.39794,62
+22355,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71019,10.39794,63
+22356,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71022,10.39792,64
+22357,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71025,10.3979,65
+22358,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71027,10.39786,66
+22359,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71028,10.39781,67
+22360,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71028,10.39777,68
+22361,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71027,10.39772,69
+22362,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71025,10.39769,70
+22363,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71022,10.39766,71
+22364,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71018,10.39764,72
+22365,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71016,10.39755,73
+22366,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71014,10.39743,74
+22367,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71033,10.39616,75
+22368,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.71012,10.39608,76
+22369,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70953,10.39581,77
+22370,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70918,10.39565,78
+22371,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70897,10.39558,79
+22372,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70892,10.39609,80
+22373,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70892,10.3962,81
+22374,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70894,10.3963,82
+22375,Ristorante Galileo,Stazione Pisa Centrale,route_902,43.70875,10.39738,83
+22376,Ristorante Galileo,Universita di Pisa,route_903,43.71048,10.41609,0
+22377,Ristorante Galileo,Universita di Pisa,route_903,43.70997,10.41245,1
+22378,Ristorante Galileo,Universita di Pisa,route_903,43.70992,10.41199,2
+22379,Ristorante Galileo,Universita di Pisa,route_903,43.70991,10.41172,3
+22380,Ristorante Galileo,Universita di Pisa,route_903,43.7099,10.41147,4
+22381,Ristorante Galileo,Universita di Pisa,route_903,43.70993,10.41076,5
+22382,Ristorante Galileo,Universita di Pisa,route_903,43.70994,10.41066,6
+22383,Ristorante Galileo,Universita di Pisa,route_903,43.70995,10.41058,7
+22384,Ristorante Galileo,Universita di Pisa,route_903,43.71002,10.41043,8
+22385,Ristorante Galileo,Universita di Pisa,route_903,43.71006,10.4104,9
+22386,Ristorante Galileo,Universita di Pisa,route_903,43.71008,10.41036,10
+22387,Ristorante Galileo,Universita di Pisa,route_903,43.7101,10.41032,11
+22388,Ristorante Galileo,Universita di Pisa,route_903,43.71011,10.41027,12
+22389,Ristorante Galileo,Universita di Pisa,route_903,43.71011,10.41022,13
+22390,Ristorante Galileo,Universita di Pisa,route_903,43.7101,10.41017,14
+22391,Ristorante Galileo,Universita di Pisa,route_903,43.71009,10.41013,15
+22392,Ristorante Galileo,Universita di Pisa,route_903,43.71006,10.41009,16
+22393,Ristorante Galileo,Universita di Pisa,route_903,43.71002,10.41005,17
+22394,Ristorante Galileo,Universita di Pisa,route_903,43.70998,10.40978,18
+22395,Ristorante Galileo,Universita di Pisa,route_903,43.71007,10.40776,19
+22396,Ristorante Galileo,Universita di Pisa,route_903,43.71014,10.40774,20
+22397,Ristorante Galileo,Universita di Pisa,route_903,43.71018,10.40769,21
+22398,Ristorante Galileo,Universita di Pisa,route_903,43.71027,10.40767,22
+22399,Ristorante Galileo,Universita di Pisa,route_903,43.71063,10.40769,23
+22400,Ristorante Galileo,Universita di Pisa,route_903,43.71112,10.40773,24
+22401,Ristorante Galileo,Universita di Pisa,route_903,43.71118,10.40776,25
+22402,Ristorante Galileo,Universita di Pisa,route_903,43.71127,10.40782,26
+22403,Ristorante Galileo,Universita di Pisa,route_903,43.71131,10.40786,27
+22404,Ristorante Galileo,Universita di Pisa,route_903,43.71138,10.40789,28
+22405,Ristorante Galileo,Universita di Pisa,route_903,43.71204,10.40793,29
+22406,Ristorante Galileo,Universita di Pisa,route_903,43.71261,10.40789,30
+22407,Ristorante Galileo,Universita di Pisa,route_903,43.71299,10.40783,31
+22408,Ristorante Galileo,Universita di Pisa,route_903,43.71305,10.40781,32
+22409,Ristorante Galileo,Universita di Pisa,route_903,43.71307,10.40778,33
+22410,Ristorante Galileo,Universita di Pisa,route_903,43.7139,10.40851,34
+22411,Ristorante Galileo,Universita di Pisa,route_903,43.7141,10.40867,35
+22412,Ristorante Galileo,Universita di Pisa,route_903,43.71421,10.40873,36
+22413,Ristorante Galileo,Universita di Pisa,route_903,43.7147,10.40895,37
+22414,Ristorante Galileo,Universita di Pisa,route_903,43.71478,10.40897,38
+22415,Ristorante Galileo,Universita di Pisa,route_903,43.71514,10.40902,39
+22416,Ristorante Galileo,Universita di Pisa,route_903,43.71597,10.40908,40
+22417,Ristorante Galileo,Universita di Pisa,route_903,43.71617,10.40905,41
+22418,Ristorante Galileo,Universita di Pisa,route_903,43.71637,10.40896,42
+22419,Ristorante Galileo,Universita di Pisa,route_903,43.7167,10.40875,43
+22420,Ristorante Galileo,Universita di Pisa,route_903,43.7168,10.40872,44
+22421,Ristorante Galileo,Universita di Pisa,route_903,43.71686,10.40874,45
+22422,Ristorante Galileo,Universita di Pisa,route_903,43.71695,10.40879,46
+22423,Ristorante Galileo,Universita di Pisa,route_903,43.71862,10.41041,47
+22424,Ristorante Galileo,Universita di Pisa,route_903,43.71872,10.41046,48
+22425,Ristorante Galileo,Universita di Pisa,route_903,43.71879,10.41046,49
+22426,Ristorante Galileo,Universita di Pisa,route_903,43.71868,10.40905,50
+22427,Ristorante Galileo,Universita di Pisa,route_903,43.7186,10.40806,51
+22428,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71048,10.41609,0
+22429,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.70997,10.41245,1
+22430,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.70992,10.41199,2
+22431,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.70991,10.41172,3
+22432,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.7099,10.41147,4
+22433,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.70993,10.41076,5
+22434,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.70994,10.41066,6
+22435,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.70995,10.41058,7
+22436,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71002,10.41043,8
+22437,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71006,10.4104,9
+22438,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71008,10.41036,10
+22439,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.7101,10.41032,11
+22440,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71011,10.41027,12
+22441,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71011,10.41022,13
+22442,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.7101,10.41017,14
+22443,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71009,10.41013,15
+22444,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71006,10.41009,16
+22445,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71002,10.41005,17
+22446,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.70998,10.40978,18
+22447,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71007,10.40776,19
+22448,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71014,10.40774,20
+22449,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71018,10.40769,21
+22450,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71027,10.40767,22
+22451,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71063,10.40769,23
+22452,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71112,10.40773,24
+22453,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71118,10.40776,25
+22454,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71127,10.40782,26
+22455,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71131,10.40786,27
+22456,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71138,10.40789,28
+22457,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71204,10.40793,29
+22458,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71261,10.40789,30
+22459,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71299,10.40783,31
+22460,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71305,10.40781,32
+22461,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71307,10.40778,33
+22462,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.7136,10.40622,34
+22463,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71372,10.40591,35
+22464,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71412,10.40501,36
+22465,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71493,10.40327,37
+22466,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71526,10.4025,38
+22467,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.7154,10.40214,39
+22468,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71551,10.40181,40
+22469,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71566,10.40129,41
+22470,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.7157,10.40111,42
+22471,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71576,10.40067,43
+22472,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.7158,10.40037,44
+22473,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71551,10.40027,45
+22474,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71527,10.40016,46
+22475,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71522,10.40016,47
+22476,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71507,10.40011,48
+22477,Ristorante Galileo,Via Aretino Spinello 11,route_904,43.71498,10.40006,49
+22478,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71048,10.41609,0
+22479,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.70997,10.41245,1
+22480,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.70992,10.41199,2
+22481,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.70991,10.41172,3
+22482,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.7099,10.41147,4
+22483,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.70993,10.41076,5
+22484,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.70994,10.41066,6
+22485,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.70995,10.41058,7
+22486,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71002,10.41043,8
+22487,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71006,10.4104,9
+22488,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71008,10.41036,10
+22489,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.7101,10.41032,11
+22490,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71011,10.41027,12
+22491,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71011,10.41022,13
+22492,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.7101,10.41017,14
+22493,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71009,10.41013,15
+22494,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71006,10.41009,16
+22495,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71002,10.41005,17
+22496,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.70998,10.40978,18
+22497,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71007,10.40776,19
+22498,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71014,10.40774,20
+22499,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71018,10.40769,21
+22500,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71027,10.40767,22
+22501,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71063,10.40769,23
+22502,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71112,10.40773,24
+22503,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71118,10.40776,25
+22504,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71127,10.40782,26
+22505,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71131,10.40786,27
+22506,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71138,10.40789,28
+22507,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71204,10.40793,29
+22508,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71261,10.40789,30
+22509,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71299,10.40783,31
+22510,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71305,10.40781,32
+22511,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71307,10.40778,33
+22512,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.7136,10.40622,34
+22513,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71372,10.40591,35
+22514,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71412,10.40501,36
+22515,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71493,10.40327,37
+22516,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71519,10.40267,38
+22517,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.7154,10.40214,39
+22518,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71555,10.40168,40
+22519,Ristorante Galileo,Via Angelo Battelli 5,route_905,43.71621,10.40211,41
+22520,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71048,10.41609,0
+22521,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.70997,10.41245,1
+22522,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.70992,10.41199,2
+22523,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.70991,10.41172,3
+22524,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.7099,10.41147,4
+22525,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.70993,10.41076,5
+22526,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.70994,10.41066,6
+22527,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.70995,10.41058,7
+22528,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71002,10.41043,8
+22529,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71006,10.4104,9
+22530,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71008,10.41036,10
+22531,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.7101,10.41032,11
+22532,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71011,10.41027,12
+22533,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71011,10.41022,13
+22534,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.7101,10.41017,14
+22535,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71009,10.41013,15
+22536,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71006,10.41009,16
+22537,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71002,10.41005,17
+22538,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.70998,10.40978,18
+22539,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71007,10.40776,19
+22540,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71014,10.40774,20
+22541,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71018,10.40769,21
+22542,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71027,10.40767,22
+22543,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71063,10.40769,23
+22544,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71112,10.40773,24
+22545,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71118,10.40776,25
+22546,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71127,10.40782,26
+22547,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71131,10.40786,27
+22548,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71138,10.40789,28
+22549,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71204,10.40793,29
+22550,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71261,10.40789,30
+22551,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71299,10.40783,31
+22552,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71305,10.40781,32
+22553,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71307,10.40778,33
+22554,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.7139,10.40851,34
+22555,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.7141,10.40867,35
+22556,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71421,10.40873,36
+22557,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.7147,10.40895,37
+22558,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71478,10.40897,38
+22559,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71514,10.40902,39
+22560,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71597,10.40908,40
+22561,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71617,10.40905,41
+22562,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71637,10.40896,42
+22563,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.7167,10.40875,43
+22564,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.7168,10.40872,44
+22565,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71686,10.40874,45
+22566,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71695,10.40879,46
+22567,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71756,10.40937,47
+22568,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71758,10.40931,48
+22569,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71761,10.40921,49
+22570,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71748,10.40734,50
+22571,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71686,10.40729,51
+22572,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71676,10.40725,52
+22573,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71658,10.40724,53
+22574,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71652,10.40718,54
+22575,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71635,10.4062,55
+22576,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71635,10.40613,56
+22577,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71636,10.40594,57
+22578,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71636,10.40574,58
+22579,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71635,10.40554,59
+22580,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71635,10.4053,60
+22581,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71641,10.40425,61
+22582,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71691,10.40421,62
+22583,Ristorante Galileo,Via Gabriele Vettori 18,route_906,43.71689,10.40402,63
+22584,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71048,10.41609,0
+22585,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.70997,10.41245,1
+22586,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.70992,10.41199,2
+22587,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.70991,10.41172,3
+22588,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.7099,10.41147,4
+22589,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.70993,10.41076,5
+22590,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.70994,10.41066,6
+22591,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.70995,10.41058,7
+22592,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71002,10.41043,8
+22593,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71006,10.4104,9
+22594,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71008,10.41036,10
+22595,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.7101,10.41032,11
+22596,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71011,10.41027,12
+22597,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71011,10.41022,13
+22598,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.7101,10.41017,14
+22599,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71009,10.41013,15
+22600,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71006,10.41009,16
+22601,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71002,10.41005,17
+22602,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.70998,10.40978,18
+22603,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71007,10.40776,19
+22604,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71014,10.40774,20
+22605,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71018,10.40769,21
+22606,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71027,10.40767,22
+22607,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71063,10.40769,23
+22608,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71112,10.40773,24
+22609,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71118,10.40776,25
+22610,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71127,10.40782,26
+22611,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71131,10.40786,27
+22612,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71138,10.40789,28
+22613,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71204,10.40793,29
+22614,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71261,10.40789,30
+22615,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71299,10.40783,31
+22616,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71305,10.40781,32
+22617,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71307,10.40778,33
+22618,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.7139,10.40851,34
+22619,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.7141,10.40867,35
+22620,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71421,10.40873,36
+22621,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.7147,10.40895,37
+22622,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71478,10.40897,38
+22623,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71514,10.40902,39
+22624,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71597,10.40908,40
+22625,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71617,10.40905,41
+22626,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71637,10.40896,42
+22627,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.7167,10.40875,43
+22628,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.7168,10.40872,44
+22629,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71686,10.40874,45
+22630,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71695,10.40879,46
+22631,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71756,10.40937,47
+22632,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71758,10.40931,48
+22633,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71761,10.40921,49
+22634,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71748,10.40734,50
+22635,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71686,10.40729,51
+22636,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71676,10.40725,52
+22637,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71658,10.40724,53
+22638,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71652,10.40718,54
+22639,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71635,10.4062,55
+22640,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71635,10.40613,56
+22641,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71636,10.40594,57
+22642,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71747,10.40586,58
+22643,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.7178,10.40585,59
+22644,Ristorante Galileo,Facolta di Ingegneria Polo A,route_907,43.71799,10.40583,60

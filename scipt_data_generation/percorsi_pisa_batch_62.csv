@@ -1,0 +1,719 @@
+id,start,end,route_id,lat,lon,idx
+46749,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71092,10.42019,0
+46750,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71094,10.42031,1
+46751,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71098,10.42043,2
+46752,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71101,10.42058,3
+46753,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.711,10.42062,4
+46754,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71101,10.42067,5
+46755,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71103,10.4207,6
+46756,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71105,10.42071,7
+46757,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71109,10.4207,8
+46758,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71111,10.42068,9
+46759,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71156,10.42078,10
+46760,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71281,10.42107,11
+46761,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71497,10.42159,12
+46762,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71609,10.42188,13
+46763,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71632,10.4219,14
+46764,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71651,10.42189,15
+46765,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71665,10.42186,16
+46766,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71677,10.42181,17
+46767,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71695,10.42173,18
+46768,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71711,10.42161,19
+46769,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71725,10.42149,20
+46770,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71836,10.42028,21
+46771,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71845,10.42022,22
+46772,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71854,10.42019,23
+46773,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71879,10.42017,24
+46774,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71892,10.42014,25
+46775,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71905,10.4201,26
+46776,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.7191,10.42007,27
+46777,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71913,10.42003,28
+46778,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71915,10.41996,29
+46779,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71917,10.41984,30
+46780,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71917,10.41971,31
+46781,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71916,10.41963,32
+46782,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71914,10.41951,33
+46783,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71912,10.41946,34
+46784,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71908,10.4194,35
+46785,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71901,10.41929,36
+46786,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71892,10.41922,37
+46787,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.7189,10.41921,38
+46788,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71889,10.41917,39
+46789,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71888,10.41913,40
+46790,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71869,10.41895,41
+46791,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71858,10.4188,42
+46792,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71841,10.41855,43
+46793,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71769,10.41735,44
+46794,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71675,10.41587,45
+46795,Esselunga Cisanello,Via San Ranieri 9,route_1830,43.71563,10.41723,46
+46796,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71092,10.42019,0
+46797,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71094,10.42031,1
+46798,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71098,10.42043,2
+46799,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71101,10.42058,3
+46800,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.711,10.42062,4
+46801,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71101,10.42067,5
+46802,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71103,10.4207,6
+46803,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71105,10.42071,7
+46804,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71109,10.4207,8
+46805,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71111,10.42068,9
+46806,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71112,10.42064,10
+46807,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71112,10.4206,11
+46808,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71108,10.42055,12
+46809,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71102,10.42034,13
+46810,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71095,10.41991,14
+46811,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71091,10.41974,15
+46812,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71068,10.41746,16
+46813,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71037,10.41529,17
+46814,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70997,10.41245,18
+46815,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70992,10.41199,19
+46816,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70991,10.41172,20
+46817,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.7099,10.41147,21
+46818,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70993,10.41076,22
+46819,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70994,10.41066,23
+46820,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70995,10.41058,24
+46821,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71002,10.41043,25
+46822,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71006,10.4104,26
+46823,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71008,10.41036,27
+46824,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.7101,10.41032,28
+46825,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71011,10.41027,29
+46826,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71011,10.41022,30
+46827,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.7101,10.41017,31
+46828,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71009,10.41013,32
+46829,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71006,10.41009,33
+46830,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71002,10.41005,34
+46831,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70998,10.40978,35
+46832,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71007,10.40776,36
+46833,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71014,10.40774,37
+46834,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71018,10.40769,38
+46835,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71019,10.40765,39
+46836,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.7102,10.4076,40
+46837,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71019,10.40752,41
+46838,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71017,10.40749,42
+46839,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71014,10.40745,43
+46840,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.7101,10.40743,44
+46841,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71008,10.40743,45
+46842,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71015,10.4061,46
+46843,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71019,10.4058,47
+46844,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71021,10.40573,48
+46845,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71027,10.40559,49
+46846,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.7104,10.4055,50
+46847,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71043,10.40545,51
+46848,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71044,10.40536,52
+46849,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71044,10.4053,53
+46850,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71041,10.40524,54
+46851,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71035,10.4052,55
+46852,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.7103,10.4052,56
+46853,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71019,10.40527,57
+46854,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.7101,10.40527,58
+46855,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.71006,10.40525,59
+46856,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70988,10.40513,60
+46857,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70974,10.40502,61
+46858,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70967,10.40492,62
+46859,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70965,10.40486,63
+46860,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70975,10.40422,64
+46861,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70988,10.40324,65
+46862,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70958,10.40294,66
+46863,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70931,10.40264,67
+46864,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70908,10.40242,68
+46865,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.7087,10.40213,69
+46866,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70831,10.40184,70
+46867,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70795,10.40155,71
+46868,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70789,10.40152,72
+46869,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70786,10.40151,73
+46870,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.7078,10.40151,74
+46871,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70777,10.40153,75
+46872,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70771,10.40159,76
+46873,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70765,10.40172,77
+46874,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70712,10.40318,78
+46875,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70614,10.40251,79
+46876,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70558,10.40217,80
+46877,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70553,10.40214,81
+46878,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70547,10.40207,82
+46879,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70544,10.40191,83
+46880,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70537,10.40167,84
+46881,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70504,10.40081,85
+46882,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.705,10.40076,86
+46883,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70504,10.40057,87
+46884,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70524,10.3999,88
+46885,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70534,10.3996,89
+46886,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70563,10.39979,90
+46887,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70582,10.39989,91
+46888,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70585,10.3997,92
+46889,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70588,10.39936,93
+46890,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70593,10.39894,94
+46891,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70603,10.39837,95
+46892,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70608,10.39812,96
+46893,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70613,10.39793,97
+46894,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70622,10.39768,98
+46895,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70625,10.39761,99
+46896,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70641,10.39743,100
+46897,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70661,10.39725,101
+46898,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70682,10.39704,102
+46899,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70686,10.39696,103
+46900,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70696,10.39666,104
+46901,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.707,10.39643,105
+46902,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70702,10.39603,106
+46903,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70706,10.39571,107
+46904,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70717,10.39505,108
+46905,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70719,10.39483,109
+46906,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.7072,10.39425,110
+46907,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70719,10.39277,111
+46908,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70597,10.39285,112
+46909,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70594,10.39284,113
+46910,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70592,10.3928,114
+46911,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70591,10.39274,115
+46912,Esselunga Cisanello,Supermercato Coop San Giusto,route_1831,43.70591,10.3922,116
+46913,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71092,10.42019,0
+46914,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71094,10.42031,1
+46915,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71098,10.42043,2
+46916,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71101,10.42058,3
+46917,Esselunga Cisanello,Via Montanelli 66,route_1832,43.711,10.42062,4
+46918,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71101,10.42067,5
+46919,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71103,10.4207,6
+46920,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71105,10.42071,7
+46921,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71109,10.4207,8
+46922,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71111,10.42068,9
+46923,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71112,10.42064,10
+46924,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71112,10.4206,11
+46925,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71108,10.42055,12
+46926,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71102,10.42034,13
+46927,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71095,10.41991,14
+46928,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71091,10.41974,15
+46929,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71068,10.41746,16
+46930,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71037,10.41529,17
+46931,Esselunga Cisanello,Via Montanelli 66,route_1832,43.70997,10.41245,18
+46932,Esselunga Cisanello,Via Montanelli 66,route_1832,43.70992,10.41199,19
+46933,Esselunga Cisanello,Via Montanelli 66,route_1832,43.70991,10.41172,20
+46934,Esselunga Cisanello,Via Montanelli 66,route_1832,43.7099,10.41147,21
+46935,Esselunga Cisanello,Via Montanelli 66,route_1832,43.70993,10.41076,22
+46936,Esselunga Cisanello,Via Montanelli 66,route_1832,43.70994,10.41066,23
+46937,Esselunga Cisanello,Via Montanelli 66,route_1832,43.70995,10.41058,24
+46938,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71002,10.41043,25
+46939,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71006,10.4104,26
+46940,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71008,10.41036,27
+46941,Esselunga Cisanello,Via Montanelli 66,route_1832,43.7101,10.41032,28
+46942,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71011,10.41027,29
+46943,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71011,10.41022,30
+46944,Esselunga Cisanello,Via Montanelli 66,route_1832,43.7101,10.41017,31
+46945,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71009,10.41013,32
+46946,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71006,10.41009,33
+46947,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71002,10.41005,34
+46948,Esselunga Cisanello,Via Montanelli 66,route_1832,43.70998,10.40978,35
+46949,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71007,10.40776,36
+46950,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71014,10.40774,37
+46951,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71018,10.40769,38
+46952,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71019,10.40765,39
+46953,Esselunga Cisanello,Via Montanelli 66,route_1832,43.7102,10.4076,40
+46954,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71019,10.40752,41
+46955,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71017,10.40749,42
+46956,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71014,10.40745,43
+46957,Esselunga Cisanello,Via Montanelli 66,route_1832,43.7101,10.40743,44
+46958,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71008,10.40743,45
+46959,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71015,10.4061,46
+46960,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71019,10.4058,47
+46961,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71021,10.40573,48
+46962,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71027,10.40559,49
+46963,Esselunga Cisanello,Via Montanelli 66,route_1832,43.7104,10.4055,50
+46964,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71043,10.40545,51
+46965,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71044,10.40536,52
+46966,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71044,10.4053,53
+46967,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71044,10.40507,54
+46968,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71053,10.40511,55
+46969,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71123,10.40543,56
+46970,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71133,10.40545,57
+46971,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71143,10.40549,58
+46972,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71169,10.4056,59
+46973,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71176,10.40569,60
+46974,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71192,10.40577,61
+46975,Esselunga Cisanello,Via Montanelli 66,route_1832,43.71316,10.40636,62
+46976,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.71092,10.42019,0
+46977,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.71094,10.42031,1
+46978,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.71098,10.42043,2
+46979,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.71101,10.42058,3
+46980,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.711,10.42062,4
+46981,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.71101,10.42067,5
+46982,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.71103,10.4207,6
+46983,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.71105,10.42071,7
+46984,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.71109,10.4207,8
+46985,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.71111,10.42068,9
+46986,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.71112,10.42064,10
+46987,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.71112,10.4206,11
+46988,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.71108,10.42055,12
+46989,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.71102,10.42034,13
+46990,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.71095,10.41991,14
+46991,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.71091,10.41974,15
+46992,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.71085,10.41915,16
+46993,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.71078,10.41912,17
+46994,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.71051,10.41919,18
+46995,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.71025,10.41928,19
+46996,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.70985,10.41949,20
+46997,Esselunga Cisanello,Ristorante Tuscany 2,route_1833,43.70994,10.42005,21
+46998,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71092,10.42019,0
+46999,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71094,10.42031,1
+47000,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71098,10.42043,2
+47001,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71101,10.42058,3
+47002,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.711,10.42062,4
+47003,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71101,10.42067,5
+47004,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71103,10.4207,6
+47005,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71105,10.42071,7
+47006,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71109,10.4207,8
+47007,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71111,10.42068,9
+47008,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71112,10.42064,10
+47009,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71112,10.4206,11
+47010,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71108,10.42055,12
+47011,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71102,10.42034,13
+47012,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71095,10.41991,14
+47013,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71091,10.41974,15
+47014,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71068,10.41746,16
+47015,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71037,10.41529,17
+47016,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70997,10.41245,18
+47017,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70992,10.41199,19
+47018,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70991,10.41172,20
+47019,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.7099,10.41147,21
+47020,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70993,10.41076,22
+47021,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70994,10.41066,23
+47022,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70995,10.41058,24
+47023,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71002,10.41043,25
+47024,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71006,10.4104,26
+47025,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71008,10.41036,27
+47026,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.7101,10.41032,28
+47027,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71011,10.41027,29
+47028,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71011,10.41022,30
+47029,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.7101,10.41017,31
+47030,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71009,10.41013,32
+47031,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71006,10.41009,33
+47032,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.71002,10.41005,34
+47033,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70996,10.41004,35
+47034,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70992,10.41005,36
+47035,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70987,10.41009,37
+47036,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70983,10.41016,38
+47037,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70982,10.41022,39
+47038,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70983,10.4103,40
+47039,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70985,10.41035,41
+47040,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70988,10.4104,42
+47041,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70993,10.41076,43
+47042,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.7099,10.41147,44
+47043,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70991,10.41172,45
+47044,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70992,10.41199,46
+47045,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.7098,10.41201,47
+47046,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70964,10.41211,48
+47047,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70956,10.41218,49
+47048,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70912,10.41268,50
+47049,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70819,10.41357,51
+47050,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70812,10.41342,52
+47051,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70784,10.41271,53
+47052,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70752,10.41198,54
+47053,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70725,10.41239,55
+47054,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70714,10.4126,56
+47055,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.707,10.41288,57
+47056,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70682,10.41331,58
+47057,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70655,10.4141,59
+47058,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70644,10.41447,60
+47059,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70636,10.41485,61
+47060,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.7063,10.41518,62
+47061,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70662,10.41532,63
+47062,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70665,10.41537,64
+47063,Esselunga Cisanello,Euronics Pisa Cisanello,route_1834,43.70685,10.41483,65
+47064,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71092,10.42019,0
+47065,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71094,10.42031,1
+47066,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71098,10.42043,2
+47067,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71101,10.42058,3
+47068,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.711,10.42062,4
+47069,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71101,10.42067,5
+47070,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71103,10.4207,6
+47071,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71105,10.42071,7
+47072,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71109,10.4207,8
+47073,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71111,10.42068,9
+47074,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71223,10.42094,10
+47075,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71242,10.4202,11
+47076,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71277,10.42033,12
+47077,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71319,10.42041,13
+47078,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71322,10.42041,14
+47079,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71328,10.42038,15
+47080,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.7133,10.42035,16
+47081,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71332,10.42025,17
+47082,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71343,10.42016,18
+47083,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71439,10.42038,19
+47084,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71422,10.4206,20
+47085,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71414,10.42117,21
+47086,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71446,10.42125,22
+47087,Esselunga Cisanello,Hotel San Ranieri,route_1835,43.71451,10.4208,23
+47088,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71092,10.42019,0
+47089,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71094,10.42031,1
+47090,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71098,10.42043,2
+47091,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71101,10.42058,3
+47092,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.711,10.42062,4
+47093,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71101,10.42067,5
+47094,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71103,10.4207,6
+47095,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71105,10.42071,7
+47096,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71109,10.4207,8
+47097,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71111,10.42068,9
+47098,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71112,10.42064,10
+47099,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71112,10.4206,11
+47100,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71108,10.42055,12
+47101,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71102,10.42034,13
+47102,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71095,10.41991,14
+47103,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71091,10.41974,15
+47104,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71068,10.41746,16
+47105,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71037,10.41529,17
+47106,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70997,10.41245,18
+47107,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70992,10.41199,19
+47108,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70991,10.41172,20
+47109,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.7099,10.41147,21
+47110,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70993,10.41076,22
+47111,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70994,10.41066,23
+47112,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70995,10.41058,24
+47113,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71002,10.41043,25
+47114,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71006,10.4104,26
+47115,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71008,10.41036,27
+47116,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.7101,10.41032,28
+47117,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71011,10.41027,29
+47118,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71011,10.41022,30
+47119,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.7101,10.41017,31
+47120,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71009,10.41013,32
+47121,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71006,10.41009,33
+47122,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71002,10.41005,34
+47123,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70998,10.40978,35
+47124,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71007,10.40776,36
+47125,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71014,10.40774,37
+47126,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71018,10.40769,38
+47127,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71019,10.40765,39
+47128,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.7102,10.4076,40
+47129,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71019,10.40752,41
+47130,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71017,10.40749,42
+47131,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71014,10.40745,43
+47132,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.7101,10.40743,44
+47133,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71008,10.40743,45
+47134,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71015,10.4061,46
+47135,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71019,10.4058,47
+47136,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71021,10.40573,48
+47137,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71027,10.40559,49
+47138,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.7104,10.4055,50
+47139,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71043,10.40545,51
+47140,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71044,10.40536,52
+47141,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71044,10.4053,53
+47142,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71041,10.40524,54
+47143,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71035,10.4052,55
+47144,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.7103,10.4052,56
+47145,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71019,10.40527,57
+47146,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.7101,10.40527,58
+47147,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.71006,10.40525,59
+47148,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70988,10.40513,60
+47149,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70974,10.40502,61
+47150,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70967,10.40492,62
+47151,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70965,10.40486,63
+47152,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70975,10.40422,64
+47153,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70988,10.40324,65
+47154,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70958,10.40294,66
+47155,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70931,10.40264,67
+47156,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70908,10.40242,68
+47157,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.7087,10.40213,69
+47158,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70831,10.40184,70
+47159,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70795,10.40155,71
+47160,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70789,10.40152,72
+47161,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70786,10.40151,73
+47162,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.7078,10.40151,74
+47163,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70777,10.40153,75
+47164,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70771,10.40159,76
+47165,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70765,10.40172,77
+47166,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70712,10.40318,78
+47167,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70614,10.40251,79
+47168,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70553,10.40214,80
+47169,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70547,10.40207,81
+47170,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70535,10.40184,82
+47171,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.7053,10.40178,83
+47172,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70524,10.40171,84
+47173,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70471,10.40133,85
+47174,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70455,10.40124,86
+47175,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70276,10.40076,87
+47176,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70252,10.40069,88
+47177,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70247,10.40067,89
+47178,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70244,10.40064,90
+47179,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70245,10.40061,91
+47180,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70245,10.40056,92
+47181,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70244,10.40052,93
+47182,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.7024,10.40047,94
+47183,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70237,10.40046,95
+47184,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70234,10.40046,96
+47185,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70231,10.40048,97
+47186,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70229,10.40051,98
+47187,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70228,10.40054,99
+47188,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70227,10.40058,100
+47189,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70215,10.40059,101
+47190,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.7018,10.40051,102
+47191,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70155,10.40042,103
+47192,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70036,10.3998,104
+47193,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70022,10.39969,105
+47194,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.70002,10.39958,106
+47195,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69981,10.39948,107
+47196,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69978,10.39945,108
+47197,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69975,10.39939,109
+47198,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69973,10.39932,110
+47199,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69971,10.39917,111
+47200,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69979,10.39842,112
+47201,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69985,10.39803,113
+47202,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69986,10.39795,114
+47203,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69986,10.39785,115
+47204,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69985,10.39773,116
+47205,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69981,10.39763,117
+47206,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69966,10.39739,118
+47207,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69957,10.39741,119
+47208,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69949,10.39741,120
+47209,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69919,10.39734,121
+47210,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69894,10.39734,122
+47211,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69887,10.39731,123
+47212,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69883,10.39727,124
+47213,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69882,10.39713,125
+47214,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69886,10.39679,126
+47215,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69889,10.39669,127
+47216,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69895,10.39647,128
+47217,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.699,10.39648,129
+47218,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69904,10.39645,130
+47219,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69906,10.39639,131
+47220,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69906,10.39632,132
+47221,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69904,10.39628,133
+47222,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.699,10.39624,134
+47223,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69893,10.39599,135
+47224,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69892,10.39586,136
+47225,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69891,10.39577,137
+47226,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69885,10.39576,138
+47227,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.6987,10.39581,139
+47228,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69858,10.3958,140
+47229,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69844,10.39577,141
+47230,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69809,10.39567,142
+47231,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69753,10.39547,143
+47232,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69642,10.39518,144
+47233,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.6963,10.39505,145
+47234,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.6963,10.39499,146
+47235,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69623,10.39469,147
+47236,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69629,10.39371,148
+47237,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69629,10.39337,149
+47238,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69627,10.39299,150
+47239,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69624,10.39256,151
+47240,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69613,10.39162,152
+47241,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69609,10.39107,153
+47242,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69608,10.38984,154
+47243,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69607,10.38605,155
+47244,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69607,10.38547,156
+47245,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69617,10.38453,157
+47246,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69623,10.38433,158
+47247,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.6963,10.38418,159
+47248,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69636,10.38413,160
+47249,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.6964,10.38405,161
+47250,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69642,10.38397,162
+47251,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69642,10.38392,163
+47252,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69641,10.38385,164
+47253,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69639,10.38378,165
+47254,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69636,10.38372,166
+47255,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69631,10.38368,167
+47256,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69624,10.38365,168
+47257,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69621,10.38365,169
+47258,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69617,10.38365,170
+47259,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69611,10.38369,171
+47260,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69607,10.38374,172
+47261,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69574,10.38377,173
+47262,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69513,10.38354,174
+47263,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.695,10.38348,175
+47264,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69492,10.38342,176
+47265,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69486,10.38336,177
+47266,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69482,10.3833,178
+47267,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69477,10.38328,179
+47268,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69474,10.38328,180
+47269,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69471,10.3833,181
+47270,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69468,10.38334,182
+47271,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69467,10.38338,183
+47272,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69466,10.38343,184
+47273,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69467,10.38348,185
+47274,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.6944,10.38444,186
+47275,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69434,10.38458,187
+47276,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69421,10.38478,188
+47277,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69406,10.38496,189
+47278,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69399,10.38502,190
+47279,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69388,10.3851,191
+47280,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69379,10.38514,192
+47281,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69363,10.3852,193
+47282,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69347,10.38521,194
+47283,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69339,10.38521,195
+47284,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69328,10.38518,196
+47285,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69288,10.38497,197
+47286,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69183,10.38439,198
+47287,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69138,10.38415,199
+47288,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69113,10.38503,200
+47289,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69103,10.38517,201
+47290,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69097,10.38526,202
+47291,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69095,10.38527,203
+47292,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69054,10.38527,204
+47293,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.69038,10.38522,205
+47294,Esselunga Cisanello,Piscina Comunale Camalich,route_1836,43.6866,10.38313,206
+47295,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71092,10.42019,0
+47296,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71094,10.42031,1
+47297,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71098,10.42043,2
+47298,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71101,10.42058,3
+47299,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.711,10.42062,4
+47300,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71101,10.42067,5
+47301,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71103,10.4207,6
+47302,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71105,10.42071,7
+47303,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71109,10.4207,8
+47304,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71111,10.42068,9
+47305,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71112,10.42064,10
+47306,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71112,10.4206,11
+47307,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71108,10.42055,12
+47308,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71102,10.42034,13
+47309,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71095,10.41991,14
+47310,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71091,10.41974,15
+47311,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71068,10.41746,16
+47312,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71037,10.41529,17
+47313,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70997,10.41245,18
+47314,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70992,10.41199,19
+47315,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70991,10.41172,20
+47316,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.7099,10.41147,21
+47317,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70993,10.41076,22
+47318,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70994,10.41066,23
+47319,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70995,10.41058,24
+47320,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71002,10.41043,25
+47321,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71006,10.4104,26
+47322,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71008,10.41036,27
+47323,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.7101,10.41032,28
+47324,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71011,10.41027,29
+47325,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71011,10.41022,30
+47326,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.7101,10.41017,31
+47327,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71009,10.41013,32
+47328,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71006,10.41009,33
+47329,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71002,10.41005,34
+47330,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70998,10.40978,35
+47331,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71007,10.40776,36
+47332,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71014,10.40774,37
+47333,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71018,10.40769,38
+47334,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71019,10.40765,39
+47335,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.7102,10.4076,40
+47336,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71019,10.40752,41
+47337,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71017,10.40749,42
+47338,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71014,10.40745,43
+47339,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.7101,10.40743,44
+47340,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71008,10.40743,45
+47341,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71015,10.4061,46
+47342,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71019,10.4058,47
+47343,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71021,10.40573,48
+47344,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71027,10.40559,49
+47345,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.7104,10.4055,50
+47346,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71043,10.40545,51
+47347,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71044,10.40536,52
+47348,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71044,10.4053,53
+47349,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71041,10.40524,54
+47350,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71035,10.4052,55
+47351,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.7103,10.4052,56
+47352,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71019,10.40527,57
+47353,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.7101,10.40527,58
+47354,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.71006,10.40525,59
+47355,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70988,10.40513,60
+47356,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70974,10.40502,61
+47357,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70967,10.40492,62
+47358,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70965,10.40486,63
+47359,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70975,10.40422,64
+47360,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70988,10.40324,65
+47361,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70958,10.40294,66
+47362,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70931,10.40264,67
+47363,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70908,10.40242,68
+47364,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.7087,10.40213,69
+47365,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70831,10.40184,70
+47366,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70795,10.40155,71
+47367,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70789,10.40152,72
+47368,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70786,10.40151,73
+47369,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.7078,10.40151,74
+47370,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70777,10.40153,75
+47371,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70771,10.40159,76
+47372,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70765,10.40172,77
+47373,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70712,10.40318,78
+47374,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70614,10.40251,79
+47375,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70553,10.40214,80
+47376,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70547,10.40207,81
+47377,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70535,10.40184,82
+47378,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.7053,10.40178,83
+47379,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70524,10.40171,84
+47380,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70471,10.40133,85
+47381,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70455,10.40124,86
+47382,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70276,10.40076,87
+47383,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70252,10.40069,88
+47384,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70247,10.40067,89
+47385,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70244,10.40064,90
+47386,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70245,10.40061,91
+47387,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70245,10.40056,92
+47388,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70244,10.40052,93
+47389,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.7024,10.40047,94
+47390,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70237,10.40046,95
+47391,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70234,10.40046,96
+47392,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70231,10.40048,97
+47393,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70229,10.40051,98
+47394,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70228,10.40054,99
+47395,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70227,10.40058,100
+47396,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70215,10.40059,101
+47397,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.7018,10.40051,102
+47398,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70155,10.40042,103
+47399,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70036,10.3998,104
+47400,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70022,10.39969,105
+47401,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70002,10.39958,106
+47402,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69981,10.39948,107
+47403,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69978,10.39945,108
+47404,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69975,10.39939,109
+47405,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69973,10.39932,110
+47406,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69971,10.39917,111
+47407,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69979,10.39842,112
+47408,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69985,10.39803,113
+47409,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69986,10.39795,114
+47410,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69986,10.39785,115
+47411,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69985,10.39773,116
+47412,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69984,10.39757,117
+47413,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69985,10.39744,118
+47414,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.6999,10.39727,119
+47415,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69998,10.39716,120
+47416,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70003,10.3971,121
+47417,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70009,10.39713,122
+47418,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70014,10.39713,123
+47419,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70018,10.39714,124
+47420,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70025,10.3972,125
+47421,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70032,10.3973,126
+47422,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.7004,10.39742,127
+47423,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70048,10.39756,128
+47424,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70052,10.39767,129
+47425,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70055,10.39782,130
+47426,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70057,10.39795,131
+47427,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70058,10.39808,132
+47428,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70055,10.39822,133
+47429,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70052,10.3983,134
+47430,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70047,10.39837,135
+47431,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70042,10.39841,136
+47432,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70038,10.39842,137
+47433,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70033,10.39842,138
+47434,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70026,10.3984,139
+47435,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70023,10.39837,140
+47436,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70019,10.39831,141
+47437,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70014,10.39817,142
+47438,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70014,10.39808,143
+47439,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70016,10.3977,144
+47440,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70013,10.39718,145
+47441,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70016,10.39669,146
+47442,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70016,10.39634,147
+47443,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70014,10.39574,148
+47444,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70011,10.39535,149
+47445,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70005,10.39477,150
+47446,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69972,10.39251,151
+47447,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69964,10.39173,152
+47448,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69962,10.39127,153
+47449,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69963,10.39086,154
+47450,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69966,10.3904,155
+47451,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69981,10.38975,156
+47452,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69988,10.38958,157
+47453,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.69994,10.38947,158
+47454,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70001,10.38938,159
+47455,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70014,10.38924,160
+47456,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70025,10.38915,161
+47457,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70058,10.38895,162
+47458,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70094,10.38877,163
+47459,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70137,10.38851,164
+47460,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70158,10.38833,165
+47461,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70163,10.38828,166
+47462,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70172,10.38815,167
+47463,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70195,10.38796,168
+47464,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70218,10.38777,169
+47465,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70243,10.38759,170
+47466,Esselunga Cisanello,Conad Pian di Marco,route_1837,43.70264,10.38743,171

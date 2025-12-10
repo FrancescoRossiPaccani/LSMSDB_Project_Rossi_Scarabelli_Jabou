@@ -1,0 +1,1227 @@
+id,start,end,route_id,lat,lon,idx
+24171,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70449,10.41421,0
+24172,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70444,10.41415,1
+24173,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70426,10.41399,2
+24174,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70432,10.41389,3
+24175,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70436,10.41382,4
+24176,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70443,10.41358,5
+24177,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70462,10.41293,6
+24178,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70464,10.41271,7
+24179,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70465,10.41266,8
+24180,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70464,10.41259,9
+24181,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70462,10.41257,10
+24182,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70457,10.41254,11
+24183,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70455,10.41255,12
+24184,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70452,10.41245,13
+24185,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.7043,10.41118,14
+24186,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70428,10.41113,15
+24187,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70425,10.41107,16
+24188,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70426,10.41102,17
+24189,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70425,10.41098,18
+24190,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70422,10.41092,19
+24191,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70417,10.41089,20
+24192,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70412,10.4109,21
+24193,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70409,10.41094,22
+24194,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70407,10.41101,23
+24195,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70396,10.41122,24
+24196,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70386,10.4114,25
+24197,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70376,10.41157,26
+24198,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70362,10.41176,27
+24199,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70356,10.41182,28
+24200,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70334,10.41196,29
+24201,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70313,10.41207,30
+24202,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70296,10.41212,31
+24203,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70287,10.41213,32
+24204,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70268,10.41213,33
+24205,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70205,10.41205,34
+24206,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70153,10.41197,35
+24207,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70139,10.41197,36
+24208,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70125,10.412,37
+24209,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70104,10.41205,38
+24210,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70095,10.41205,39
+24211,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70089,10.41203,40
+24212,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70084,10.41194,41
+24213,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70083,10.41181,42
+24214,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70083,10.4116,43
+24215,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70083,10.41144,44
+24216,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70061,10.40857,45
+24217,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70056,10.40803,46
+24218,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70057,10.408,47
+24219,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70058,10.40794,48
+24220,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70057,10.40791,49
+24221,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70054,10.40788,50
+24222,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70059,10.40779,51
+24223,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70067,10.4077,52
+24224,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70163,10.40683,53
+24225,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70177,10.40669,54
+24226,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70184,10.40659,55
+24227,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70216,10.40598,56
+24228,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70277,10.40482,57
+24229,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70318,10.40409,58
+24230,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70272,10.40378,59
+24231,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.7024,10.40354,60
+24232,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70216,10.40331,61
+24233,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70199,10.40316,62
+24234,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70173,10.40297,63
+24235,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.7014,10.40275,64
+24236,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70132,10.40271,65
+24237,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70143,10.40236,66
+24238,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70146,10.40227,67
+24239,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70163,10.40196,68
+24240,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70212,10.40109,69
+24241,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70213,10.40106,70
+24242,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70217,10.40076,71
+24243,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70219,10.40072,72
+24244,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70221,10.40068,73
+24245,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70229,10.40066,74
+24246,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70231,10.40069,75
+24247,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70234,10.4007,76
+24248,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.7024,10.40069,77
+24249,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70244,10.40064,78
+24250,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70245,10.40061,79
+24251,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70245,10.40056,80
+24252,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70244,10.40052,81
+24253,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.7024,10.40047,82
+24254,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70237,10.40046,83
+24255,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70234,10.40046,84
+24256,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70231,10.40048,85
+24257,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70229,10.40051,86
+24258,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70228,10.40054,87
+24259,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70227,10.40058,88
+24260,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70215,10.40059,89
+24261,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.7018,10.40051,90
+24262,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70155,10.40042,91
+24263,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70036,10.3998,92
+24264,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70022,10.39969,93
+24265,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.70002,10.39958,94
+24266,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69981,10.39948,95
+24267,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69978,10.39945,96
+24268,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69975,10.39939,97
+24269,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69973,10.39932,98
+24270,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69971,10.39917,99
+24271,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69979,10.39842,100
+24272,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69985,10.39803,101
+24273,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69986,10.39795,102
+24274,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69986,10.39785,103
+24275,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69985,10.39773,104
+24276,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69981,10.39763,105
+24277,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69966,10.39739,106
+24278,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69957,10.39741,107
+24279,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69949,10.39741,108
+24280,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69919,10.39734,109
+24281,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69894,10.39734,110
+24282,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69887,10.39731,111
+24283,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69883,10.39727,112
+24284,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69882,10.39713,113
+24285,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69886,10.39679,114
+24286,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69889,10.39669,115
+24287,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69895,10.39647,116
+24288,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.699,10.39648,117
+24289,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69904,10.39645,118
+24290,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69906,10.39639,119
+24291,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69906,10.39632,120
+24292,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69904,10.39628,121
+24293,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.699,10.39624,122
+24294,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69893,10.39599,123
+24295,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69892,10.39586,124
+24296,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69891,10.39577,125
+24297,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69885,10.39576,126
+24298,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.6987,10.39581,127
+24299,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69858,10.3958,128
+24300,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69844,10.39577,129
+24301,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69809,10.39567,130
+24302,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69753,10.39547,131
+24303,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69642,10.39518,132
+24304,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.6963,10.39505,133
+24305,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.6963,10.39499,134
+24306,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69623,10.39469,135
+24307,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69629,10.39371,136
+24308,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69629,10.39337,137
+24309,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69627,10.39299,138
+24310,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69624,10.39256,139
+24311,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69613,10.39162,140
+24312,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69609,10.39107,141
+24313,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69608,10.38984,142
+24314,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69607,10.38605,143
+24315,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69607,10.38547,144
+24316,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69617,10.38453,145
+24317,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69623,10.38433,146
+24318,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.6963,10.38418,147
+24319,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69636,10.38413,148
+24320,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.6964,10.38405,149
+24321,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69642,10.38397,150
+24322,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69641,10.38385,151
+24323,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69639,10.38378,152
+24324,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69636,10.38372,153
+24325,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69631,10.38368,154
+24326,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69624,10.38365,155
+24327,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69617,10.38365,156
+24328,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69611,10.38369,157
+24329,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69607,10.38374,158
+24330,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69604,10.38381,159
+24331,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69602,10.38386,160
+24332,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69602,10.38392,161
+24333,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69603,10.38401,162
+24334,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69613,10.38429,163
+24335,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69614,10.38437,164
+24336,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.6961,10.38485,165
+24337,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69606,10.38512,166
+24338,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69601,10.38551,167
+24339,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.6959,10.38717,168
+24340,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69586,10.38727,169
+24341,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69584,10.38732,170
+24342,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69574,10.38745,171
+24343,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69567,10.3875,172
+24344,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69561,10.38752,173
+24345,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69546,10.38754,174
+24346,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69518,10.38747,175
+24347,Ipercoop Pisa,Hotel Galilei Pisa,route_990,43.69324,10.38662,176
+24348,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70449,10.41421,0
+24349,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70444,10.41415,1
+24350,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70426,10.41399,2
+24351,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70432,10.41389,3
+24352,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70436,10.41382,4
+24353,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70443,10.41358,5
+24354,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70462,10.41293,6
+24355,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70464,10.41271,7
+24356,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70469,10.4125,8
+24357,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70479,10.41176,9
+24358,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70482,10.41163,10
+24359,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.7049,10.41133,11
+24360,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70496,10.41122,12
+24361,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70502,10.41112,13
+24362,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.7051,10.41103,14
+24363,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70534,10.41085,15
+24364,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.7054,10.41079,16
+24365,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70551,10.41062,17
+24366,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70566,10.4103,18
+24367,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70632,10.40853,19
+24368,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70644,10.40829,20
+24369,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70663,10.40808,21
+24370,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.7067,10.40803,22
+24371,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70842,10.40681,23
+24372,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70922,10.40625,24
+24373,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70944,10.40613,25
+24374,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.7097,10.40593,26
+24375,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70981,10.40586,27
+24376,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70996,10.40588,28
+24377,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.71001,10.4059,29
+24378,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.71007,10.40596,30
+24379,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.71009,10.40599,31
+24380,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.71015,10.4061,32
+24381,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.71008,10.40743,33
+24382,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.71004,10.40744,34
+24383,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.71001,10.40747,35
+24384,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70998,10.40751,36
+24385,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70997,10.40755,37
+24386,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70997,10.40763,38
+24387,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70998,10.40769,39
+24388,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.71003,10.40774,40
+24389,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.71007,10.40776,41
+24390,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70998,10.40978,42
+24391,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70992,10.41005,43
+24392,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70987,10.41009,44
+24393,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70983,10.41016,45
+24394,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70982,10.41022,46
+24395,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70983,10.4103,47
+24396,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70985,10.41035,48
+24397,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70988,10.4104,49
+24398,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70993,10.41076,50
+24399,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.7099,10.41147,51
+24400,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70991,10.41172,52
+24401,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70992,10.41199,53
+24402,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.70997,10.41245,54
+24403,Ipercoop Pisa,Pizzeria Pisanova,route_991,43.71009,10.41323,55
+24404,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70449,10.41421,0
+24405,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70444,10.41415,1
+24406,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70426,10.41399,2
+24407,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70432,10.41389,3
+24408,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70436,10.41382,4
+24409,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70443,10.41358,5
+24410,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70462,10.41293,6
+24411,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70464,10.41271,7
+24412,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70469,10.4125,8
+24413,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70479,10.41176,9
+24414,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70482,10.41163,10
+24415,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.7049,10.41133,11
+24416,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70496,10.41122,12
+24417,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70502,10.41112,13
+24418,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.7051,10.41103,14
+24419,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70534,10.41085,15
+24420,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.7054,10.41079,16
+24421,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70551,10.41062,17
+24422,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70566,10.4103,18
+24423,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70632,10.40853,19
+24424,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70644,10.40829,20
+24425,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70663,10.40808,21
+24426,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.7067,10.40803,22
+24427,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70842,10.40681,23
+24428,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70922,10.40625,24
+24429,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70944,10.40613,25
+24430,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.7097,10.40593,26
+24431,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70981,10.40586,27
+24432,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71027,10.40559,28
+24433,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.7104,10.4055,29
+24434,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71043,10.40545,30
+24435,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71044,10.40536,31
+24436,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71044,10.4053,32
+24437,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71041,10.40524,33
+24438,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71035,10.4052,34
+24439,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.7103,10.4052,35
+24440,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71019,10.40527,36
+24441,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.7101,10.40527,37
+24442,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71006,10.40525,38
+24443,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70988,10.40513,39
+24444,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70974,10.40502,40
+24445,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70967,10.40492,41
+24446,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70965,10.40486,42
+24447,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70975,10.40422,43
+24448,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70988,10.40324,44
+24449,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70997,10.40252,45
+24450,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70997,10.40207,46
+24451,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70994,10.39992,47
+24452,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70994,10.39905,48
+24453,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70997,10.39904,49
+24454,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71001,10.39899,50
+24455,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71003,10.39892,51
+24456,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71001,10.39885,52
+24457,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70999,10.39882,53
+24458,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70997,10.3988,54
+24459,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71001,10.39838,55
+24460,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71008,10.39813,56
+24461,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.7101,10.39807,57
+24462,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71016,10.39794,58
+24463,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71019,10.39794,59
+24464,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71022,10.39792,60
+24465,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71025,10.3979,61
+24466,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71027,10.39786,62
+24467,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71028,10.39781,63
+24468,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71028,10.39777,64
+24469,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71027,10.39772,65
+24470,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71025,10.39769,66
+24471,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71022,10.39766,67
+24472,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71018,10.39764,68
+24473,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71016,10.39755,69
+24474,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71014,10.39743,70
+24475,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71033,10.39616,71
+24476,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71038,10.39588,72
+24477,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71041,10.39588,73
+24478,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71043,10.39586,74
+24479,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71046,10.39581,75
+24480,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71047,10.39578,76
+24481,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71045,10.39571,77
+24482,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71041,10.39568,78
+24483,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71054,10.39481,79
+24484,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71057,10.39451,80
+24485,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71058,10.39434,81
+24486,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.7106,10.39206,82
+24487,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71061,10.39193,83
+24488,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71063,10.39186,84
+24489,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71067,10.39179,85
+24490,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71072,10.39173,86
+24491,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71082,10.39166,87
+24492,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71093,10.39162,88
+24493,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71133,10.39152,89
+24494,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71159,10.39157,90
+24495,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71162,10.39159,91
+24496,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71164,10.39159,92
+24497,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71168,10.39157,93
+24498,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.7117,10.39153,94
+24499,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71171,10.39148,95
+24500,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71169,10.39142,96
+24501,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71162,10.39112,97
+24502,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71157,10.39094,98
+24503,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71112,10.3897,99
+24504,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71052,10.38788,100
+24505,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71056,10.38773,101
+24506,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71064,10.38746,102
+24507,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71088,10.38679,103
+24508,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71061,10.3858,104
+24509,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71043,10.3849,105
+24510,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71106,10.38465,106
+24511,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71172,10.38437,107
+24512,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71177,10.38437,108
+24513,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71182,10.38436,109
+24514,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71224,10.38411,110
+24515,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71258,10.38383,111
+24516,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71262,10.38381,112
+24517,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71273,10.3838,113
+24518,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71279,10.38379,114
+24519,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71284,10.38375,115
+24520,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71287,10.38369,116
+24521,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71288,10.38361,117
+24522,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71288,10.38358,118
+24523,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71286,10.38351,119
+24524,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71285,10.38347,120
+24525,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.7128,10.38342,121
+24526,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71277,10.38341,122
+24527,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71271,10.3834,123
+24528,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71253,10.38325,124
+24529,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.7115,10.38155,125
+24530,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71139,10.38128,126
+24531,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71131,10.38101,127
+24532,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71125,10.38068,128
+24533,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71087,10.37801,129
+24534,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71082,10.37777,130
+24535,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71073,10.37738,131
+24536,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71063,10.37703,132
+24537,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.71056,10.37685,133
+24538,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70989,10.37495,134
+24539,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70982,10.37478,135
+24540,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70973,10.37462,136
+24541,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.7096,10.37428,137
+24542,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70961,10.37419,138
+24543,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70961,10.37413,139
+24544,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70958,10.37405,140
+24545,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70956,10.37401,141
+24546,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.7095,10.37395,142
+24547,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70947,10.37394,143
+24548,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70942,10.37394,144
+24549,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70936,10.37396,145
+24550,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70896,10.37432,146
+24551,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70884,10.37448,147
+24552,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70747,10.37576,148
+24553,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70742,10.37578,149
+24554,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.7074,10.37574,150
+24555,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70736,10.37572,151
+24556,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70732,10.37574,152
+24557,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.7073,10.37577,153
+24558,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70716,10.37549,154
+24559,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70657,10.37427,155
+24560,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70551,10.37202,156
+24561,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70296,10.3666,157
+24562,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70287,10.36639,158
+24563,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70212,10.36483,159
+24564,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.702,10.36461,160
+24565,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.7018,10.36429,161
+24566,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70163,10.36405,162
+24567,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70138,10.36374,163
+24568,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.70092,10.36328,164
+24569,Ipercoop Pisa,Ristorante Il Rustichello - San Piero,route_992,43.69993,10.36235,165
+24570,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70449,10.41421,0
+24571,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70444,10.41415,1
+24572,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70426,10.41399,2
+24573,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70432,10.41389,3
+24574,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70436,10.41382,4
+24575,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70443,10.41358,5
+24576,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70462,10.41293,6
+24577,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70464,10.41271,7
+24578,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70469,10.4125,8
+24579,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70479,10.41176,9
+24580,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70482,10.41163,10
+24581,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7049,10.41133,11
+24582,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70496,10.41122,12
+24583,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70502,10.41112,13
+24584,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7051,10.41103,14
+24585,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70534,10.41085,15
+24586,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7054,10.41079,16
+24587,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70551,10.41062,17
+24588,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70566,10.4103,18
+24589,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70632,10.40853,19
+24590,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70644,10.40829,20
+24591,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70663,10.40808,21
+24592,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7067,10.40803,22
+24593,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70842,10.40681,23
+24594,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70922,10.40625,24
+24595,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70944,10.40613,25
+24596,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7097,10.40593,26
+24597,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70981,10.40586,27
+24598,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71027,10.40559,28
+24599,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7104,10.4055,29
+24600,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71043,10.40545,30
+24601,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71044,10.40536,31
+24602,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71044,10.4053,32
+24603,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71041,10.40524,33
+24604,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71035,10.4052,34
+24605,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7103,10.4052,35
+24606,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71019,10.40527,36
+24607,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7101,10.40527,37
+24608,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71006,10.40525,38
+24609,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70988,10.40513,39
+24610,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70974,10.40502,40
+24611,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70967,10.40492,41
+24612,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70965,10.40486,42
+24613,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70975,10.40422,43
+24614,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70988,10.40324,44
+24615,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70997,10.40252,45
+24616,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70997,10.40207,46
+24617,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70994,10.39992,47
+24618,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70994,10.39905,48
+24619,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70997,10.39904,49
+24620,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71001,10.39899,50
+24621,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71003,10.39892,51
+24622,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71001,10.39885,52
+24623,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70999,10.39882,53
+24624,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70997,10.3988,54
+24625,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71001,10.39838,55
+24626,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71008,10.39813,56
+24627,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7101,10.39807,57
+24628,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71016,10.39794,58
+24629,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71019,10.39794,59
+24630,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71022,10.39792,60
+24631,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71025,10.3979,61
+24632,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71027,10.39786,62
+24633,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71028,10.39781,63
+24634,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71028,10.39777,64
+24635,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71027,10.39772,65
+24636,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71025,10.39769,66
+24637,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71022,10.39766,67
+24638,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71018,10.39764,68
+24639,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71016,10.39755,69
+24640,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71014,10.39743,70
+24641,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71033,10.39616,71
+24642,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71038,10.39588,72
+24643,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71041,10.39588,73
+24644,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71043,10.39586,74
+24645,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71046,10.39581,75
+24646,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71047,10.39578,76
+24647,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71045,10.39571,77
+24648,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71041,10.39568,78
+24649,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71054,10.39481,79
+24650,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71057,10.39451,80
+24651,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71058,10.39434,81
+24652,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7106,10.39206,82
+24653,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71061,10.39193,83
+24654,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71063,10.39186,84
+24655,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71067,10.39179,85
+24656,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71072,10.39173,86
+24657,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71082,10.39166,87
+24658,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71093,10.39162,88
+24659,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71133,10.39152,89
+24660,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71159,10.39157,90
+24661,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71162,10.39159,91
+24662,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71164,10.39159,92
+24663,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71168,10.39157,93
+24664,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7117,10.39153,94
+24665,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71171,10.39148,95
+24666,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71169,10.39142,96
+24667,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71162,10.39112,97
+24668,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71157,10.39094,98
+24669,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71112,10.3897,99
+24670,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71052,10.38788,100
+24671,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71056,10.38773,101
+24672,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71064,10.38746,102
+24673,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71088,10.38679,103
+24674,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71061,10.3858,104
+24675,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71043,10.3849,105
+24676,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71106,10.38465,106
+24677,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71172,10.38437,107
+24678,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71177,10.38437,108
+24679,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71182,10.38436,109
+24680,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71224,10.38411,110
+24681,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71258,10.38383,111
+24682,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71262,10.38381,112
+24683,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71273,10.3838,113
+24684,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71279,10.38379,114
+24685,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71284,10.38375,115
+24686,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71287,10.38369,116
+24687,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71288,10.38361,117
+24688,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71288,10.38358,118
+24689,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71286,10.38351,119
+24690,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71285,10.38347,120
+24691,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7128,10.38342,121
+24692,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71277,10.38341,122
+24693,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71271,10.3834,123
+24694,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71253,10.38325,124
+24695,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7115,10.38155,125
+24696,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71139,10.38128,126
+24697,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71131,10.38101,127
+24698,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71125,10.38068,128
+24699,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71087,10.37801,129
+24700,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71082,10.37777,130
+24701,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71073,10.37738,131
+24702,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71063,10.37703,132
+24703,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.71056,10.37685,133
+24704,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70989,10.37495,134
+24705,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70982,10.37478,135
+24706,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70973,10.37462,136
+24707,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7096,10.37428,137
+24708,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70961,10.37419,138
+24709,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70961,10.37413,139
+24710,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70958,10.37405,140
+24711,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70956,10.37401,141
+24712,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7095,10.37395,142
+24713,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70947,10.37394,143
+24714,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70942,10.37394,144
+24715,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70936,10.37396,145
+24716,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70896,10.37432,146
+24717,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70884,10.37448,147
+24718,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70747,10.37576,148
+24719,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70742,10.37578,149
+24720,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7074,10.37574,150
+24721,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70736,10.37572,151
+24722,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70732,10.37574,152
+24723,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7073,10.37577,153
+24724,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7073,10.37581,154
+24725,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70724,10.37581,155
+24726,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70718,10.37585,156
+24727,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70716,10.37589,157
+24728,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70714,10.37596,158
+24729,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7071,10.37621,159
+24730,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70709,10.37626,160
+24731,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70705,10.37632,161
+24732,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70698,10.3762,162
+24733,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70685,10.37602,163
+24734,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70644,10.37562,164
+24735,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70624,10.37541,165
+24736,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70616,10.37528,166
+24737,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70608,10.37513,167
+24738,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70575,10.37431,168
+24739,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70526,10.37277,169
+24740,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7051,10.37239,170
+24741,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7038,10.37014,171
+24742,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70333,10.36931,172
+24743,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70325,10.36919,173
+24744,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70303,10.36894,174
+24745,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70278,10.36872,175
+24746,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.7013,10.36756,176
+24747,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70077,10.36712,177
+24748,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.70008,10.36649,178
+24749,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.69983,10.36629,179
+24750,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.69973,10.36623,180
+24751,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.69914,10.36602,181
+24752,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.69876,10.36592,182
+24753,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.69857,10.36589,183
+24754,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.69839,10.36589,184
+24755,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.69825,10.36592,185
+24756,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.69737,10.36619,186
+24757,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.69719,10.36621,187
+24758,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.69622,10.36622,188
+24759,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.69594,10.36624,189
+24760,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.69576,10.36627,190
+24761,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.69498,10.36653,191
+24762,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.69443,10.36667,192
+24763,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.69412,10.36675,193
+24764,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.69298,10.36693,194
+24765,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.69223,10.36713,195
+24766,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.69192,10.3672,196
+24767,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.6914,10.36728,197
+24768,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.69033,10.36734,198
+24769,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.6901,10.36733,199
+24770,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.68975,10.36729,200
+24771,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.68953,10.36725,201
+24772,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.68936,10.36719,202
+24773,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.68916,10.36711,203
+24774,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.68902,10.36702,204
+24775,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.68889,10.36693,205
+24776,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.68846,10.36657,206
+24777,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.68812,10.36758,207
+24778,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.68763,10.36873,208
+24779,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.68705,10.37013,209
+24780,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.68616,10.37213,210
+24781,Ipercoop Pisa,Eurospin Ospedaletto,route_993,43.68598,10.37277,211
+24782,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70449,10.41421,0
+24783,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70444,10.41415,1
+24784,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70426,10.41399,2
+24785,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70432,10.41389,3
+24786,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70436,10.41382,4
+24787,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70443,10.41358,5
+24788,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70462,10.41293,6
+24789,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70464,10.41271,7
+24790,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70469,10.4125,8
+24791,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70479,10.41176,9
+24792,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70482,10.41163,10
+24793,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.7049,10.41133,11
+24794,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70496,10.41122,12
+24795,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70502,10.41112,13
+24796,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.7051,10.41103,14
+24797,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70534,10.41085,15
+24798,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.7054,10.41079,16
+24799,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70551,10.41062,17
+24800,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70566,10.4103,18
+24801,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70632,10.40853,19
+24802,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70644,10.40829,20
+24803,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70663,10.40808,21
+24804,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.7067,10.40803,22
+24805,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70842,10.40681,23
+24806,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70922,10.40625,24
+24807,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70944,10.40613,25
+24808,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.7097,10.40593,26
+24809,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70981,10.40586,27
+24810,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71027,10.40559,28
+24811,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.7104,10.4055,29
+24812,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71043,10.40545,30
+24813,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71044,10.40536,31
+24814,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71044,10.4053,32
+24815,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71041,10.40524,33
+24816,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71035,10.4052,34
+24817,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.7103,10.4052,35
+24818,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71019,10.40527,36
+24819,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.7101,10.40527,37
+24820,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71006,10.40525,38
+24821,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70988,10.40513,39
+24822,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70974,10.40502,40
+24823,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70967,10.40492,41
+24824,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70965,10.40486,42
+24825,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70975,10.40422,43
+24826,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70988,10.40324,44
+24827,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70997,10.40252,45
+24828,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70997,10.40207,46
+24829,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70994,10.39992,47
+24830,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70994,10.39905,48
+24831,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70997,10.39904,49
+24832,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71001,10.39899,50
+24833,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71003,10.39892,51
+24834,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71001,10.39885,52
+24835,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70999,10.39882,53
+24836,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.70997,10.3988,54
+24837,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71001,10.39838,55
+24838,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71008,10.39813,56
+24839,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.7101,10.39807,57
+24840,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71016,10.39794,58
+24841,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71019,10.39794,59
+24842,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71022,10.39792,60
+24843,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71025,10.3979,61
+24844,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71027,10.39786,62
+24845,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71028,10.39781,63
+24846,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71028,10.39777,64
+24847,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71027,10.39772,65
+24848,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71025,10.39769,66
+24849,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71022,10.39766,67
+24850,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71018,10.39764,68
+24851,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71016,10.39755,69
+24852,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71014,10.39743,70
+24853,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71033,10.39616,71
+24854,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71038,10.39588,72
+24855,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71041,10.39588,73
+24856,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71043,10.39586,74
+24857,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71046,10.39581,75
+24858,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71047,10.39578,76
+24859,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71045,10.39571,77
+24860,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71041,10.39568,78
+24861,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71054,10.39481,79
+24862,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71057,10.39451,80
+24863,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71058,10.39434,81
+24864,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.7106,10.39206,82
+24865,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71061,10.39193,83
+24866,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71063,10.39186,84
+24867,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71067,10.39179,85
+24868,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71072,10.39173,86
+24869,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71082,10.39166,87
+24870,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71093,10.39162,88
+24871,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71133,10.39152,89
+24872,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71159,10.39157,90
+24873,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71162,10.39159,91
+24874,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71164,10.39159,92
+24875,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71168,10.39157,93
+24876,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.7117,10.39153,94
+24877,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71171,10.39148,95
+24878,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71169,10.39142,96
+24879,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71162,10.39112,97
+24880,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71157,10.39094,98
+24881,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71112,10.3897,99
+24882,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71052,10.38788,100
+24883,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71056,10.38773,101
+24884,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71064,10.38746,102
+24885,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71088,10.38679,103
+24886,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71061,10.3858,104
+24887,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71043,10.3849,105
+24888,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71106,10.38465,106
+24889,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71172,10.38437,107
+24890,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71177,10.38437,108
+24891,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71182,10.38436,109
+24892,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71224,10.38411,110
+24893,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71258,10.38383,111
+24894,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71262,10.38381,112
+24895,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71273,10.3838,113
+24896,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71279,10.38379,114
+24897,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71284,10.38375,115
+24898,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71285,10.38372,116
+24899,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71296,10.38369,117
+24900,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71318,10.38364,118
+24901,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.7133,10.38364,119
+24902,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71348,10.38361,120
+24903,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71586,10.38263,121
+24904,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71678,10.38224,122
+24905,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71689,10.38222,123
+24906,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.717,10.38214,124
+24907,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71707,10.38216,125
+24908,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.7171,10.38214,126
+24909,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71713,10.38212,127
+24910,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71718,10.38205,128
+24911,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71724,10.38201,129
+24912,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71746,10.38197,130
+24913,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.71749,10.38194,131
+24914,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72295,10.3797,132
+24915,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72307,10.37968,133
+24916,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72315,10.37964,134
+24917,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72324,10.37958,135
+24918,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72336,10.37954,136
+24919,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72341,10.37957,137
+24920,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72347,10.37957,138
+24921,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72353,10.37953,139
+24922,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72356,10.37946,140
+24923,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72356,10.37941,141
+24924,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72356,10.37936,142
+24925,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72354,10.37931,143
+24926,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72347,10.37916,144
+24927,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72337,10.37888,145
+24928,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72333,10.37835,146
+24929,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72329,10.37802,147
+24930,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72288,10.37472,148
+24931,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72263,10.37273,149
+24932,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72229,10.36996,150
+24933,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72196,10.36727,151
+24934,Ipercoop Pisa,McDonald's Barbaricina,route_994,43.72127,10.36178,152
+24935,Ipercoop Pisa,Conad La Vettola,route_995,43.70449,10.41421,0
+24936,Ipercoop Pisa,Conad La Vettola,route_995,43.70444,10.41415,1
+24937,Ipercoop Pisa,Conad La Vettola,route_995,43.70426,10.41399,2
+24938,Ipercoop Pisa,Conad La Vettola,route_995,43.70432,10.41389,3
+24939,Ipercoop Pisa,Conad La Vettola,route_995,43.70436,10.41382,4
+24940,Ipercoop Pisa,Conad La Vettola,route_995,43.70443,10.41358,5
+24941,Ipercoop Pisa,Conad La Vettola,route_995,43.70462,10.41293,6
+24942,Ipercoop Pisa,Conad La Vettola,route_995,43.70464,10.41271,7
+24943,Ipercoop Pisa,Conad La Vettola,route_995,43.70469,10.4125,8
+24944,Ipercoop Pisa,Conad La Vettola,route_995,43.70479,10.41176,9
+24945,Ipercoop Pisa,Conad La Vettola,route_995,43.70482,10.41163,10
+24946,Ipercoop Pisa,Conad La Vettola,route_995,43.7049,10.41133,11
+24947,Ipercoop Pisa,Conad La Vettola,route_995,43.70496,10.41122,12
+24948,Ipercoop Pisa,Conad La Vettola,route_995,43.70502,10.41112,13
+24949,Ipercoop Pisa,Conad La Vettola,route_995,43.7051,10.41103,14
+24950,Ipercoop Pisa,Conad La Vettola,route_995,43.70534,10.41085,15
+24951,Ipercoop Pisa,Conad La Vettola,route_995,43.7054,10.41079,16
+24952,Ipercoop Pisa,Conad La Vettola,route_995,43.70551,10.41062,17
+24953,Ipercoop Pisa,Conad La Vettola,route_995,43.70566,10.4103,18
+24954,Ipercoop Pisa,Conad La Vettola,route_995,43.70632,10.40853,19
+24955,Ipercoop Pisa,Conad La Vettola,route_995,43.70644,10.40829,20
+24956,Ipercoop Pisa,Conad La Vettola,route_995,43.70663,10.40808,21
+24957,Ipercoop Pisa,Conad La Vettola,route_995,43.7067,10.40803,22
+24958,Ipercoop Pisa,Conad La Vettola,route_995,43.70842,10.40681,23
+24959,Ipercoop Pisa,Conad La Vettola,route_995,43.70922,10.40625,24
+24960,Ipercoop Pisa,Conad La Vettola,route_995,43.70944,10.40613,25
+24961,Ipercoop Pisa,Conad La Vettola,route_995,43.7097,10.40593,26
+24962,Ipercoop Pisa,Conad La Vettola,route_995,43.70981,10.40586,27
+24963,Ipercoop Pisa,Conad La Vettola,route_995,43.71027,10.40559,28
+24964,Ipercoop Pisa,Conad La Vettola,route_995,43.7104,10.4055,29
+24965,Ipercoop Pisa,Conad La Vettola,route_995,43.71043,10.40545,30
+24966,Ipercoop Pisa,Conad La Vettola,route_995,43.71044,10.40536,31
+24967,Ipercoop Pisa,Conad La Vettola,route_995,43.71044,10.4053,32
+24968,Ipercoop Pisa,Conad La Vettola,route_995,43.71041,10.40524,33
+24969,Ipercoop Pisa,Conad La Vettola,route_995,43.71035,10.4052,34
+24970,Ipercoop Pisa,Conad La Vettola,route_995,43.7103,10.4052,35
+24971,Ipercoop Pisa,Conad La Vettola,route_995,43.71019,10.40527,36
+24972,Ipercoop Pisa,Conad La Vettola,route_995,43.7101,10.40527,37
+24973,Ipercoop Pisa,Conad La Vettola,route_995,43.71006,10.40525,38
+24974,Ipercoop Pisa,Conad La Vettola,route_995,43.70988,10.40513,39
+24975,Ipercoop Pisa,Conad La Vettola,route_995,43.70974,10.40502,40
+24976,Ipercoop Pisa,Conad La Vettola,route_995,43.70967,10.40492,41
+24977,Ipercoop Pisa,Conad La Vettola,route_995,43.70965,10.40486,42
+24978,Ipercoop Pisa,Conad La Vettola,route_995,43.70975,10.40422,43
+24979,Ipercoop Pisa,Conad La Vettola,route_995,43.70988,10.40324,44
+24980,Ipercoop Pisa,Conad La Vettola,route_995,43.70997,10.40252,45
+24981,Ipercoop Pisa,Conad La Vettola,route_995,43.70997,10.40207,46
+24982,Ipercoop Pisa,Conad La Vettola,route_995,43.70994,10.39992,47
+24983,Ipercoop Pisa,Conad La Vettola,route_995,43.70994,10.39905,48
+24984,Ipercoop Pisa,Conad La Vettola,route_995,43.70997,10.39904,49
+24985,Ipercoop Pisa,Conad La Vettola,route_995,43.71001,10.39899,50
+24986,Ipercoop Pisa,Conad La Vettola,route_995,43.71003,10.39892,51
+24987,Ipercoop Pisa,Conad La Vettola,route_995,43.71001,10.39885,52
+24988,Ipercoop Pisa,Conad La Vettola,route_995,43.70999,10.39882,53
+24989,Ipercoop Pisa,Conad La Vettola,route_995,43.70997,10.3988,54
+24990,Ipercoop Pisa,Conad La Vettola,route_995,43.71001,10.39838,55
+24991,Ipercoop Pisa,Conad La Vettola,route_995,43.71008,10.39813,56
+24992,Ipercoop Pisa,Conad La Vettola,route_995,43.7101,10.39807,57
+24993,Ipercoop Pisa,Conad La Vettola,route_995,43.71016,10.39794,58
+24994,Ipercoop Pisa,Conad La Vettola,route_995,43.71019,10.39794,59
+24995,Ipercoop Pisa,Conad La Vettola,route_995,43.71022,10.39792,60
+24996,Ipercoop Pisa,Conad La Vettola,route_995,43.71025,10.3979,61
+24997,Ipercoop Pisa,Conad La Vettola,route_995,43.71027,10.39786,62
+24998,Ipercoop Pisa,Conad La Vettola,route_995,43.71028,10.39781,63
+24999,Ipercoop Pisa,Conad La Vettola,route_995,43.71028,10.39777,64
+25000,Ipercoop Pisa,Conad La Vettola,route_995,43.71027,10.39772,65
+25001,Ipercoop Pisa,Conad La Vettola,route_995,43.71025,10.39769,66
+25002,Ipercoop Pisa,Conad La Vettola,route_995,43.71022,10.39766,67
+25003,Ipercoop Pisa,Conad La Vettola,route_995,43.71018,10.39764,68
+25004,Ipercoop Pisa,Conad La Vettola,route_995,43.71016,10.39755,69
+25005,Ipercoop Pisa,Conad La Vettola,route_995,43.71014,10.39743,70
+25006,Ipercoop Pisa,Conad La Vettola,route_995,43.71033,10.39616,71
+25007,Ipercoop Pisa,Conad La Vettola,route_995,43.71038,10.39588,72
+25008,Ipercoop Pisa,Conad La Vettola,route_995,43.71041,10.39588,73
+25009,Ipercoop Pisa,Conad La Vettola,route_995,43.71043,10.39586,74
+25010,Ipercoop Pisa,Conad La Vettola,route_995,43.71046,10.39581,75
+25011,Ipercoop Pisa,Conad La Vettola,route_995,43.71047,10.39578,76
+25012,Ipercoop Pisa,Conad La Vettola,route_995,43.71045,10.39571,77
+25013,Ipercoop Pisa,Conad La Vettola,route_995,43.71041,10.39568,78
+25014,Ipercoop Pisa,Conad La Vettola,route_995,43.71054,10.39481,79
+25015,Ipercoop Pisa,Conad La Vettola,route_995,43.71057,10.39451,80
+25016,Ipercoop Pisa,Conad La Vettola,route_995,43.71058,10.39434,81
+25017,Ipercoop Pisa,Conad La Vettola,route_995,43.7106,10.39206,82
+25018,Ipercoop Pisa,Conad La Vettola,route_995,43.71061,10.39193,83
+25019,Ipercoop Pisa,Conad La Vettola,route_995,43.71063,10.39186,84
+25020,Ipercoop Pisa,Conad La Vettola,route_995,43.71067,10.39179,85
+25021,Ipercoop Pisa,Conad La Vettola,route_995,43.71072,10.39173,86
+25022,Ipercoop Pisa,Conad La Vettola,route_995,43.71082,10.39166,87
+25023,Ipercoop Pisa,Conad La Vettola,route_995,43.71093,10.39162,88
+25024,Ipercoop Pisa,Conad La Vettola,route_995,43.71133,10.39152,89
+25025,Ipercoop Pisa,Conad La Vettola,route_995,43.71159,10.39157,90
+25026,Ipercoop Pisa,Conad La Vettola,route_995,43.71162,10.39159,91
+25027,Ipercoop Pisa,Conad La Vettola,route_995,43.71164,10.39159,92
+25028,Ipercoop Pisa,Conad La Vettola,route_995,43.71168,10.39157,93
+25029,Ipercoop Pisa,Conad La Vettola,route_995,43.7117,10.39153,94
+25030,Ipercoop Pisa,Conad La Vettola,route_995,43.71171,10.39148,95
+25031,Ipercoop Pisa,Conad La Vettola,route_995,43.71169,10.39142,96
+25032,Ipercoop Pisa,Conad La Vettola,route_995,43.71162,10.39112,97
+25033,Ipercoop Pisa,Conad La Vettola,route_995,43.71157,10.39094,98
+25034,Ipercoop Pisa,Conad La Vettola,route_995,43.71112,10.3897,99
+25035,Ipercoop Pisa,Conad La Vettola,route_995,43.71052,10.38788,100
+25036,Ipercoop Pisa,Conad La Vettola,route_995,43.71056,10.38773,101
+25037,Ipercoop Pisa,Conad La Vettola,route_995,43.71064,10.38746,102
+25038,Ipercoop Pisa,Conad La Vettola,route_995,43.71088,10.38679,103
+25039,Ipercoop Pisa,Conad La Vettola,route_995,43.71061,10.3858,104
+25040,Ipercoop Pisa,Conad La Vettola,route_995,43.71043,10.3849,105
+25041,Ipercoop Pisa,Conad La Vettola,route_995,43.71106,10.38465,106
+25042,Ipercoop Pisa,Conad La Vettola,route_995,43.71172,10.38437,107
+25043,Ipercoop Pisa,Conad La Vettola,route_995,43.71177,10.38437,108
+25044,Ipercoop Pisa,Conad La Vettola,route_995,43.71182,10.38436,109
+25045,Ipercoop Pisa,Conad La Vettola,route_995,43.71224,10.38411,110
+25046,Ipercoop Pisa,Conad La Vettola,route_995,43.71258,10.38383,111
+25047,Ipercoop Pisa,Conad La Vettola,route_995,43.71262,10.38381,112
+25048,Ipercoop Pisa,Conad La Vettola,route_995,43.71273,10.3838,113
+25049,Ipercoop Pisa,Conad La Vettola,route_995,43.71279,10.38379,114
+25050,Ipercoop Pisa,Conad La Vettola,route_995,43.71284,10.38375,115
+25051,Ipercoop Pisa,Conad La Vettola,route_995,43.71285,10.38372,116
+25052,Ipercoop Pisa,Conad La Vettola,route_995,43.71296,10.38369,117
+25053,Ipercoop Pisa,Conad La Vettola,route_995,43.71318,10.38364,118
+25054,Ipercoop Pisa,Conad La Vettola,route_995,43.7133,10.38364,119
+25055,Ipercoop Pisa,Conad La Vettola,route_995,43.71348,10.38361,120
+25056,Ipercoop Pisa,Conad La Vettola,route_995,43.71586,10.38263,121
+25057,Ipercoop Pisa,Conad La Vettola,route_995,43.71678,10.38224,122
+25058,Ipercoop Pisa,Conad La Vettola,route_995,43.71689,10.38222,123
+25059,Ipercoop Pisa,Conad La Vettola,route_995,43.717,10.38214,124
+25060,Ipercoop Pisa,Conad La Vettola,route_995,43.71707,10.38216,125
+25061,Ipercoop Pisa,Conad La Vettola,route_995,43.7171,10.38214,126
+25062,Ipercoop Pisa,Conad La Vettola,route_995,43.71713,10.38212,127
+25063,Ipercoop Pisa,Conad La Vettola,route_995,43.71718,10.38205,128
+25064,Ipercoop Pisa,Conad La Vettola,route_995,43.71724,10.38201,129
+25065,Ipercoop Pisa,Conad La Vettola,route_995,43.71746,10.38197,130
+25066,Ipercoop Pisa,Conad La Vettola,route_995,43.71749,10.38194,131
+25067,Ipercoop Pisa,Conad La Vettola,route_995,43.72295,10.3797,132
+25068,Ipercoop Pisa,Conad La Vettola,route_995,43.72307,10.37968,133
+25069,Ipercoop Pisa,Conad La Vettola,route_995,43.72315,10.37964,134
+25070,Ipercoop Pisa,Conad La Vettola,route_995,43.72324,10.37958,135
+25071,Ipercoop Pisa,Conad La Vettola,route_995,43.72336,10.37954,136
+25072,Ipercoop Pisa,Conad La Vettola,route_995,43.72341,10.37957,137
+25073,Ipercoop Pisa,Conad La Vettola,route_995,43.72347,10.37957,138
+25074,Ipercoop Pisa,Conad La Vettola,route_995,43.72353,10.37953,139
+25075,Ipercoop Pisa,Conad La Vettola,route_995,43.72356,10.37946,140
+25076,Ipercoop Pisa,Conad La Vettola,route_995,43.72356,10.37941,141
+25077,Ipercoop Pisa,Conad La Vettola,route_995,43.72356,10.37936,142
+25078,Ipercoop Pisa,Conad La Vettola,route_995,43.72354,10.37931,143
+25079,Ipercoop Pisa,Conad La Vettola,route_995,43.72347,10.37916,144
+25080,Ipercoop Pisa,Conad La Vettola,route_995,43.72337,10.37888,145
+25081,Ipercoop Pisa,Conad La Vettola,route_995,43.72333,10.37835,146
+25082,Ipercoop Pisa,Conad La Vettola,route_995,43.72329,10.37802,147
+25083,Ipercoop Pisa,Conad La Vettola,route_995,43.72288,10.37472,148
+25084,Ipercoop Pisa,Conad La Vettola,route_995,43.72263,10.37273,149
+25085,Ipercoop Pisa,Conad La Vettola,route_995,43.72229,10.36996,150
+25086,Ipercoop Pisa,Conad La Vettola,route_995,43.72196,10.36727,151
+25087,Ipercoop Pisa,Conad La Vettola,route_995,43.72111,10.36056,152
+25088,Ipercoop Pisa,Conad La Vettola,route_995,43.72066,10.35688,153
+25089,Ipercoop Pisa,Conad La Vettola,route_995,43.72066,10.35673,154
+25090,Ipercoop Pisa,Conad La Vettola,route_995,43.72067,10.35656,155
+25091,Ipercoop Pisa,Conad La Vettola,route_995,43.7219,10.35048,156
+25092,Ipercoop Pisa,Conad La Vettola,route_995,43.72182,10.35042,157
+25093,Ipercoop Pisa,Conad La Vettola,route_995,43.72176,10.35042,158
+25094,Ipercoop Pisa,Conad La Vettola,route_995,43.72162,10.35055,159
+25095,Ipercoop Pisa,Conad La Vettola,route_995,43.72097,10.35372,160
+25096,Ipercoop Pisa,Conad La Vettola,route_995,43.72089,10.35385,161
+25097,Ipercoop Pisa,Conad La Vettola,route_995,43.72082,10.3539,162
+25098,Ipercoop Pisa,Conad La Vettola,route_995,43.72068,10.35388,163
+25099,Ipercoop Pisa,Conad La Vettola,route_995,43.72021,10.35377,164
+25100,Ipercoop Pisa,Conad La Vettola,route_995,43.7186,10.35336,165
+25101,Ipercoop Pisa,Conad La Vettola,route_995,43.71283,10.35194,166
+25102,Ipercoop Pisa,MD Discount Riglione,route_996,43.70449,10.41421,0
+25103,Ipercoop Pisa,MD Discount Riglione,route_996,43.70444,10.41415,1
+25104,Ipercoop Pisa,MD Discount Riglione,route_996,43.70426,10.41399,2
+25105,Ipercoop Pisa,MD Discount Riglione,route_996,43.70394,10.41442,3
+25106,Ipercoop Pisa,MD Discount Riglione,route_996,43.70368,10.41485,4
+25107,Ipercoop Pisa,MD Discount Riglione,route_996,43.70363,10.41496,5
+25108,Ipercoop Pisa,MD Discount Riglione,route_996,43.70357,10.41514,6
+25109,Ipercoop Pisa,MD Discount Riglione,route_996,43.70349,10.41542,7
+25110,Ipercoop Pisa,MD Discount Riglione,route_996,43.70325,10.41648,8
+25111,Ipercoop Pisa,MD Discount Riglione,route_996,43.70315,10.41679,9
+25112,Ipercoop Pisa,MD Discount Riglione,route_996,43.70296,10.41723,10
+25113,Ipercoop Pisa,MD Discount Riglione,route_996,43.70234,10.41854,11
+25114,Ipercoop Pisa,MD Discount Riglione,route_996,43.70157,10.42021,12
+25115,Ipercoop Pisa,MD Discount Riglione,route_996,43.70098,10.4216,13
+25116,Ipercoop Pisa,MD Discount Riglione,route_996,43.69998,10.42428,14
+25117,Ipercoop Pisa,MD Discount Riglione,route_996,43.69985,10.42468,15
+25118,Ipercoop Pisa,MD Discount Riglione,route_996,43.69962,10.42543,16
+25119,Ipercoop Pisa,MD Discount Riglione,route_996,43.69921,10.42681,17
+25120,Ipercoop Pisa,MD Discount Riglione,route_996,43.69913,10.42716,18
+25121,Ipercoop Pisa,MD Discount Riglione,route_996,43.69903,10.42782,19
+25122,Ipercoop Pisa,MD Discount Riglione,route_996,43.6989,10.42871,20
+25123,Ipercoop Pisa,MD Discount Riglione,route_996,43.69801,10.42849,21
+25124,Ipercoop Pisa,MD Discount Riglione,route_996,43.69794,10.42848,22
+25125,Ipercoop Pisa,MD Discount Riglione,route_996,43.69698,10.42852,23
+25126,Ipercoop Pisa,MD Discount Riglione,route_996,43.69671,10.42849,24
+25127,Ipercoop Pisa,MD Discount Riglione,route_996,43.69659,10.42846,25
+25128,Ipercoop Pisa,MD Discount Riglione,route_996,43.69638,10.42837,26
+25129,Ipercoop Pisa,MD Discount Riglione,route_996,43.69584,10.42809,27
+25130,Ipercoop Pisa,MD Discount Riglione,route_996,43.69565,10.428,28
+25131,Ipercoop Pisa,MD Discount Riglione,route_996,43.69527,10.42779,29
+25132,Ipercoop Pisa,MD Discount Riglione,route_996,43.69502,10.42763,30
+25133,Ipercoop Pisa,MD Discount Riglione,route_996,43.6948,10.42751,31
+25134,Ipercoop Pisa,MD Discount Riglione,route_996,43.69443,10.42734,32
+25135,Ipercoop Pisa,MD Discount Riglione,route_996,43.69402,10.42725,33
+25136,Ipercoop Pisa,MD Discount Riglione,route_996,43.69392,10.42725,34
+25137,Ipercoop Pisa,MD Discount Riglione,route_996,43.69385,10.42726,35
+25138,Ipercoop Pisa,MD Discount Riglione,route_996,43.69366,10.42732,36
+25139,Ipercoop Pisa,MD Discount Riglione,route_996,43.69326,10.4275,37
+25140,Ipercoop Pisa,MD Discount Riglione,route_996,43.69275,10.4277,38
+25141,Ipercoop Pisa,MD Discount Riglione,route_996,43.69265,10.42784,39
+25142,Ipercoop Pisa,MD Discount Riglione,route_996,43.6924,10.42831,40
+25143,Ipercoop Pisa,MD Discount Riglione,route_996,43.69228,10.4285,41
+25144,Ipercoop Pisa,MD Discount Riglione,route_996,43.69212,10.42868,42
+25145,Ipercoop Pisa,MD Discount Riglione,route_996,43.69201,10.42877,43
+25146,Ipercoop Pisa,MD Discount Riglione,route_996,43.69191,10.42885,44
+25147,Ipercoop Pisa,MD Discount Riglione,route_996,43.69166,10.42895,45
+25148,Ipercoop Pisa,MD Discount Riglione,route_996,43.69145,10.429,46
+25149,Ipercoop Pisa,MD Discount Riglione,route_996,43.69131,10.42901,47
+25150,Ipercoop Pisa,MD Discount Riglione,route_996,43.69115,10.429,48
+25151,Ipercoop Pisa,MD Discount Riglione,route_996,43.69101,10.42896,49
+25152,Ipercoop Pisa,MD Discount Riglione,route_996,43.69082,10.42888,50
+25153,Ipercoop Pisa,MD Discount Riglione,route_996,43.69073,10.42882,51
+25154,Ipercoop Pisa,MD Discount Riglione,route_996,43.69054,10.42868,52
+25155,Ipercoop Pisa,MD Discount Riglione,route_996,43.6902,10.42836,53
+25156,Ipercoop Pisa,MD Discount Riglione,route_996,43.69009,10.42827,54
+25157,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70449,10.41421,0
+25158,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70444,10.41415,1
+25159,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70426,10.41399,2
+25160,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70432,10.41389,3
+25161,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70436,10.41382,4
+25162,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70443,10.41358,5
+25163,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70462,10.41293,6
+25164,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70464,10.41271,7
+25165,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70469,10.4125,8
+25166,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70479,10.41176,9
+25167,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70482,10.41163,10
+25168,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.7049,10.41133,11
+25169,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70496,10.41122,12
+25170,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70502,10.41112,13
+25171,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.7051,10.41103,14
+25172,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70534,10.41085,15
+25173,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.7054,10.41079,16
+25174,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70551,10.41062,17
+25175,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70566,10.4103,18
+25176,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70632,10.40853,19
+25177,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70644,10.40829,20
+25178,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70663,10.40808,21
+25179,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.7067,10.40803,22
+25180,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70842,10.40681,23
+25181,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70922,10.40625,24
+25182,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70944,10.40613,25
+25183,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.7097,10.40593,26
+25184,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70981,10.40586,27
+25185,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71027,10.40559,28
+25186,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.7104,10.4055,29
+25187,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71043,10.40545,30
+25188,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71044,10.40536,31
+25189,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71044,10.4053,32
+25190,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71041,10.40524,33
+25191,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71035,10.4052,34
+25192,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.7103,10.4052,35
+25193,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71019,10.40527,36
+25194,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.7101,10.40527,37
+25195,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71006,10.40525,38
+25196,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70988,10.40513,39
+25197,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70974,10.40502,40
+25198,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70967,10.40492,41
+25199,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70965,10.40486,42
+25200,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70975,10.40422,43
+25201,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70988,10.40324,44
+25202,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70997,10.40252,45
+25203,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70997,10.40207,46
+25204,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70994,10.39992,47
+25205,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70994,10.39905,48
+25206,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70997,10.39904,49
+25207,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71001,10.39899,50
+25208,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71003,10.39892,51
+25209,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71001,10.39885,52
+25210,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70999,10.39882,53
+25211,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70997,10.3988,54
+25212,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71001,10.39838,55
+25213,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71008,10.39813,56
+25214,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.7101,10.39807,57
+25215,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71016,10.39794,58
+25216,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71019,10.39794,59
+25217,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71022,10.39792,60
+25218,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71025,10.3979,61
+25219,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71027,10.39786,62
+25220,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71028,10.39781,63
+25221,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71028,10.39777,64
+25222,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71027,10.39772,65
+25223,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71025,10.39769,66
+25224,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71022,10.39766,67
+25225,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71018,10.39764,68
+25226,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71016,10.39755,69
+25227,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71014,10.39743,70
+25228,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71033,10.39616,71
+25229,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71038,10.39588,72
+25230,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71041,10.39588,73
+25231,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71043,10.39586,74
+25232,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71046,10.39581,75
+25233,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71047,10.39578,76
+25234,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71045,10.39571,77
+25235,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71041,10.39568,78
+25236,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71054,10.39481,79
+25237,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71057,10.39451,80
+25238,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71058,10.39434,81
+25239,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.7106,10.39206,82
+25240,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71061,10.39193,83
+25241,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71063,10.39186,84
+25242,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71067,10.39179,85
+25243,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71072,10.39173,86
+25244,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71082,10.39166,87
+25245,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71093,10.39162,88
+25246,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71133,10.39152,89
+25247,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71159,10.39157,90
+25248,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71162,10.39159,91
+25249,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71164,10.39159,92
+25250,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71168,10.39157,93
+25251,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.7117,10.39153,94
+25252,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71171,10.39148,95
+25253,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71169,10.39142,96
+25254,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71162,10.39112,97
+25255,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71157,10.39094,98
+25256,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71112,10.3897,99
+25257,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71052,10.38788,100
+25258,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71056,10.38773,101
+25259,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71064,10.38746,102
+25260,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71088,10.38679,103
+25261,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71061,10.3858,104
+25262,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71043,10.3849,105
+25263,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71106,10.38465,106
+25264,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71172,10.38437,107
+25265,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71177,10.38437,108
+25266,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71182,10.38436,109
+25267,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71224,10.38411,110
+25268,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71258,10.38383,111
+25269,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71262,10.38381,112
+25270,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71273,10.3838,113
+25271,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71279,10.38379,114
+25272,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71284,10.38375,115
+25273,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71287,10.38369,116
+25274,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71288,10.38361,117
+25275,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71288,10.38358,118
+25276,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71286,10.38351,119
+25277,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71285,10.38347,120
+25278,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.7128,10.38342,121
+25279,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71277,10.38341,122
+25280,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71271,10.3834,123
+25281,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71253,10.38325,124
+25282,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.7115,10.38155,125
+25283,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71139,10.38128,126
+25284,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71131,10.38101,127
+25285,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71125,10.38068,128
+25286,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71087,10.37801,129
+25287,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71082,10.37777,130
+25288,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71073,10.37738,131
+25289,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71063,10.37703,132
+25290,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.71056,10.37685,133
+25291,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70989,10.37495,134
+25292,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70982,10.37478,135
+25293,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70973,10.37462,136
+25294,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.7096,10.37428,137
+25295,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70961,10.37419,138
+25296,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70961,10.37413,139
+25297,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70958,10.37405,140
+25298,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70956,10.37401,141
+25299,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.7095,10.37395,142
+25300,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70947,10.37394,143
+25301,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70942,10.37394,144
+25302,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70936,10.37396,145
+25303,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70896,10.37432,146
+25304,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70884,10.37448,147
+25305,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70747,10.37576,148
+25306,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70742,10.37578,149
+25307,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.7074,10.37574,150
+25308,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70736,10.37572,151
+25309,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70732,10.37574,152
+25310,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.7073,10.37577,153
+25311,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70716,10.37549,154
+25312,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70657,10.37427,155
+25313,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70551,10.37202,156
+25314,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70296,10.3666,157
+25315,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70287,10.36639,158
+25316,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70245,10.36551,159
+25317,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70212,10.36483,160
+25318,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.702,10.36461,161
+25319,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.7018,10.36429,162
+25320,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70163,10.36405,163
+25321,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70138,10.36374,164
+25322,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70128,10.36364,165
+25323,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70092,10.36328,166
+25324,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.70042,10.36281,167
+25325,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.69734,10.35993,168
+25326,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.69708,10.35967,169
+25327,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.69679,10.35932,170
+25328,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.6967,10.35921,171
+25329,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.69636,10.35873,172
+25330,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.69602,10.35817,173
+25331,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.69272,10.35186,174
+25332,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.69246,10.35139,175
+25333,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.69212,10.35085,176
+25334,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.69149,10.34995,177
+25335,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.69099,10.34928,178
+25336,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68798,10.34514,179
+25337,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68763,10.34467,180
+25338,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68734,10.34429,181
+25339,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68719,10.34413,182
+25340,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68708,10.34404,183
+25341,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68674,10.34385,184
+25342,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68664,10.34376,185
+25343,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.6866,10.3437,186
+25344,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68659,10.34365,187
+25345,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68657,10.34357,188
+25346,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68654,10.34352,189
+25347,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68648,10.34345,190
+25348,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68642,10.34343,191
+25349,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68629,10.34303,192
+25350,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68623,10.34278,193
+25351,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68613,10.34244,194
+25352,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68605,10.34227,195
+25353,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68595,10.34209,196
+25354,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68554,10.34141,197
+25355,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68279,10.33663,198
+25356,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68145,10.33431,199
+25357,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68096,10.33341,200
+25358,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.68076,10.33299,201
+25359,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67981,10.33095,202
+25360,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67942,10.33012,203
+25361,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67916,10.32951,204
+25362,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.6771,10.32501,205
+25363,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67688,10.3245,206
+25364,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67672,10.32407,207
+25365,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67652,10.32342,208
+25366,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.6754,10.31884,209
+25367,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67538,10.31871,210
+25368,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67536,10.31847,211
+25369,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67538,10.31812,212
+25370,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67543,10.31788,213
+25371,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67567,10.31673,214
+25372,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67573,10.31638,215
+25373,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67621,10.31305,216
+25374,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67633,10.31227,217
+25375,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67649,10.31115,218
+25376,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.6766,10.31023,219
+25377,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67673,10.30794,220
+25378,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67677,10.30746,221
+25379,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67683,10.30693,222
+25380,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67696,10.30594,223
+25381,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.6761,10.30478,224
+25382,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67603,10.3047,225
+25383,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67553,10.30485,226
+25384,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67539,10.30492,227
+25385,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67513,10.30511,228
+25386,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67473,10.30423,229
+25387,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67399,10.30296,230
+25388,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67389,10.30282,231
+25389,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.6722,10.30106,232
+25390,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67201,10.30082,233
+25391,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.67168,10.30061,234
+25392,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.66954,10.29806,235
+25393,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.66935,10.29779,236
+25394,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.66924,10.29761,237
+25395,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.66922,10.29755,238
+25396,Ipercoop Pisa,Parcheggio Porto di Marina,route_997,43.66922,10.29748,239

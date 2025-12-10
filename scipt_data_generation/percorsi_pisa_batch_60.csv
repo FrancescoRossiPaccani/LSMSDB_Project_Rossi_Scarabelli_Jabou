@@ -1,0 +1,618 @@
+id,start,end,route_id,lat,lon,idx
+45454,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71451,10.4208,0
+45455,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71454,10.42051,1
+45456,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.7144,10.42048,2
+45457,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.7143,10.42121,3
+45458,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71476,10.42132,4
+45459,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71485,10.4205,5
+45460,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71505,10.42054,6
+45461,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71498,10.42148,7
+45462,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71196,10.42076,8
+45463,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71128,10.42061,9
+45464,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71109,10.42055,10
+45465,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71108,10.42055,11
+45466,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71102,10.42034,12
+45467,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71095,10.41991,13
+45468,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71091,10.41974,14
+45469,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71068,10.41746,15
+45470,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71037,10.41529,16
+45471,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70997,10.41245,17
+45472,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70992,10.41199,18
+45473,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70991,10.41172,19
+45474,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.7099,10.41147,20
+45475,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70993,10.41076,21
+45476,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70994,10.41066,22
+45477,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70995,10.41058,23
+45478,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71002,10.41043,24
+45479,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71006,10.4104,25
+45480,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71008,10.41036,26
+45481,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.7101,10.41032,27
+45482,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71011,10.41027,28
+45483,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71011,10.41022,29
+45484,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.7101,10.41017,30
+45485,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71009,10.41013,31
+45486,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71006,10.41009,32
+45487,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71002,10.41005,33
+45488,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70998,10.40978,34
+45489,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71007,10.40776,35
+45490,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71014,10.40774,36
+45491,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71018,10.40769,37
+45492,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71019,10.40765,38
+45493,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.7102,10.4076,39
+45494,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71019,10.40752,40
+45495,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71017,10.40749,41
+45496,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71014,10.40745,42
+45497,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.7101,10.40743,43
+45498,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71008,10.40743,44
+45499,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71015,10.4061,45
+45500,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71019,10.4058,46
+45501,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71021,10.40573,47
+45502,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71027,10.40559,48
+45503,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.7104,10.4055,49
+45504,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71043,10.40545,50
+45505,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71044,10.40536,51
+45506,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71044,10.4053,52
+45507,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71041,10.40524,53
+45508,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71035,10.4052,54
+45509,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.7103,10.4052,55
+45510,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71019,10.40527,56
+45511,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.7101,10.40527,57
+45512,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.71006,10.40525,58
+45513,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70988,10.40513,59
+45514,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70974,10.40512,60
+45515,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70969,10.40513,61
+45516,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70959,10.4052,62
+45517,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70953,10.40562,63
+45518,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70919,10.40552,64
+45519,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70824,10.40505,65
+45520,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70776,10.40479,66
+45521,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70741,10.40576,67
+45522,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70675,10.40529,68
+45523,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70611,10.40711,69
+45524,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70609,10.40749,70
+45525,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70609,10.40762,71
+45526,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70611,10.40773,72
+45527,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70614,10.40784,73
+45528,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70623,10.40805,74
+45529,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70638,10.40833,75
+45530,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70581,10.40886,76
+45531,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70568,10.40859,77
+45532,Hotel San Ranieri,Ristorante Il Mio Capriccio,route_1770,43.70578,10.40849,78
+45533,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71451,10.4208,0
+45534,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71454,10.42051,1
+45535,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.7144,10.42048,2
+45536,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.7143,10.42121,3
+45537,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71476,10.42132,4
+45538,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71485,10.4205,5
+45539,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71505,10.42054,6
+45540,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71506,10.4199,7
+45541,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71504,10.4192,8
+45542,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71484,10.41601,9
+45543,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71468,10.41473,10
+45544,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71453,10.41357,11
+45545,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71475,10.41341,12
+45546,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71479,10.41337,13
+45547,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71482,10.41328,14
+45548,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71486,10.41315,15
+45549,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71488,10.41299,16
+45550,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71488,10.41293,17
+45551,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71481,10.41263,18
+45552,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71492,10.4126,19
+45553,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71509,10.41257,20
+45554,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71556,10.41263,21
+45555,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71536,10.41169,22
+45556,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71492,10.40977,23
+45557,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71479,10.40916,24
+45558,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71478,10.40897,25
+45559,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71514,10.40902,26
+45560,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71597,10.40908,27
+45561,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71617,10.40905,28
+45562,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71637,10.40896,29
+45563,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.7167,10.40875,30
+45564,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.7168,10.40872,31
+45565,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71686,10.40874,32
+45566,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71695,10.40879,33
+45567,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71862,10.41041,34
+45568,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71872,10.41046,35
+45569,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71879,10.41046,36
+45570,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71868,10.40905,37
+45571,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71855,10.40739,38
+45572,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71935,10.40741,39
+45573,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71973,10.40736,40
+45574,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71972,10.40631,41
+45575,Hotel San Ranieri,Via del Borghetto 102,route_1771,43.71974,10.40577,42
+45576,Hotel San Ranieri,Parcheggio di Cisanello,route_1772,43.71451,10.4208,0
+45577,Hotel San Ranieri,Parcheggio di Cisanello,route_1772,43.71454,10.42051,1
+45578,Hotel San Ranieri,Parcheggio di Cisanello,route_1772,43.7144,10.42048,2
+45579,Hotel San Ranieri,Parcheggio di Cisanello,route_1772,43.7143,10.42121,3
+45580,Hotel San Ranieri,Parcheggio di Cisanello,route_1772,43.71476,10.42132,4
+45581,Hotel San Ranieri,Parcheggio di Cisanello,route_1772,43.71485,10.4205,5
+45582,Hotel San Ranieri,Parcheggio di Cisanello,route_1772,43.71401,10.42029,6
+45583,Hotel San Ranieri,Parcheggio di Cisanello,route_1772,43.71343,10.42016,7
+45584,Hotel San Ranieri,Parcheggio di Cisanello,route_1772,43.71351,10.41958,8
+45585,Hotel San Ranieri,Parcheggio di Cisanello,route_1772,43.71351,10.41952,9
+45586,Hotel San Ranieri,Parcheggio di Cisanello,route_1772,43.71348,10.4195,10
+45587,Hotel San Ranieri,Parcheggio di Cisanello,route_1772,43.71266,10.41937,11
+45588,Hotel San Ranieri,Parcheggio di Cisanello,route_1772,43.7128,10.41885,12
+45589,Hotel San Ranieri,Parcheggio di Cisanello,route_1772,43.71292,10.4183,13
+45590,Hotel San Ranieri,Parcheggio di Cisanello,route_1772,43.71339,10.41835,14
+45591,Hotel San Ranieri,Parcheggio di Cisanello,route_1772,43.71342,10.4184,15
+45592,Hotel San Ranieri,Parcheggio di Cisanello,route_1772,43.71361,10.41843,16
+45593,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.71451,10.4208,0
+45594,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.71454,10.42051,1
+45595,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.7144,10.42048,2
+45596,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.7143,10.42121,3
+45597,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.71476,10.42132,4
+45598,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.71485,10.4205,5
+45599,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.71505,10.42054,6
+45600,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.71498,10.42148,7
+45601,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.71196,10.42076,8
+45602,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.71128,10.42061,9
+45603,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.71109,10.42055,10
+45604,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.71108,10.42055,11
+45605,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.71102,10.42034,12
+45606,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.71095,10.41991,13
+45607,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.71091,10.41974,14
+45608,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.71068,10.41746,15
+45609,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.71037,10.41529,16
+45610,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.70997,10.41245,17
+45611,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.70992,10.41199,18
+45612,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.70991,10.41172,19
+45613,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.7099,10.41147,20
+45614,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.70999,10.41147,21
+45615,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.71006,10.41143,22
+45616,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.71033,10.41113,23
+45617,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.71033,10.411,24
+45618,Hotel San Ranieri,Carrefour Express Pisanova,route_1773,43.71032,10.41095,25
+45619,Hotel San Ranieri,OBI Pisa,route_1774,43.71451,10.4208,0
+45620,Hotel San Ranieri,OBI Pisa,route_1774,43.71454,10.42051,1
+45621,Hotel San Ranieri,OBI Pisa,route_1774,43.7144,10.42048,2
+45622,Hotel San Ranieri,OBI Pisa,route_1774,43.7143,10.42121,3
+45623,Hotel San Ranieri,OBI Pisa,route_1774,43.71476,10.42132,4
+45624,Hotel San Ranieri,OBI Pisa,route_1774,43.71485,10.4205,5
+45625,Hotel San Ranieri,OBI Pisa,route_1774,43.71505,10.42054,6
+45626,Hotel San Ranieri,OBI Pisa,route_1774,43.71498,10.42148,7
+45627,Hotel San Ranieri,OBI Pisa,route_1774,43.71196,10.42076,8
+45628,Hotel San Ranieri,OBI Pisa,route_1774,43.71128,10.42061,9
+45629,Hotel San Ranieri,OBI Pisa,route_1774,43.71109,10.42055,10
+45630,Hotel San Ranieri,OBI Pisa,route_1774,43.71108,10.42055,11
+45631,Hotel San Ranieri,OBI Pisa,route_1774,43.71102,10.42034,12
+45632,Hotel San Ranieri,OBI Pisa,route_1774,43.71095,10.41991,13
+45633,Hotel San Ranieri,OBI Pisa,route_1774,43.71091,10.41974,14
+45634,Hotel San Ranieri,OBI Pisa,route_1774,43.71068,10.41746,15
+45635,Hotel San Ranieri,OBI Pisa,route_1774,43.71037,10.41529,16
+45636,Hotel San Ranieri,OBI Pisa,route_1774,43.70997,10.41245,17
+45637,Hotel San Ranieri,OBI Pisa,route_1774,43.70992,10.41199,18
+45638,Hotel San Ranieri,OBI Pisa,route_1774,43.70991,10.41172,19
+45639,Hotel San Ranieri,OBI Pisa,route_1774,43.7099,10.41147,20
+45640,Hotel San Ranieri,OBI Pisa,route_1774,43.70993,10.41076,21
+45641,Hotel San Ranieri,OBI Pisa,route_1774,43.70994,10.41066,22
+45642,Hotel San Ranieri,OBI Pisa,route_1774,43.70995,10.41058,23
+45643,Hotel San Ranieri,OBI Pisa,route_1774,43.71002,10.41043,24
+45644,Hotel San Ranieri,OBI Pisa,route_1774,43.71006,10.4104,25
+45645,Hotel San Ranieri,OBI Pisa,route_1774,43.71008,10.41036,26
+45646,Hotel San Ranieri,OBI Pisa,route_1774,43.7101,10.41032,27
+45647,Hotel San Ranieri,OBI Pisa,route_1774,43.71011,10.41027,28
+45648,Hotel San Ranieri,OBI Pisa,route_1774,43.71011,10.41022,29
+45649,Hotel San Ranieri,OBI Pisa,route_1774,43.7101,10.41017,30
+45650,Hotel San Ranieri,OBI Pisa,route_1774,43.71009,10.41013,31
+45651,Hotel San Ranieri,OBI Pisa,route_1774,43.71006,10.41009,32
+45652,Hotel San Ranieri,OBI Pisa,route_1774,43.71002,10.41005,33
+45653,Hotel San Ranieri,OBI Pisa,route_1774,43.70998,10.40978,34
+45654,Hotel San Ranieri,OBI Pisa,route_1774,43.71007,10.40776,35
+45655,Hotel San Ranieri,OBI Pisa,route_1774,43.71014,10.40774,36
+45656,Hotel San Ranieri,OBI Pisa,route_1774,43.71018,10.40769,37
+45657,Hotel San Ranieri,OBI Pisa,route_1774,43.71019,10.40765,38
+45658,Hotel San Ranieri,OBI Pisa,route_1774,43.7102,10.4076,39
+45659,Hotel San Ranieri,OBI Pisa,route_1774,43.71019,10.40752,40
+45660,Hotel San Ranieri,OBI Pisa,route_1774,43.71017,10.40749,41
+45661,Hotel San Ranieri,OBI Pisa,route_1774,43.71014,10.40745,42
+45662,Hotel San Ranieri,OBI Pisa,route_1774,43.7101,10.40743,43
+45663,Hotel San Ranieri,OBI Pisa,route_1774,43.71008,10.40743,44
+45664,Hotel San Ranieri,OBI Pisa,route_1774,43.71015,10.4061,45
+45665,Hotel San Ranieri,OBI Pisa,route_1774,43.71019,10.4058,46
+45666,Hotel San Ranieri,OBI Pisa,route_1774,43.71021,10.40573,47
+45667,Hotel San Ranieri,OBI Pisa,route_1774,43.71027,10.40559,48
+45668,Hotel San Ranieri,OBI Pisa,route_1774,43.7104,10.4055,49
+45669,Hotel San Ranieri,OBI Pisa,route_1774,43.71043,10.40545,50
+45670,Hotel San Ranieri,OBI Pisa,route_1774,43.71044,10.40536,51
+45671,Hotel San Ranieri,OBI Pisa,route_1774,43.71044,10.4053,52
+45672,Hotel San Ranieri,OBI Pisa,route_1774,43.71041,10.40524,53
+45673,Hotel San Ranieri,OBI Pisa,route_1774,43.71035,10.4052,54
+45674,Hotel San Ranieri,OBI Pisa,route_1774,43.7103,10.4052,55
+45675,Hotel San Ranieri,OBI Pisa,route_1774,43.71019,10.40527,56
+45676,Hotel San Ranieri,OBI Pisa,route_1774,43.7101,10.40527,57
+45677,Hotel San Ranieri,OBI Pisa,route_1774,43.71006,10.40525,58
+45678,Hotel San Ranieri,OBI Pisa,route_1774,43.70988,10.40513,59
+45679,Hotel San Ranieri,OBI Pisa,route_1774,43.70974,10.40502,60
+45680,Hotel San Ranieri,OBI Pisa,route_1774,43.70967,10.40492,61
+45681,Hotel San Ranieri,OBI Pisa,route_1774,43.70965,10.40486,62
+45682,Hotel San Ranieri,OBI Pisa,route_1774,43.70975,10.40422,63
+45683,Hotel San Ranieri,OBI Pisa,route_1774,43.70988,10.40324,64
+45684,Hotel San Ranieri,OBI Pisa,route_1774,43.70958,10.40294,65
+45685,Hotel San Ranieri,OBI Pisa,route_1774,43.70931,10.40264,66
+45686,Hotel San Ranieri,OBI Pisa,route_1774,43.70908,10.40242,67
+45687,Hotel San Ranieri,OBI Pisa,route_1774,43.7087,10.40213,68
+45688,Hotel San Ranieri,OBI Pisa,route_1774,43.70831,10.40184,69
+45689,Hotel San Ranieri,OBI Pisa,route_1774,43.70795,10.40155,70
+45690,Hotel San Ranieri,OBI Pisa,route_1774,43.70789,10.40152,71
+45691,Hotel San Ranieri,OBI Pisa,route_1774,43.70786,10.40151,72
+45692,Hotel San Ranieri,OBI Pisa,route_1774,43.7078,10.40151,73
+45693,Hotel San Ranieri,OBI Pisa,route_1774,43.70777,10.40153,74
+45694,Hotel San Ranieri,OBI Pisa,route_1774,43.70771,10.40159,75
+45695,Hotel San Ranieri,OBI Pisa,route_1774,43.70765,10.40172,76
+45696,Hotel San Ranieri,OBI Pisa,route_1774,43.70712,10.40318,77
+45697,Hotel San Ranieri,OBI Pisa,route_1774,43.70614,10.40251,78
+45698,Hotel San Ranieri,OBI Pisa,route_1774,43.70553,10.40214,79
+45699,Hotel San Ranieri,OBI Pisa,route_1774,43.70547,10.40207,80
+45700,Hotel San Ranieri,OBI Pisa,route_1774,43.70535,10.40184,81
+45701,Hotel San Ranieri,OBI Pisa,route_1774,43.7053,10.40178,82
+45702,Hotel San Ranieri,OBI Pisa,route_1774,43.70524,10.40171,83
+45703,Hotel San Ranieri,OBI Pisa,route_1774,43.70471,10.40133,84
+45704,Hotel San Ranieri,OBI Pisa,route_1774,43.70455,10.40124,85
+45705,Hotel San Ranieri,OBI Pisa,route_1774,43.70276,10.40076,86
+45706,Hotel San Ranieri,OBI Pisa,route_1774,43.70252,10.40069,87
+45707,Hotel San Ranieri,OBI Pisa,route_1774,43.70247,10.40067,88
+45708,Hotel San Ranieri,OBI Pisa,route_1774,43.70244,10.40064,89
+45709,Hotel San Ranieri,OBI Pisa,route_1774,43.70245,10.40061,90
+45710,Hotel San Ranieri,OBI Pisa,route_1774,43.70245,10.40056,91
+45711,Hotel San Ranieri,OBI Pisa,route_1774,43.70244,10.40052,92
+45712,Hotel San Ranieri,OBI Pisa,route_1774,43.7024,10.40047,93
+45713,Hotel San Ranieri,OBI Pisa,route_1774,43.70237,10.40046,94
+45714,Hotel San Ranieri,OBI Pisa,route_1774,43.70234,10.40046,95
+45715,Hotel San Ranieri,OBI Pisa,route_1774,43.70231,10.40048,96
+45716,Hotel San Ranieri,OBI Pisa,route_1774,43.70229,10.40051,97
+45717,Hotel San Ranieri,OBI Pisa,route_1774,43.70228,10.40054,98
+45718,Hotel San Ranieri,OBI Pisa,route_1774,43.70227,10.40058,99
+45719,Hotel San Ranieri,OBI Pisa,route_1774,43.70215,10.40059,100
+45720,Hotel San Ranieri,OBI Pisa,route_1774,43.7018,10.40051,101
+45721,Hotel San Ranieri,OBI Pisa,route_1774,43.70155,10.40042,102
+45722,Hotel San Ranieri,OBI Pisa,route_1774,43.70036,10.3998,103
+45723,Hotel San Ranieri,OBI Pisa,route_1774,43.70022,10.39969,104
+45724,Hotel San Ranieri,OBI Pisa,route_1774,43.70002,10.39958,105
+45725,Hotel San Ranieri,OBI Pisa,route_1774,43.69981,10.39948,106
+45726,Hotel San Ranieri,OBI Pisa,route_1774,43.69978,10.39945,107
+45727,Hotel San Ranieri,OBI Pisa,route_1774,43.69975,10.39939,108
+45728,Hotel San Ranieri,OBI Pisa,route_1774,43.69973,10.39932,109
+45729,Hotel San Ranieri,OBI Pisa,route_1774,43.69971,10.39917,110
+45730,Hotel San Ranieri,OBI Pisa,route_1774,43.69979,10.39842,111
+45731,Hotel San Ranieri,OBI Pisa,route_1774,43.69985,10.39803,112
+45732,Hotel San Ranieri,OBI Pisa,route_1774,43.69986,10.39795,113
+45733,Hotel San Ranieri,OBI Pisa,route_1774,43.69986,10.39785,114
+45734,Hotel San Ranieri,OBI Pisa,route_1774,43.69985,10.39773,115
+45735,Hotel San Ranieri,OBI Pisa,route_1774,43.69984,10.39757,116
+45736,Hotel San Ranieri,OBI Pisa,route_1774,43.69985,10.39744,117
+45737,Hotel San Ranieri,OBI Pisa,route_1774,43.6999,10.39727,118
+45738,Hotel San Ranieri,OBI Pisa,route_1774,43.69998,10.39716,119
+45739,Hotel San Ranieri,OBI Pisa,route_1774,43.70003,10.3971,120
+45740,Hotel San Ranieri,OBI Pisa,route_1774,43.70009,10.39713,121
+45741,Hotel San Ranieri,OBI Pisa,route_1774,43.70014,10.39713,122
+45742,Hotel San Ranieri,OBI Pisa,route_1774,43.70018,10.39714,123
+45743,Hotel San Ranieri,OBI Pisa,route_1774,43.70025,10.3972,124
+45744,Hotel San Ranieri,OBI Pisa,route_1774,43.70032,10.3973,125
+45745,Hotel San Ranieri,OBI Pisa,route_1774,43.7004,10.39742,126
+45746,Hotel San Ranieri,OBI Pisa,route_1774,43.70048,10.39756,127
+45747,Hotel San Ranieri,OBI Pisa,route_1774,43.70052,10.39767,128
+45748,Hotel San Ranieri,OBI Pisa,route_1774,43.70055,10.39782,129
+45749,Hotel San Ranieri,OBI Pisa,route_1774,43.70057,10.39795,130
+45750,Hotel San Ranieri,OBI Pisa,route_1774,43.70058,10.39808,131
+45751,Hotel San Ranieri,OBI Pisa,route_1774,43.70055,10.39822,132
+45752,Hotel San Ranieri,OBI Pisa,route_1774,43.70052,10.3983,133
+45753,Hotel San Ranieri,OBI Pisa,route_1774,43.70047,10.39837,134
+45754,Hotel San Ranieri,OBI Pisa,route_1774,43.70042,10.39841,135
+45755,Hotel San Ranieri,OBI Pisa,route_1774,43.70038,10.39842,136
+45756,Hotel San Ranieri,OBI Pisa,route_1774,43.70033,10.39842,137
+45757,Hotel San Ranieri,OBI Pisa,route_1774,43.70026,10.3984,138
+45758,Hotel San Ranieri,OBI Pisa,route_1774,43.70023,10.39837,139
+45759,Hotel San Ranieri,OBI Pisa,route_1774,43.70019,10.39831,140
+45760,Hotel San Ranieri,OBI Pisa,route_1774,43.70014,10.39817,141
+45761,Hotel San Ranieri,OBI Pisa,route_1774,43.70014,10.39808,142
+45762,Hotel San Ranieri,OBI Pisa,route_1774,43.70016,10.3977,143
+45763,Hotel San Ranieri,OBI Pisa,route_1774,43.70013,10.39718,144
+45764,Hotel San Ranieri,OBI Pisa,route_1774,43.70016,10.39669,145
+45765,Hotel San Ranieri,OBI Pisa,route_1774,43.70016,10.39634,146
+45766,Hotel San Ranieri,OBI Pisa,route_1774,43.70014,10.39574,147
+45767,Hotel San Ranieri,OBI Pisa,route_1774,43.70011,10.39535,148
+45768,Hotel San Ranieri,OBI Pisa,route_1774,43.70005,10.39477,149
+45769,Hotel San Ranieri,OBI Pisa,route_1774,43.69972,10.39251,150
+45770,Hotel San Ranieri,OBI Pisa,route_1774,43.69964,10.39173,151
+45771,Hotel San Ranieri,OBI Pisa,route_1774,43.69962,10.39127,152
+45772,Hotel San Ranieri,OBI Pisa,route_1774,43.69963,10.39086,153
+45773,Hotel San Ranieri,OBI Pisa,route_1774,43.69966,10.3904,154
+45774,Hotel San Ranieri,OBI Pisa,route_1774,43.69981,10.38975,155
+45775,Hotel San Ranieri,OBI Pisa,route_1774,43.69988,10.38958,156
+45776,Hotel San Ranieri,OBI Pisa,route_1774,43.69994,10.38947,157
+45777,Hotel San Ranieri,OBI Pisa,route_1774,43.70001,10.38938,158
+45778,Hotel San Ranieri,OBI Pisa,route_1774,43.70014,10.38924,159
+45779,Hotel San Ranieri,OBI Pisa,route_1774,43.70025,10.38915,160
+45780,Hotel San Ranieri,OBI Pisa,route_1774,43.70058,10.38895,161
+45781,Hotel San Ranieri,OBI Pisa,route_1774,43.70094,10.38877,162
+45782,Hotel San Ranieri,OBI Pisa,route_1774,43.70137,10.38851,163
+45783,Hotel San Ranieri,OBI Pisa,route_1774,43.70158,10.38833,164
+45784,Hotel San Ranieri,OBI Pisa,route_1774,43.70163,10.38828,165
+45785,Hotel San Ranieri,OBI Pisa,route_1774,43.70172,10.38815,166
+45786,Hotel San Ranieri,OBI Pisa,route_1774,43.70195,10.38796,167
+45787,Hotel San Ranieri,OBI Pisa,route_1774,43.70218,10.38777,168
+45788,Hotel San Ranieri,OBI Pisa,route_1774,43.70243,10.38759,169
+45789,Hotel San Ranieri,OBI Pisa,route_1774,43.70275,10.38734,170
+45790,Hotel San Ranieri,OBI Pisa,route_1774,43.70284,10.38726,171
+45791,Hotel San Ranieri,OBI Pisa,route_1774,43.70302,10.38699,172
+45792,Hotel San Ranieri,OBI Pisa,route_1774,43.70308,10.38696,173
+45793,Hotel San Ranieri,OBI Pisa,route_1774,43.70312,10.3869,174
+45794,Hotel San Ranieri,OBI Pisa,route_1774,43.70313,10.38686,175
+45795,Hotel San Ranieri,OBI Pisa,route_1774,43.70313,10.38678,176
+45796,Hotel San Ranieri,OBI Pisa,route_1774,43.7031,10.3867,177
+45797,Hotel San Ranieri,OBI Pisa,route_1774,43.70306,10.38666,178
+45798,Hotel San Ranieri,OBI Pisa,route_1774,43.70293,10.38661,179
+45799,Hotel San Ranieri,OBI Pisa,route_1774,43.70273,10.38649,180
+45800,Hotel San Ranieri,OBI Pisa,route_1774,43.70261,10.38638,181
+45801,Hotel San Ranieri,OBI Pisa,route_1774,43.70233,10.38598,182
+45802,Hotel San Ranieri,OBI Pisa,route_1774,43.70201,10.38547,183
+45803,Hotel San Ranieri,OBI Pisa,route_1774,43.70116,10.3842,184
+45804,Hotel San Ranieri,OBI Pisa,route_1774,43.70076,10.38359,185
+45805,Hotel San Ranieri,OBI Pisa,route_1774,43.70069,10.38352,186
+45806,Hotel San Ranieri,OBI Pisa,route_1774,43.70073,10.38348,187
+45807,Hotel San Ranieri,OBI Pisa,route_1774,43.70073,10.38346,188
+45808,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71451,10.4208,0
+45809,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71454,10.42051,1
+45810,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.7144,10.42048,2
+45811,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.7143,10.42121,3
+45812,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71476,10.42132,4
+45813,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71485,10.4205,5
+45814,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71505,10.42054,6
+45815,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71498,10.42148,7
+45816,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71196,10.42076,8
+45817,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71128,10.42061,9
+45818,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71109,10.42055,10
+45819,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71108,10.42055,11
+45820,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71102,10.42034,12
+45821,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71095,10.41991,13
+45822,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71091,10.41974,14
+45823,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71068,10.41746,15
+45824,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71037,10.41529,16
+45825,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70997,10.41245,17
+45826,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70992,10.41199,18
+45827,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70991,10.41172,19
+45828,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.7099,10.41147,20
+45829,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70993,10.41076,21
+45830,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70994,10.41066,22
+45831,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70995,10.41058,23
+45832,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71002,10.41043,24
+45833,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71006,10.4104,25
+45834,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71008,10.41036,26
+45835,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.7101,10.41032,27
+45836,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71011,10.41027,28
+45837,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71011,10.41022,29
+45838,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.7101,10.41017,30
+45839,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71009,10.41013,31
+45840,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71006,10.41009,32
+45841,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71002,10.41005,33
+45842,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70998,10.40978,34
+45843,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71007,10.40776,35
+45844,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71014,10.40774,36
+45845,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71018,10.40769,37
+45846,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71019,10.40765,38
+45847,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.7102,10.4076,39
+45848,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71019,10.40752,40
+45849,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71017,10.40749,41
+45850,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71014,10.40745,42
+45851,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.7101,10.40743,43
+45852,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71008,10.40743,44
+45853,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71015,10.4061,45
+45854,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71019,10.4058,46
+45855,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71021,10.40573,47
+45856,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71027,10.40559,48
+45857,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.7104,10.4055,49
+45858,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71043,10.40545,50
+45859,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71044,10.40536,51
+45860,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71044,10.4053,52
+45861,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71041,10.40524,53
+45862,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71035,10.4052,54
+45863,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.7103,10.4052,55
+45864,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71019,10.40527,56
+45865,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.7101,10.40527,57
+45866,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.71006,10.40525,58
+45867,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70988,10.40513,59
+45868,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70974,10.40502,60
+45869,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70967,10.40492,61
+45870,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70965,10.40486,62
+45871,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70975,10.40422,63
+45872,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70988,10.40324,64
+45873,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70958,10.40294,65
+45874,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70931,10.40264,66
+45875,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70908,10.40242,67
+45876,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.7087,10.40213,68
+45877,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70831,10.40184,69
+45878,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70795,10.40155,70
+45879,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70789,10.40152,71
+45880,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70786,10.40151,72
+45881,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.7078,10.40151,73
+45882,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70777,10.40153,74
+45883,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70771,10.40159,75
+45884,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70765,10.40172,76
+45885,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70712,10.40318,77
+45886,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70614,10.40251,78
+45887,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70553,10.40214,79
+45888,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70547,10.40207,80
+45889,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70535,10.40184,81
+45890,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.7053,10.40178,82
+45891,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70524,10.40171,83
+45892,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70471,10.40133,84
+45893,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70455,10.40124,85
+45894,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70276,10.40076,86
+45895,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70252,10.40069,87
+45896,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70247,10.40067,88
+45897,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70244,10.40064,89
+45898,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70245,10.40061,90
+45899,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70245,10.40056,91
+45900,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70244,10.40052,92
+45901,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.7024,10.40047,93
+45902,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70243,10.40034,94
+45903,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.7025,10.39945,95
+45904,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.7025,10.39922,96
+45905,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70247,10.399,97
+45906,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70244,10.39887,98
+45907,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70238,10.39866,99
+45908,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70231,10.39852,100
+45909,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70222,10.39838,101
+45910,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70211,10.39825,102
+45911,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70199,10.39815,103
+45912,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70098,10.39752,104
+45913,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.7008,10.3974,105
+45914,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70065,10.39723,106
+45915,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70058,10.39707,107
+45916,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70053,10.39683,108
+45917,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70053,10.39669,109
+45918,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70055,10.39644,110
+45919,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70065,10.39604,111
+45920,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70076,10.39611,112
+45921,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70138,10.39664,113
+45922,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70178,10.39694,114
+45923,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70257,10.39752,115
+45924,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70293,10.39775,116
+45925,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70326,10.398,117
+45926,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70344,10.39813,118
+45927,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70363,10.39827,119
+45928,Hotel San Ranieri,Ristorante La Greppia,route_1775,43.70434,10.39885,120
+45929,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71451,10.4208,0
+45930,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71454,10.42051,1
+45931,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.7144,10.42048,2
+45932,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.7143,10.42121,3
+45933,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71476,10.42132,4
+45934,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71485,10.4205,5
+45935,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71505,10.42054,6
+45936,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71498,10.42148,7
+45937,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71196,10.42076,8
+45938,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71128,10.42061,9
+45939,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71109,10.42055,10
+45940,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71108,10.42055,11
+45941,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71102,10.42034,12
+45942,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71095,10.41991,13
+45943,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71091,10.41974,14
+45944,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71068,10.41746,15
+45945,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71037,10.41529,16
+45946,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70997,10.41245,17
+45947,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70992,10.41199,18
+45948,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70991,10.41172,19
+45949,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.7099,10.41147,20
+45950,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70993,10.41076,21
+45951,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70994,10.41066,22
+45952,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70995,10.41058,23
+45953,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71002,10.41043,24
+45954,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71006,10.4104,25
+45955,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71008,10.41036,26
+45956,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.7101,10.41032,27
+45957,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71011,10.41027,28
+45958,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71011,10.41022,29
+45959,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.7101,10.41017,30
+45960,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71009,10.41013,31
+45961,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71006,10.41009,32
+45962,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71002,10.41005,33
+45963,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70998,10.40978,34
+45964,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71007,10.40776,35
+45965,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71014,10.40774,36
+45966,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71018,10.40769,37
+45967,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71019,10.40765,38
+45968,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.7102,10.4076,39
+45969,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71019,10.40752,40
+45970,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71017,10.40749,41
+45971,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71014,10.40745,42
+45972,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.7101,10.40743,43
+45973,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71008,10.40743,44
+45974,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71015,10.4061,45
+45975,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71019,10.4058,46
+45976,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71021,10.40573,47
+45977,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71027,10.40559,48
+45978,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.7104,10.4055,49
+45979,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71043,10.40545,50
+45980,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71044,10.40536,51
+45981,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71044,10.4053,52
+45982,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71041,10.40524,53
+45983,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71035,10.4052,54
+45984,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.7103,10.4052,55
+45985,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71019,10.40527,56
+45986,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.7101,10.40527,57
+45987,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.71006,10.40525,58
+45988,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70988,10.40513,59
+45989,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70974,10.40502,60
+45990,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70967,10.40492,61
+45991,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70965,10.40486,62
+45992,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70975,10.40422,63
+45993,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70988,10.40324,64
+45994,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70958,10.40294,65
+45995,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70931,10.40264,66
+45996,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70908,10.40242,67
+45997,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.7087,10.40213,68
+45998,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70831,10.40184,69
+45999,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70795,10.40155,70
+46000,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70789,10.40152,71
+46001,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70786,10.40151,72
+46002,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.7078,10.40151,73
+46003,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70777,10.40153,74
+46004,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70771,10.40159,75
+46005,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70765,10.40172,76
+46006,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70712,10.40318,77
+46007,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70614,10.40251,78
+46008,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70553,10.40214,79
+46009,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70547,10.40207,80
+46010,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70535,10.40184,81
+46011,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.7053,10.40178,82
+46012,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70524,10.40171,83
+46013,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70471,10.40133,84
+46014,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70449,10.4017,85
+46015,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70372,10.40311,86
+46016,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70318,10.40409,87
+46017,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70341,10.40424,88
+46018,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.7038,10.40446,89
+46019,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70398,10.40457,90
+46020,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70413,10.40468,91
+46021,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70417,10.40473,92
+46022,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70429,10.40492,93
+46023,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70432,10.40493,94
+46024,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70436,10.40492,95
+46025,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70448,10.40465,96
+46026,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70541,10.40223,97
+46027,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.7056,10.4024,98
+46028,Hotel San Ranieri,Ristorante Pizzeria Il Pellicano,route_1776,43.70546,10.40277,99
+46029,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71451,10.4208,0
+46030,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71454,10.42051,1
+46031,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.7144,10.42048,2
+46032,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.7143,10.42121,3
+46033,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71476,10.42132,4
+46034,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71485,10.4205,5
+46035,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71505,10.42054,6
+46036,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71497,10.42159,7
+46037,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71609,10.42188,8
+46038,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71632,10.4219,9
+46039,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71651,10.42189,10
+46040,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71665,10.42186,11
+46041,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71677,10.42181,12
+46042,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71695,10.42173,13
+46043,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71711,10.42161,14
+46044,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71725,10.42149,15
+46045,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71836,10.42028,16
+46046,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71845,10.42022,17
+46047,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71854,10.42019,18
+46048,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71879,10.42017,19
+46049,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71892,10.42014,20
+46050,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71905,10.4201,21
+46051,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.7191,10.42007,22
+46052,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71913,10.42003,23
+46053,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71915,10.41996,24
+46054,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71917,10.41984,25
+46055,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71917,10.41971,26
+46056,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71916,10.41963,27
+46057,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71914,10.41951,28
+46058,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71912,10.41946,29
+46059,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71908,10.4194,30
+46060,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71901,10.41929,31
+46061,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71892,10.41922,32
+46062,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.7189,10.41921,33
+46063,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71889,10.41917,34
+46064,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71888,10.41913,35
+46065,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71869,10.41895,36
+46066,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71858,10.4188,37
+46067,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71841,10.41855,38
+46068,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71769,10.41735,39
+46069,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71675,10.41587,40
+46070,Hotel San Ranieri,Via San Ranieri 9,route_1777,43.71563,10.41723,41

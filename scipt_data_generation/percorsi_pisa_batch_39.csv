@@ -1,0 +1,792 @@
+id,start,end,route_id,lat,lon,idx
+27882,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70578,10.40849,0
+27883,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70568,10.40859,1
+27884,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70581,10.40886,2
+27885,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70479,10.40983,3
+27886,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.7044,10.41019,4
+27887,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70435,10.41024,5
+27888,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70429,10.41036,6
+27889,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70421,10.41057,7
+27890,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70417,10.4107,8
+27891,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70412,10.4109,9
+27892,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70409,10.41094,10
+27893,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70407,10.41101,11
+27894,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70407,10.41105,12
+27895,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70408,10.41109,13
+27896,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.7041,10.41113,14
+27897,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70423,10.41121,15
+27898,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70424,10.41125,16
+27899,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70447,10.41253,17
+27900,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70449,10.4126,18
+27901,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70449,10.41268,19
+27902,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70451,10.41274,20
+27903,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70453,10.41276,21
+27904,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70458,10.41277,22
+27905,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70461,10.41276,23
+27906,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70464,10.41271,24
+27907,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70469,10.4125,25
+27908,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70479,10.41176,26
+27909,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70482,10.41163,27
+27910,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.7049,10.41133,28
+27911,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70496,10.41122,29
+27912,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70502,10.41112,30
+27913,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.7051,10.41103,31
+27914,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70534,10.41085,32
+27915,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.7054,10.41079,33
+27916,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70551,10.41062,34
+27917,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70566,10.4103,35
+27918,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70632,10.40853,36
+27919,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70644,10.40829,37
+27920,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70663,10.40808,38
+27921,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.7067,10.40803,39
+27922,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70842,10.40681,40
+27923,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70922,10.40625,41
+27924,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70944,10.40613,42
+27925,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.7097,10.40593,43
+27926,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70981,10.40586,44
+27927,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70996,10.40588,45
+27928,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71001,10.4059,46
+27929,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71007,10.40596,47
+27930,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71009,10.40599,48
+27931,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71015,10.4061,49
+27932,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71008,10.40743,50
+27933,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71004,10.40744,51
+27934,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71001,10.40747,52
+27935,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70998,10.40751,53
+27936,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70997,10.40755,54
+27937,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70997,10.40763,55
+27938,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.70998,10.40769,56
+27939,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71003,10.40774,57
+27940,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71007,10.40776,58
+27941,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71014,10.40774,59
+27942,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71018,10.40769,60
+27943,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71027,10.40767,61
+27944,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71063,10.40769,62
+27945,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71112,10.40773,63
+27946,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71118,10.40776,64
+27947,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71127,10.40782,65
+27948,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71131,10.40786,66
+27949,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71138,10.40789,67
+27950,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71204,10.40793,68
+27951,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71261,10.40789,69
+27952,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71299,10.40783,70
+27953,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71305,10.40781,71
+27954,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71307,10.40778,72
+27955,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.7139,10.40851,73
+27956,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.7141,10.40867,74
+27957,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71421,10.40873,75
+27958,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.7147,10.40895,76
+27959,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71478,10.40897,77
+27960,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71514,10.40902,78
+27961,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71597,10.40908,79
+27962,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71617,10.40905,80
+27963,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71637,10.40896,81
+27964,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.7167,10.40875,82
+27965,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.7168,10.40872,83
+27966,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71686,10.40874,84
+27967,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71695,10.40879,85
+27968,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71862,10.41041,86
+27969,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71872,10.41046,87
+27970,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71879,10.41046,88
+27971,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71885,10.4111,89
+27972,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71926,10.41634,90
+27973,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71935,10.41737,91
+27974,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.7194,10.41822,92
+27975,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.7194,10.41833,93
+27976,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71936,10.41865,94
+27977,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71933,10.41881,95
+27978,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71929,10.41893,96
+27979,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71924,10.41903,97
+27980,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71916,10.41911,98
+27981,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71892,10.41922,99
+27982,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.7189,10.41921,100
+27983,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71889,10.41917,101
+27984,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71888,10.41913,102
+27985,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71869,10.41895,103
+27986,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71858,10.4188,104
+27987,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71841,10.41855,105
+27988,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71769,10.41735,106
+27989,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71675,10.41587,107
+27990,Ristorante Il Mio Capriccio,Via San Ranieri 9,route_1140,43.71563,10.41723,108
+27991,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70578,10.40849,0
+27992,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70568,10.40859,1
+27993,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70581,10.40886,2
+27994,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70479,10.40983,3
+27995,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.7044,10.41019,4
+27996,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70435,10.41024,5
+27997,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70429,10.41036,6
+27998,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70421,10.41057,7
+27999,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70417,10.4107,8
+28000,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70412,10.4109,9
+28001,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70409,10.41094,10
+28002,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70407,10.41101,11
+28003,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70396,10.41122,12
+28004,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70386,10.4114,13
+28005,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70376,10.41157,14
+28006,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70362,10.41176,15
+28007,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70356,10.41182,16
+28008,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70334,10.41196,17
+28009,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70313,10.41207,18
+28010,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70296,10.41212,19
+28011,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70287,10.41213,20
+28012,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70268,10.41213,21
+28013,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70205,10.41205,22
+28014,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70153,10.41197,23
+28015,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70139,10.41197,24
+28016,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70125,10.412,25
+28017,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70104,10.41205,26
+28018,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70095,10.41205,27
+28019,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70089,10.41203,28
+28020,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70084,10.41194,29
+28021,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70083,10.41181,30
+28022,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70083,10.4116,31
+28023,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70083,10.41144,32
+28024,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70061,10.40857,33
+28025,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70056,10.40803,34
+28026,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70057,10.408,35
+28027,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70058,10.40794,36
+28028,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70057,10.40791,37
+28029,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70054,10.40788,38
+28030,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70059,10.40779,39
+28031,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70067,10.4077,40
+28032,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70163,10.40683,41
+28033,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70177,10.40669,42
+28034,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70184,10.40659,43
+28035,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70216,10.40598,44
+28036,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70277,10.40482,45
+28037,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70318,10.40409,46
+28038,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70341,10.40424,47
+28039,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.7038,10.40446,48
+28040,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70398,10.40457,49
+28041,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70413,10.40468,50
+28042,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70417,10.40473,51
+28043,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70429,10.40492,52
+28044,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70432,10.40493,53
+28045,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70436,10.40492,54
+28046,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70448,10.40465,55
+28047,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70514,10.40292,56
+28048,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70546,10.40211,57
+28049,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70547,10.40207,58
+28050,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70544,10.40191,59
+28051,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70537,10.40167,60
+28052,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70504,10.40081,61
+28053,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.705,10.40076,62
+28054,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70504,10.40057,63
+28055,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70524,10.3999,64
+28056,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70534,10.3996,65
+28057,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70563,10.39979,66
+28058,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70582,10.39989,67
+28059,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70585,10.3997,68
+28060,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70588,10.39936,69
+28061,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70593,10.39894,70
+28062,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70603,10.39837,71
+28063,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70608,10.39812,72
+28064,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70613,10.39793,73
+28065,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70622,10.39768,74
+28066,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70625,10.39761,75
+28067,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70641,10.39743,76
+28068,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70661,10.39725,77
+28069,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70682,10.39704,78
+28070,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70686,10.39696,79
+28071,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70696,10.39666,80
+28072,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.707,10.39643,81
+28073,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70702,10.39603,82
+28074,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70706,10.39571,83
+28075,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70717,10.39505,84
+28076,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70719,10.39483,85
+28077,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.7072,10.39425,86
+28078,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70719,10.39277,87
+28079,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70597,10.39285,88
+28080,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70594,10.39284,89
+28081,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70592,10.3928,90
+28082,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70591,10.39274,91
+28083,Ristorante Il Mio Capriccio,Supermercato Coop San Giusto,route_1141,43.70591,10.3922,92
+28084,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70578,10.40849,0
+28085,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70568,10.40859,1
+28086,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70581,10.40886,2
+28087,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70479,10.40983,3
+28088,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.7044,10.41019,4
+28089,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70435,10.41024,5
+28090,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70429,10.41036,6
+28091,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70421,10.41057,7
+28092,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70417,10.4107,8
+28093,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70412,10.4109,9
+28094,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70409,10.41094,10
+28095,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70407,10.41101,11
+28096,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70407,10.41105,12
+28097,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70408,10.41109,13
+28098,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.7041,10.41113,14
+28099,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70423,10.41121,15
+28100,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70424,10.41125,16
+28101,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70447,10.41253,17
+28102,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70449,10.4126,18
+28103,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70449,10.41268,19
+28104,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70451,10.41274,20
+28105,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70453,10.41276,21
+28106,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70458,10.41277,22
+28107,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70461,10.41276,23
+28108,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70464,10.41271,24
+28109,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70469,10.4125,25
+28110,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70479,10.41176,26
+28111,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70482,10.41163,27
+28112,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.7049,10.41133,28
+28113,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70496,10.41122,29
+28114,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70502,10.41112,30
+28115,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.7051,10.41103,31
+28116,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70534,10.41085,32
+28117,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.7054,10.41079,33
+28118,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70551,10.41062,34
+28119,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70566,10.4103,35
+28120,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70632,10.40853,36
+28121,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70644,10.40829,37
+28122,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70663,10.40808,38
+28123,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.7067,10.40803,39
+28124,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70842,10.40681,40
+28125,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70922,10.40625,41
+28126,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70944,10.40613,42
+28127,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.7097,10.40593,43
+28128,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.70981,10.40586,44
+28129,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.71027,10.40559,45
+28130,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.7104,10.4055,46
+28131,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.71043,10.40545,47
+28132,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.71044,10.40536,48
+28133,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.71044,10.4053,49
+28134,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.71044,10.40507,50
+28135,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.71053,10.40511,51
+28136,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.71123,10.40543,52
+28137,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.71133,10.40545,53
+28138,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.71143,10.40549,54
+28139,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.71169,10.4056,55
+28140,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.71176,10.40569,56
+28141,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.71192,10.40577,57
+28142,Ristorante Il Mio Capriccio,Via Montanelli 66,route_1142,43.71316,10.40636,58
+28143,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70578,10.40849,0
+28144,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70568,10.40859,1
+28145,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70581,10.40886,2
+28146,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70479,10.40983,3
+28147,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.7044,10.41019,4
+28148,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70435,10.41024,5
+28149,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70429,10.41036,6
+28150,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70421,10.41057,7
+28151,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70417,10.4107,8
+28152,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70412,10.4109,9
+28153,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70409,10.41094,10
+28154,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70407,10.41101,11
+28155,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70407,10.41105,12
+28156,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70408,10.41109,13
+28157,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.7041,10.41113,14
+28158,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70423,10.41121,15
+28159,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70424,10.41125,16
+28160,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70447,10.41253,17
+28161,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70449,10.4126,18
+28162,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70449,10.41268,19
+28163,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70451,10.41274,20
+28164,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70453,10.41276,21
+28165,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70458,10.41277,22
+28166,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70461,10.41276,23
+28167,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70464,10.41271,24
+28168,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70469,10.4125,25
+28169,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70479,10.41176,26
+28170,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70482,10.41163,27
+28171,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.7049,10.41133,28
+28172,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70496,10.41122,29
+28173,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70502,10.41112,30
+28174,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.7051,10.41103,31
+28175,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70534,10.41085,32
+28176,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.7054,10.41079,33
+28177,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70551,10.41062,34
+28178,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70566,10.4103,35
+28179,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70632,10.40853,36
+28180,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70644,10.40829,37
+28181,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70663,10.40808,38
+28182,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.7067,10.40803,39
+28183,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70842,10.40681,40
+28184,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70922,10.40625,41
+28185,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70944,10.40613,42
+28186,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.7097,10.40593,43
+28187,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70981,10.40586,44
+28188,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70996,10.40588,45
+28189,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.71001,10.4059,46
+28190,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.71007,10.40596,47
+28191,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.71009,10.40599,48
+28192,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.71015,10.4061,49
+28193,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.71008,10.40743,50
+28194,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.71004,10.40744,51
+28195,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.71001,10.40747,52
+28196,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70998,10.40751,53
+28197,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70997,10.40755,54
+28198,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70997,10.40763,55
+28199,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70998,10.40769,56
+28200,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.71003,10.40774,57
+28201,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.71007,10.40776,58
+28202,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70998,10.40978,59
+28203,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70992,10.41005,60
+28204,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70987,10.41009,61
+28205,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70983,10.41016,62
+28206,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70982,10.41022,63
+28207,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70983,10.4103,64
+28208,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70985,10.41035,65
+28209,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70988,10.4104,66
+28210,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70993,10.41076,67
+28211,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.7099,10.41147,68
+28212,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70991,10.41172,69
+28213,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70992,10.41199,70
+28214,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70997,10.41245,71
+28215,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.71037,10.41529,72
+28216,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.71068,10.41746,73
+28217,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.71085,10.41915,74
+28218,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.71078,10.41912,75
+28219,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.71051,10.41919,76
+28220,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.71025,10.41928,77
+28221,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70985,10.41949,78
+28222,Ristorante Il Mio Capriccio,Ristorante Tuscany 2,route_1143,43.70994,10.42005,79
+28223,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70578,10.40849,0
+28224,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70568,10.40859,1
+28225,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70581,10.40886,2
+28226,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70479,10.40983,3
+28227,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.7044,10.41019,4
+28228,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70435,10.41024,5
+28229,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70429,10.41036,6
+28230,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70421,10.41057,7
+28231,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70417,10.4107,8
+28232,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70412,10.4109,9
+28233,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70409,10.41094,10
+28234,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70407,10.41101,11
+28235,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70407,10.41105,12
+28236,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70408,10.41109,13
+28237,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.7041,10.41113,14
+28238,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70423,10.41121,15
+28239,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70424,10.41125,16
+28240,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70447,10.41253,17
+28241,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70449,10.4126,18
+28242,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70449,10.41268,19
+28243,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70451,10.41274,20
+28244,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70453,10.41276,21
+28245,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70458,10.41277,22
+28246,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70461,10.41276,23
+28247,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70464,10.41271,24
+28248,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70469,10.4125,25
+28249,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70479,10.41176,26
+28250,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70482,10.41163,27
+28251,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.7049,10.41133,28
+28252,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70496,10.41122,29
+28253,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70502,10.41112,30
+28254,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.7051,10.41103,31
+28255,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70534,10.41085,32
+28256,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.7054,10.41079,33
+28257,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70551,10.41062,34
+28258,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70566,10.4103,35
+28259,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70632,10.40853,36
+28260,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70644,10.40829,37
+28261,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70663,10.40808,38
+28262,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.7067,10.40803,39
+28263,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70842,10.40681,40
+28264,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70922,10.40625,41
+28265,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70944,10.40613,42
+28266,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.7097,10.40593,43
+28267,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70981,10.40586,44
+28268,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70996,10.40588,45
+28269,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.71001,10.4059,46
+28270,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.71007,10.40596,47
+28271,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.71009,10.40599,48
+28272,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.71015,10.4061,49
+28273,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.71008,10.40743,50
+28274,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.71004,10.40744,51
+28275,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.71001,10.40747,52
+28276,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70998,10.40751,53
+28277,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70997,10.40755,54
+28278,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70997,10.40763,55
+28279,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70998,10.40769,56
+28280,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.71003,10.40774,57
+28281,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.71007,10.40776,58
+28282,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70998,10.40978,59
+28283,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70992,10.41005,60
+28284,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70987,10.41009,61
+28285,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70983,10.41016,62
+28286,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70982,10.41022,63
+28287,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70983,10.4103,64
+28288,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70985,10.41035,65
+28289,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70988,10.4104,66
+28290,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70993,10.41076,67
+28291,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.7099,10.41147,68
+28292,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70991,10.41172,69
+28293,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70992,10.41199,70
+28294,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.7098,10.41201,71
+28295,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70964,10.41211,72
+28296,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70956,10.41218,73
+28297,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70912,10.41268,74
+28298,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70819,10.41357,75
+28299,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70812,10.41342,76
+28300,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70784,10.41271,77
+28301,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70752,10.41198,78
+28302,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70725,10.41239,79
+28303,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70714,10.4126,80
+28304,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.707,10.41288,81
+28305,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70682,10.41331,82
+28306,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70655,10.4141,83
+28307,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70644,10.41447,84
+28308,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70636,10.41485,85
+28309,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.7063,10.41518,86
+28310,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70662,10.41532,87
+28311,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70665,10.41537,88
+28312,Ristorante Il Mio Capriccio,Euronics Pisa Cisanello,route_1144,43.70685,10.41483,89
+28313,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70578,10.40849,0
+28314,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70568,10.40859,1
+28315,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70581,10.40886,2
+28316,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70479,10.40983,3
+28317,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.7044,10.41019,4
+28318,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70435,10.41024,5
+28319,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70429,10.41036,6
+28320,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70421,10.41057,7
+28321,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70417,10.4107,8
+28322,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70412,10.4109,9
+28323,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70409,10.41094,10
+28324,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70407,10.41101,11
+28325,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70407,10.41105,12
+28326,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70408,10.41109,13
+28327,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.7041,10.41113,14
+28328,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70423,10.41121,15
+28329,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70424,10.41125,16
+28330,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70447,10.41253,17
+28331,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70449,10.4126,18
+28332,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70449,10.41268,19
+28333,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70451,10.41274,20
+28334,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70453,10.41276,21
+28335,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70458,10.41277,22
+28336,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70461,10.41276,23
+28337,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70464,10.41271,24
+28338,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70469,10.4125,25
+28339,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70479,10.41176,26
+28340,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70482,10.41163,27
+28341,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.7049,10.41133,28
+28342,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70496,10.41122,29
+28343,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70502,10.41112,30
+28344,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.7051,10.41103,31
+28345,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70534,10.41085,32
+28346,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.7054,10.41079,33
+28347,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70551,10.41062,34
+28348,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70566,10.4103,35
+28349,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70632,10.40853,36
+28350,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70644,10.40829,37
+28351,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70663,10.40808,38
+28352,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.7067,10.40803,39
+28353,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70842,10.40681,40
+28354,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70922,10.40625,41
+28355,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70944,10.40613,42
+28356,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.7097,10.40593,43
+28357,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70981,10.40586,44
+28358,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70996,10.40588,45
+28359,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71001,10.4059,46
+28360,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71007,10.40596,47
+28361,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71009,10.40599,48
+28362,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71015,10.4061,49
+28363,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71008,10.40743,50
+28364,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71004,10.40744,51
+28365,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71001,10.40747,52
+28366,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70998,10.40751,53
+28367,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70997,10.40755,54
+28368,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70997,10.40763,55
+28369,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70998,10.40769,56
+28370,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71003,10.40774,57
+28371,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71007,10.40776,58
+28372,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70998,10.40978,59
+28373,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70992,10.41005,60
+28374,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70987,10.41009,61
+28375,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70983,10.41016,62
+28376,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70982,10.41022,63
+28377,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70983,10.4103,64
+28378,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70985,10.41035,65
+28379,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70988,10.4104,66
+28380,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70993,10.41076,67
+28381,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.7099,10.41147,68
+28382,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70991,10.41172,69
+28383,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70992,10.41199,70
+28384,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.70997,10.41245,71
+28385,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71037,10.41529,72
+28386,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71068,10.41746,73
+28387,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71091,10.41974,74
+28388,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.7109,10.4199,75
+28389,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71092,10.4202,76
+28390,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71094,10.42031,77
+28391,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71098,10.42043,78
+28392,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71101,10.42058,79
+28393,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.711,10.42062,80
+28394,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71101,10.42067,81
+28395,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71103,10.4207,82
+28396,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71105,10.42071,83
+28397,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71109,10.4207,84
+28398,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71111,10.42068,85
+28399,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71223,10.42094,86
+28400,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71242,10.4202,87
+28401,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71277,10.42033,88
+28402,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71319,10.42041,89
+28403,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71322,10.42041,90
+28404,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71328,10.42038,91
+28405,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.7133,10.42035,92
+28406,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71332,10.42025,93
+28407,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71343,10.42016,94
+28408,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71439,10.42038,95
+28409,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71422,10.4206,96
+28410,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71414,10.42117,97
+28411,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71446,10.42125,98
+28412,Ristorante Il Mio Capriccio,Hotel San Ranieri,route_1145,43.71451,10.4208,99
+28413,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70578,10.40849,0
+28414,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70568,10.40859,1
+28415,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70581,10.40886,2
+28416,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70479,10.40983,3
+28417,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.7044,10.41019,4
+28418,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70435,10.41024,5
+28419,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70429,10.41036,6
+28420,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70421,10.41057,7
+28421,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70417,10.4107,8
+28422,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70412,10.4109,9
+28423,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70409,10.41094,10
+28424,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70407,10.41101,11
+28425,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70407,10.41105,12
+28426,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70408,10.41109,13
+28427,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.7041,10.41113,14
+28428,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70423,10.41121,15
+28429,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70424,10.41125,16
+28430,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70447,10.41253,17
+28431,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70449,10.4126,18
+28432,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70449,10.41268,19
+28433,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70451,10.41274,20
+28434,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70453,10.41276,21
+28435,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70458,10.41277,22
+28436,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70461,10.41276,23
+28437,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70464,10.41271,24
+28438,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70469,10.4125,25
+28439,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70479,10.41176,26
+28440,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70482,10.41163,27
+28441,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.7049,10.41133,28
+28442,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70496,10.41122,29
+28443,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70502,10.41112,30
+28444,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.7051,10.41103,31
+28445,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70534,10.41085,32
+28446,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.7054,10.41079,33
+28447,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70551,10.41062,34
+28448,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70566,10.4103,35
+28449,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70632,10.40853,36
+28450,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70644,10.40829,37
+28451,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70663,10.40808,38
+28452,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.7067,10.40803,39
+28453,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70842,10.40681,40
+28454,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70922,10.40625,41
+28455,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70944,10.40613,42
+28456,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.7097,10.40593,43
+28457,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70981,10.40586,44
+28458,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70996,10.40588,45
+28459,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.71001,10.4059,46
+28460,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.71007,10.40596,47
+28461,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.71009,10.40599,48
+28462,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.71015,10.4061,49
+28463,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.71008,10.40743,50
+28464,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.71004,10.40744,51
+28465,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.71001,10.40747,52
+28466,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70998,10.40751,53
+28467,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70997,10.40755,54
+28468,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70997,10.40763,55
+28469,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70998,10.40769,56
+28470,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.71003,10.40774,57
+28471,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.71007,10.40776,58
+28472,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70998,10.40978,59
+28473,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70992,10.41005,60
+28474,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70987,10.41009,61
+28475,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70983,10.41016,62
+28476,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70982,10.41022,63
+28477,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70983,10.4103,64
+28478,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70985,10.41035,65
+28479,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70988,10.4104,66
+28480,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70993,10.41076,67
+28481,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.7099,10.41147,68
+28482,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70991,10.41172,69
+28483,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70992,10.41199,70
+28484,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.70997,10.41245,71
+28485,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.71037,10.41529,72
+28486,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.71068,10.41746,73
+28487,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.71091,10.41974,74
+28488,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.7109,10.4199,75
+28489,Ristorante Il Mio Capriccio,Esselunga Cisanello,route_1146,43.71092,10.42019,76
+28490,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70578,10.40849,0
+28491,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70568,10.40859,1
+28492,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70581,10.40886,2
+28493,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70479,10.40983,3
+28494,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.7044,10.41019,4
+28495,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70435,10.41024,5
+28496,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70429,10.41036,6
+28497,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70421,10.41057,7
+28498,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70417,10.4107,8
+28499,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70412,10.4109,9
+28500,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70409,10.41094,10
+28501,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70407,10.41101,11
+28502,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70396,10.41122,12
+28503,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70386,10.4114,13
+28504,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70376,10.41157,14
+28505,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70362,10.41176,15
+28506,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70356,10.41182,16
+28507,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70334,10.41196,17
+28508,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70313,10.41207,18
+28509,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70296,10.41212,19
+28510,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70287,10.41213,20
+28511,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70268,10.41213,21
+28512,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70205,10.41205,22
+28513,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70153,10.41197,23
+28514,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70139,10.41197,24
+28515,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70125,10.412,25
+28516,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70104,10.41205,26
+28517,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70095,10.41205,27
+28518,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70089,10.41203,28
+28519,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70084,10.41194,29
+28520,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70083,10.41181,30
+28521,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70083,10.4116,31
+28522,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70083,10.41144,32
+28523,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70061,10.40857,33
+28524,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70056,10.40803,34
+28525,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70057,10.408,35
+28526,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70058,10.40794,36
+28527,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70057,10.40791,37
+28528,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70054,10.40788,38
+28529,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70059,10.40779,39
+28530,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70067,10.4077,40
+28531,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70163,10.40683,41
+28532,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70177,10.40669,42
+28533,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70184,10.40659,43
+28534,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70216,10.40598,44
+28535,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70277,10.40482,45
+28536,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70318,10.40409,46
+28537,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70272,10.40378,47
+28538,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.7024,10.40354,48
+28539,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70216,10.40331,49
+28540,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70199,10.40316,50
+28541,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70173,10.40297,51
+28542,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.7014,10.40275,52
+28543,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70132,10.40271,53
+28544,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70143,10.40236,54
+28545,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70146,10.40227,55
+28546,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70163,10.40196,56
+28547,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70212,10.40109,57
+28548,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70213,10.40106,58
+28549,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70217,10.40076,59
+28550,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70219,10.40072,60
+28551,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70221,10.40068,61
+28552,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70229,10.40066,62
+28553,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70231,10.40069,63
+28554,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70234,10.4007,64
+28555,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.7024,10.40069,65
+28556,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70244,10.40064,66
+28557,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70245,10.40061,67
+28558,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70245,10.40056,68
+28559,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70244,10.40052,69
+28560,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.7024,10.40047,70
+28561,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70237,10.40046,71
+28562,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70234,10.40046,72
+28563,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70231,10.40048,73
+28564,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70229,10.40051,74
+28565,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70228,10.40054,75
+28566,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70227,10.40058,76
+28567,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70215,10.40059,77
+28568,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.7018,10.40051,78
+28569,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70155,10.40042,79
+28570,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70036,10.3998,80
+28571,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70022,10.39969,81
+28572,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.70002,10.39958,82
+28573,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69981,10.39948,83
+28574,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69978,10.39945,84
+28575,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69975,10.39939,85
+28576,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69973,10.39932,86
+28577,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69971,10.39917,87
+28578,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69979,10.39842,88
+28579,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69985,10.39803,89
+28580,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69986,10.39795,90
+28581,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69986,10.39785,91
+28582,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69985,10.39773,92
+28583,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69981,10.39763,93
+28584,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69966,10.39739,94
+28585,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69957,10.39741,95
+28586,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69949,10.39741,96
+28587,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69919,10.39734,97
+28588,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69894,10.39734,98
+28589,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69887,10.39731,99
+28590,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69883,10.39727,100
+28591,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69882,10.39713,101
+28592,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69886,10.39679,102
+28593,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69889,10.39669,103
+28594,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69895,10.39647,104
+28595,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.699,10.39648,105
+28596,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69904,10.39645,106
+28597,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69906,10.39639,107
+28598,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69906,10.39632,108
+28599,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69904,10.39628,109
+28600,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.699,10.39624,110
+28601,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69893,10.39599,111
+28602,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69892,10.39586,112
+28603,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69891,10.39577,113
+28604,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69885,10.39576,114
+28605,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.6987,10.39581,115
+28606,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69858,10.3958,116
+28607,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69844,10.39577,117
+28608,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69809,10.39567,118
+28609,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69753,10.39547,119
+28610,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69642,10.39518,120
+28611,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.6963,10.39505,121
+28612,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.6963,10.39499,122
+28613,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69623,10.39469,123
+28614,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69629,10.39371,124
+28615,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69629,10.39337,125
+28616,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69627,10.39299,126
+28617,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69624,10.39256,127
+28618,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69613,10.39162,128
+28619,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69609,10.39107,129
+28620,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69608,10.38984,130
+28621,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69607,10.38605,131
+28622,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69607,10.38547,132
+28623,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69617,10.38453,133
+28624,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69623,10.38433,134
+28625,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.6963,10.38418,135
+28626,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69636,10.38413,136
+28627,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.6964,10.38405,137
+28628,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69642,10.38397,138
+28629,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69642,10.38392,139
+28630,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69641,10.38385,140
+28631,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69639,10.38378,141
+28632,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69636,10.38372,142
+28633,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69631,10.38368,143
+28634,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69624,10.38365,144
+28635,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69621,10.38365,145
+28636,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69617,10.38365,146
+28637,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69611,10.38369,147
+28638,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69607,10.38374,148
+28639,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69574,10.38377,149
+28640,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69513,10.38354,150
+28641,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.695,10.38348,151
+28642,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69492,10.38342,152
+28643,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69486,10.38336,153
+28644,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69482,10.3833,154
+28645,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69477,10.38328,155
+28646,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69474,10.38328,156
+28647,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69471,10.3833,157
+28648,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69468,10.38334,158
+28649,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69467,10.38338,159
+28650,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69466,10.38343,160
+28651,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69467,10.38348,161
+28652,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.6944,10.38444,162
+28653,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69434,10.38458,163
+28654,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69421,10.38478,164
+28655,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69406,10.38496,165
+28656,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69399,10.38502,166
+28657,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69388,10.3851,167
+28658,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69379,10.38514,168
+28659,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69363,10.3852,169
+28660,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69347,10.38521,170
+28661,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69339,10.38521,171
+28662,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69328,10.38518,172
+28663,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69288,10.38497,173
+28664,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69183,10.38439,174
+28665,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69138,10.38415,175
+28666,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69113,10.38503,176
+28667,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69103,10.38517,177
+28668,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69097,10.38526,178
+28669,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69095,10.38527,179
+28670,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69054,10.38527,180
+28671,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.69038,10.38522,181
+28672,Ristorante Il Mio Capriccio,Piscina Comunale Camalich,route_1147,43.6866,10.38313,182

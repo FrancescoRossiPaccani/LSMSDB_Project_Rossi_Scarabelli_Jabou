@@ -171,3 +171,119 @@ id,start,end,route_id,lat,lon,idx
 169,Torre,Via Aretino Spinello 11,route_2,43.71522,10.40016,53
 170,Torre,Via Aretino Spinello 11,route_2,43.71507,10.40011,54
 171,Torre,Via Aretino Spinello 11,route_2,43.71498,10.40006,55
+172,Torre,Via Angelo Battelli 5,route_3,43.723,10.39797,0
+173,Torre,Via Angelo Battelli 5,route_3,43.72234,10.40105,1
+174,Torre,Via Angelo Battelli 5,route_3,43.72192,10.40081,2
+175,Torre,Via Angelo Battelli 5,route_3,43.72203,10.40033,3
+176,Torre,Via Angelo Battelli 5,route_3,43.72205,10.40016,4
+177,Torre,Via Angelo Battelli 5,route_3,43.72206,10.40001,5
+178,Torre,Via Angelo Battelli 5,route_3,43.72206,10.39996,6
+179,Torre,Via Angelo Battelli 5,route_3,43.72204,10.39988,7
+180,Torre,Via Angelo Battelli 5,route_3,43.72202,10.39984,8
+181,Torre,Via Angelo Battelli 5,route_3,43.72183,10.3998,9
+182,Torre,Via Angelo Battelli 5,route_3,43.72177,10.39971,10
+183,Torre,Via Angelo Battelli 5,route_3,43.72184,10.3996,11
+184,Torre,Via Angelo Battelli 5,route_3,43.72192,10.39922,12
+185,Torre,Via Angelo Battelli 5,route_3,43.72087,10.39909,13
+186,Torre,Via Angelo Battelli 5,route_3,43.72061,10.39904,14
+187,Torre,Via Angelo Battelli 5,route_3,43.72018,10.39904,15
+188,Torre,Via Angelo Battelli 5,route_3,43.72,10.39899,16
+189,Torre,Via Angelo Battelli 5,route_3,43.71982,10.39891,17
+190,Torre,Via Angelo Battelli 5,route_3,43.71986,10.39878,18
+191,Torre,Via Angelo Battelli 5,route_3,43.7199,10.39829,19
+192,Torre,Via Angelo Battelli 5,route_3,43.71991,10.39776,20
+193,Torre,Via Angelo Battelli 5,route_3,43.71991,10.39756,21
+194,Torre,Via Angelo Battelli 5,route_3,43.71988,10.39736,22
+195,Torre,Via Angelo Battelli 5,route_3,43.71941,10.39745,23
+196,Torre,Via Angelo Battelli 5,route_3,43.71914,10.39747,24
+197,Torre,Via Angelo Battelli 5,route_3,43.71903,10.39744,25
+198,Torre,Via Angelo Battelli 5,route_3,43.71857,10.39719,26
+199,Torre,Via Angelo Battelli 5,route_3,43.71813,10.39693,27
+200,Torre,Via Angelo Battelli 5,route_3,43.71753,10.39652,28
+201,Torre,Via Angelo Battelli 5,route_3,43.71738,10.39644,29
+202,Torre,Via Angelo Battelli 5,route_3,43.71723,10.39637,30
+203,Torre,Via Angelo Battelli 5,route_3,43.71703,10.39635,31
+204,Torre,Via Angelo Battelli 5,route_3,43.7169,10.39635,32
+205,Torre,Via Angelo Battelli 5,route_3,43.71674,10.39637,33
+206,Torre,Via Angelo Battelli 5,route_3,43.71614,10.3966,34
+207,Torre,Via Angelo Battelli 5,route_3,43.71632,10.39747,35
+208,Torre,Via Angelo Battelli 5,route_3,43.71652,10.39855,36
+209,Torre,Via Angelo Battelli 5,route_3,43.71656,10.39883,37
+210,Torre,Via Angelo Battelli 5,route_3,43.71661,10.39923,38
+211,Torre,Via Angelo Battelli 5,route_3,43.71663,10.39955,39
+212,Torre,Via Angelo Battelli 5,route_3,43.71664,10.39989,40
+213,Torre,Via Angelo Battelli 5,route_3,43.71662,10.40025,41
+214,Torre,Via Angelo Battelli 5,route_3,43.71658,10.40067,42
+215,Torre,Via Angelo Battelli 5,route_3,43.71649,10.40126,43
+216,Torre,Via Angelo Battelli 5,route_3,43.71641,10.40165,44
+217,Torre,Via Angelo Battelli 5,route_3,43.71628,10.40215,45
+218,Torre,Via Angelo Battelli 5,route_3,43.71621,10.40211,46
+219,Torre,Via Gabriele Vettori 18,route_4,43.723,10.39797,0
+220,Torre,Via Gabriele Vettori 18,route_4,43.72234,10.40105,1
+221,Torre,Via Gabriele Vettori 18,route_4,43.72221,10.40159,2
+222,Torre,Via Gabriele Vettori 18,route_4,43.72219,10.4017,3
+223,Torre,Via Gabriele Vettori 18,route_4,43.72265,10.40173,4
+224,Torre,Via Gabriele Vettori 18,route_4,43.72284,10.40176,5
+225,Torre,Via Gabriele Vettori 18,route_4,43.72371,10.40559,6
+226,Torre,Via Gabriele Vettori 18,route_4,43.72414,10.40742,7
+227,Torre,Via Gabriele Vettori 18,route_4,43.7241,10.40746,8
+228,Torre,Via Gabriele Vettori 18,route_4,43.72384,10.40783,9
+229,Torre,Via Gabriele Vettori 18,route_4,43.72372,10.40793,10
+230,Torre,Via Gabriele Vettori 18,route_4,43.72367,10.40794,11
+231,Torre,Via Gabriele Vettori 18,route_4,43.72356,10.40789,12
+232,Torre,Via Gabriele Vettori 18,route_4,43.72353,10.40787,13
+233,Torre,Via Gabriele Vettori 18,route_4,43.7232,10.40743,14
+234,Torre,Via Gabriele Vettori 18,route_4,43.72307,10.40728,15
+235,Torre,Via Gabriele Vettori 18,route_4,43.72272,10.40686,16
+236,Torre,Via Gabriele Vettori 18,route_4,43.72213,10.40733,17
+237,Torre,Via Gabriele Vettori 18,route_4,43.71999,10.40735,18
+238,Torre,Via Gabriele Vettori 18,route_4,43.71973,10.40736,19
+239,Torre,Via Gabriele Vettori 18,route_4,43.71935,10.40741,20
+240,Torre,Via Gabriele Vettori 18,route_4,43.71848,10.40738,21
+241,Torre,Via Gabriele Vettori 18,route_4,43.71748,10.40734,22
+242,Torre,Via Gabriele Vettori 18,route_4,43.71686,10.40729,23
+243,Torre,Via Gabriele Vettori 18,route_4,43.71676,10.40725,24
+244,Torre,Via Gabriele Vettori 18,route_4,43.71658,10.40724,25
+245,Torre,Via Gabriele Vettori 18,route_4,43.71652,10.40718,26
+246,Torre,Via Gabriele Vettori 18,route_4,43.71635,10.4062,27
+247,Torre,Via Gabriele Vettori 18,route_4,43.71635,10.40613,28
+248,Torre,Via Gabriele Vettori 18,route_4,43.71636,10.40594,29
+249,Torre,Via Gabriele Vettori 18,route_4,43.71636,10.40574,30
+250,Torre,Via Gabriele Vettori 18,route_4,43.71635,10.40554,31
+251,Torre,Via Gabriele Vettori 18,route_4,43.71635,10.4053,32
+252,Torre,Via Gabriele Vettori 18,route_4,43.71641,10.40425,33
+253,Torre,Via Gabriele Vettori 18,route_4,43.71691,10.40421,34
+254,Torre,Via Gabriele Vettori 18,route_4,43.71689,10.40402,35
+255,Torre,Facolta di Ingegneria Polo A,route_5,43.723,10.39797,0
+256,Torre,Facolta di Ingegneria Polo A,route_5,43.72234,10.40105,1
+257,Torre,Facolta di Ingegneria Polo A,route_5,43.72221,10.40159,2
+258,Torre,Facolta di Ingegneria Polo A,route_5,43.72219,10.4017,3
+259,Torre,Facolta di Ingegneria Polo A,route_5,43.72265,10.40173,4
+260,Torre,Facolta di Ingegneria Polo A,route_5,43.72284,10.40176,5
+261,Torre,Facolta di Ingegneria Polo A,route_5,43.72371,10.40559,6
+262,Torre,Facolta di Ingegneria Polo A,route_5,43.72414,10.40742,7
+263,Torre,Facolta di Ingegneria Polo A,route_5,43.7241,10.40746,8
+264,Torre,Facolta di Ingegneria Polo A,route_5,43.72384,10.40783,9
+265,Torre,Facolta di Ingegneria Polo A,route_5,43.72372,10.40793,10
+266,Torre,Facolta di Ingegneria Polo A,route_5,43.72367,10.40794,11
+267,Torre,Facolta di Ingegneria Polo A,route_5,43.72356,10.40789,12
+268,Torre,Facolta di Ingegneria Polo A,route_5,43.72353,10.40787,13
+269,Torre,Facolta di Ingegneria Polo A,route_5,43.7232,10.40743,14
+270,Torre,Facolta di Ingegneria Polo A,route_5,43.72307,10.40728,15
+271,Torre,Facolta di Ingegneria Polo A,route_5,43.72272,10.40686,16
+272,Torre,Facolta di Ingegneria Polo A,route_5,43.72213,10.40733,17
+273,Torre,Facolta di Ingegneria Polo A,route_5,43.71999,10.40735,18
+274,Torre,Facolta di Ingegneria Polo A,route_5,43.71973,10.40736,19
+275,Torre,Facolta di Ingegneria Polo A,route_5,43.71935,10.40741,20
+276,Torre,Facolta di Ingegneria Polo A,route_5,43.71848,10.40738,21
+277,Torre,Facolta di Ingegneria Polo A,route_5,43.71748,10.40734,22
+278,Torre,Facolta di Ingegneria Polo A,route_5,43.71686,10.40729,23
+279,Torre,Facolta di Ingegneria Polo A,route_5,43.71676,10.40725,24
+280,Torre,Facolta di Ingegneria Polo A,route_5,43.71658,10.40724,25
+281,Torre,Facolta di Ingegneria Polo A,route_5,43.71652,10.40718,26
+282,Torre,Facolta di Ingegneria Polo A,route_5,43.71635,10.4062,27
+283,Torre,Facolta di Ingegneria Polo A,route_5,43.71635,10.40613,28
+284,Torre,Facolta di Ingegneria Polo A,route_5,43.71636,10.40594,29
+285,Torre,Facolta di Ingegneria Polo A,route_5,43.71747,10.40586,30
+286,Torre,Facolta di Ingegneria Polo A,route_5,43.7178,10.40585,31
+287,Torre,Facolta di Ingegneria Polo A,route_5,43.71799,10.40583,32

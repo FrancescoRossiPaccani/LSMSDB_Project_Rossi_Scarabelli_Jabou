@@ -1,0 +1,630 @@
+id,start,end,route_id,lat,lon,idx
+33337,Ristorante La Greppia,Universita di Pisa,route_1380,43.70434,10.39885,0
+33338,Ristorante La Greppia,Universita di Pisa,route_1380,43.70534,10.3996,1
+33339,Ristorante La Greppia,Universita di Pisa,route_1380,43.70524,10.3999,2
+33340,Ristorante La Greppia,Universita di Pisa,route_1380,43.70504,10.40057,3
+33341,Ristorante La Greppia,Universita di Pisa,route_1380,43.705,10.40076,4
+33342,Ristorante La Greppia,Universita di Pisa,route_1380,43.70493,10.40093,5
+33343,Ristorante La Greppia,Universita di Pisa,route_1380,43.70471,10.40133,6
+33344,Ristorante La Greppia,Universita di Pisa,route_1380,43.70524,10.40171,7
+33345,Ristorante La Greppia,Universita di Pisa,route_1380,43.7053,10.40178,8
+33346,Ristorante La Greppia,Universita di Pisa,route_1380,43.70535,10.40184,9
+33347,Ristorante La Greppia,Universita di Pisa,route_1380,43.70547,10.40207,10
+33348,Ristorante La Greppia,Universita di Pisa,route_1380,43.70553,10.40214,11
+33349,Ristorante La Greppia,Universita di Pisa,route_1380,43.70614,10.40251,12
+33350,Ristorante La Greppia,Universita di Pisa,route_1380,43.70712,10.40318,13
+33351,Ristorante La Greppia,Universita di Pisa,route_1380,43.70685,10.40392,14
+33352,Ristorante La Greppia,Universita di Pisa,route_1380,43.7068,10.40407,15
+33353,Ristorante La Greppia,Universita di Pisa,route_1380,43.70676,10.40427,16
+33354,Ristorante La Greppia,Universita di Pisa,route_1380,43.70675,10.40444,17
+33355,Ristorante La Greppia,Universita di Pisa,route_1380,43.70675,10.40455,18
+33356,Ristorante La Greppia,Universita di Pisa,route_1380,43.70678,10.40479,19
+33357,Ristorante La Greppia,Universita di Pisa,route_1380,43.70683,10.40508,20
+33358,Ristorante La Greppia,Universita di Pisa,route_1380,43.70742,10.40341,21
+33359,Ristorante La Greppia,Universita di Pisa,route_1380,43.70809,10.40387,22
+33360,Ristorante La Greppia,Universita di Pisa,route_1380,43.70921,10.40461,23
+33361,Ristorante La Greppia,Universita di Pisa,route_1380,43.70964,10.40492,24
+33362,Ristorante La Greppia,Universita di Pisa,route_1380,43.70959,10.4052,25
+33363,Ristorante La Greppia,Universita di Pisa,route_1380,43.70953,10.40562,26
+33364,Ristorante La Greppia,Universita di Pisa,route_1380,43.70953,10.40571,27
+33365,Ristorante La Greppia,Universita di Pisa,route_1380,43.70954,10.40577,28
+33366,Ristorante La Greppia,Universita di Pisa,route_1380,43.70958,10.40585,29
+33367,Ristorante La Greppia,Universita di Pisa,route_1380,43.70962,10.40589,30
+33368,Ristorante La Greppia,Universita di Pisa,route_1380,43.7097,10.40593,31
+33369,Ristorante La Greppia,Universita di Pisa,route_1380,43.70981,10.40586,32
+33370,Ristorante La Greppia,Universita di Pisa,route_1380,43.70996,10.40588,33
+33371,Ristorante La Greppia,Universita di Pisa,route_1380,43.71001,10.4059,34
+33372,Ristorante La Greppia,Universita di Pisa,route_1380,43.71007,10.40596,35
+33373,Ristorante La Greppia,Universita di Pisa,route_1380,43.71009,10.40599,36
+33374,Ristorante La Greppia,Universita di Pisa,route_1380,43.71015,10.4061,37
+33375,Ristorante La Greppia,Universita di Pisa,route_1380,43.71008,10.40743,38
+33376,Ristorante La Greppia,Universita di Pisa,route_1380,43.71004,10.40744,39
+33377,Ristorante La Greppia,Universita di Pisa,route_1380,43.71001,10.40747,40
+33378,Ristorante La Greppia,Universita di Pisa,route_1380,43.70998,10.40751,41
+33379,Ristorante La Greppia,Universita di Pisa,route_1380,43.70997,10.40755,42
+33380,Ristorante La Greppia,Universita di Pisa,route_1380,43.70997,10.40763,43
+33381,Ristorante La Greppia,Universita di Pisa,route_1380,43.70998,10.40769,44
+33382,Ristorante La Greppia,Universita di Pisa,route_1380,43.71003,10.40774,45
+33383,Ristorante La Greppia,Universita di Pisa,route_1380,43.71007,10.40776,46
+33384,Ristorante La Greppia,Universita di Pisa,route_1380,43.71014,10.40774,47
+33385,Ristorante La Greppia,Universita di Pisa,route_1380,43.71018,10.40769,48
+33386,Ristorante La Greppia,Universita di Pisa,route_1380,43.71027,10.40767,49
+33387,Ristorante La Greppia,Universita di Pisa,route_1380,43.71063,10.40769,50
+33388,Ristorante La Greppia,Universita di Pisa,route_1380,43.71112,10.40773,51
+33389,Ristorante La Greppia,Universita di Pisa,route_1380,43.71118,10.40776,52
+33390,Ristorante La Greppia,Universita di Pisa,route_1380,43.71127,10.40782,53
+33391,Ristorante La Greppia,Universita di Pisa,route_1380,43.71131,10.40786,54
+33392,Ristorante La Greppia,Universita di Pisa,route_1380,43.71138,10.40789,55
+33393,Ristorante La Greppia,Universita di Pisa,route_1380,43.71204,10.40793,56
+33394,Ristorante La Greppia,Universita di Pisa,route_1380,43.71261,10.40789,57
+33395,Ristorante La Greppia,Universita di Pisa,route_1380,43.71299,10.40783,58
+33396,Ristorante La Greppia,Universita di Pisa,route_1380,43.71305,10.40781,59
+33397,Ristorante La Greppia,Universita di Pisa,route_1380,43.71307,10.40778,60
+33398,Ristorante La Greppia,Universita di Pisa,route_1380,43.7139,10.40851,61
+33399,Ristorante La Greppia,Universita di Pisa,route_1380,43.7141,10.40867,62
+33400,Ristorante La Greppia,Universita di Pisa,route_1380,43.71421,10.40873,63
+33401,Ristorante La Greppia,Universita di Pisa,route_1380,43.7147,10.40895,64
+33402,Ristorante La Greppia,Universita di Pisa,route_1380,43.71478,10.40897,65
+33403,Ristorante La Greppia,Universita di Pisa,route_1380,43.71514,10.40902,66
+33404,Ristorante La Greppia,Universita di Pisa,route_1380,43.71597,10.40908,67
+33405,Ristorante La Greppia,Universita di Pisa,route_1380,43.71617,10.40905,68
+33406,Ristorante La Greppia,Universita di Pisa,route_1380,43.71637,10.40896,69
+33407,Ristorante La Greppia,Universita di Pisa,route_1380,43.7167,10.40875,70
+33408,Ristorante La Greppia,Universita di Pisa,route_1380,43.7168,10.40872,71
+33409,Ristorante La Greppia,Universita di Pisa,route_1380,43.71686,10.40874,72
+33410,Ristorante La Greppia,Universita di Pisa,route_1380,43.71695,10.40879,73
+33411,Ristorante La Greppia,Universita di Pisa,route_1380,43.71862,10.41041,74
+33412,Ristorante La Greppia,Universita di Pisa,route_1380,43.71872,10.41046,75
+33413,Ristorante La Greppia,Universita di Pisa,route_1380,43.71879,10.41046,76
+33414,Ristorante La Greppia,Universita di Pisa,route_1380,43.71868,10.40905,77
+33415,Ristorante La Greppia,Universita di Pisa,route_1380,43.7186,10.40806,78
+33416,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70434,10.39885,0
+33417,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70534,10.3996,1
+33418,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70524,10.3999,2
+33419,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70504,10.40057,3
+33420,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.705,10.40076,4
+33421,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70493,10.40093,5
+33422,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70471,10.40133,6
+33423,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70524,10.40171,7
+33424,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.7053,10.40178,8
+33425,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70535,10.40184,9
+33426,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70547,10.40207,10
+33427,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70553,10.40214,11
+33428,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70614,10.40251,12
+33429,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70712,10.40318,13
+33430,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70685,10.40392,14
+33431,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.7068,10.40407,15
+33432,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70676,10.40427,16
+33433,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70675,10.40444,17
+33434,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70675,10.40455,18
+33435,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70678,10.40479,19
+33436,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70683,10.40508,20
+33437,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70742,10.40341,21
+33438,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70809,10.40387,22
+33439,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70921,10.40461,23
+33440,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70964,10.40492,24
+33441,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70959,10.4052,25
+33442,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70953,10.40562,26
+33443,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70953,10.40571,27
+33444,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70954,10.40577,28
+33445,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70958,10.40585,29
+33446,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70962,10.40589,30
+33447,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.7097,10.40593,31
+33448,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70981,10.40586,32
+33449,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70996,10.40588,33
+33450,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71001,10.4059,34
+33451,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71007,10.40596,35
+33452,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71009,10.40599,36
+33453,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71015,10.4061,37
+33454,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71008,10.40743,38
+33455,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71004,10.40744,39
+33456,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71001,10.40747,40
+33457,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70998,10.40751,41
+33458,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70997,10.40755,42
+33459,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70997,10.40763,43
+33460,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.70998,10.40769,44
+33461,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71003,10.40774,45
+33462,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71007,10.40776,46
+33463,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71014,10.40774,47
+33464,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71018,10.40769,48
+33465,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71027,10.40767,49
+33466,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71063,10.40769,50
+33467,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71112,10.40773,51
+33468,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71118,10.40776,52
+33469,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71127,10.40782,53
+33470,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71131,10.40786,54
+33471,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71138,10.40789,55
+33472,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71204,10.40793,56
+33473,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71261,10.40789,57
+33474,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71299,10.40783,58
+33475,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71305,10.40781,59
+33476,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71307,10.40778,60
+33477,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.7136,10.40622,61
+33478,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71372,10.40591,62
+33479,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71412,10.40501,63
+33480,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71493,10.40327,64
+33481,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71526,10.4025,65
+33482,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.7154,10.40214,66
+33483,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71551,10.40181,67
+33484,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71566,10.40129,68
+33485,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.7157,10.40111,69
+33486,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71576,10.40067,70
+33487,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.7158,10.40037,71
+33488,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71551,10.40027,72
+33489,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71527,10.40016,73
+33490,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71522,10.40016,74
+33491,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71507,10.40011,75
+33492,Ristorante La Greppia,Via Aretino Spinello 11,route_1381,43.71498,10.40006,76
+33493,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70434,10.39885,0
+33494,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70534,10.3996,1
+33495,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70524,10.3999,2
+33496,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70504,10.40057,3
+33497,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.705,10.40076,4
+33498,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70493,10.40093,5
+33499,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70471,10.40133,6
+33500,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70524,10.40171,7
+33501,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.7053,10.40178,8
+33502,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70535,10.40184,9
+33503,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70547,10.40207,10
+33504,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70553,10.40214,11
+33505,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70614,10.40251,12
+33506,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70712,10.40318,13
+33507,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70685,10.40392,14
+33508,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.7068,10.40407,15
+33509,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70676,10.40427,16
+33510,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70675,10.40444,17
+33511,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70675,10.40455,18
+33512,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70678,10.40479,19
+33513,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70683,10.40508,20
+33514,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70742,10.40341,21
+33515,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70809,10.40387,22
+33516,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70921,10.40461,23
+33517,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70964,10.40492,24
+33518,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70959,10.4052,25
+33519,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70953,10.40562,26
+33520,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70953,10.40571,27
+33521,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70954,10.40577,28
+33522,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70958,10.40585,29
+33523,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70962,10.40589,30
+33524,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.7097,10.40593,31
+33525,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70981,10.40586,32
+33526,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70996,10.40588,33
+33527,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71001,10.4059,34
+33528,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71007,10.40596,35
+33529,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71009,10.40599,36
+33530,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71015,10.4061,37
+33531,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71008,10.40743,38
+33532,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71004,10.40744,39
+33533,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71001,10.40747,40
+33534,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70998,10.40751,41
+33535,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70997,10.40755,42
+33536,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70997,10.40763,43
+33537,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.70998,10.40769,44
+33538,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71003,10.40774,45
+33539,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71007,10.40776,46
+33540,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71014,10.40774,47
+33541,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71018,10.40769,48
+33542,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71027,10.40767,49
+33543,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71063,10.40769,50
+33544,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71112,10.40773,51
+33545,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71118,10.40776,52
+33546,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71127,10.40782,53
+33547,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71131,10.40786,54
+33548,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71138,10.40789,55
+33549,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71204,10.40793,56
+33550,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71261,10.40789,57
+33551,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71299,10.40783,58
+33552,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71305,10.40781,59
+33553,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71307,10.40778,60
+33554,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.7136,10.40622,61
+33555,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71372,10.40591,62
+33556,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71412,10.40501,63
+33557,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71493,10.40327,64
+33558,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71519,10.40267,65
+33559,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.7154,10.40214,66
+33560,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71555,10.40168,67
+33561,Ristorante La Greppia,Via Angelo Battelli 5,route_1382,43.71621,10.40211,68
+33562,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70434,10.39885,0
+33563,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70534,10.3996,1
+33564,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70524,10.3999,2
+33565,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70504,10.40057,3
+33566,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.705,10.40076,4
+33567,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70493,10.40093,5
+33568,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70471,10.40133,6
+33569,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70524,10.40171,7
+33570,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.7053,10.40178,8
+33571,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70535,10.40184,9
+33572,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70547,10.40207,10
+33573,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70553,10.40214,11
+33574,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70614,10.40251,12
+33575,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70712,10.40318,13
+33576,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70685,10.40392,14
+33577,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.7068,10.40407,15
+33578,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70676,10.40427,16
+33579,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70675,10.40444,17
+33580,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70675,10.40455,18
+33581,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70678,10.40479,19
+33582,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70683,10.40508,20
+33583,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70742,10.40341,21
+33584,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70809,10.40387,22
+33585,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70921,10.40461,23
+33586,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70964,10.40492,24
+33587,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70959,10.4052,25
+33588,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70953,10.40562,26
+33589,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70953,10.40571,27
+33590,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70954,10.40577,28
+33591,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70958,10.40585,29
+33592,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70962,10.40589,30
+33593,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.7097,10.40593,31
+33594,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70981,10.40586,32
+33595,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70996,10.40588,33
+33596,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71001,10.4059,34
+33597,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71007,10.40596,35
+33598,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71009,10.40599,36
+33599,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71015,10.4061,37
+33600,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71008,10.40743,38
+33601,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71004,10.40744,39
+33602,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71001,10.40747,40
+33603,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70998,10.40751,41
+33604,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70997,10.40755,42
+33605,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70997,10.40763,43
+33606,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.70998,10.40769,44
+33607,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71003,10.40774,45
+33608,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71007,10.40776,46
+33609,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71014,10.40774,47
+33610,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71018,10.40769,48
+33611,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71027,10.40767,49
+33612,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71063,10.40769,50
+33613,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71112,10.40773,51
+33614,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71118,10.40776,52
+33615,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71127,10.40782,53
+33616,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71131,10.40786,54
+33617,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71138,10.40789,55
+33618,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71204,10.40793,56
+33619,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71261,10.40789,57
+33620,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71299,10.40783,58
+33621,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71305,10.40781,59
+33622,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71307,10.40778,60
+33623,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.7139,10.40851,61
+33624,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.7141,10.40867,62
+33625,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71421,10.40873,63
+33626,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.7147,10.40895,64
+33627,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71478,10.40897,65
+33628,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71514,10.40902,66
+33629,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71597,10.40908,67
+33630,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71617,10.40905,68
+33631,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71637,10.40896,69
+33632,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.7167,10.40875,70
+33633,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.7168,10.40872,71
+33634,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71686,10.40874,72
+33635,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71695,10.40879,73
+33636,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71756,10.40937,74
+33637,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71758,10.40931,75
+33638,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71761,10.40921,76
+33639,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71748,10.40734,77
+33640,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71686,10.40729,78
+33641,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71676,10.40725,79
+33642,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71658,10.40724,80
+33643,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71652,10.40718,81
+33644,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71635,10.4062,82
+33645,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71635,10.40613,83
+33646,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71636,10.40594,84
+33647,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71636,10.40574,85
+33648,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71635,10.40554,86
+33649,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71635,10.4053,87
+33650,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71641,10.40425,88
+33651,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71691,10.40421,89
+33652,Ristorante La Greppia,Via Gabriele Vettori 18,route_1383,43.71689,10.40402,90
+33653,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70434,10.39885,0
+33654,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70534,10.3996,1
+33655,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70524,10.3999,2
+33656,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70504,10.40057,3
+33657,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.705,10.40076,4
+33658,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70493,10.40093,5
+33659,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70471,10.40133,6
+33660,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70524,10.40171,7
+33661,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.7053,10.40178,8
+33662,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70535,10.40184,9
+33663,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70547,10.40207,10
+33664,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70553,10.40214,11
+33665,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70614,10.40251,12
+33666,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70712,10.40318,13
+33667,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70685,10.40392,14
+33668,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.7068,10.40407,15
+33669,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70676,10.40427,16
+33670,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70675,10.40444,17
+33671,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70675,10.40455,18
+33672,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70678,10.40479,19
+33673,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70683,10.40508,20
+33674,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70742,10.40341,21
+33675,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70809,10.40387,22
+33676,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70921,10.40461,23
+33677,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70964,10.40492,24
+33678,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70959,10.4052,25
+33679,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70953,10.40562,26
+33680,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70953,10.40571,27
+33681,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70954,10.40577,28
+33682,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70958,10.40585,29
+33683,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70962,10.40589,30
+33684,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.7097,10.40593,31
+33685,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70981,10.40586,32
+33686,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70996,10.40588,33
+33687,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71001,10.4059,34
+33688,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71007,10.40596,35
+33689,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71009,10.40599,36
+33690,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71015,10.4061,37
+33691,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71008,10.40743,38
+33692,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71004,10.40744,39
+33693,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71001,10.40747,40
+33694,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70998,10.40751,41
+33695,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70997,10.40755,42
+33696,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70997,10.40763,43
+33697,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.70998,10.40769,44
+33698,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71003,10.40774,45
+33699,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71007,10.40776,46
+33700,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71014,10.40774,47
+33701,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71018,10.40769,48
+33702,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71027,10.40767,49
+33703,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71063,10.40769,50
+33704,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71112,10.40773,51
+33705,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71118,10.40776,52
+33706,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71127,10.40782,53
+33707,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71131,10.40786,54
+33708,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71138,10.40789,55
+33709,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71204,10.40793,56
+33710,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71261,10.40789,57
+33711,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71299,10.40783,58
+33712,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71305,10.40781,59
+33713,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71307,10.40778,60
+33714,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.7139,10.40851,61
+33715,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.7141,10.40867,62
+33716,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71421,10.40873,63
+33717,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.7147,10.40895,64
+33718,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71478,10.40897,65
+33719,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71514,10.40902,66
+33720,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71597,10.40908,67
+33721,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71617,10.40905,68
+33722,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71637,10.40896,69
+33723,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.7167,10.40875,70
+33724,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.7168,10.40872,71
+33725,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71686,10.40874,72
+33726,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71695,10.40879,73
+33727,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71756,10.40937,74
+33728,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71758,10.40931,75
+33729,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71761,10.40921,76
+33730,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71748,10.40734,77
+33731,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71686,10.40729,78
+33732,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71676,10.40725,79
+33733,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71658,10.40724,80
+33734,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71652,10.40718,81
+33735,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71635,10.4062,82
+33736,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71635,10.40613,83
+33737,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71636,10.40594,84
+33738,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71747,10.40586,85
+33739,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.7178,10.40585,86
+33740,Ristorante La Greppia,Facolta di Ingegneria Polo A,route_1384,43.71799,10.40583,87
+33741,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70434,10.39885,0
+33742,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70534,10.3996,1
+33743,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70524,10.3999,2
+33744,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70504,10.40057,3
+33745,Ristorante La Greppia,Polo Fibonacci,route_1385,43.705,10.40076,4
+33746,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70493,10.40093,5
+33747,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70471,10.40133,6
+33748,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70524,10.40171,7
+33749,Ristorante La Greppia,Polo Fibonacci,route_1385,43.7053,10.40178,8
+33750,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70535,10.40184,9
+33751,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70547,10.40207,10
+33752,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70553,10.40214,11
+33753,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70614,10.40251,12
+33754,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70712,10.40318,13
+33755,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70685,10.40392,14
+33756,Ristorante La Greppia,Polo Fibonacci,route_1385,43.7068,10.40407,15
+33757,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70676,10.40427,16
+33758,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70675,10.40444,17
+33759,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70675,10.40455,18
+33760,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70678,10.40479,19
+33761,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70683,10.40508,20
+33762,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70742,10.40341,21
+33763,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70809,10.40387,22
+33764,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70921,10.40461,23
+33765,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70964,10.40492,24
+33766,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70959,10.4052,25
+33767,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70953,10.40562,26
+33768,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70953,10.40571,27
+33769,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70954,10.40577,28
+33770,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70958,10.40585,29
+33771,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70962,10.40589,30
+33772,Ristorante La Greppia,Polo Fibonacci,route_1385,43.7097,10.40593,31
+33773,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70981,10.40586,32
+33774,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70996,10.40588,33
+33775,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71001,10.4059,34
+33776,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71007,10.40596,35
+33777,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71009,10.40599,36
+33778,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71015,10.4061,37
+33779,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71008,10.40743,38
+33780,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71004,10.40744,39
+33781,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71001,10.40747,40
+33782,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70998,10.40751,41
+33783,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70997,10.40755,42
+33784,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70997,10.40763,43
+33785,Ristorante La Greppia,Polo Fibonacci,route_1385,43.70998,10.40769,44
+33786,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71003,10.40774,45
+33787,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71007,10.40776,46
+33788,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71014,10.40774,47
+33789,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71018,10.40769,48
+33790,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71027,10.40767,49
+33791,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71063,10.40769,50
+33792,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71112,10.40773,51
+33793,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71118,10.40776,52
+33794,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71127,10.40782,53
+33795,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71131,10.40786,54
+33796,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71138,10.40789,55
+33797,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71204,10.40793,56
+33798,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71261,10.40789,57
+33799,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71299,10.40783,58
+33800,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71305,10.40781,59
+33801,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71307,10.40778,60
+33802,Ristorante La Greppia,Polo Fibonacci,route_1385,43.7139,10.40851,61
+33803,Ristorante La Greppia,Polo Fibonacci,route_1385,43.7141,10.40867,62
+33804,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71421,10.40873,63
+33805,Ristorante La Greppia,Polo Fibonacci,route_1385,43.7147,10.40895,64
+33806,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71478,10.40897,65
+33807,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71514,10.40902,66
+33808,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71597,10.40908,67
+33809,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71617,10.40905,68
+33810,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71637,10.40896,69
+33811,Ristorante La Greppia,Polo Fibonacci,route_1385,43.7167,10.40875,70
+33812,Ristorante La Greppia,Polo Fibonacci,route_1385,43.7168,10.40872,71
+33813,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71686,10.40874,72
+33814,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71695,10.40879,73
+33815,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71862,10.41041,74
+33816,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71872,10.41046,75
+33817,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71879,10.41046,76
+33818,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71868,10.40905,77
+33819,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71855,10.40739,78
+33820,Ristorante La Greppia,Polo Fibonacci,route_1385,43.71899,10.4074,79
+33821,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70434,10.39885,0
+33822,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70534,10.3996,1
+33823,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70524,10.3999,2
+33824,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70504,10.40057,3
+33825,Ristorante La Greppia,Stazione Leopolda,route_1386,43.705,10.40076,4
+33826,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70493,10.40093,5
+33827,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70471,10.40133,6
+33828,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70524,10.40171,7
+33829,Ristorante La Greppia,Stazione Leopolda,route_1386,43.7053,10.40178,8
+33830,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70535,10.40184,9
+33831,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70547,10.40207,10
+33832,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70553,10.40214,11
+33833,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70614,10.40251,12
+33834,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70712,10.40318,13
+33835,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70685,10.40392,14
+33836,Ristorante La Greppia,Stazione Leopolda,route_1386,43.7068,10.40407,15
+33837,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70676,10.40427,16
+33838,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70675,10.40444,17
+33839,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70675,10.40455,18
+33840,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70678,10.40479,19
+33841,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70683,10.40508,20
+33842,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70742,10.40341,21
+33843,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70809,10.40387,22
+33844,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70926,10.40055,23
+33845,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70996,10.40101,24
+33846,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70994,10.39992,25
+33847,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70994,10.39905,26
+33848,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70997,10.39904,27
+33849,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71001,10.39899,28
+33850,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71003,10.39892,29
+33851,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71001,10.39885,30
+33852,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70999,10.39882,31
+33853,Ristorante La Greppia,Stazione Leopolda,route_1386,43.70997,10.3988,32
+33854,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71001,10.39838,33
+33855,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71008,10.39813,34
+33856,Ristorante La Greppia,Stazione Leopolda,route_1386,43.7101,10.39807,35
+33857,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71016,10.39794,36
+33858,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71019,10.39794,37
+33859,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71022,10.39792,38
+33860,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71025,10.3979,39
+33861,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71027,10.39786,40
+33862,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71028,10.39781,41
+33863,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71036,10.39767,42
+33864,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71041,10.39762,43
+33865,Ristorante La Greppia,Stazione Leopolda,route_1386,43.7107,10.39765,44
+33866,Ristorante La Greppia,Stazione Leopolda,route_1386,43.7108,10.39767,45
+33867,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71078,10.39771,46
+33868,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71077,10.39774,47
+33869,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71077,10.39778,48
+33870,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71079,10.39782,49
+33871,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71082,10.39785,50
+33872,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71086,10.39786,51
+33873,Ristorante La Greppia,Stazione Leopolda,route_1386,43.7109,10.39782,52
+33874,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71092,10.39778,53
+33875,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71092,10.39774,54
+33876,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71106,10.39746,55
+33877,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71113,10.3974,56
+33878,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71115,10.39746,57
+33879,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71127,10.3976,58
+33880,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71141,10.39762,59
+33881,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71208,10.39753,60
+33882,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71262,10.39743,61
+33883,Ristorante La Greppia,Stazione Leopolda,route_1386,43.7124,10.39857,62
+33884,Ristorante La Greppia,Stazione Leopolda,route_1386,43.71197,10.39863,63
+33885,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70434,10.39885,0
+33886,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70534,10.3996,1
+33887,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70524,10.3999,2
+33888,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70504,10.40057,3
+33889,Ristorante La Greppia,Stazione San Rossore,route_1387,43.705,10.40076,4
+33890,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70493,10.40093,5
+33891,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70471,10.40133,6
+33892,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70524,10.40171,7
+33893,Ristorante La Greppia,Stazione San Rossore,route_1387,43.7053,10.40178,8
+33894,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70535,10.40184,9
+33895,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70547,10.40207,10
+33896,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70553,10.40214,11
+33897,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70614,10.40251,12
+33898,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70712,10.40318,13
+33899,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70685,10.40392,14
+33900,Ristorante La Greppia,Stazione San Rossore,route_1387,43.7068,10.40407,15
+33901,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70676,10.40427,16
+33902,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70675,10.40444,17
+33903,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70675,10.40455,18
+33904,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70678,10.40479,19
+33905,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70683,10.40508,20
+33906,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70742,10.40341,21
+33907,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70809,10.40387,22
+33908,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70926,10.40055,23
+33909,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70996,10.40101,24
+33910,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70994,10.39992,25
+33911,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70994,10.39905,26
+33912,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70997,10.39904,27
+33913,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71001,10.39899,28
+33914,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71003,10.39892,29
+33915,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71001,10.39885,30
+33916,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70999,10.39882,31
+33917,Ristorante La Greppia,Stazione San Rossore,route_1387,43.70997,10.3988,32
+33918,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71001,10.39838,33
+33919,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71008,10.39813,34
+33920,Ristorante La Greppia,Stazione San Rossore,route_1387,43.7101,10.39807,35
+33921,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71016,10.39794,36
+33922,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71019,10.39794,37
+33923,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71022,10.39792,38
+33924,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71025,10.3979,39
+33925,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71027,10.39786,40
+33926,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71028,10.39781,41
+33927,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71028,10.39777,42
+33928,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71027,10.39772,43
+33929,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71025,10.39769,44
+33930,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71022,10.39766,45
+33931,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71018,10.39764,46
+33932,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71016,10.39755,47
+33933,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71014,10.39743,48
+33934,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71033,10.39616,49
+33935,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71038,10.39588,50
+33936,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71041,10.39588,51
+33937,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71043,10.39586,52
+33938,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71046,10.39581,53
+33939,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71047,10.39578,54
+33940,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71045,10.39571,55
+33941,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71041,10.39568,56
+33942,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71054,10.39481,57
+33943,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71057,10.39451,58
+33944,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71058,10.39434,59
+33945,Ristorante La Greppia,Stazione San Rossore,route_1387,43.7106,10.39206,60
+33946,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71061,10.39193,61
+33947,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71063,10.39186,62
+33948,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71067,10.39179,63
+33949,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71072,10.39173,64
+33950,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71082,10.39166,65
+33951,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71093,10.39162,66
+33952,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71133,10.39152,67
+33953,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71159,10.39157,68
+33954,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71162,10.39159,69
+33955,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71164,10.39159,70
+33956,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71168,10.39157,71
+33957,Ristorante La Greppia,Stazione San Rossore,route_1387,43.7117,10.39153,72
+33958,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71171,10.39148,73
+33959,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71169,10.39142,74
+33960,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71162,10.39112,75
+33961,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71157,10.39094,76
+33962,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71149,10.39071,77
+33963,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71113,10.38974,78
+33964,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71103,10.38981,79
+33965,Ristorante La Greppia,Stazione San Rossore,route_1387,43.71107,10.38995,80

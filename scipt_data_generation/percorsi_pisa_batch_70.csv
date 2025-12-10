@@ -1,0 +1,880 @@
+id,start,end,route_id,lat,lon,idx
+53184,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.69993,10.36235,0
+53185,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70092,10.36328,1
+53186,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70138,10.36374,2
+53187,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70163,10.36405,3
+53188,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.7018,10.36429,4
+53189,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.702,10.36461,5
+53190,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70212,10.36483,6
+53191,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70287,10.36639,7
+53192,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70296,10.3666,8
+53193,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70657,10.37427,9
+53194,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70716,10.37549,10
+53195,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.7073,10.37577,11
+53196,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.7073,10.37581,12
+53197,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70724,10.37581,13
+53198,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70718,10.37585,14
+53199,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70716,10.37589,15
+53200,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70714,10.37596,16
+53201,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.7071,10.37621,17
+53202,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70709,10.37626,18
+53203,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70705,10.37632,19
+53204,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70709,10.37641,20
+53205,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70712,10.37651,21
+53206,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70717,10.37679,22
+53207,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70724,10.37722,23
+53208,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70742,10.37855,24
+53209,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70748,10.37933,25
+53210,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70751,10.3801,26
+53211,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70753,10.38025,27
+53212,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70756,10.38038,28
+53213,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70756,10.38043,29
+53214,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70758,10.3805,30
+53215,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70762,10.38055,31
+53216,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70765,10.38056,32
+53217,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.7077,10.38063,33
+53218,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70776,10.38075,34
+53219,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70774,10.38085,35
+53220,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70773,10.3809,36
+53221,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70761,10.38117,37
+53222,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70758,10.38127,38
+53223,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70749,10.38169,39
+53224,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70748,10.38185,40
+53225,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.7075,10.38196,41
+53226,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70752,10.38206,42
+53227,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70756,10.38217,43
+53228,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70781,10.38262,44
+53229,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70787,10.38282,45
+53230,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70775,10.38295,46
+53231,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70772,10.38304,47
+53232,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70795,10.38358,48
+53233,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.7081,10.38398,49
+53234,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70832,10.38461,50
+53235,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.7085,10.38507,51
+53236,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.7086,10.38524,52
+53237,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70859,10.38532,53
+53238,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70861,10.38537,54
+53239,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70865,10.38544,55
+53240,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70871,10.38549,56
+53241,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70875,10.38551,57
+53242,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70879,10.38552,58
+53243,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70883,10.3855,59
+53244,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70888,10.38544,60
+53245,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70898,10.38537,61
+53246,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70908,10.38529,62
+53247,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70928,10.38523,63
+53248,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.70998,10.38502,64
+53249,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71043,10.3849,65
+53250,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71106,10.38465,66
+53251,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71172,10.38437,67
+53252,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71177,10.38437,68
+53253,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71182,10.38436,69
+53254,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71262,10.38783,70
+53255,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71273,10.38822,71
+53256,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71275,10.38828,72
+53257,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.7128,10.38836,73
+53258,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71286,10.38841,74
+53259,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71292,10.38844,75
+53260,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71297,10.38844,76
+53261,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71301,10.38844,77
+53262,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71319,10.38837,78
+53263,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71324,10.38836,79
+53264,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71326,10.38838,80
+53265,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71327,10.38842,81
+53266,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.7133,10.38857,82
+53267,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.7133,10.38862,83
+53268,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71335,10.38885,84
+53269,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71344,10.38914,85
+53270,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71369,10.38974,86
+53271,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.7137,10.38993,87
+53272,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71368,10.38996,88
+53273,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71368,10.39002,89
+53274,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71369,10.39007,90
+53275,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71372,10.3901,91
+53276,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71382,10.39015,92
+53277,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71385,10.39018,93
+53278,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71389,10.39027,94
+53279,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71393,10.3904,95
+53280,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71397,10.39056,96
+53281,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71399,10.39078,97
+53282,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71397,10.3909,98
+53283,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71394,10.39105,99
+53284,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71394,10.39118,100
+53285,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71395,10.39126,101
+53286,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.714,10.39148,102
+53287,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71413,10.39183,103
+53288,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71451,10.39274,104
+53289,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71495,10.39362,105
+53290,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.7153,10.3943,106
+53291,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.7154,10.39451,107
+53292,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.7156,10.39498,108
+53293,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71581,10.39552,109
+53294,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71598,10.39605,110
+53295,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71614,10.3966,111
+53296,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71629,10.39732,112
+53297,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71652,10.39855,113
+53298,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71656,10.39883,114
+53299,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71661,10.39923,115
+53300,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71663,10.39955,116
+53301,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71664,10.39989,117
+53302,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71662,10.40025,118
+53303,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71658,10.40067,119
+53304,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71649,10.40126,120
+53305,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71641,10.40165,121
+53306,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71628,10.40215,122
+53307,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71555,10.40168,123
+53308,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71566,10.40129,124
+53309,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.7157,10.40111,125
+53310,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71576,10.40067,126
+53311,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.7158,10.40037,127
+53312,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71551,10.40027,128
+53313,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71527,10.40016,129
+53314,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71522,10.40016,130
+53315,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71507,10.40011,131
+53316,Ristorante Il Rustichello - San Piero,Via Aretino Spinello 11,route_2070,43.71498,10.40006,132
+53317,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.69993,10.36235,0
+53318,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70092,10.36328,1
+53319,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70138,10.36374,2
+53320,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70163,10.36405,3
+53321,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.7018,10.36429,4
+53322,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.702,10.36461,5
+53323,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70212,10.36483,6
+53324,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70287,10.36639,7
+53325,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70296,10.3666,8
+53326,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70657,10.37427,9
+53327,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70716,10.37549,10
+53328,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.7073,10.37577,11
+53329,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.7073,10.37581,12
+53330,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70724,10.37581,13
+53331,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70718,10.37585,14
+53332,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70716,10.37589,15
+53333,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70714,10.37596,16
+53334,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.7071,10.37621,17
+53335,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70709,10.37626,18
+53336,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70705,10.37632,19
+53337,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70709,10.37641,20
+53338,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70712,10.37651,21
+53339,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70717,10.37679,22
+53340,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70724,10.37722,23
+53341,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70742,10.37855,24
+53342,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70748,10.37933,25
+53343,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70751,10.3801,26
+53344,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70753,10.38025,27
+53345,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70756,10.38038,28
+53346,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70756,10.38043,29
+53347,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70758,10.3805,30
+53348,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70762,10.38055,31
+53349,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70765,10.38056,32
+53350,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.7077,10.38063,33
+53351,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70776,10.38075,34
+53352,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70774,10.38085,35
+53353,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70773,10.3809,36
+53354,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70761,10.38117,37
+53355,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70758,10.38127,38
+53356,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70749,10.38169,39
+53357,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70748,10.38185,40
+53358,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.7075,10.38196,41
+53359,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70752,10.38206,42
+53360,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70756,10.38217,43
+53361,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70781,10.38262,44
+53362,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70787,10.38282,45
+53363,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70775,10.38295,46
+53364,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70772,10.38304,47
+53365,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70795,10.38358,48
+53366,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.7081,10.38398,49
+53367,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70832,10.38461,50
+53368,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.7085,10.38507,51
+53369,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.7086,10.38524,52
+53370,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70859,10.38532,53
+53371,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70861,10.38537,54
+53372,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70865,10.38544,55
+53373,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70871,10.38549,56
+53374,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70875,10.38551,57
+53375,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70879,10.38552,58
+53376,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70883,10.3855,59
+53377,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70888,10.38544,60
+53378,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70898,10.38537,61
+53379,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70908,10.38529,62
+53380,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70928,10.38523,63
+53381,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.70998,10.38502,64
+53382,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71043,10.3849,65
+53383,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71106,10.38465,66
+53384,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71172,10.38437,67
+53385,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71177,10.38437,68
+53386,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71182,10.38436,69
+53387,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71262,10.38783,70
+53388,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71273,10.38822,71
+53389,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71275,10.38828,72
+53390,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.7128,10.38836,73
+53391,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71286,10.38841,74
+53392,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71292,10.38844,75
+53393,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71297,10.38844,76
+53394,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71301,10.38844,77
+53395,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71319,10.38837,78
+53396,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71324,10.38836,79
+53397,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71326,10.38838,80
+53398,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71327,10.38842,81
+53399,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.7133,10.38857,82
+53400,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.7133,10.38862,83
+53401,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71335,10.38885,84
+53402,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71344,10.38914,85
+53403,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71369,10.38974,86
+53404,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.7137,10.38993,87
+53405,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71368,10.38996,88
+53406,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71368,10.39002,89
+53407,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71369,10.39007,90
+53408,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71372,10.3901,91
+53409,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71382,10.39015,92
+53410,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71385,10.39018,93
+53411,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71389,10.39027,94
+53412,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71393,10.3904,95
+53413,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71397,10.39056,96
+53414,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71399,10.39078,97
+53415,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71397,10.3909,98
+53416,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71394,10.39105,99
+53417,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71394,10.39118,100
+53418,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71395,10.39126,101
+53419,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.714,10.39148,102
+53420,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71413,10.39183,103
+53421,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71451,10.39274,104
+53422,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71495,10.39362,105
+53423,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.7153,10.3943,106
+53424,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.7154,10.39451,107
+53425,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.7156,10.39498,108
+53426,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71581,10.39552,109
+53427,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71598,10.39605,110
+53428,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71614,10.3966,111
+53429,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71629,10.39732,112
+53430,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71652,10.39855,113
+53431,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71656,10.39883,114
+53432,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71661,10.39923,115
+53433,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71663,10.39955,116
+53434,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71664,10.39989,117
+53435,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71662,10.40025,118
+53436,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71658,10.40067,119
+53437,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71649,10.40126,120
+53438,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71641,10.40165,121
+53439,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71628,10.40215,122
+53440,Ristorante Il Rustichello - San Piero,Via Angelo Battelli 5,route_2071,43.71621,10.40211,123
+53441,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.69993,10.36235,0
+53442,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70092,10.36328,1
+53443,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70138,10.36374,2
+53444,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70163,10.36405,3
+53445,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.7018,10.36429,4
+53446,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.702,10.36461,5
+53447,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70212,10.36483,6
+53448,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70287,10.36639,7
+53449,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70296,10.3666,8
+53450,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70657,10.37427,9
+53451,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70716,10.37549,10
+53452,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.7073,10.37577,11
+53453,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.7073,10.37581,12
+53454,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70724,10.37581,13
+53455,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70718,10.37585,14
+53456,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70716,10.37589,15
+53457,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70714,10.37596,16
+53458,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.7071,10.37621,17
+53459,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70709,10.37626,18
+53460,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70705,10.37632,19
+53461,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70709,10.37641,20
+53462,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70712,10.37651,21
+53463,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70717,10.37679,22
+53464,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70724,10.37722,23
+53465,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70742,10.37855,24
+53466,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70748,10.37933,25
+53467,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70751,10.3801,26
+53468,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70753,10.38025,27
+53469,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70756,10.38038,28
+53470,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70756,10.38043,29
+53471,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70758,10.3805,30
+53472,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70762,10.38055,31
+53473,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70765,10.38056,32
+53474,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.7077,10.38063,33
+53475,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70776,10.38075,34
+53476,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70774,10.38085,35
+53477,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70773,10.3809,36
+53478,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70761,10.38117,37
+53479,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70758,10.38127,38
+53480,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70749,10.38169,39
+53481,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70748,10.38185,40
+53482,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.7075,10.38196,41
+53483,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70752,10.38206,42
+53484,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70756,10.38217,43
+53485,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70781,10.38262,44
+53486,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70787,10.38282,45
+53487,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70775,10.38295,46
+53488,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70772,10.38304,47
+53489,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70795,10.38358,48
+53490,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.7081,10.38398,49
+53491,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70832,10.38461,50
+53492,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.7085,10.38507,51
+53493,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.7086,10.38524,52
+53494,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70859,10.38532,53
+53495,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70861,10.38537,54
+53496,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70865,10.38544,55
+53497,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70871,10.38549,56
+53498,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70875,10.38551,57
+53499,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70879,10.38552,58
+53500,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70883,10.3855,59
+53501,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70888,10.38544,60
+53502,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70898,10.38537,61
+53503,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70908,10.38529,62
+53504,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70928,10.38523,63
+53505,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.70998,10.38502,64
+53506,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71043,10.3849,65
+53507,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71106,10.38465,66
+53508,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71172,10.38437,67
+53509,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71177,10.38437,68
+53510,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71182,10.38436,69
+53511,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71262,10.38783,70
+53512,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71273,10.38822,71
+53513,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71275,10.38828,72
+53514,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.7128,10.38836,73
+53515,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71286,10.38841,74
+53516,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71292,10.38844,75
+53517,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71297,10.38844,76
+53518,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71301,10.38844,77
+53519,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71319,10.38837,78
+53520,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71324,10.38836,79
+53521,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71326,10.38838,80
+53522,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71327,10.38842,81
+53523,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.7133,10.38857,82
+53524,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.7133,10.38862,83
+53525,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71335,10.38885,84
+53526,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71344,10.38914,85
+53527,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71369,10.38974,86
+53528,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.7137,10.38993,87
+53529,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71368,10.38996,88
+53530,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71368,10.39002,89
+53531,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71369,10.39007,90
+53532,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71372,10.3901,91
+53533,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71382,10.39015,92
+53534,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71385,10.39018,93
+53535,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71389,10.39027,94
+53536,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71393,10.3904,95
+53537,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71397,10.39056,96
+53538,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71399,10.39078,97
+53539,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71397,10.3909,98
+53540,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71394,10.39105,99
+53541,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71394,10.39118,100
+53542,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71395,10.39126,101
+53543,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.714,10.39148,102
+53544,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71406,10.39165,103
+53545,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71413,10.39183,104
+53546,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71451,10.39274,105
+53547,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71495,10.39362,106
+53548,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.7153,10.3943,107
+53549,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.7154,10.39451,108
+53550,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.7156,10.39498,109
+53551,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71581,10.39552,110
+53552,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71598,10.39605,111
+53553,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71614,10.3966,112
+53554,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71632,10.39747,113
+53555,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71652,10.39855,114
+53556,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71656,10.39883,115
+53557,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71661,10.39923,116
+53558,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71663,10.39955,117
+53559,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71664,10.39989,118
+53560,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71662,10.40025,119
+53561,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71658,10.40067,120
+53562,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71649,10.40126,121
+53563,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71641,10.40165,122
+53564,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71628,10.40215,123
+53565,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71557,10.40465,124
+53566,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71546,10.40496,125
+53567,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71525,10.40549,126
+53568,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71463,10.40691,127
+53569,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71497,10.40718,128
+53570,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71506,10.40689,129
+53571,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.7152,10.40696,130
+53572,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71554,10.40711,131
+53573,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71614,10.40717,132
+53574,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71645,10.40719,133
+53575,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71652,10.40718,134
+53576,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71635,10.4062,135
+53577,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71635,10.40613,136
+53578,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71636,10.40594,137
+53579,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71636,10.40574,138
+53580,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71635,10.40554,139
+53581,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71635,10.4053,140
+53582,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71641,10.40425,141
+53583,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71691,10.40421,142
+53584,Ristorante Il Rustichello - San Piero,Via Gabriele Vettori 18,route_2072,43.71689,10.40402,143
+53585,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.69993,10.36235,0
+53586,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70092,10.36328,1
+53587,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70138,10.36374,2
+53588,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70163,10.36405,3
+53589,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.7018,10.36429,4
+53590,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.702,10.36461,5
+53591,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70212,10.36483,6
+53592,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70287,10.36639,7
+53593,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70296,10.3666,8
+53594,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70657,10.37427,9
+53595,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70716,10.37549,10
+53596,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.7073,10.37577,11
+53597,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.7073,10.37581,12
+53598,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70724,10.37581,13
+53599,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70718,10.37585,14
+53600,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70716,10.37589,15
+53601,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70714,10.37596,16
+53602,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.7071,10.37621,17
+53603,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70709,10.37626,18
+53604,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70705,10.37632,19
+53605,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70709,10.37641,20
+53606,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70712,10.37651,21
+53607,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70717,10.37679,22
+53608,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70724,10.37722,23
+53609,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70742,10.37855,24
+53610,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70748,10.37933,25
+53611,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70751,10.3801,26
+53612,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70753,10.38025,27
+53613,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70756,10.38038,28
+53614,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70756,10.38043,29
+53615,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70758,10.3805,30
+53616,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70762,10.38055,31
+53617,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70765,10.38056,32
+53618,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.7077,10.38063,33
+53619,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70776,10.38075,34
+53620,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70774,10.38085,35
+53621,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70773,10.3809,36
+53622,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70761,10.38117,37
+53623,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70758,10.38127,38
+53624,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70749,10.38169,39
+53625,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70748,10.38185,40
+53626,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.7075,10.38196,41
+53627,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70752,10.38206,42
+53628,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70756,10.38217,43
+53629,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70781,10.38262,44
+53630,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70787,10.38282,45
+53631,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70775,10.38295,46
+53632,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70772,10.38304,47
+53633,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70795,10.38358,48
+53634,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.7081,10.38398,49
+53635,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70832,10.38461,50
+53636,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.7085,10.38507,51
+53637,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.7086,10.38524,52
+53638,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70859,10.38532,53
+53639,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70861,10.38537,54
+53640,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70865,10.38544,55
+53641,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70871,10.38549,56
+53642,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70875,10.38551,57
+53643,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70879,10.38552,58
+53644,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70883,10.3855,59
+53645,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70888,10.38544,60
+53646,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70898,10.38537,61
+53647,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70908,10.38529,62
+53648,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70928,10.38523,63
+53649,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.70998,10.38502,64
+53650,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71043,10.3849,65
+53651,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71106,10.38465,66
+53652,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71172,10.38437,67
+53653,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71177,10.38437,68
+53654,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71182,10.38436,69
+53655,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71262,10.38783,70
+53656,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71273,10.38822,71
+53657,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71275,10.38828,72
+53658,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.7128,10.38836,73
+53659,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71286,10.38841,74
+53660,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71292,10.38844,75
+53661,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71297,10.38844,76
+53662,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71301,10.38844,77
+53663,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71319,10.38837,78
+53664,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71324,10.38836,79
+53665,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71326,10.38838,80
+53666,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71327,10.38842,81
+53667,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.7133,10.38857,82
+53668,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.7133,10.38862,83
+53669,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71335,10.38885,84
+53670,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71344,10.38914,85
+53671,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71369,10.38974,86
+53672,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.7137,10.38993,87
+53673,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71368,10.38996,88
+53674,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71368,10.39002,89
+53675,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71369,10.39007,90
+53676,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71372,10.3901,91
+53677,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71382,10.39015,92
+53678,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71385,10.39018,93
+53679,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71389,10.39027,94
+53680,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71393,10.3904,95
+53681,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71397,10.39056,96
+53682,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71399,10.39078,97
+53683,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71397,10.3909,98
+53684,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71394,10.39105,99
+53685,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71394,10.39118,100
+53686,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71395,10.39126,101
+53687,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.714,10.39148,102
+53688,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71406,10.39165,103
+53689,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71413,10.39183,104
+53690,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71451,10.39274,105
+53691,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71495,10.39362,106
+53692,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.7153,10.3943,107
+53693,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.7154,10.39451,108
+53694,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.7156,10.39498,109
+53695,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71581,10.39552,110
+53696,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71598,10.39605,111
+53697,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71614,10.3966,112
+53698,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71632,10.39747,113
+53699,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71652,10.39855,114
+53700,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71656,10.39883,115
+53701,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71661,10.39923,116
+53702,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71663,10.39955,117
+53703,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71664,10.39989,118
+53704,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71662,10.40025,119
+53705,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71658,10.40067,120
+53706,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71649,10.40126,121
+53707,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71641,10.40165,122
+53708,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71628,10.40215,123
+53709,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71557,10.40465,124
+53710,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71546,10.40496,125
+53711,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71525,10.40549,126
+53712,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71463,10.40691,127
+53713,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71497,10.40718,128
+53714,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71506,10.40689,129
+53715,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.7152,10.40696,130
+53716,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71554,10.40711,131
+53717,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71614,10.40717,132
+53718,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71645,10.40719,133
+53719,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71652,10.40718,134
+53720,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71635,10.4062,135
+53721,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71635,10.40613,136
+53722,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71636,10.40594,137
+53723,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71747,10.40586,138
+53724,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.7178,10.40585,139
+53725,Ristorante Il Rustichello - San Piero,Facolta di Ingegneria Polo A,route_2073,43.71799,10.40583,140
+53726,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.69993,10.36235,0
+53727,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70092,10.36328,1
+53728,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70138,10.36374,2
+53729,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70163,10.36405,3
+53730,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7018,10.36429,4
+53731,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.702,10.36461,5
+53732,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70212,10.36483,6
+53733,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70287,10.36639,7
+53734,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70296,10.3666,8
+53735,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70657,10.37427,9
+53736,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70716,10.37549,10
+53737,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7073,10.37577,11
+53738,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7073,10.37581,12
+53739,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70724,10.37581,13
+53740,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70718,10.37585,14
+53741,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70716,10.37589,15
+53742,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70714,10.37596,16
+53743,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7071,10.37621,17
+53744,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70709,10.37626,18
+53745,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70705,10.37632,19
+53746,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70709,10.37641,20
+53747,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70712,10.37651,21
+53748,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70717,10.37679,22
+53749,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70724,10.37722,23
+53750,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70742,10.37855,24
+53751,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70748,10.37933,25
+53752,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70751,10.3801,26
+53753,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70753,10.38025,27
+53754,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70756,10.38038,28
+53755,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70756,10.38043,29
+53756,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70758,10.3805,30
+53757,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70762,10.38055,31
+53758,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70765,10.38056,32
+53759,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7077,10.38063,33
+53760,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70776,10.38075,34
+53761,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70774,10.38085,35
+53762,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70773,10.3809,36
+53763,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70761,10.38117,37
+53764,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70758,10.38127,38
+53765,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70749,10.38169,39
+53766,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70748,10.38185,40
+53767,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7075,10.38196,41
+53768,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70752,10.38206,42
+53769,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70756,10.38217,43
+53770,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70781,10.38262,44
+53771,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70787,10.38282,45
+53772,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70775,10.38295,46
+53773,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70772,10.38304,47
+53774,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70795,10.38358,48
+53775,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7081,10.38398,49
+53776,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70832,10.38461,50
+53777,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7085,10.38507,51
+53778,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7086,10.38524,52
+53779,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70859,10.38532,53
+53780,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70861,10.38537,54
+53781,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70865,10.38544,55
+53782,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70871,10.38549,56
+53783,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70875,10.38551,57
+53784,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70879,10.38552,58
+53785,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70883,10.3855,59
+53786,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70888,10.38544,60
+53787,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70898,10.38537,61
+53788,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70908,10.38529,62
+53789,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70928,10.38523,63
+53790,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.70998,10.38502,64
+53791,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71043,10.3849,65
+53792,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71106,10.38465,66
+53793,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71172,10.38437,67
+53794,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71177,10.38437,68
+53795,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71182,10.38436,69
+53796,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71262,10.38783,70
+53797,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71273,10.38822,71
+53798,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71275,10.38828,72
+53799,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7128,10.38836,73
+53800,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71286,10.38841,74
+53801,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71292,10.38844,75
+53802,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71297,10.38844,76
+53803,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71301,10.38844,77
+53804,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71319,10.38837,78
+53805,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71324,10.38836,79
+53806,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71326,10.38838,80
+53807,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71327,10.38842,81
+53808,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7133,10.38857,82
+53809,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7133,10.38862,83
+53810,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71335,10.38885,84
+53811,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71344,10.38914,85
+53812,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71369,10.38974,86
+53813,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7137,10.38993,87
+53814,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71368,10.38996,88
+53815,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71368,10.39002,89
+53816,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71369,10.39007,90
+53817,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71372,10.3901,91
+53818,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71382,10.39015,92
+53819,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71385,10.39018,93
+53820,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71389,10.39027,94
+53821,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71393,10.3904,95
+53822,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71397,10.39056,96
+53823,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71399,10.39078,97
+53824,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71397,10.3909,98
+53825,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71394,10.39105,99
+53826,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71394,10.39118,100
+53827,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71395,10.39126,101
+53828,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.714,10.39148,102
+53829,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71406,10.39165,103
+53830,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71413,10.39183,104
+53831,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71451,10.39274,105
+53832,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71495,10.39362,106
+53833,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7153,10.3943,107
+53834,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7154,10.39451,108
+53835,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7156,10.39498,109
+53836,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71581,10.39552,110
+53837,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71598,10.39605,111
+53838,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71614,10.3966,112
+53839,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71632,10.39747,113
+53840,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71652,10.39855,114
+53841,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71656,10.39883,115
+53842,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71661,10.39923,116
+53843,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71663,10.39955,117
+53844,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71664,10.39989,118
+53845,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71662,10.40025,119
+53846,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71658,10.40067,120
+53847,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71649,10.40126,121
+53848,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71641,10.40165,122
+53849,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71628,10.40215,123
+53850,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71557,10.40465,124
+53851,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71546,10.40496,125
+53852,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71525,10.40549,126
+53853,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71463,10.40691,127
+53854,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71428,10.40766,128
+53855,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71397,10.40838,129
+53856,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7139,10.40851,130
+53857,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7141,10.40867,131
+53858,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71421,10.40873,132
+53859,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7147,10.40895,133
+53860,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71478,10.40897,134
+53861,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71514,10.40902,135
+53862,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71597,10.40908,136
+53863,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71617,10.40905,137
+53864,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71637,10.40896,138
+53865,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7167,10.40875,139
+53866,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.7168,10.40872,140
+53867,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71686,10.40874,141
+53868,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71695,10.40879,142
+53869,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71862,10.41041,143
+53870,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71872,10.41046,144
+53871,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71879,10.41046,145
+53872,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71868,10.40905,146
+53873,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71855,10.40739,147
+53874,Ristorante Il Rustichello - San Piero,Polo Fibonacci,route_2074,43.71899,10.4074,148
+53875,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.69993,10.36235,0
+53876,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70092,10.36328,1
+53877,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70138,10.36374,2
+53878,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70163,10.36405,3
+53879,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.7018,10.36429,4
+53880,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.702,10.36461,5
+53881,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70212,10.36483,6
+53882,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70287,10.36639,7
+53883,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70296,10.3666,8
+53884,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70657,10.37427,9
+53885,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70716,10.37549,10
+53886,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.7073,10.37577,11
+53887,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.7073,10.37581,12
+53888,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.7073,10.37586,13
+53889,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70734,10.37589,14
+53890,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70737,10.3759,15
+53891,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.7074,10.37588,16
+53892,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70741,10.37596,17
+53893,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70746,10.37614,18
+53894,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70769,10.37674,19
+53895,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70853,10.37878,20
+53896,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.7088,10.3794,21
+53897,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70885,10.37952,22
+53898,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.7095,10.38079,23
+53899,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70962,10.38108,24
+53900,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70958,10.38119,25
+53901,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.7096,10.38147,26
+53902,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70974,10.38154,27
+53903,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70983,10.38197,28
+53904,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71017,10.38365,29
+53905,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71018,10.38381,30
+53906,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71017,10.3839,31
+53907,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71015,10.38399,32
+53908,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71008,10.38418,33
+53909,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71006,10.38426,34
+53910,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71007,10.38451,35
+53911,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71006,10.38491,36
+53912,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71005,10.38526,37
+53913,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71002,10.38541,38
+53914,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70997,10.38565,39
+53915,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70995,10.38571,40
+53916,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70991,10.3857,41
+53917,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70989,10.38571,42
+53918,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70986,10.38575,43
+53919,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70985,10.38581,44
+53920,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70986,10.38586,45
+53921,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70989,10.3859,46
+53922,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70992,10.3859,47
+53923,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.70995,10.38612,48
+53924,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71045,10.38769,49
+53925,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71052,10.38788,50
+53926,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71068,10.38834,51
+53927,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71112,10.3897,52
+53928,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71157,10.39094,53
+53929,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71162,10.39112,54
+53930,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71163,10.39133,55
+53931,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71162,10.39139,56
+53932,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71158,10.39142,57
+53933,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71157,10.39144,58
+53934,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71156,10.39149,59
+53935,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71157,10.39155,60
+53936,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71159,10.39157,61
+53937,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71162,10.39159,62
+53938,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71164,10.39159,63
+53939,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71169,10.39172,64
+53940,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71173,10.3919,65
+53941,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71179,10.39268,66
+53942,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71123,10.39288,67
+53943,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71113,10.39479,68
+53944,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71098,10.39714,69
+53945,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71097,10.39725,70
+53946,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.711,10.39737,71
+53947,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71103,10.39742,72
+53948,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71106,10.39746,73
+53949,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71113,10.3974,74
+53950,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71115,10.39746,75
+53951,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71127,10.3976,76
+53952,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71141,10.39762,77
+53953,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71208,10.39753,78
+53954,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71262,10.39743,79
+53955,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.7124,10.39857,80
+53956,Ristorante Il Rustichello - San Piero,Stazione Leopolda,route_2075,43.71197,10.39863,81
+53957,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.69993,10.36235,0
+53958,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70092,10.36328,1
+53959,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70138,10.36374,2
+53960,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70163,10.36405,3
+53961,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.7018,10.36429,4
+53962,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.702,10.36461,5
+53963,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70212,10.36483,6
+53964,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70287,10.36639,7
+53965,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70296,10.3666,8
+53966,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70657,10.37427,9
+53967,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70716,10.37549,10
+53968,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.7073,10.37577,11
+53969,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.7073,10.37581,12
+53970,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.7073,10.37586,13
+53971,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70734,10.37589,14
+53972,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70737,10.3759,15
+53973,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.7074,10.37588,16
+53974,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70741,10.37596,17
+53975,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70746,10.37614,18
+53976,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70769,10.37674,19
+53977,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70853,10.37878,20
+53978,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.7088,10.3794,21
+53979,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70885,10.37952,22
+53980,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.7095,10.38079,23
+53981,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70962,10.38108,24
+53982,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70958,10.38119,25
+53983,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.7096,10.38147,26
+53984,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70974,10.38154,27
+53985,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70983,10.38197,28
+53986,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.71017,10.38365,29
+53987,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.71018,10.38381,30
+53988,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.71017,10.3839,31
+53989,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.71015,10.38399,32
+53990,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.71008,10.38418,33
+53991,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.71006,10.38426,34
+53992,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.71007,10.38451,35
+53993,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.71006,10.38491,36
+53994,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.71005,10.38526,37
+53995,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.71002,10.38541,38
+53996,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70997,10.38565,39
+53997,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70995,10.38571,40
+53998,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70991,10.3857,41
+53999,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70989,10.38571,42
+54000,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70986,10.38575,43
+54001,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70985,10.38581,44
+54002,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70986,10.38586,45
+54003,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70989,10.3859,46
+54004,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70992,10.3859,47
+54005,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.70995,10.38612,48
+54006,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.71012,10.38667,49
+54007,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.71045,10.38769,50
+54008,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.71052,10.38788,51
+54009,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.71068,10.38834,52
+54010,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.71113,10.38974,53
+54011,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.71103,10.38981,54
+54012,Ristorante Il Rustichello - San Piero,Stazione San Rossore,route_2076,43.71107,10.38995,55
+54013,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.69993,10.36235,0
+54014,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70092,10.36328,1
+54015,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70138,10.36374,2
+54016,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70163,10.36405,3
+54017,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.7018,10.36429,4
+54018,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.702,10.36461,5
+54019,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70212,10.36483,6
+54020,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70287,10.36639,7
+54021,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70296,10.3666,8
+54022,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70657,10.37427,9
+54023,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70716,10.37549,10
+54024,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.7073,10.37577,11
+54025,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.7073,10.37581,12
+54026,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.7073,10.37586,13
+54027,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70734,10.37589,14
+54028,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70737,10.3759,15
+54029,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.7074,10.37588,16
+54030,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70741,10.37596,17
+54031,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70746,10.37614,18
+54032,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70769,10.37674,19
+54033,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70853,10.37878,20
+54034,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.7088,10.3794,21
+54035,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70885,10.37952,22
+54036,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.7095,10.38079,23
+54037,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70962,10.38108,24
+54038,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70958,10.38119,25
+54039,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.7096,10.38147,26
+54040,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70974,10.38154,27
+54041,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70983,10.38197,28
+54042,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.71017,10.38365,29
+54043,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.71018,10.38381,30
+54044,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.71017,10.3839,31
+54045,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.71015,10.38399,32
+54046,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.71008,10.38418,33
+54047,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.71006,10.38426,34
+54048,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.71007,10.38451,35
+54049,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.71006,10.38491,36
+54050,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.71005,10.38526,37
+54051,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.71002,10.38541,38
+54052,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70997,10.38565,39
+54053,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70995,10.38571,40
+54054,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70991,10.3857,41
+54055,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70989,10.38571,42
+54056,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70986,10.38575,43
+54057,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70985,10.38581,44
+54058,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70986,10.38586,45
+54059,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70977,10.38592,46
+54060,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70908,10.38601,47
+54061,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70978,10.38807,48
+54062,Ristorante Il Rustichello - San Piero,Parco San Rossore,route_2077,43.70999,10.38795,49

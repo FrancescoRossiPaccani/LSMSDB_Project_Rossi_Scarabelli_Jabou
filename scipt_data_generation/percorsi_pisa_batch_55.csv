@@ -1,0 +1,747 @@
+id,start,end,route_id,lat,lon,idx
+39972,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71316,10.40636,0
+39973,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71352,10.40647,1
+39974,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.7136,10.40622,2
+39975,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71372,10.40591,3
+39976,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.7139,10.40551,4
+39977,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71412,10.40501,5
+39978,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71493,10.40327,6
+39979,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71519,10.40267,7
+39980,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.7154,10.40214,8
+39981,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71555,10.40168,9
+39982,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71628,10.40215,10
+39983,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71557,10.40465,11
+39984,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71546,10.40496,12
+39985,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71525,10.40549,13
+39986,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71463,10.40691,14
+39987,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71415,10.40796,15
+39988,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71397,10.40838,16
+39989,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71384,10.40863,17
+39990,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71382,10.40869,18
+39991,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71375,10.40881,19
+39992,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71363,10.40896,20
+39993,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71343,10.40916,21
+39994,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71329,10.40926,22
+39995,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71311,10.40938,23
+39996,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71297,10.40944,24
+39997,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71286,10.40947,25
+39998,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71141,10.40947,26
+39999,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71076,10.40944,27
+40000,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71059,10.40962,28
+40001,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71028,10.41003,29
+40002,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.7102,10.41008,30
+40003,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71011,10.41009,31
+40004,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71006,10.41009,32
+40005,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71002,10.41005,33
+40006,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.70996,10.41004,34
+40007,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.70992,10.41005,35
+40008,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.70987,10.41009,36
+40009,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.70983,10.41016,37
+40010,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.70982,10.41022,38
+40011,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.70983,10.4103,39
+40012,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.70985,10.41035,40
+40013,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.70988,10.4104,41
+40014,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.70993,10.41076,42
+40015,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.7099,10.41147,43
+40016,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.70991,10.41172,44
+40017,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.70992,10.41199,45
+40018,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.70997,10.41245,46
+40019,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71037,10.41529,47
+40020,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71068,10.41746,48
+40021,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71085,10.41915,49
+40022,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71078,10.41912,50
+40023,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71051,10.41919,51
+40024,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.71025,10.41928,52
+40025,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.70985,10.41949,53
+40026,Via Montanelli 66,Ristorante Tuscany 2,route_1620,43.70994,10.42005,54
+40027,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71316,10.40636,0
+40028,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71352,10.40647,1
+40029,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.7136,10.40622,2
+40030,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71372,10.40591,3
+40031,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.7139,10.40551,4
+40032,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71412,10.40501,5
+40033,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71493,10.40327,6
+40034,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71519,10.40267,7
+40035,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.7154,10.40214,8
+40036,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71555,10.40168,9
+40037,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71628,10.40215,10
+40038,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71557,10.40465,11
+40039,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71546,10.40496,12
+40040,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71525,10.40549,13
+40041,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71463,10.40691,14
+40042,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71415,10.40796,15
+40043,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71397,10.40838,16
+40044,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71384,10.40863,17
+40045,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71382,10.40869,18
+40046,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71375,10.40881,19
+40047,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71363,10.40896,20
+40048,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71343,10.40916,21
+40049,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71329,10.40926,22
+40050,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71311,10.40938,23
+40051,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71297,10.40944,24
+40052,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71286,10.40947,25
+40053,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71141,10.40947,26
+40054,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71076,10.40944,27
+40055,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71059,10.40962,28
+40056,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71028,10.41003,29
+40057,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.7102,10.41008,30
+40058,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71011,10.41009,31
+40059,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71006,10.41009,32
+40060,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.71002,10.41005,33
+40061,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70996,10.41004,34
+40062,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70992,10.41005,35
+40063,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70987,10.41009,36
+40064,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70983,10.41016,37
+40065,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70982,10.41022,38
+40066,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70983,10.4103,39
+40067,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70985,10.41035,40
+40068,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70988,10.4104,41
+40069,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70993,10.41076,42
+40070,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.7099,10.41147,43
+40071,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70991,10.41172,44
+40072,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70992,10.41199,45
+40073,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.7098,10.41201,46
+40074,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70964,10.41211,47
+40075,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70956,10.41218,48
+40076,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70912,10.41268,49
+40077,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70819,10.41357,50
+40078,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70812,10.41342,51
+40079,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70784,10.41271,52
+40080,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70752,10.41198,53
+40081,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70725,10.41239,54
+40082,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70714,10.4126,55
+40083,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.707,10.41288,56
+40084,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70682,10.41331,57
+40085,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70655,10.4141,58
+40086,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70644,10.41447,59
+40087,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70636,10.41485,60
+40088,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.7063,10.41518,61
+40089,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70662,10.41532,62
+40090,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70665,10.41537,63
+40091,Via Montanelli 66,Euronics Pisa Cisanello,route_1621,43.70685,10.41483,64
+40092,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71316,10.40636,0
+40093,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71352,10.40647,1
+40094,Via Montanelli 66,Hotel San Ranieri,route_1622,43.7136,10.40622,2
+40095,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71372,10.40591,3
+40096,Via Montanelli 66,Hotel San Ranieri,route_1622,43.7139,10.40551,4
+40097,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71412,10.40501,5
+40098,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71493,10.40327,6
+40099,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71519,10.40267,7
+40100,Via Montanelli 66,Hotel San Ranieri,route_1622,43.7154,10.40214,8
+40101,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71555,10.40168,9
+40102,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71628,10.40215,10
+40103,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71557,10.40465,11
+40104,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71546,10.40496,12
+40105,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71525,10.40549,13
+40106,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71463,10.40691,14
+40107,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71415,10.40796,15
+40108,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71397,10.40838,16
+40109,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71384,10.40863,17
+40110,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71382,10.40869,18
+40111,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71375,10.40881,19
+40112,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71363,10.40896,20
+40113,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71343,10.40916,21
+40114,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71329,10.40926,22
+40115,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71311,10.40938,23
+40116,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71297,10.40944,24
+40117,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71286,10.40947,25
+40118,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71141,10.40947,26
+40119,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71076,10.40944,27
+40120,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71059,10.40962,28
+40121,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71028,10.41003,29
+40122,Via Montanelli 66,Hotel San Ranieri,route_1622,43.7102,10.41008,30
+40123,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71011,10.41009,31
+40124,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71006,10.41009,32
+40125,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71002,10.41005,33
+40126,Via Montanelli 66,Hotel San Ranieri,route_1622,43.70996,10.41004,34
+40127,Via Montanelli 66,Hotel San Ranieri,route_1622,43.70992,10.41005,35
+40128,Via Montanelli 66,Hotel San Ranieri,route_1622,43.70987,10.41009,36
+40129,Via Montanelli 66,Hotel San Ranieri,route_1622,43.70983,10.41016,37
+40130,Via Montanelli 66,Hotel San Ranieri,route_1622,43.70982,10.41022,38
+40131,Via Montanelli 66,Hotel San Ranieri,route_1622,43.70983,10.4103,39
+40132,Via Montanelli 66,Hotel San Ranieri,route_1622,43.70985,10.41035,40
+40133,Via Montanelli 66,Hotel San Ranieri,route_1622,43.70988,10.4104,41
+40134,Via Montanelli 66,Hotel San Ranieri,route_1622,43.70993,10.41076,42
+40135,Via Montanelli 66,Hotel San Ranieri,route_1622,43.7099,10.41147,43
+40136,Via Montanelli 66,Hotel San Ranieri,route_1622,43.70991,10.41172,44
+40137,Via Montanelli 66,Hotel San Ranieri,route_1622,43.70992,10.41199,45
+40138,Via Montanelli 66,Hotel San Ranieri,route_1622,43.70997,10.41245,46
+40139,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71037,10.41529,47
+40140,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71068,10.41746,48
+40141,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71091,10.41974,49
+40142,Via Montanelli 66,Hotel San Ranieri,route_1622,43.7109,10.4199,50
+40143,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71092,10.4202,51
+40144,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71094,10.42031,52
+40145,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71098,10.42043,53
+40146,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71101,10.42058,54
+40147,Via Montanelli 66,Hotel San Ranieri,route_1622,43.711,10.42062,55
+40148,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71101,10.42067,56
+40149,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71103,10.4207,57
+40150,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71105,10.42071,58
+40151,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71109,10.4207,59
+40152,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71111,10.42068,60
+40153,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71223,10.42094,61
+40154,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71242,10.4202,62
+40155,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71277,10.42033,63
+40156,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71319,10.42041,64
+40157,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71322,10.42041,65
+40158,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71328,10.42038,66
+40159,Via Montanelli 66,Hotel San Ranieri,route_1622,43.7133,10.42035,67
+40160,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71332,10.42025,68
+40161,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71343,10.42016,69
+40162,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71439,10.42038,70
+40163,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71422,10.4206,71
+40164,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71414,10.42117,72
+40165,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71446,10.42125,73
+40166,Via Montanelli 66,Hotel San Ranieri,route_1622,43.71451,10.4208,74
+40167,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71316,10.40636,0
+40168,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71352,10.40647,1
+40169,Via Montanelli 66,Esselunga Cisanello,route_1623,43.7136,10.40622,2
+40170,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71372,10.40591,3
+40171,Via Montanelli 66,Esselunga Cisanello,route_1623,43.7139,10.40551,4
+40172,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71412,10.40501,5
+40173,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71493,10.40327,6
+40174,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71519,10.40267,7
+40175,Via Montanelli 66,Esselunga Cisanello,route_1623,43.7154,10.40214,8
+40176,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71555,10.40168,9
+40177,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71628,10.40215,10
+40178,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71557,10.40465,11
+40179,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71546,10.40496,12
+40180,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71525,10.40549,13
+40181,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71463,10.40691,14
+40182,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71415,10.40796,15
+40183,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71397,10.40838,16
+40184,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71384,10.40863,17
+40185,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71382,10.40869,18
+40186,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71375,10.40881,19
+40187,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71363,10.40896,20
+40188,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71343,10.40916,21
+40189,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71329,10.40926,22
+40190,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71311,10.40938,23
+40191,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71297,10.40944,24
+40192,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71286,10.40947,25
+40193,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71141,10.40947,26
+40194,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71076,10.40944,27
+40195,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71059,10.40962,28
+40196,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71028,10.41003,29
+40197,Via Montanelli 66,Esselunga Cisanello,route_1623,43.7102,10.41008,30
+40198,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71011,10.41009,31
+40199,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71006,10.41009,32
+40200,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71002,10.41005,33
+40201,Via Montanelli 66,Esselunga Cisanello,route_1623,43.70996,10.41004,34
+40202,Via Montanelli 66,Esselunga Cisanello,route_1623,43.70992,10.41005,35
+40203,Via Montanelli 66,Esselunga Cisanello,route_1623,43.70987,10.41009,36
+40204,Via Montanelli 66,Esselunga Cisanello,route_1623,43.70983,10.41016,37
+40205,Via Montanelli 66,Esselunga Cisanello,route_1623,43.70982,10.41022,38
+40206,Via Montanelli 66,Esselunga Cisanello,route_1623,43.70983,10.4103,39
+40207,Via Montanelli 66,Esselunga Cisanello,route_1623,43.70985,10.41035,40
+40208,Via Montanelli 66,Esselunga Cisanello,route_1623,43.70988,10.4104,41
+40209,Via Montanelli 66,Esselunga Cisanello,route_1623,43.70993,10.41076,42
+40210,Via Montanelli 66,Esselunga Cisanello,route_1623,43.7099,10.41147,43
+40211,Via Montanelli 66,Esselunga Cisanello,route_1623,43.70991,10.41172,44
+40212,Via Montanelli 66,Esselunga Cisanello,route_1623,43.70992,10.41199,45
+40213,Via Montanelli 66,Esselunga Cisanello,route_1623,43.70997,10.41245,46
+40214,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71037,10.41529,47
+40215,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71068,10.41746,48
+40216,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71091,10.41974,49
+40217,Via Montanelli 66,Esselunga Cisanello,route_1623,43.7109,10.4199,50
+40218,Via Montanelli 66,Esselunga Cisanello,route_1623,43.71092,10.42019,51
+40219,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71316,10.40636,0
+40220,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71352,10.40647,1
+40221,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.7136,10.40622,2
+40222,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71372,10.40591,3
+40223,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.7139,10.40551,4
+40224,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71412,10.40501,5
+40225,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71493,10.40327,6
+40226,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71526,10.4025,7
+40227,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.7154,10.40214,8
+40228,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71551,10.40181,9
+40229,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71566,10.40129,10
+40230,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.7157,10.40111,11
+40231,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71576,10.40067,12
+40232,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.7158,10.40037,13
+40233,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71583,10.39998,14
+40234,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71583,10.39968,15
+40235,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.7158,10.39919,16
+40236,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71577,10.39888,17
+40237,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71571,10.39854,18
+40238,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71565,10.39827,19
+40239,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71557,10.39791,20
+40240,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71542,10.39746,21
+40241,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71511,10.3966,22
+40242,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71508,10.39645,23
+40243,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71496,10.39619,24
+40244,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71472,10.39571,25
+40245,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.7156,10.39498,26
+40246,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.7154,10.39451,27
+40247,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.7153,10.3943,28
+40248,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71495,10.39362,29
+40249,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71451,10.39274,30
+40250,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71413,10.39183,31
+40251,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71406,10.39165,32
+40252,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71405,10.39151,33
+40253,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71401,10.39126,34
+40254,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71401,10.39117,35
+40255,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71407,10.39084,36
+40256,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71408,10.39068,37
+40257,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71401,10.39043,38
+40258,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71385,10.39001,39
+40259,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71384,10.38995,40
+40260,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71376,10.38983,41
+40261,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71371,10.38969,42
+40262,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71353,10.38923,43
+40263,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71345,10.38902,44
+40264,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71344,10.38891,45
+40265,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71346,10.38884,46
+40266,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71345,10.38878,47
+40267,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71344,10.38876,48
+40268,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71337,10.38865,49
+40269,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.7133,10.3884,50
+40270,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71328,10.38836,51
+40271,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71324,10.38836,52
+40272,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71319,10.38837,53
+40273,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71301,10.38844,54
+40274,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71297,10.38844,55
+40275,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71292,10.38844,56
+40276,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71286,10.38841,57
+40277,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.7128,10.38836,58
+40278,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71275,10.38828,59
+40279,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71273,10.38822,60
+40280,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71262,10.38783,61
+40281,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71182,10.38436,62
+40282,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71224,10.38411,63
+40283,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71258,10.38383,64
+40284,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71262,10.38381,65
+40285,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71273,10.3838,66
+40286,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71279,10.38379,67
+40287,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71284,10.38375,68
+40288,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71287,10.38369,69
+40289,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71288,10.38361,70
+40290,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71288,10.38358,71
+40291,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71286,10.38351,72
+40292,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71285,10.38347,73
+40293,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.7128,10.38342,74
+40294,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71277,10.38341,75
+40295,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71271,10.3834,76
+40296,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71267,10.38342,77
+40297,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71264,10.38346,78
+40298,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71262,10.38349,79
+40299,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.7126,10.38353,80
+40300,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71259,10.3836,81
+40301,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71256,10.3837,82
+40302,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71252,10.38376,83
+40303,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71243,10.38387,84
+40304,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71233,10.38396,85
+40305,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71215,10.3841,86
+40306,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71177,10.38429,87
+40307,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71172,10.38437,88
+40308,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71106,10.38465,89
+40309,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.71043,10.3849,90
+40310,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70998,10.38502,91
+40311,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70928,10.38523,92
+40312,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70908,10.38529,93
+40313,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70895,10.38528,94
+40314,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70886,10.38525,95
+40315,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70882,10.38519,96
+40316,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70878,10.38515,97
+40317,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70871,10.38514,98
+40318,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70865,10.38515,99
+40319,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70861,10.3852,100
+40320,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70859,10.38527,101
+40321,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70852,10.38534,102
+40322,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70847,10.38539,103
+40323,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70842,10.38541,104
+40324,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70751,10.38564,105
+40325,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70737,10.38569,106
+40326,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70729,10.38573,107
+40327,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70409,10.38652,108
+40328,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70371,10.3866,109
+40329,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70339,10.38672,110
+40330,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70325,10.38673,111
+40331,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.7031,10.3867,112
+40332,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70306,10.38666,113
+40333,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70303,10.38665,114
+40334,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70297,10.38666,115
+40335,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70292,10.3867,116
+40336,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70289,10.38677,117
+40337,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70289,10.38685,118
+40338,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70284,10.38717,119
+40339,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70281,10.38728,120
+40340,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70279,10.38731,121
+40341,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70243,10.38759,122
+40342,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70218,10.38777,123
+40343,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70152,10.38831,124
+40344,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.7013,10.38846,125
+40345,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70116,10.38855,126
+40346,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70098,10.38865,127
+40347,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70059,10.38883,128
+40348,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.70017,10.38897,129
+40349,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69995,10.38902,130
+40350,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69977,10.38903,131
+40351,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69955,10.38901,132
+40352,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69951,10.38899,133
+40353,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69947,10.38899,134
+40354,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69944,10.389,135
+40355,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.6994,10.38904,136
+40356,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.6992,10.38905,137
+40357,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69895,10.38902,138
+40358,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69871,10.38897,139
+40359,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.6985,10.38892,140
+40360,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69794,10.38869,141
+40361,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69779,10.38864,142
+40362,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69653,10.38806,143
+40363,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69642,10.38798,144
+40364,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69637,10.38793,145
+40365,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69631,10.38782,146
+40366,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69629,10.38777,147
+40367,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69626,10.38767,148
+40368,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69619,10.38759,149
+40369,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69611,10.38755,150
+40370,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69602,10.38756,151
+40371,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69594,10.38762,152
+40372,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69591,10.38766,153
+40373,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69575,10.38767,154
+40374,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69557,10.38764,155
+40375,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69351,10.38675,156
+40376,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69179,10.38598,157
+40377,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69153,10.38584,158
+40378,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69145,10.38577,159
+40379,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69134,10.38566,160
+40380,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69113,10.38537,161
+40381,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.6911,10.3853,162
+40382,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69105,10.38526,163
+40383,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69101,10.38525,164
+40384,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69095,10.38527,165
+40385,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69054,10.38527,166
+40386,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69038,10.38522,167
+40387,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.69027,10.38517,168
+40388,Via Montanelli 66,Piscina Comunale Camalich,route_1624,43.6866,10.38313,169
+40389,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71316,10.40636,0
+40390,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71352,10.40647,1
+40391,Via Montanelli 66,Conad Pian di Marco,route_1625,43.7136,10.40622,2
+40392,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71372,10.40591,3
+40393,Via Montanelli 66,Conad Pian di Marco,route_1625,43.7139,10.40551,4
+40394,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71412,10.40501,5
+40395,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71493,10.40327,6
+40396,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71526,10.4025,7
+40397,Via Montanelli 66,Conad Pian di Marco,route_1625,43.7154,10.40214,8
+40398,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71551,10.40181,9
+40399,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71566,10.40129,10
+40400,Via Montanelli 66,Conad Pian di Marco,route_1625,43.7157,10.40111,11
+40401,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71576,10.40067,12
+40402,Via Montanelli 66,Conad Pian di Marco,route_1625,43.7158,10.40037,13
+40403,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71583,10.39998,14
+40404,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71583,10.39968,15
+40405,Via Montanelli 66,Conad Pian di Marco,route_1625,43.7158,10.39919,16
+40406,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71577,10.39888,17
+40407,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71571,10.39854,18
+40408,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71565,10.39827,19
+40409,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71557,10.39791,20
+40410,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71542,10.39746,21
+40411,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71511,10.3966,22
+40412,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71508,10.39645,23
+40413,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71496,10.39619,24
+40414,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71472,10.39571,25
+40415,Via Montanelli 66,Conad Pian di Marco,route_1625,43.7156,10.39498,26
+40416,Via Montanelli 66,Conad Pian di Marco,route_1625,43.7154,10.39451,27
+40417,Via Montanelli 66,Conad Pian di Marco,route_1625,43.7153,10.3943,28
+40418,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71495,10.39362,29
+40419,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71451,10.39274,30
+40420,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71413,10.39183,31
+40421,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71406,10.39165,32
+40422,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71405,10.39151,33
+40423,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71401,10.39126,34
+40424,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71401,10.39117,35
+40425,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71407,10.39084,36
+40426,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71408,10.39068,37
+40427,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71401,10.39043,38
+40428,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71385,10.39001,39
+40429,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71384,10.38995,40
+40430,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71376,10.38983,41
+40431,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71371,10.38969,42
+40432,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71353,10.38923,43
+40433,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71345,10.38902,44
+40434,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71344,10.38891,45
+40435,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71346,10.38884,46
+40436,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71345,10.38878,47
+40437,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71344,10.38876,48
+40438,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71337,10.38865,49
+40439,Via Montanelli 66,Conad Pian di Marco,route_1625,43.7133,10.3884,50
+40440,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71328,10.38836,51
+40441,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71324,10.38836,52
+40442,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71319,10.38837,53
+40443,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71301,10.38844,54
+40444,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71297,10.38844,55
+40445,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71292,10.38844,56
+40446,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71286,10.38841,57
+40447,Via Montanelli 66,Conad Pian di Marco,route_1625,43.7128,10.38836,58
+40448,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71275,10.38828,59
+40449,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71273,10.38822,60
+40450,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71262,10.38783,61
+40451,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71182,10.38436,62
+40452,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71224,10.38411,63
+40453,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71258,10.38383,64
+40454,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71262,10.38381,65
+40455,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71273,10.3838,66
+40456,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71279,10.38379,67
+40457,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71284,10.38375,68
+40458,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71287,10.38369,69
+40459,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71288,10.38361,70
+40460,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71288,10.38358,71
+40461,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71286,10.38351,72
+40462,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71285,10.38347,73
+40463,Via Montanelli 66,Conad Pian di Marco,route_1625,43.7128,10.38342,74
+40464,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71277,10.38341,75
+40465,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71271,10.3834,76
+40466,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71267,10.38342,77
+40467,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71264,10.38346,78
+40468,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71262,10.38349,79
+40469,Via Montanelli 66,Conad Pian di Marco,route_1625,43.7126,10.38353,80
+40470,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71259,10.3836,81
+40471,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71256,10.3837,82
+40472,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71252,10.38376,83
+40473,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71243,10.38387,84
+40474,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71233,10.38396,85
+40475,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71215,10.3841,86
+40476,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71177,10.38429,87
+40477,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71172,10.38437,88
+40478,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71106,10.38465,89
+40479,Via Montanelli 66,Conad Pian di Marco,route_1625,43.71043,10.3849,90
+40480,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70998,10.38502,91
+40481,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70928,10.38523,92
+40482,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70908,10.38529,93
+40483,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70895,10.38528,94
+40484,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70886,10.38525,95
+40485,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70882,10.38519,96
+40486,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70878,10.38515,97
+40487,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70871,10.38514,98
+40488,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70865,10.38515,99
+40489,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70861,10.3852,100
+40490,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70859,10.38527,101
+40491,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70852,10.38534,102
+40492,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70847,10.38539,103
+40493,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70842,10.38541,104
+40494,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70751,10.38564,105
+40495,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70737,10.38569,106
+40496,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70729,10.38573,107
+40497,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70409,10.38652,108
+40498,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70371,10.3866,109
+40499,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70339,10.38672,110
+40500,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70325,10.38673,111
+40501,Via Montanelli 66,Conad Pian di Marco,route_1625,43.7031,10.3867,112
+40502,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70306,10.38666,113
+40503,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70303,10.38665,114
+40504,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70297,10.38666,115
+40505,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70292,10.3867,116
+40506,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70289,10.38677,117
+40507,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70289,10.38685,118
+40508,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70284,10.38717,119
+40509,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70281,10.38728,120
+40510,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70279,10.38731,121
+40511,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70275,10.38734,122
+40512,Via Montanelli 66,Conad Pian di Marco,route_1625,43.70264,10.38743,123
+40513,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71316,10.40636,0
+40514,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71352,10.40647,1
+40515,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.7136,10.40622,2
+40516,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71372,10.40591,3
+40517,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.7139,10.40551,4
+40518,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71412,10.40501,5
+40519,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71493,10.40327,6
+40520,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71526,10.4025,7
+40521,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.7154,10.40214,8
+40522,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71551,10.40181,9
+40523,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71566,10.40129,10
+40524,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.7157,10.40111,11
+40525,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71576,10.40067,12
+40526,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.7158,10.40037,13
+40527,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71583,10.39998,14
+40528,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71583,10.39968,15
+40529,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.7158,10.39919,16
+40530,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71577,10.39888,17
+40531,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71571,10.39854,18
+40532,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71565,10.39827,19
+40533,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71557,10.39791,20
+40534,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71542,10.39746,21
+40535,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71511,10.3966,22
+40536,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71508,10.39645,23
+40537,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71496,10.39619,24
+40538,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71472,10.39571,25
+40539,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.7156,10.39498,26
+40540,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.7154,10.39451,27
+40541,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.7153,10.3943,28
+40542,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71495,10.39362,29
+40543,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71451,10.39274,30
+40544,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71413,10.39183,31
+40545,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71406,10.39165,32
+40546,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71405,10.39151,33
+40547,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71401,10.39126,34
+40548,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71401,10.39117,35
+40549,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71407,10.39084,36
+40550,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71408,10.39068,37
+40551,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71401,10.39043,38
+40552,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71385,10.39001,39
+40553,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71384,10.38995,40
+40554,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71376,10.38983,41
+40555,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71371,10.38969,42
+40556,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71353,10.38923,43
+40557,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71345,10.38902,44
+40558,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71344,10.38891,45
+40559,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71346,10.38884,46
+40560,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71345,10.38878,47
+40561,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71344,10.38876,48
+40562,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71337,10.38865,49
+40563,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.7133,10.3884,50
+40564,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71328,10.38836,51
+40565,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71324,10.38836,52
+40566,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71319,10.38837,53
+40567,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71301,10.38844,54
+40568,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71297,10.38844,55
+40569,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71292,10.38844,56
+40570,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71286,10.38841,57
+40571,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.7128,10.38836,58
+40572,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71275,10.38828,59
+40573,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71273,10.38822,60
+40574,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71262,10.38783,61
+40575,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71182,10.38436,62
+40576,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71224,10.38411,63
+40577,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71258,10.38383,64
+40578,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71262,10.38381,65
+40579,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71273,10.3838,66
+40580,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71279,10.38379,67
+40581,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71284,10.38375,68
+40582,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71287,10.38369,69
+40583,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71288,10.38361,70
+40584,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71288,10.38358,71
+40585,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71286,10.38351,72
+40586,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71285,10.38347,73
+40587,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.7128,10.38342,74
+40588,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71277,10.38341,75
+40589,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71271,10.3834,76
+40590,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71267,10.38342,77
+40591,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71264,10.38346,78
+40592,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71262,10.38349,79
+40593,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.7126,10.38353,80
+40594,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71259,10.3836,81
+40595,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71256,10.3837,82
+40596,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71252,10.38376,83
+40597,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71243,10.38387,84
+40598,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71233,10.38396,85
+40599,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71215,10.3841,86
+40600,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71177,10.38429,87
+40601,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71172,10.38437,88
+40602,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71106,10.38465,89
+40603,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.71043,10.3849,90
+40604,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70998,10.38502,91
+40605,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70928,10.38523,92
+40606,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70908,10.38529,93
+40607,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70895,10.38528,94
+40608,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70886,10.38525,95
+40609,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70882,10.38519,96
+40610,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70878,10.38515,97
+40611,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70871,10.38514,98
+40612,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70865,10.38515,99
+40613,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70861,10.3852,100
+40614,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70859,10.38527,101
+40615,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70852,10.38534,102
+40616,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70847,10.38539,103
+40617,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70842,10.38541,104
+40618,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70751,10.38564,105
+40619,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70737,10.38569,106
+40620,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70729,10.38573,107
+40621,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70409,10.38652,108
+40622,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70371,10.3866,109
+40623,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70339,10.38672,110
+40624,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70325,10.38673,111
+40625,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.7031,10.3867,112
+40626,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70306,10.38666,113
+40627,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70303,10.38665,114
+40628,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70297,10.38666,115
+40629,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70292,10.3867,116
+40630,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70289,10.38677,117
+40631,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70289,10.38685,118
+40632,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70284,10.38717,119
+40633,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70281,10.38728,120
+40634,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70279,10.38731,121
+40635,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70243,10.38759,122
+40636,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70218,10.38777,123
+40637,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70152,10.38831,124
+40638,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.7013,10.38846,125
+40639,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70116,10.38855,126
+40640,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70098,10.38865,127
+40641,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70059,10.38883,128
+40642,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.70017,10.38897,129
+40643,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69995,10.38902,130
+40644,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69977,10.38903,131
+40645,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69955,10.38901,132
+40646,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69951,10.38899,133
+40647,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69947,10.38899,134
+40648,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69944,10.389,135
+40649,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.6994,10.38904,136
+40650,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.6992,10.38905,137
+40651,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69895,10.38902,138
+40652,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69871,10.38897,139
+40653,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.6985,10.38892,140
+40654,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69794,10.38869,141
+40655,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69779,10.38864,142
+40656,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69653,10.38806,143
+40657,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69642,10.38798,144
+40658,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69637,10.38793,145
+40659,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69631,10.38782,146
+40660,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69629,10.38777,147
+40661,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69626,10.38767,148
+40662,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69619,10.38759,149
+40663,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69611,10.38755,150
+40664,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69602,10.38756,151
+40665,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69594,10.38762,152
+40666,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69591,10.38766,153
+40667,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69575,10.38767,154
+40668,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69557,10.38764,155
+40669,Via Montanelli 66,Hotel Galilei Pisa,route_1626,43.69324,10.38662,156
+40670,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71316,10.40636,0
+40671,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71352,10.40647,1
+40672,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.7136,10.40622,2
+40673,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71372,10.40591,3
+40674,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.7139,10.40551,4
+40675,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71412,10.40501,5
+40676,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71493,10.40327,6
+40677,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71519,10.40267,7
+40678,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.7154,10.40214,8
+40679,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71555,10.40168,9
+40680,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71628,10.40215,10
+40681,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71557,10.40465,11
+40682,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71546,10.40496,12
+40683,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71525,10.40549,13
+40684,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71463,10.40691,14
+40685,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71415,10.40796,15
+40686,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71397,10.40838,16
+40687,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71384,10.40863,17
+40688,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71382,10.40869,18
+40689,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71375,10.40881,19
+40690,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71363,10.40896,20
+40691,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71343,10.40916,21
+40692,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71329,10.40926,22
+40693,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71311,10.40938,23
+40694,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71297,10.40944,24
+40695,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71286,10.40947,25
+40696,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71141,10.40947,26
+40697,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71076,10.40944,27
+40698,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71059,10.40962,28
+40699,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71028,10.41003,29
+40700,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.7102,10.41008,30
+40701,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71011,10.41009,31
+40702,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71006,10.41009,32
+40703,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71002,10.41005,33
+40704,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.70996,10.41004,34
+40705,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.70992,10.41005,35
+40706,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.70987,10.41009,36
+40707,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.70983,10.41016,37
+40708,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.70982,10.41022,38
+40709,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.70983,10.4103,39
+40710,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.70985,10.41035,40
+40711,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.70988,10.4104,41
+40712,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.70993,10.41076,42
+40713,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.7099,10.41147,43
+40714,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.70991,10.41172,44
+40715,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.70992,10.41199,45
+40716,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.70997,10.41245,46
+40717,Via Montanelli 66,Pizzeria Pisanova,route_1627,43.71009,10.41323,47

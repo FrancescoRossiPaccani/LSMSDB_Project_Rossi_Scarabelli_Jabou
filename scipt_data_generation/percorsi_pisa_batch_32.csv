@@ -1,0 +1,654 @@
+id,start,end,route_id,lat,lon,idx
+22645,Ristorante Galileo,Via Montanelli 66,route_930,43.71048,10.41609,0
+22646,Ristorante Galileo,Via Montanelli 66,route_930,43.70997,10.41245,1
+22647,Ristorante Galileo,Via Montanelli 66,route_930,43.70992,10.41199,2
+22648,Ristorante Galileo,Via Montanelli 66,route_930,43.70991,10.41172,3
+22649,Ristorante Galileo,Via Montanelli 66,route_930,43.7099,10.41147,4
+22650,Ristorante Galileo,Via Montanelli 66,route_930,43.70993,10.41076,5
+22651,Ristorante Galileo,Via Montanelli 66,route_930,43.70994,10.41066,6
+22652,Ristorante Galileo,Via Montanelli 66,route_930,43.70995,10.41058,7
+22653,Ristorante Galileo,Via Montanelli 66,route_930,43.71002,10.41043,8
+22654,Ristorante Galileo,Via Montanelli 66,route_930,43.71006,10.4104,9
+22655,Ristorante Galileo,Via Montanelli 66,route_930,43.71008,10.41036,10
+22656,Ristorante Galileo,Via Montanelli 66,route_930,43.7101,10.41032,11
+22657,Ristorante Galileo,Via Montanelli 66,route_930,43.71011,10.41027,12
+22658,Ristorante Galileo,Via Montanelli 66,route_930,43.71011,10.41022,13
+22659,Ristorante Galileo,Via Montanelli 66,route_930,43.7101,10.41017,14
+22660,Ristorante Galileo,Via Montanelli 66,route_930,43.71009,10.41013,15
+22661,Ristorante Galileo,Via Montanelli 66,route_930,43.71006,10.41009,16
+22662,Ristorante Galileo,Via Montanelli 66,route_930,43.71002,10.41005,17
+22663,Ristorante Galileo,Via Montanelli 66,route_930,43.70998,10.40978,18
+22664,Ristorante Galileo,Via Montanelli 66,route_930,43.71007,10.40776,19
+22665,Ristorante Galileo,Via Montanelli 66,route_930,43.71014,10.40774,20
+22666,Ristorante Galileo,Via Montanelli 66,route_930,43.71018,10.40769,21
+22667,Ristorante Galileo,Via Montanelli 66,route_930,43.71019,10.40765,22
+22668,Ristorante Galileo,Via Montanelli 66,route_930,43.7102,10.4076,23
+22669,Ristorante Galileo,Via Montanelli 66,route_930,43.71019,10.40752,24
+22670,Ristorante Galileo,Via Montanelli 66,route_930,43.71017,10.40749,25
+22671,Ristorante Galileo,Via Montanelli 66,route_930,43.71014,10.40745,26
+22672,Ristorante Galileo,Via Montanelli 66,route_930,43.7101,10.40743,27
+22673,Ristorante Galileo,Via Montanelli 66,route_930,43.71008,10.40743,28
+22674,Ristorante Galileo,Via Montanelli 66,route_930,43.71015,10.4061,29
+22675,Ristorante Galileo,Via Montanelli 66,route_930,43.71019,10.4058,30
+22676,Ristorante Galileo,Via Montanelli 66,route_930,43.71021,10.40573,31
+22677,Ristorante Galileo,Via Montanelli 66,route_930,43.71027,10.40559,32
+22678,Ristorante Galileo,Via Montanelli 66,route_930,43.7104,10.4055,33
+22679,Ristorante Galileo,Via Montanelli 66,route_930,43.71043,10.40545,34
+22680,Ristorante Galileo,Via Montanelli 66,route_930,43.71044,10.40536,35
+22681,Ristorante Galileo,Via Montanelli 66,route_930,43.71044,10.4053,36
+22682,Ristorante Galileo,Via Montanelli 66,route_930,43.71044,10.40507,37
+22683,Ristorante Galileo,Via Montanelli 66,route_930,43.71053,10.40511,38
+22684,Ristorante Galileo,Via Montanelli 66,route_930,43.71123,10.40543,39
+22685,Ristorante Galileo,Via Montanelli 66,route_930,43.71133,10.40545,40
+22686,Ristorante Galileo,Via Montanelli 66,route_930,43.71143,10.40549,41
+22687,Ristorante Galileo,Via Montanelli 66,route_930,43.71169,10.4056,42
+22688,Ristorante Galileo,Via Montanelli 66,route_930,43.71176,10.40569,43
+22689,Ristorante Galileo,Via Montanelli 66,route_930,43.71192,10.40577,44
+22690,Ristorante Galileo,Via Montanelli 66,route_930,43.71316,10.40636,45
+22691,Ristorante Galileo,Ristorante Tuscany 2,route_931,43.71048,10.41609,0
+22692,Ristorante Galileo,Ristorante Tuscany 2,route_931,43.71068,10.41746,1
+22693,Ristorante Galileo,Ristorante Tuscany 2,route_931,43.71085,10.41915,2
+22694,Ristorante Galileo,Ristorante Tuscany 2,route_931,43.71078,10.41912,3
+22695,Ristorante Galileo,Ristorante Tuscany 2,route_931,43.71051,10.41919,4
+22696,Ristorante Galileo,Ristorante Tuscany 2,route_931,43.71025,10.41928,5
+22697,Ristorante Galileo,Ristorante Tuscany 2,route_931,43.70985,10.41949,6
+22698,Ristorante Galileo,Ristorante Tuscany 2,route_931,43.70994,10.42005,7
+22699,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.71048,10.41609,0
+22700,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70997,10.41245,1
+22701,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70992,10.41199,2
+22702,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70991,10.41172,3
+22703,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.7099,10.41147,4
+22704,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70993,10.41076,5
+22705,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70994,10.41066,6
+22706,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70995,10.41058,7
+22707,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.71002,10.41043,8
+22708,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.71006,10.4104,9
+22709,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.71008,10.41036,10
+22710,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.7101,10.41032,11
+22711,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.71011,10.41027,12
+22712,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.71011,10.41022,13
+22713,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.7101,10.41017,14
+22714,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.71009,10.41013,15
+22715,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.71006,10.41009,16
+22716,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.71002,10.41005,17
+22717,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70996,10.41004,18
+22718,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70992,10.41005,19
+22719,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70987,10.41009,20
+22720,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70983,10.41016,21
+22721,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70982,10.41022,22
+22722,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70983,10.4103,23
+22723,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70985,10.41035,24
+22724,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70988,10.4104,25
+22725,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70993,10.41076,26
+22726,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.7099,10.41147,27
+22727,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70991,10.41172,28
+22728,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70992,10.41199,29
+22729,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.7098,10.41201,30
+22730,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70964,10.41211,31
+22731,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70956,10.41218,32
+22732,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70912,10.41268,33
+22733,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70819,10.41357,34
+22734,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70812,10.41342,35
+22735,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70784,10.41271,36
+22736,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70752,10.41198,37
+22737,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70725,10.41239,38
+22738,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70714,10.4126,39
+22739,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.707,10.41288,40
+22740,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70682,10.41331,41
+22741,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70655,10.4141,42
+22742,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70644,10.41447,43
+22743,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70636,10.41485,44
+22744,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.7063,10.41518,45
+22745,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70662,10.41532,46
+22746,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70665,10.41537,47
+22747,Ristorante Galileo,Euronics Pisa Cisanello,route_932,43.70685,10.41483,48
+22748,Ristorante Galileo,Hotel San Ranieri,route_933,43.71048,10.41609,0
+22749,Ristorante Galileo,Hotel San Ranieri,route_933,43.71068,10.41746,1
+22750,Ristorante Galileo,Hotel San Ranieri,route_933,43.71091,10.41974,2
+22751,Ristorante Galileo,Hotel San Ranieri,route_933,43.7109,10.4199,3
+22752,Ristorante Galileo,Hotel San Ranieri,route_933,43.71092,10.4202,4
+22753,Ristorante Galileo,Hotel San Ranieri,route_933,43.71094,10.42031,5
+22754,Ristorante Galileo,Hotel San Ranieri,route_933,43.71098,10.42043,6
+22755,Ristorante Galileo,Hotel San Ranieri,route_933,43.71101,10.42058,7
+22756,Ristorante Galileo,Hotel San Ranieri,route_933,43.711,10.42062,8
+22757,Ristorante Galileo,Hotel San Ranieri,route_933,43.71101,10.42067,9
+22758,Ristorante Galileo,Hotel San Ranieri,route_933,43.71103,10.4207,10
+22759,Ristorante Galileo,Hotel San Ranieri,route_933,43.71105,10.42071,11
+22760,Ristorante Galileo,Hotel San Ranieri,route_933,43.71109,10.4207,12
+22761,Ristorante Galileo,Hotel San Ranieri,route_933,43.71111,10.42068,13
+22762,Ristorante Galileo,Hotel San Ranieri,route_933,43.71223,10.42094,14
+22763,Ristorante Galileo,Hotel San Ranieri,route_933,43.71242,10.4202,15
+22764,Ristorante Galileo,Hotel San Ranieri,route_933,43.71277,10.42033,16
+22765,Ristorante Galileo,Hotel San Ranieri,route_933,43.71319,10.42041,17
+22766,Ristorante Galileo,Hotel San Ranieri,route_933,43.71322,10.42041,18
+22767,Ristorante Galileo,Hotel San Ranieri,route_933,43.71328,10.42038,19
+22768,Ristorante Galileo,Hotel San Ranieri,route_933,43.7133,10.42035,20
+22769,Ristorante Galileo,Hotel San Ranieri,route_933,43.71332,10.42025,21
+22770,Ristorante Galileo,Hotel San Ranieri,route_933,43.71343,10.42016,22
+22771,Ristorante Galileo,Hotel San Ranieri,route_933,43.71439,10.42038,23
+22772,Ristorante Galileo,Hotel San Ranieri,route_933,43.71422,10.4206,24
+22773,Ristorante Galileo,Hotel San Ranieri,route_933,43.71414,10.42117,25
+22774,Ristorante Galileo,Hotel San Ranieri,route_933,43.71446,10.42125,26
+22775,Ristorante Galileo,Hotel San Ranieri,route_933,43.71451,10.4208,27
+22776,Ristorante Galileo,Esselunga Cisanello,route_934,43.71048,10.41609,0
+22777,Ristorante Galileo,Esselunga Cisanello,route_934,43.71068,10.41746,1
+22778,Ristorante Galileo,Esselunga Cisanello,route_934,43.71091,10.41974,2
+22779,Ristorante Galileo,Esselunga Cisanello,route_934,43.7109,10.4199,3
+22780,Ristorante Galileo,Esselunga Cisanello,route_934,43.71092,10.42019,4
+22781,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71048,10.41609,0
+22782,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70997,10.41245,1
+22783,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70992,10.41199,2
+22784,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70991,10.41172,3
+22785,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.7099,10.41147,4
+22786,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70993,10.41076,5
+22787,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70994,10.41066,6
+22788,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70995,10.41058,7
+22789,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71002,10.41043,8
+22790,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71006,10.4104,9
+22791,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71008,10.41036,10
+22792,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.7101,10.41032,11
+22793,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71011,10.41027,12
+22794,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71011,10.41022,13
+22795,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.7101,10.41017,14
+22796,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71009,10.41013,15
+22797,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71006,10.41009,16
+22798,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71002,10.41005,17
+22799,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70998,10.40978,18
+22800,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71007,10.40776,19
+22801,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71014,10.40774,20
+22802,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71018,10.40769,21
+22803,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71019,10.40765,22
+22804,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.7102,10.4076,23
+22805,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71019,10.40752,24
+22806,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71017,10.40749,25
+22807,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71014,10.40745,26
+22808,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.7101,10.40743,27
+22809,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71008,10.40743,28
+22810,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71015,10.4061,29
+22811,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71019,10.4058,30
+22812,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71021,10.40573,31
+22813,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71027,10.40559,32
+22814,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.7104,10.4055,33
+22815,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71043,10.40545,34
+22816,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71044,10.40536,35
+22817,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71044,10.4053,36
+22818,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71041,10.40524,37
+22819,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71035,10.4052,38
+22820,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.7103,10.4052,39
+22821,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71019,10.40527,40
+22822,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.7101,10.40527,41
+22823,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.71006,10.40525,42
+22824,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70988,10.40513,43
+22825,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70974,10.40502,44
+22826,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70967,10.40492,45
+22827,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70965,10.40486,46
+22828,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70975,10.40422,47
+22829,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70988,10.40324,48
+22830,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70958,10.40294,49
+22831,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70931,10.40264,50
+22832,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70908,10.40242,51
+22833,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.7087,10.40213,52
+22834,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70831,10.40184,53
+22835,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70795,10.40155,54
+22836,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70789,10.40152,55
+22837,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70786,10.40151,56
+22838,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.7078,10.40151,57
+22839,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70777,10.40153,58
+22840,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70771,10.40159,59
+22841,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70765,10.40172,60
+22842,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70712,10.40318,61
+22843,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70614,10.40251,62
+22844,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70553,10.40214,63
+22845,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70547,10.40207,64
+22846,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70535,10.40184,65
+22847,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.7053,10.40178,66
+22848,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70524,10.40171,67
+22849,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70471,10.40133,68
+22850,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70455,10.40124,69
+22851,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70276,10.40076,70
+22852,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70252,10.40069,71
+22853,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70247,10.40067,72
+22854,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70244,10.40064,73
+22855,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70245,10.40061,74
+22856,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70245,10.40056,75
+22857,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70244,10.40052,76
+22858,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.7024,10.40047,77
+22859,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70237,10.40046,78
+22860,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70234,10.40046,79
+22861,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70231,10.40048,80
+22862,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70229,10.40051,81
+22863,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70228,10.40054,82
+22864,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70227,10.40058,83
+22865,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70215,10.40059,84
+22866,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.7018,10.40051,85
+22867,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70155,10.40042,86
+22868,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70036,10.3998,87
+22869,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70022,10.39969,88
+22870,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.70002,10.39958,89
+22871,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69981,10.39948,90
+22872,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69978,10.39945,91
+22873,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69975,10.39939,92
+22874,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69973,10.39932,93
+22875,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69971,10.39917,94
+22876,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69979,10.39842,95
+22877,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69985,10.39803,96
+22878,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69986,10.39795,97
+22879,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69986,10.39785,98
+22880,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69985,10.39773,99
+22881,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69981,10.39763,100
+22882,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69966,10.39739,101
+22883,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69957,10.39741,102
+22884,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69949,10.39741,103
+22885,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69919,10.39734,104
+22886,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69894,10.39734,105
+22887,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69887,10.39731,106
+22888,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69883,10.39727,107
+22889,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69882,10.39713,108
+22890,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69886,10.39679,109
+22891,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69889,10.39669,110
+22892,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69895,10.39647,111
+22893,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.699,10.39648,112
+22894,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69904,10.39645,113
+22895,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69906,10.39639,114
+22896,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69906,10.39632,115
+22897,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69904,10.39628,116
+22898,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.699,10.39624,117
+22899,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69893,10.39599,118
+22900,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69892,10.39586,119
+22901,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69891,10.39577,120
+22902,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69885,10.39576,121
+22903,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.6987,10.39581,122
+22904,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69858,10.3958,123
+22905,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69844,10.39577,124
+22906,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69809,10.39567,125
+22907,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69753,10.39547,126
+22908,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69642,10.39518,127
+22909,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.6963,10.39505,128
+22910,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.6963,10.39499,129
+22911,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69623,10.39469,130
+22912,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69629,10.39371,131
+22913,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69629,10.39337,132
+22914,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69627,10.39299,133
+22915,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69624,10.39256,134
+22916,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69613,10.39162,135
+22917,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69609,10.39107,136
+22918,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69608,10.38984,137
+22919,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69607,10.38605,138
+22920,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69607,10.38547,139
+22921,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69617,10.38453,140
+22922,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69623,10.38433,141
+22923,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.6963,10.38418,142
+22924,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69636,10.38413,143
+22925,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.6964,10.38405,144
+22926,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69642,10.38397,145
+22927,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69642,10.38392,146
+22928,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69641,10.38385,147
+22929,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69639,10.38378,148
+22930,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69636,10.38372,149
+22931,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69631,10.38368,150
+22932,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69624,10.38365,151
+22933,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69621,10.38365,152
+22934,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69617,10.38365,153
+22935,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69611,10.38369,154
+22936,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69607,10.38374,155
+22937,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69574,10.38377,156
+22938,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69513,10.38354,157
+22939,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.695,10.38348,158
+22940,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69492,10.38342,159
+22941,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69486,10.38336,160
+22942,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69482,10.3833,161
+22943,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69477,10.38328,162
+22944,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69474,10.38328,163
+22945,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69471,10.3833,164
+22946,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69468,10.38334,165
+22947,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69467,10.38338,166
+22948,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69466,10.38343,167
+22949,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69467,10.38348,168
+22950,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.6944,10.38444,169
+22951,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69434,10.38458,170
+22952,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69421,10.38478,171
+22953,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69406,10.38496,172
+22954,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69399,10.38502,173
+22955,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69388,10.3851,174
+22956,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69379,10.38514,175
+22957,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69363,10.3852,176
+22958,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69347,10.38521,177
+22959,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69339,10.38521,178
+22960,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69328,10.38518,179
+22961,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69288,10.38497,180
+22962,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69183,10.38439,181
+22963,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69138,10.38415,182
+22964,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69113,10.38503,183
+22965,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69103,10.38517,184
+22966,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69097,10.38526,185
+22967,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69095,10.38527,186
+22968,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69054,10.38527,187
+22969,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.69038,10.38522,188
+22970,Ristorante Galileo,Piscina Comunale Camalich,route_935,43.6866,10.38313,189
+22971,Ristorante Galileo,Conad Pian di Marco,route_936,43.71048,10.41609,0
+22972,Ristorante Galileo,Conad Pian di Marco,route_936,43.70997,10.41245,1
+22973,Ristorante Galileo,Conad Pian di Marco,route_936,43.70992,10.41199,2
+22974,Ristorante Galileo,Conad Pian di Marco,route_936,43.70991,10.41172,3
+22975,Ristorante Galileo,Conad Pian di Marco,route_936,43.7099,10.41147,4
+22976,Ristorante Galileo,Conad Pian di Marco,route_936,43.70993,10.41076,5
+22977,Ristorante Galileo,Conad Pian di Marco,route_936,43.70994,10.41066,6
+22978,Ristorante Galileo,Conad Pian di Marco,route_936,43.70995,10.41058,7
+22979,Ristorante Galileo,Conad Pian di Marco,route_936,43.71002,10.41043,8
+22980,Ristorante Galileo,Conad Pian di Marco,route_936,43.71006,10.4104,9
+22981,Ristorante Galileo,Conad Pian di Marco,route_936,43.71008,10.41036,10
+22982,Ristorante Galileo,Conad Pian di Marco,route_936,43.7101,10.41032,11
+22983,Ristorante Galileo,Conad Pian di Marco,route_936,43.71011,10.41027,12
+22984,Ristorante Galileo,Conad Pian di Marco,route_936,43.71011,10.41022,13
+22985,Ristorante Galileo,Conad Pian di Marco,route_936,43.7101,10.41017,14
+22986,Ristorante Galileo,Conad Pian di Marco,route_936,43.71009,10.41013,15
+22987,Ristorante Galileo,Conad Pian di Marco,route_936,43.71006,10.41009,16
+22988,Ristorante Galileo,Conad Pian di Marco,route_936,43.71002,10.41005,17
+22989,Ristorante Galileo,Conad Pian di Marco,route_936,43.70998,10.40978,18
+22990,Ristorante Galileo,Conad Pian di Marco,route_936,43.71007,10.40776,19
+22991,Ristorante Galileo,Conad Pian di Marco,route_936,43.71014,10.40774,20
+22992,Ristorante Galileo,Conad Pian di Marco,route_936,43.71018,10.40769,21
+22993,Ristorante Galileo,Conad Pian di Marco,route_936,43.71019,10.40765,22
+22994,Ristorante Galileo,Conad Pian di Marco,route_936,43.7102,10.4076,23
+22995,Ristorante Galileo,Conad Pian di Marco,route_936,43.71019,10.40752,24
+22996,Ristorante Galileo,Conad Pian di Marco,route_936,43.71017,10.40749,25
+22997,Ristorante Galileo,Conad Pian di Marco,route_936,43.71014,10.40745,26
+22998,Ristorante Galileo,Conad Pian di Marco,route_936,43.7101,10.40743,27
+22999,Ristorante Galileo,Conad Pian di Marco,route_936,43.71008,10.40743,28
+23000,Ristorante Galileo,Conad Pian di Marco,route_936,43.71015,10.4061,29
+23001,Ristorante Galileo,Conad Pian di Marco,route_936,43.71019,10.4058,30
+23002,Ristorante Galileo,Conad Pian di Marco,route_936,43.71021,10.40573,31
+23003,Ristorante Galileo,Conad Pian di Marco,route_936,43.71027,10.40559,32
+23004,Ristorante Galileo,Conad Pian di Marco,route_936,43.7104,10.4055,33
+23005,Ristorante Galileo,Conad Pian di Marco,route_936,43.71043,10.40545,34
+23006,Ristorante Galileo,Conad Pian di Marco,route_936,43.71044,10.40536,35
+23007,Ristorante Galileo,Conad Pian di Marco,route_936,43.71044,10.4053,36
+23008,Ristorante Galileo,Conad Pian di Marco,route_936,43.71041,10.40524,37
+23009,Ristorante Galileo,Conad Pian di Marco,route_936,43.71035,10.4052,38
+23010,Ristorante Galileo,Conad Pian di Marco,route_936,43.7103,10.4052,39
+23011,Ristorante Galileo,Conad Pian di Marco,route_936,43.71019,10.40527,40
+23012,Ristorante Galileo,Conad Pian di Marco,route_936,43.7101,10.40527,41
+23013,Ristorante Galileo,Conad Pian di Marco,route_936,43.71006,10.40525,42
+23014,Ristorante Galileo,Conad Pian di Marco,route_936,43.70988,10.40513,43
+23015,Ristorante Galileo,Conad Pian di Marco,route_936,43.70974,10.40502,44
+23016,Ristorante Galileo,Conad Pian di Marco,route_936,43.70967,10.40492,45
+23017,Ristorante Galileo,Conad Pian di Marco,route_936,43.70965,10.40486,46
+23018,Ristorante Galileo,Conad Pian di Marco,route_936,43.70975,10.40422,47
+23019,Ristorante Galileo,Conad Pian di Marco,route_936,43.70988,10.40324,48
+23020,Ristorante Galileo,Conad Pian di Marco,route_936,43.70958,10.40294,49
+23021,Ristorante Galileo,Conad Pian di Marco,route_936,43.70931,10.40264,50
+23022,Ristorante Galileo,Conad Pian di Marco,route_936,43.70908,10.40242,51
+23023,Ristorante Galileo,Conad Pian di Marco,route_936,43.7087,10.40213,52
+23024,Ristorante Galileo,Conad Pian di Marco,route_936,43.70831,10.40184,53
+23025,Ristorante Galileo,Conad Pian di Marco,route_936,43.70795,10.40155,54
+23026,Ristorante Galileo,Conad Pian di Marco,route_936,43.70789,10.40152,55
+23027,Ristorante Galileo,Conad Pian di Marco,route_936,43.70786,10.40151,56
+23028,Ristorante Galileo,Conad Pian di Marco,route_936,43.7078,10.40151,57
+23029,Ristorante Galileo,Conad Pian di Marco,route_936,43.70777,10.40153,58
+23030,Ristorante Galileo,Conad Pian di Marco,route_936,43.70771,10.40159,59
+23031,Ristorante Galileo,Conad Pian di Marco,route_936,43.70765,10.40172,60
+23032,Ristorante Galileo,Conad Pian di Marco,route_936,43.70712,10.40318,61
+23033,Ristorante Galileo,Conad Pian di Marco,route_936,43.70614,10.40251,62
+23034,Ristorante Galileo,Conad Pian di Marco,route_936,43.70553,10.40214,63
+23035,Ristorante Galileo,Conad Pian di Marco,route_936,43.70547,10.40207,64
+23036,Ristorante Galileo,Conad Pian di Marco,route_936,43.70535,10.40184,65
+23037,Ristorante Galileo,Conad Pian di Marco,route_936,43.7053,10.40178,66
+23038,Ristorante Galileo,Conad Pian di Marco,route_936,43.70524,10.40171,67
+23039,Ristorante Galileo,Conad Pian di Marco,route_936,43.70471,10.40133,68
+23040,Ristorante Galileo,Conad Pian di Marco,route_936,43.70455,10.40124,69
+23041,Ristorante Galileo,Conad Pian di Marco,route_936,43.70276,10.40076,70
+23042,Ristorante Galileo,Conad Pian di Marco,route_936,43.70252,10.40069,71
+23043,Ristorante Galileo,Conad Pian di Marco,route_936,43.70247,10.40067,72
+23044,Ristorante Galileo,Conad Pian di Marco,route_936,43.70244,10.40064,73
+23045,Ristorante Galileo,Conad Pian di Marco,route_936,43.70245,10.40061,74
+23046,Ristorante Galileo,Conad Pian di Marco,route_936,43.70245,10.40056,75
+23047,Ristorante Galileo,Conad Pian di Marco,route_936,43.70244,10.40052,76
+23048,Ristorante Galileo,Conad Pian di Marco,route_936,43.7024,10.40047,77
+23049,Ristorante Galileo,Conad Pian di Marco,route_936,43.70237,10.40046,78
+23050,Ristorante Galileo,Conad Pian di Marco,route_936,43.70234,10.40046,79
+23051,Ristorante Galileo,Conad Pian di Marco,route_936,43.70231,10.40048,80
+23052,Ristorante Galileo,Conad Pian di Marco,route_936,43.70229,10.40051,81
+23053,Ristorante Galileo,Conad Pian di Marco,route_936,43.70228,10.40054,82
+23054,Ristorante Galileo,Conad Pian di Marco,route_936,43.70227,10.40058,83
+23055,Ristorante Galileo,Conad Pian di Marco,route_936,43.70215,10.40059,84
+23056,Ristorante Galileo,Conad Pian di Marco,route_936,43.7018,10.40051,85
+23057,Ristorante Galileo,Conad Pian di Marco,route_936,43.70155,10.40042,86
+23058,Ristorante Galileo,Conad Pian di Marco,route_936,43.70036,10.3998,87
+23059,Ristorante Galileo,Conad Pian di Marco,route_936,43.70022,10.39969,88
+23060,Ristorante Galileo,Conad Pian di Marco,route_936,43.70002,10.39958,89
+23061,Ristorante Galileo,Conad Pian di Marco,route_936,43.69981,10.39948,90
+23062,Ristorante Galileo,Conad Pian di Marco,route_936,43.69978,10.39945,91
+23063,Ristorante Galileo,Conad Pian di Marco,route_936,43.69975,10.39939,92
+23064,Ristorante Galileo,Conad Pian di Marco,route_936,43.69973,10.39932,93
+23065,Ristorante Galileo,Conad Pian di Marco,route_936,43.69971,10.39917,94
+23066,Ristorante Galileo,Conad Pian di Marco,route_936,43.69979,10.39842,95
+23067,Ristorante Galileo,Conad Pian di Marco,route_936,43.69985,10.39803,96
+23068,Ristorante Galileo,Conad Pian di Marco,route_936,43.69986,10.39795,97
+23069,Ristorante Galileo,Conad Pian di Marco,route_936,43.69986,10.39785,98
+23070,Ristorante Galileo,Conad Pian di Marco,route_936,43.69985,10.39773,99
+23071,Ristorante Galileo,Conad Pian di Marco,route_936,43.69984,10.39757,100
+23072,Ristorante Galileo,Conad Pian di Marco,route_936,43.69985,10.39744,101
+23073,Ristorante Galileo,Conad Pian di Marco,route_936,43.6999,10.39727,102
+23074,Ristorante Galileo,Conad Pian di Marco,route_936,43.69998,10.39716,103
+23075,Ristorante Galileo,Conad Pian di Marco,route_936,43.70003,10.3971,104
+23076,Ristorante Galileo,Conad Pian di Marco,route_936,43.70009,10.39713,105
+23077,Ristorante Galileo,Conad Pian di Marco,route_936,43.70014,10.39713,106
+23078,Ristorante Galileo,Conad Pian di Marco,route_936,43.70018,10.39714,107
+23079,Ristorante Galileo,Conad Pian di Marco,route_936,43.70025,10.3972,108
+23080,Ristorante Galileo,Conad Pian di Marco,route_936,43.70032,10.3973,109
+23081,Ristorante Galileo,Conad Pian di Marco,route_936,43.7004,10.39742,110
+23082,Ristorante Galileo,Conad Pian di Marco,route_936,43.70048,10.39756,111
+23083,Ristorante Galileo,Conad Pian di Marco,route_936,43.70052,10.39767,112
+23084,Ristorante Galileo,Conad Pian di Marco,route_936,43.70055,10.39782,113
+23085,Ristorante Galileo,Conad Pian di Marco,route_936,43.70057,10.39795,114
+23086,Ristorante Galileo,Conad Pian di Marco,route_936,43.70058,10.39808,115
+23087,Ristorante Galileo,Conad Pian di Marco,route_936,43.70055,10.39822,116
+23088,Ristorante Galileo,Conad Pian di Marco,route_936,43.70052,10.3983,117
+23089,Ristorante Galileo,Conad Pian di Marco,route_936,43.70047,10.39837,118
+23090,Ristorante Galileo,Conad Pian di Marco,route_936,43.70042,10.39841,119
+23091,Ristorante Galileo,Conad Pian di Marco,route_936,43.70038,10.39842,120
+23092,Ristorante Galileo,Conad Pian di Marco,route_936,43.70033,10.39842,121
+23093,Ristorante Galileo,Conad Pian di Marco,route_936,43.70026,10.3984,122
+23094,Ristorante Galileo,Conad Pian di Marco,route_936,43.70023,10.39837,123
+23095,Ristorante Galileo,Conad Pian di Marco,route_936,43.70019,10.39831,124
+23096,Ristorante Galileo,Conad Pian di Marco,route_936,43.70014,10.39817,125
+23097,Ristorante Galileo,Conad Pian di Marco,route_936,43.70014,10.39808,126
+23098,Ristorante Galileo,Conad Pian di Marco,route_936,43.70016,10.3977,127
+23099,Ristorante Galileo,Conad Pian di Marco,route_936,43.70013,10.39718,128
+23100,Ristorante Galileo,Conad Pian di Marco,route_936,43.70016,10.39669,129
+23101,Ristorante Galileo,Conad Pian di Marco,route_936,43.70016,10.39634,130
+23102,Ristorante Galileo,Conad Pian di Marco,route_936,43.70014,10.39574,131
+23103,Ristorante Galileo,Conad Pian di Marco,route_936,43.70011,10.39535,132
+23104,Ristorante Galileo,Conad Pian di Marco,route_936,43.70005,10.39477,133
+23105,Ristorante Galileo,Conad Pian di Marco,route_936,43.69972,10.39251,134
+23106,Ristorante Galileo,Conad Pian di Marco,route_936,43.69964,10.39173,135
+23107,Ristorante Galileo,Conad Pian di Marco,route_936,43.69962,10.39127,136
+23108,Ristorante Galileo,Conad Pian di Marco,route_936,43.69963,10.39086,137
+23109,Ristorante Galileo,Conad Pian di Marco,route_936,43.69966,10.3904,138
+23110,Ristorante Galileo,Conad Pian di Marco,route_936,43.69981,10.38975,139
+23111,Ristorante Galileo,Conad Pian di Marco,route_936,43.69988,10.38958,140
+23112,Ristorante Galileo,Conad Pian di Marco,route_936,43.69994,10.38947,141
+23113,Ristorante Galileo,Conad Pian di Marco,route_936,43.70001,10.38938,142
+23114,Ristorante Galileo,Conad Pian di Marco,route_936,43.70014,10.38924,143
+23115,Ristorante Galileo,Conad Pian di Marco,route_936,43.70025,10.38915,144
+23116,Ristorante Galileo,Conad Pian di Marco,route_936,43.70058,10.38895,145
+23117,Ristorante Galileo,Conad Pian di Marco,route_936,43.70094,10.38877,146
+23118,Ristorante Galileo,Conad Pian di Marco,route_936,43.70137,10.38851,147
+23119,Ristorante Galileo,Conad Pian di Marco,route_936,43.70158,10.38833,148
+23120,Ristorante Galileo,Conad Pian di Marco,route_936,43.70163,10.38828,149
+23121,Ristorante Galileo,Conad Pian di Marco,route_936,43.70172,10.38815,150
+23122,Ristorante Galileo,Conad Pian di Marco,route_936,43.70195,10.38796,151
+23123,Ristorante Galileo,Conad Pian di Marco,route_936,43.70218,10.38777,152
+23124,Ristorante Galileo,Conad Pian di Marco,route_936,43.70243,10.38759,153
+23125,Ristorante Galileo,Conad Pian di Marco,route_936,43.70264,10.38743,154
+23126,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71048,10.41609,0
+23127,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70997,10.41245,1
+23128,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70992,10.41199,2
+23129,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70991,10.41172,3
+23130,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.7099,10.41147,4
+23131,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70993,10.41076,5
+23132,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70994,10.41066,6
+23133,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70995,10.41058,7
+23134,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71002,10.41043,8
+23135,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71006,10.4104,9
+23136,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71008,10.41036,10
+23137,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.7101,10.41032,11
+23138,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71011,10.41027,12
+23139,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71011,10.41022,13
+23140,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.7101,10.41017,14
+23141,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71009,10.41013,15
+23142,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71006,10.41009,16
+23143,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71002,10.41005,17
+23144,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70998,10.40978,18
+23145,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71007,10.40776,19
+23146,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71014,10.40774,20
+23147,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71018,10.40769,21
+23148,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71019,10.40765,22
+23149,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.7102,10.4076,23
+23150,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71019,10.40752,24
+23151,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71017,10.40749,25
+23152,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71014,10.40745,26
+23153,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.7101,10.40743,27
+23154,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71008,10.40743,28
+23155,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71015,10.4061,29
+23156,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71019,10.4058,30
+23157,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71021,10.40573,31
+23158,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71027,10.40559,32
+23159,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.7104,10.4055,33
+23160,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71043,10.40545,34
+23161,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71044,10.40536,35
+23162,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71044,10.4053,36
+23163,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71041,10.40524,37
+23164,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71035,10.4052,38
+23165,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.7103,10.4052,39
+23166,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71019,10.40527,40
+23167,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.7101,10.40527,41
+23168,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.71006,10.40525,42
+23169,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70988,10.40513,43
+23170,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70974,10.40502,44
+23171,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70967,10.40492,45
+23172,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70965,10.40486,46
+23173,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70975,10.40422,47
+23174,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70988,10.40324,48
+23175,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70958,10.40294,49
+23176,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70931,10.40264,50
+23177,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70908,10.40242,51
+23178,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.7087,10.40213,52
+23179,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70831,10.40184,53
+23180,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70795,10.40155,54
+23181,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70789,10.40152,55
+23182,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70786,10.40151,56
+23183,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.7078,10.40151,57
+23184,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70777,10.40153,58
+23185,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70771,10.40159,59
+23186,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70765,10.40172,60
+23187,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70712,10.40318,61
+23188,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70614,10.40251,62
+23189,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70553,10.40214,63
+23190,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70547,10.40207,64
+23191,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70535,10.40184,65
+23192,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.7053,10.40178,66
+23193,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70524,10.40171,67
+23194,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70471,10.40133,68
+23195,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70455,10.40124,69
+23196,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70276,10.40076,70
+23197,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70252,10.40069,71
+23198,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70247,10.40067,72
+23199,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70244,10.40064,73
+23200,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70245,10.40061,74
+23201,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70245,10.40056,75
+23202,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70244,10.40052,76
+23203,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.7024,10.40047,77
+23204,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70237,10.40046,78
+23205,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70234,10.40046,79
+23206,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70231,10.40048,80
+23207,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70229,10.40051,81
+23208,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70228,10.40054,82
+23209,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70227,10.40058,83
+23210,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70215,10.40059,84
+23211,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.7018,10.40051,85
+23212,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70155,10.40042,86
+23213,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70036,10.3998,87
+23214,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70022,10.39969,88
+23215,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.70002,10.39958,89
+23216,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69981,10.39948,90
+23217,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69978,10.39945,91
+23218,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69975,10.39939,92
+23219,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69973,10.39932,93
+23220,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69971,10.39917,94
+23221,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69979,10.39842,95
+23222,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69985,10.39803,96
+23223,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69986,10.39795,97
+23224,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69986,10.39785,98
+23225,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69985,10.39773,99
+23226,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69981,10.39763,100
+23227,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69966,10.39739,101
+23228,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69957,10.39741,102
+23229,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69949,10.39741,103
+23230,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69919,10.39734,104
+23231,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69894,10.39734,105
+23232,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69887,10.39731,106
+23233,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69883,10.39727,107
+23234,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69882,10.39713,108
+23235,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69886,10.39679,109
+23236,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69889,10.39669,110
+23237,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69895,10.39647,111
+23238,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.699,10.39648,112
+23239,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69904,10.39645,113
+23240,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69906,10.39639,114
+23241,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69906,10.39632,115
+23242,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69904,10.39628,116
+23243,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.699,10.39624,117
+23244,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69893,10.39599,118
+23245,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69892,10.39586,119
+23246,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69891,10.39577,120
+23247,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69885,10.39576,121
+23248,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.6987,10.39581,122
+23249,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69858,10.3958,123
+23250,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69844,10.39577,124
+23251,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69809,10.39567,125
+23252,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69753,10.39547,126
+23253,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69642,10.39518,127
+23254,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.6963,10.39505,128
+23255,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.6963,10.39499,129
+23256,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69623,10.39469,130
+23257,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69629,10.39371,131
+23258,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69629,10.39337,132
+23259,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69627,10.39299,133
+23260,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69624,10.39256,134
+23261,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69613,10.39162,135
+23262,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69609,10.39107,136
+23263,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69608,10.38984,137
+23264,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69607,10.38605,138
+23265,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69607,10.38547,139
+23266,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69617,10.38453,140
+23267,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69623,10.38433,141
+23268,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.6963,10.38418,142
+23269,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69636,10.38413,143
+23270,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.6964,10.38405,144
+23271,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69642,10.38397,145
+23272,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69641,10.38385,146
+23273,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69639,10.38378,147
+23274,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69636,10.38372,148
+23275,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69631,10.38368,149
+23276,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69624,10.38365,150
+23277,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69617,10.38365,151
+23278,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69611,10.38369,152
+23279,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69607,10.38374,153
+23280,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69604,10.38381,154
+23281,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69602,10.38386,155
+23282,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69602,10.38392,156
+23283,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69603,10.38401,157
+23284,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69613,10.38429,158
+23285,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69614,10.38437,159
+23286,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.6961,10.38485,160
+23287,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69606,10.38512,161
+23288,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69601,10.38551,162
+23289,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.6959,10.38717,163
+23290,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69586,10.38727,164
+23291,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69584,10.38732,165
+23292,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69574,10.38745,166
+23293,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69567,10.3875,167
+23294,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69561,10.38752,168
+23295,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69546,10.38754,169
+23296,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69518,10.38747,170
+23297,Ristorante Galileo,Hotel Galilei Pisa,route_937,43.69324,10.38662,171

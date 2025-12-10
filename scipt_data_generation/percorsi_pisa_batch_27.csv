@@ -1,0 +1,1784 @@
+id,start,end,route_id,lat,lon,idx
+17590,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.7063,10.41019,0
+17591,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70641,10.41001,1
+17592,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70653,10.40976,2
+17593,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70657,10.40964,3
+17594,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70659,10.40953,4
+17595,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70659,10.40939,5
+17596,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.7066,10.40933,6
+17597,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70672,10.40909,7
+17598,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70684,10.40889,8
+17599,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70696,10.40875,9
+17600,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70709,10.40862,10
+17601,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70721,10.40847,11
+17602,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70728,10.40833,12
+17603,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70738,10.40823,13
+17604,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70754,10.40807,14
+17605,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70782,10.40784,15
+17606,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70765,10.40736,16
+17607,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70842,10.40681,17
+17608,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70922,10.40625,18
+17609,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70944,10.40613,19
+17610,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.7097,10.40593,20
+17611,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70981,10.40586,21
+17612,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71027,10.40559,22
+17613,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.7104,10.4055,23
+17614,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71043,10.40545,24
+17615,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71044,10.40536,25
+17616,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71044,10.4053,26
+17617,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71041,10.40524,27
+17618,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71035,10.4052,28
+17619,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.7103,10.4052,29
+17620,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71019,10.40527,30
+17621,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.7101,10.40527,31
+17622,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71006,10.40525,32
+17623,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70988,10.40513,33
+17624,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70974,10.40502,34
+17625,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70967,10.40492,35
+17626,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70965,10.40486,36
+17627,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70975,10.40422,37
+17628,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70988,10.40324,38
+17629,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70997,10.40252,39
+17630,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70997,10.40207,40
+17631,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70994,10.39992,41
+17632,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70994,10.39905,42
+17633,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70997,10.39904,43
+17634,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71001,10.39899,44
+17635,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71003,10.39892,45
+17636,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71001,10.39885,46
+17637,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70999,10.39882,47
+17638,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70997,10.3988,48
+17639,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71001,10.39838,49
+17640,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71008,10.39813,50
+17641,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.7101,10.39807,51
+17642,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71016,10.39794,52
+17643,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71019,10.39794,53
+17644,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71022,10.39792,54
+17645,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71025,10.3979,55
+17646,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71027,10.39786,56
+17647,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71028,10.39781,57
+17648,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71028,10.39777,58
+17649,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71027,10.39772,59
+17650,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71025,10.39769,60
+17651,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71022,10.39766,61
+17652,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71018,10.39764,62
+17653,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71016,10.39755,63
+17654,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71014,10.39743,64
+17655,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71033,10.39616,65
+17656,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71038,10.39588,66
+17657,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71041,10.39588,67
+17658,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71043,10.39586,68
+17659,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71046,10.39581,69
+17660,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71047,10.39578,70
+17661,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71045,10.39571,71
+17662,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71041,10.39568,72
+17663,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71054,10.39481,73
+17664,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71057,10.39451,74
+17665,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71058,10.39434,75
+17666,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.7106,10.39206,76
+17667,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71061,10.39193,77
+17668,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71063,10.39186,78
+17669,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71067,10.39179,79
+17670,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71072,10.39173,80
+17671,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71082,10.39166,81
+17672,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71093,10.39162,82
+17673,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71133,10.39152,83
+17674,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71159,10.39157,84
+17675,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71162,10.39159,85
+17676,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71164,10.39159,86
+17677,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71168,10.39157,87
+17678,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.7117,10.39153,88
+17679,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71171,10.39148,89
+17680,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71169,10.39142,90
+17681,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71162,10.39112,91
+17682,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71157,10.39094,92
+17683,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71112,10.3897,93
+17684,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71052,10.38788,94
+17685,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71056,10.38773,95
+17686,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71064,10.38746,96
+17687,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71088,10.38679,97
+17688,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71061,10.3858,98
+17689,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71043,10.3849,99
+17690,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71106,10.38465,100
+17691,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71172,10.38437,101
+17692,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71177,10.38437,102
+17693,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71182,10.38436,103
+17694,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71224,10.38411,104
+17695,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71258,10.38383,105
+17696,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71262,10.38381,106
+17697,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71273,10.3838,107
+17698,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71279,10.38379,108
+17699,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71284,10.38375,109
+17700,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71287,10.38369,110
+17701,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71288,10.38361,111
+17702,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71288,10.38358,112
+17703,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71286,10.38351,113
+17704,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71285,10.38347,114
+17705,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.7128,10.38342,115
+17706,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71277,10.38341,116
+17707,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71271,10.3834,117
+17708,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71253,10.38325,118
+17709,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.7115,10.38155,119
+17710,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71139,10.38128,120
+17711,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71131,10.38101,121
+17712,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71125,10.38068,122
+17713,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71087,10.37801,123
+17714,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71082,10.37777,124
+17715,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71073,10.37738,125
+17716,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71063,10.37703,126
+17717,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.71056,10.37685,127
+17718,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70989,10.37495,128
+17719,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70982,10.37478,129
+17720,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70973,10.37462,130
+17721,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.7096,10.37428,131
+17722,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70961,10.37419,132
+17723,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70961,10.37413,133
+17724,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70958,10.37405,134
+17725,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70956,10.37401,135
+17726,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.7095,10.37395,136
+17727,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70947,10.37394,137
+17728,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70942,10.37394,138
+17729,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70936,10.37396,139
+17730,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70896,10.37432,140
+17731,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70884,10.37448,141
+17732,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70747,10.37576,142
+17733,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70742,10.37578,143
+17734,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.7074,10.37574,144
+17735,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70736,10.37572,145
+17736,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70732,10.37574,146
+17737,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.7073,10.37577,147
+17738,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70716,10.37549,148
+17739,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70657,10.37427,149
+17740,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70551,10.37202,150
+17741,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70296,10.3666,151
+17742,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70287,10.36639,152
+17743,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70212,10.36483,153
+17744,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.702,10.36461,154
+17745,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.7018,10.36429,155
+17746,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70163,10.36405,156
+17747,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70138,10.36374,157
+17748,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.70092,10.36328,158
+17749,Decathlon Pisa,Ristorante Il Rustichello - San Piero,route_780,43.69993,10.36235,159
+17750,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7063,10.41019,0
+17751,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70641,10.41001,1
+17752,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70653,10.40976,2
+17753,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70657,10.40964,3
+17754,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70659,10.40953,4
+17755,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70659,10.40939,5
+17756,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7066,10.40933,6
+17757,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70672,10.40909,7
+17758,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70684,10.40889,8
+17759,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70696,10.40875,9
+17760,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70709,10.40862,10
+17761,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70721,10.40847,11
+17762,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70728,10.40833,12
+17763,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70738,10.40823,13
+17764,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70754,10.40807,14
+17765,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70782,10.40784,15
+17766,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70765,10.40736,16
+17767,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70842,10.40681,17
+17768,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70922,10.40625,18
+17769,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70944,10.40613,19
+17770,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7097,10.40593,20
+17771,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70981,10.40586,21
+17772,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71027,10.40559,22
+17773,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7104,10.4055,23
+17774,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71043,10.40545,24
+17775,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71044,10.40536,25
+17776,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71044,10.4053,26
+17777,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71041,10.40524,27
+17778,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71035,10.4052,28
+17779,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7103,10.4052,29
+17780,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71019,10.40527,30
+17781,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7101,10.40527,31
+17782,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71006,10.40525,32
+17783,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70988,10.40513,33
+17784,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70974,10.40502,34
+17785,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70967,10.40492,35
+17786,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70965,10.40486,36
+17787,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70975,10.40422,37
+17788,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70988,10.40324,38
+17789,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70997,10.40252,39
+17790,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70997,10.40207,40
+17791,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70994,10.39992,41
+17792,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70994,10.39905,42
+17793,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70997,10.39904,43
+17794,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71001,10.39899,44
+17795,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71003,10.39892,45
+17796,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71001,10.39885,46
+17797,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70999,10.39882,47
+17798,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70997,10.3988,48
+17799,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71001,10.39838,49
+17800,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71008,10.39813,50
+17801,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7101,10.39807,51
+17802,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71016,10.39794,52
+17803,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71019,10.39794,53
+17804,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71022,10.39792,54
+17805,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71025,10.3979,55
+17806,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71027,10.39786,56
+17807,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71028,10.39781,57
+17808,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71028,10.39777,58
+17809,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71027,10.39772,59
+17810,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71025,10.39769,60
+17811,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71022,10.39766,61
+17812,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71018,10.39764,62
+17813,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71016,10.39755,63
+17814,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71014,10.39743,64
+17815,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71033,10.39616,65
+17816,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71038,10.39588,66
+17817,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71041,10.39588,67
+17818,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71043,10.39586,68
+17819,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71046,10.39581,69
+17820,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71047,10.39578,70
+17821,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71045,10.39571,71
+17822,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71041,10.39568,72
+17823,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71054,10.39481,73
+17824,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71057,10.39451,74
+17825,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71058,10.39434,75
+17826,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7106,10.39206,76
+17827,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71061,10.39193,77
+17828,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71063,10.39186,78
+17829,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71067,10.39179,79
+17830,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71072,10.39173,80
+17831,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71082,10.39166,81
+17832,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71093,10.39162,82
+17833,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71133,10.39152,83
+17834,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71159,10.39157,84
+17835,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71162,10.39159,85
+17836,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71164,10.39159,86
+17837,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71168,10.39157,87
+17838,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7117,10.39153,88
+17839,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71171,10.39148,89
+17840,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71169,10.39142,90
+17841,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71162,10.39112,91
+17842,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71157,10.39094,92
+17843,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71112,10.3897,93
+17844,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71052,10.38788,94
+17845,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71056,10.38773,95
+17846,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71064,10.38746,96
+17847,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71088,10.38679,97
+17848,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71061,10.3858,98
+17849,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71043,10.3849,99
+17850,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71106,10.38465,100
+17851,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71172,10.38437,101
+17852,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71177,10.38437,102
+17853,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71182,10.38436,103
+17854,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71224,10.38411,104
+17855,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71258,10.38383,105
+17856,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71262,10.38381,106
+17857,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71273,10.3838,107
+17858,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71279,10.38379,108
+17859,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71284,10.38375,109
+17860,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71287,10.38369,110
+17861,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71288,10.38361,111
+17862,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71288,10.38358,112
+17863,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71286,10.38351,113
+17864,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71285,10.38347,114
+17865,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7128,10.38342,115
+17866,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71277,10.38341,116
+17867,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71271,10.3834,117
+17868,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71253,10.38325,118
+17869,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7115,10.38155,119
+17870,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71139,10.38128,120
+17871,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71131,10.38101,121
+17872,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71125,10.38068,122
+17873,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71087,10.37801,123
+17874,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71082,10.37777,124
+17875,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71073,10.37738,125
+17876,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71063,10.37703,126
+17877,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.71056,10.37685,127
+17878,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70989,10.37495,128
+17879,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70982,10.37478,129
+17880,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70973,10.37462,130
+17881,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7096,10.37428,131
+17882,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70961,10.37419,132
+17883,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70961,10.37413,133
+17884,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70958,10.37405,134
+17885,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70956,10.37401,135
+17886,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7095,10.37395,136
+17887,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70947,10.37394,137
+17888,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70942,10.37394,138
+17889,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70936,10.37396,139
+17890,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70896,10.37432,140
+17891,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70884,10.37448,141
+17892,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70747,10.37576,142
+17893,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70742,10.37578,143
+17894,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7074,10.37574,144
+17895,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70736,10.37572,145
+17896,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70732,10.37574,146
+17897,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7073,10.37577,147
+17898,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7073,10.37581,148
+17899,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70724,10.37581,149
+17900,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70718,10.37585,150
+17901,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70716,10.37589,151
+17902,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70714,10.37596,152
+17903,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7071,10.37621,153
+17904,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70709,10.37626,154
+17905,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70705,10.37632,155
+17906,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70698,10.3762,156
+17907,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70685,10.37602,157
+17908,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70644,10.37562,158
+17909,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70624,10.37541,159
+17910,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70616,10.37528,160
+17911,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70608,10.37513,161
+17912,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70575,10.37431,162
+17913,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70526,10.37277,163
+17914,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7051,10.37239,164
+17915,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7038,10.37014,165
+17916,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70333,10.36931,166
+17917,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70325,10.36919,167
+17918,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70303,10.36894,168
+17919,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70278,10.36872,169
+17920,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.7013,10.36756,170
+17921,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70077,10.36712,171
+17922,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.70008,10.36649,172
+17923,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.69983,10.36629,173
+17924,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.69973,10.36623,174
+17925,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.69914,10.36602,175
+17926,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.69876,10.36592,176
+17927,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.69857,10.36589,177
+17928,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.69839,10.36589,178
+17929,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.69825,10.36592,179
+17930,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.69737,10.36619,180
+17931,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.69719,10.36621,181
+17932,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.69622,10.36622,182
+17933,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.69594,10.36624,183
+17934,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.69576,10.36627,184
+17935,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.69498,10.36653,185
+17936,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.69443,10.36667,186
+17937,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.69412,10.36675,187
+17938,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.69298,10.36693,188
+17939,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.69223,10.36713,189
+17940,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.69192,10.3672,190
+17941,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.6914,10.36728,191
+17942,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.69033,10.36734,192
+17943,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.6901,10.36733,193
+17944,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.68975,10.36729,194
+17945,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.68953,10.36725,195
+17946,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.68936,10.36719,196
+17947,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.68916,10.36711,197
+17948,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.68902,10.36702,198
+17949,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.68889,10.36693,199
+17950,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.68846,10.36657,200
+17951,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.68812,10.36758,201
+17952,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.68763,10.36873,202
+17953,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.68705,10.37013,203
+17954,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.68616,10.37213,204
+17955,Decathlon Pisa,Eurospin Ospedaletto,route_781,43.68598,10.37277,205
+17956,Decathlon Pisa,McDonald's Barbaricina,route_782,43.7063,10.41019,0
+17957,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70641,10.41001,1
+17958,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70653,10.40976,2
+17959,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70657,10.40964,3
+17960,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70659,10.40953,4
+17961,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70659,10.40939,5
+17962,Decathlon Pisa,McDonald's Barbaricina,route_782,43.7066,10.40933,6
+17963,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70672,10.40909,7
+17964,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70684,10.40889,8
+17965,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70696,10.40875,9
+17966,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70709,10.40862,10
+17967,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70721,10.40847,11
+17968,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70728,10.40833,12
+17969,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70738,10.40823,13
+17970,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70754,10.40807,14
+17971,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70782,10.40784,15
+17972,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70765,10.40736,16
+17973,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70842,10.40681,17
+17974,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70922,10.40625,18
+17975,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70944,10.40613,19
+17976,Decathlon Pisa,McDonald's Barbaricina,route_782,43.7097,10.40593,20
+17977,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70981,10.40586,21
+17978,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71027,10.40559,22
+17979,Decathlon Pisa,McDonald's Barbaricina,route_782,43.7104,10.4055,23
+17980,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71043,10.40545,24
+17981,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71044,10.40536,25
+17982,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71044,10.4053,26
+17983,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71041,10.40524,27
+17984,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71035,10.4052,28
+17985,Decathlon Pisa,McDonald's Barbaricina,route_782,43.7103,10.4052,29
+17986,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71019,10.40527,30
+17987,Decathlon Pisa,McDonald's Barbaricina,route_782,43.7101,10.40527,31
+17988,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71006,10.40525,32
+17989,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70988,10.40513,33
+17990,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70974,10.40502,34
+17991,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70967,10.40492,35
+17992,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70965,10.40486,36
+17993,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70975,10.40422,37
+17994,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70988,10.40324,38
+17995,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70997,10.40252,39
+17996,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70997,10.40207,40
+17997,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70994,10.39992,41
+17998,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70994,10.39905,42
+17999,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70997,10.39904,43
+18000,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71001,10.39899,44
+18001,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71003,10.39892,45
+18002,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71001,10.39885,46
+18003,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70999,10.39882,47
+18004,Decathlon Pisa,McDonald's Barbaricina,route_782,43.70997,10.3988,48
+18005,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71001,10.39838,49
+18006,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71008,10.39813,50
+18007,Decathlon Pisa,McDonald's Barbaricina,route_782,43.7101,10.39807,51
+18008,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71016,10.39794,52
+18009,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71019,10.39794,53
+18010,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71022,10.39792,54
+18011,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71025,10.3979,55
+18012,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71027,10.39786,56
+18013,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71028,10.39781,57
+18014,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71028,10.39777,58
+18015,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71027,10.39772,59
+18016,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71025,10.39769,60
+18017,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71022,10.39766,61
+18018,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71018,10.39764,62
+18019,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71016,10.39755,63
+18020,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71014,10.39743,64
+18021,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71033,10.39616,65
+18022,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71038,10.39588,66
+18023,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71041,10.39588,67
+18024,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71043,10.39586,68
+18025,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71046,10.39581,69
+18026,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71047,10.39578,70
+18027,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71045,10.39571,71
+18028,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71041,10.39568,72
+18029,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71054,10.39481,73
+18030,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71057,10.39451,74
+18031,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71058,10.39434,75
+18032,Decathlon Pisa,McDonald's Barbaricina,route_782,43.7106,10.39206,76
+18033,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71061,10.39193,77
+18034,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71063,10.39186,78
+18035,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71067,10.39179,79
+18036,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71072,10.39173,80
+18037,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71082,10.39166,81
+18038,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71093,10.39162,82
+18039,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71133,10.39152,83
+18040,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71159,10.39157,84
+18041,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71162,10.39159,85
+18042,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71164,10.39159,86
+18043,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71168,10.39157,87
+18044,Decathlon Pisa,McDonald's Barbaricina,route_782,43.7117,10.39153,88
+18045,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71171,10.39148,89
+18046,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71169,10.39142,90
+18047,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71162,10.39112,91
+18048,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71157,10.39094,92
+18049,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71112,10.3897,93
+18050,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71052,10.38788,94
+18051,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71056,10.38773,95
+18052,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71064,10.38746,96
+18053,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71088,10.38679,97
+18054,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71061,10.3858,98
+18055,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71043,10.3849,99
+18056,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71106,10.38465,100
+18057,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71172,10.38437,101
+18058,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71177,10.38437,102
+18059,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71182,10.38436,103
+18060,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71224,10.38411,104
+18061,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71258,10.38383,105
+18062,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71262,10.38381,106
+18063,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71273,10.3838,107
+18064,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71279,10.38379,108
+18065,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71284,10.38375,109
+18066,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71285,10.38372,110
+18067,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71296,10.38369,111
+18068,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71318,10.38364,112
+18069,Decathlon Pisa,McDonald's Barbaricina,route_782,43.7133,10.38364,113
+18070,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71348,10.38361,114
+18071,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71586,10.38263,115
+18072,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71678,10.38224,116
+18073,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71689,10.38222,117
+18074,Decathlon Pisa,McDonald's Barbaricina,route_782,43.717,10.38214,118
+18075,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71707,10.38216,119
+18076,Decathlon Pisa,McDonald's Barbaricina,route_782,43.7171,10.38214,120
+18077,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71713,10.38212,121
+18078,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71718,10.38205,122
+18079,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71724,10.38201,123
+18080,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71746,10.38197,124
+18081,Decathlon Pisa,McDonald's Barbaricina,route_782,43.71749,10.38194,125
+18082,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72295,10.3797,126
+18083,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72307,10.37968,127
+18084,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72315,10.37964,128
+18085,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72324,10.37958,129
+18086,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72336,10.37954,130
+18087,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72341,10.37957,131
+18088,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72347,10.37957,132
+18089,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72353,10.37953,133
+18090,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72356,10.37946,134
+18091,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72356,10.37941,135
+18092,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72356,10.37936,136
+18093,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72354,10.37931,137
+18094,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72347,10.37916,138
+18095,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72337,10.37888,139
+18096,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72333,10.37835,140
+18097,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72329,10.37802,141
+18098,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72288,10.37472,142
+18099,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72263,10.37273,143
+18100,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72229,10.36996,144
+18101,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72196,10.36727,145
+18102,Decathlon Pisa,McDonald's Barbaricina,route_782,43.72127,10.36178,146
+18103,Decathlon Pisa,Conad La Vettola,route_783,43.7063,10.41019,0
+18104,Decathlon Pisa,Conad La Vettola,route_783,43.70641,10.41001,1
+18105,Decathlon Pisa,Conad La Vettola,route_783,43.70653,10.40976,2
+18106,Decathlon Pisa,Conad La Vettola,route_783,43.70657,10.40964,3
+18107,Decathlon Pisa,Conad La Vettola,route_783,43.70659,10.40953,4
+18108,Decathlon Pisa,Conad La Vettola,route_783,43.70659,10.40939,5
+18109,Decathlon Pisa,Conad La Vettola,route_783,43.7066,10.40933,6
+18110,Decathlon Pisa,Conad La Vettola,route_783,43.70672,10.40909,7
+18111,Decathlon Pisa,Conad La Vettola,route_783,43.70684,10.40889,8
+18112,Decathlon Pisa,Conad La Vettola,route_783,43.70696,10.40875,9
+18113,Decathlon Pisa,Conad La Vettola,route_783,43.70709,10.40862,10
+18114,Decathlon Pisa,Conad La Vettola,route_783,43.70721,10.40847,11
+18115,Decathlon Pisa,Conad La Vettola,route_783,43.70728,10.40833,12
+18116,Decathlon Pisa,Conad La Vettola,route_783,43.70738,10.40823,13
+18117,Decathlon Pisa,Conad La Vettola,route_783,43.70754,10.40807,14
+18118,Decathlon Pisa,Conad La Vettola,route_783,43.70782,10.40784,15
+18119,Decathlon Pisa,Conad La Vettola,route_783,43.70765,10.40736,16
+18120,Decathlon Pisa,Conad La Vettola,route_783,43.70842,10.40681,17
+18121,Decathlon Pisa,Conad La Vettola,route_783,43.70922,10.40625,18
+18122,Decathlon Pisa,Conad La Vettola,route_783,43.70944,10.40613,19
+18123,Decathlon Pisa,Conad La Vettola,route_783,43.7097,10.40593,20
+18124,Decathlon Pisa,Conad La Vettola,route_783,43.70981,10.40586,21
+18125,Decathlon Pisa,Conad La Vettola,route_783,43.71027,10.40559,22
+18126,Decathlon Pisa,Conad La Vettola,route_783,43.7104,10.4055,23
+18127,Decathlon Pisa,Conad La Vettola,route_783,43.71043,10.40545,24
+18128,Decathlon Pisa,Conad La Vettola,route_783,43.71044,10.40536,25
+18129,Decathlon Pisa,Conad La Vettola,route_783,43.71044,10.4053,26
+18130,Decathlon Pisa,Conad La Vettola,route_783,43.71041,10.40524,27
+18131,Decathlon Pisa,Conad La Vettola,route_783,43.71035,10.4052,28
+18132,Decathlon Pisa,Conad La Vettola,route_783,43.7103,10.4052,29
+18133,Decathlon Pisa,Conad La Vettola,route_783,43.71019,10.40527,30
+18134,Decathlon Pisa,Conad La Vettola,route_783,43.7101,10.40527,31
+18135,Decathlon Pisa,Conad La Vettola,route_783,43.71006,10.40525,32
+18136,Decathlon Pisa,Conad La Vettola,route_783,43.70988,10.40513,33
+18137,Decathlon Pisa,Conad La Vettola,route_783,43.70974,10.40502,34
+18138,Decathlon Pisa,Conad La Vettola,route_783,43.70967,10.40492,35
+18139,Decathlon Pisa,Conad La Vettola,route_783,43.70965,10.40486,36
+18140,Decathlon Pisa,Conad La Vettola,route_783,43.70975,10.40422,37
+18141,Decathlon Pisa,Conad La Vettola,route_783,43.70988,10.40324,38
+18142,Decathlon Pisa,Conad La Vettola,route_783,43.70997,10.40252,39
+18143,Decathlon Pisa,Conad La Vettola,route_783,43.70997,10.40207,40
+18144,Decathlon Pisa,Conad La Vettola,route_783,43.70994,10.39992,41
+18145,Decathlon Pisa,Conad La Vettola,route_783,43.70994,10.39905,42
+18146,Decathlon Pisa,Conad La Vettola,route_783,43.70997,10.39904,43
+18147,Decathlon Pisa,Conad La Vettola,route_783,43.71001,10.39899,44
+18148,Decathlon Pisa,Conad La Vettola,route_783,43.71003,10.39892,45
+18149,Decathlon Pisa,Conad La Vettola,route_783,43.71001,10.39885,46
+18150,Decathlon Pisa,Conad La Vettola,route_783,43.70999,10.39882,47
+18151,Decathlon Pisa,Conad La Vettola,route_783,43.70997,10.3988,48
+18152,Decathlon Pisa,Conad La Vettola,route_783,43.71001,10.39838,49
+18153,Decathlon Pisa,Conad La Vettola,route_783,43.71008,10.39813,50
+18154,Decathlon Pisa,Conad La Vettola,route_783,43.7101,10.39807,51
+18155,Decathlon Pisa,Conad La Vettola,route_783,43.71016,10.39794,52
+18156,Decathlon Pisa,Conad La Vettola,route_783,43.71019,10.39794,53
+18157,Decathlon Pisa,Conad La Vettola,route_783,43.71022,10.39792,54
+18158,Decathlon Pisa,Conad La Vettola,route_783,43.71025,10.3979,55
+18159,Decathlon Pisa,Conad La Vettola,route_783,43.71027,10.39786,56
+18160,Decathlon Pisa,Conad La Vettola,route_783,43.71028,10.39781,57
+18161,Decathlon Pisa,Conad La Vettola,route_783,43.71028,10.39777,58
+18162,Decathlon Pisa,Conad La Vettola,route_783,43.71027,10.39772,59
+18163,Decathlon Pisa,Conad La Vettola,route_783,43.71025,10.39769,60
+18164,Decathlon Pisa,Conad La Vettola,route_783,43.71022,10.39766,61
+18165,Decathlon Pisa,Conad La Vettola,route_783,43.71018,10.39764,62
+18166,Decathlon Pisa,Conad La Vettola,route_783,43.71016,10.39755,63
+18167,Decathlon Pisa,Conad La Vettola,route_783,43.71014,10.39743,64
+18168,Decathlon Pisa,Conad La Vettola,route_783,43.71033,10.39616,65
+18169,Decathlon Pisa,Conad La Vettola,route_783,43.71038,10.39588,66
+18170,Decathlon Pisa,Conad La Vettola,route_783,43.71041,10.39588,67
+18171,Decathlon Pisa,Conad La Vettola,route_783,43.71043,10.39586,68
+18172,Decathlon Pisa,Conad La Vettola,route_783,43.71046,10.39581,69
+18173,Decathlon Pisa,Conad La Vettola,route_783,43.71047,10.39578,70
+18174,Decathlon Pisa,Conad La Vettola,route_783,43.71045,10.39571,71
+18175,Decathlon Pisa,Conad La Vettola,route_783,43.71041,10.39568,72
+18176,Decathlon Pisa,Conad La Vettola,route_783,43.71054,10.39481,73
+18177,Decathlon Pisa,Conad La Vettola,route_783,43.71057,10.39451,74
+18178,Decathlon Pisa,Conad La Vettola,route_783,43.71058,10.39434,75
+18179,Decathlon Pisa,Conad La Vettola,route_783,43.7106,10.39206,76
+18180,Decathlon Pisa,Conad La Vettola,route_783,43.71061,10.39193,77
+18181,Decathlon Pisa,Conad La Vettola,route_783,43.71063,10.39186,78
+18182,Decathlon Pisa,Conad La Vettola,route_783,43.71067,10.39179,79
+18183,Decathlon Pisa,Conad La Vettola,route_783,43.71072,10.39173,80
+18184,Decathlon Pisa,Conad La Vettola,route_783,43.71082,10.39166,81
+18185,Decathlon Pisa,Conad La Vettola,route_783,43.71093,10.39162,82
+18186,Decathlon Pisa,Conad La Vettola,route_783,43.71133,10.39152,83
+18187,Decathlon Pisa,Conad La Vettola,route_783,43.71159,10.39157,84
+18188,Decathlon Pisa,Conad La Vettola,route_783,43.71162,10.39159,85
+18189,Decathlon Pisa,Conad La Vettola,route_783,43.71164,10.39159,86
+18190,Decathlon Pisa,Conad La Vettola,route_783,43.71168,10.39157,87
+18191,Decathlon Pisa,Conad La Vettola,route_783,43.7117,10.39153,88
+18192,Decathlon Pisa,Conad La Vettola,route_783,43.71171,10.39148,89
+18193,Decathlon Pisa,Conad La Vettola,route_783,43.71169,10.39142,90
+18194,Decathlon Pisa,Conad La Vettola,route_783,43.71162,10.39112,91
+18195,Decathlon Pisa,Conad La Vettola,route_783,43.71157,10.39094,92
+18196,Decathlon Pisa,Conad La Vettola,route_783,43.71112,10.3897,93
+18197,Decathlon Pisa,Conad La Vettola,route_783,43.71052,10.38788,94
+18198,Decathlon Pisa,Conad La Vettola,route_783,43.71056,10.38773,95
+18199,Decathlon Pisa,Conad La Vettola,route_783,43.71064,10.38746,96
+18200,Decathlon Pisa,Conad La Vettola,route_783,43.71088,10.38679,97
+18201,Decathlon Pisa,Conad La Vettola,route_783,43.71061,10.3858,98
+18202,Decathlon Pisa,Conad La Vettola,route_783,43.71043,10.3849,99
+18203,Decathlon Pisa,Conad La Vettola,route_783,43.71106,10.38465,100
+18204,Decathlon Pisa,Conad La Vettola,route_783,43.71172,10.38437,101
+18205,Decathlon Pisa,Conad La Vettola,route_783,43.71177,10.38437,102
+18206,Decathlon Pisa,Conad La Vettola,route_783,43.71182,10.38436,103
+18207,Decathlon Pisa,Conad La Vettola,route_783,43.71224,10.38411,104
+18208,Decathlon Pisa,Conad La Vettola,route_783,43.71258,10.38383,105
+18209,Decathlon Pisa,Conad La Vettola,route_783,43.71262,10.38381,106
+18210,Decathlon Pisa,Conad La Vettola,route_783,43.71273,10.3838,107
+18211,Decathlon Pisa,Conad La Vettola,route_783,43.71279,10.38379,108
+18212,Decathlon Pisa,Conad La Vettola,route_783,43.71284,10.38375,109
+18213,Decathlon Pisa,Conad La Vettola,route_783,43.71285,10.38372,110
+18214,Decathlon Pisa,Conad La Vettola,route_783,43.71296,10.38369,111
+18215,Decathlon Pisa,Conad La Vettola,route_783,43.71318,10.38364,112
+18216,Decathlon Pisa,Conad La Vettola,route_783,43.7133,10.38364,113
+18217,Decathlon Pisa,Conad La Vettola,route_783,43.71348,10.38361,114
+18218,Decathlon Pisa,Conad La Vettola,route_783,43.71586,10.38263,115
+18219,Decathlon Pisa,Conad La Vettola,route_783,43.71678,10.38224,116
+18220,Decathlon Pisa,Conad La Vettola,route_783,43.71689,10.38222,117
+18221,Decathlon Pisa,Conad La Vettola,route_783,43.717,10.38214,118
+18222,Decathlon Pisa,Conad La Vettola,route_783,43.71707,10.38216,119
+18223,Decathlon Pisa,Conad La Vettola,route_783,43.7171,10.38214,120
+18224,Decathlon Pisa,Conad La Vettola,route_783,43.71713,10.38212,121
+18225,Decathlon Pisa,Conad La Vettola,route_783,43.71718,10.38205,122
+18226,Decathlon Pisa,Conad La Vettola,route_783,43.71724,10.38201,123
+18227,Decathlon Pisa,Conad La Vettola,route_783,43.71746,10.38197,124
+18228,Decathlon Pisa,Conad La Vettola,route_783,43.71749,10.38194,125
+18229,Decathlon Pisa,Conad La Vettola,route_783,43.72295,10.3797,126
+18230,Decathlon Pisa,Conad La Vettola,route_783,43.72307,10.37968,127
+18231,Decathlon Pisa,Conad La Vettola,route_783,43.72315,10.37964,128
+18232,Decathlon Pisa,Conad La Vettola,route_783,43.72324,10.37958,129
+18233,Decathlon Pisa,Conad La Vettola,route_783,43.72336,10.37954,130
+18234,Decathlon Pisa,Conad La Vettola,route_783,43.72341,10.37957,131
+18235,Decathlon Pisa,Conad La Vettola,route_783,43.72347,10.37957,132
+18236,Decathlon Pisa,Conad La Vettola,route_783,43.72353,10.37953,133
+18237,Decathlon Pisa,Conad La Vettola,route_783,43.72356,10.37946,134
+18238,Decathlon Pisa,Conad La Vettola,route_783,43.72356,10.37941,135
+18239,Decathlon Pisa,Conad La Vettola,route_783,43.72356,10.37936,136
+18240,Decathlon Pisa,Conad La Vettola,route_783,43.72354,10.37931,137
+18241,Decathlon Pisa,Conad La Vettola,route_783,43.72347,10.37916,138
+18242,Decathlon Pisa,Conad La Vettola,route_783,43.72337,10.37888,139
+18243,Decathlon Pisa,Conad La Vettola,route_783,43.72333,10.37835,140
+18244,Decathlon Pisa,Conad La Vettola,route_783,43.72329,10.37802,141
+18245,Decathlon Pisa,Conad La Vettola,route_783,43.72288,10.37472,142
+18246,Decathlon Pisa,Conad La Vettola,route_783,43.72263,10.37273,143
+18247,Decathlon Pisa,Conad La Vettola,route_783,43.72229,10.36996,144
+18248,Decathlon Pisa,Conad La Vettola,route_783,43.72196,10.36727,145
+18249,Decathlon Pisa,Conad La Vettola,route_783,43.72111,10.36056,146
+18250,Decathlon Pisa,Conad La Vettola,route_783,43.72066,10.35688,147
+18251,Decathlon Pisa,Conad La Vettola,route_783,43.72066,10.35673,148
+18252,Decathlon Pisa,Conad La Vettola,route_783,43.72067,10.35656,149
+18253,Decathlon Pisa,Conad La Vettola,route_783,43.7219,10.35048,150
+18254,Decathlon Pisa,Conad La Vettola,route_783,43.72182,10.35042,151
+18255,Decathlon Pisa,Conad La Vettola,route_783,43.72176,10.35042,152
+18256,Decathlon Pisa,Conad La Vettola,route_783,43.72162,10.35055,153
+18257,Decathlon Pisa,Conad La Vettola,route_783,43.72097,10.35372,154
+18258,Decathlon Pisa,Conad La Vettola,route_783,43.72089,10.35385,155
+18259,Decathlon Pisa,Conad La Vettola,route_783,43.72082,10.3539,156
+18260,Decathlon Pisa,Conad La Vettola,route_783,43.72068,10.35388,157
+18261,Decathlon Pisa,Conad La Vettola,route_783,43.72021,10.35377,158
+18262,Decathlon Pisa,Conad La Vettola,route_783,43.7186,10.35336,159
+18263,Decathlon Pisa,Conad La Vettola,route_783,43.71283,10.35194,160
+18264,Decathlon Pisa,MD Discount Riglione,route_784,43.7063,10.41019,0
+18265,Decathlon Pisa,MD Discount Riglione,route_784,43.70641,10.41001,1
+18266,Decathlon Pisa,MD Discount Riglione,route_784,43.70653,10.40976,2
+18267,Decathlon Pisa,MD Discount Riglione,route_784,43.70657,10.40964,3
+18268,Decathlon Pisa,MD Discount Riglione,route_784,43.70659,10.40953,4
+18269,Decathlon Pisa,MD Discount Riglione,route_784,43.70659,10.40939,5
+18270,Decathlon Pisa,MD Discount Riglione,route_784,43.7066,10.40933,6
+18271,Decathlon Pisa,MD Discount Riglione,route_784,43.70672,10.40909,7
+18272,Decathlon Pisa,MD Discount Riglione,route_784,43.70684,10.40889,8
+18273,Decathlon Pisa,MD Discount Riglione,route_784,43.70696,10.40875,9
+18274,Decathlon Pisa,MD Discount Riglione,route_784,43.70709,10.40862,10
+18275,Decathlon Pisa,MD Discount Riglione,route_784,43.70721,10.40847,11
+18276,Decathlon Pisa,MD Discount Riglione,route_784,43.70728,10.40833,12
+18277,Decathlon Pisa,MD Discount Riglione,route_784,43.70738,10.40823,13
+18278,Decathlon Pisa,MD Discount Riglione,route_784,43.70754,10.40807,14
+18279,Decathlon Pisa,MD Discount Riglione,route_784,43.70782,10.40784,15
+18280,Decathlon Pisa,MD Discount Riglione,route_784,43.70765,10.40736,16
+18281,Decathlon Pisa,MD Discount Riglione,route_784,43.70842,10.40681,17
+18282,Decathlon Pisa,MD Discount Riglione,route_784,43.70922,10.40625,18
+18283,Decathlon Pisa,MD Discount Riglione,route_784,43.70944,10.40613,19
+18284,Decathlon Pisa,MD Discount Riglione,route_784,43.7097,10.40593,20
+18285,Decathlon Pisa,MD Discount Riglione,route_784,43.70981,10.40586,21
+18286,Decathlon Pisa,MD Discount Riglione,route_784,43.71027,10.40559,22
+18287,Decathlon Pisa,MD Discount Riglione,route_784,43.7104,10.4055,23
+18288,Decathlon Pisa,MD Discount Riglione,route_784,43.71043,10.40545,24
+18289,Decathlon Pisa,MD Discount Riglione,route_784,43.71044,10.40536,25
+18290,Decathlon Pisa,MD Discount Riglione,route_784,43.71044,10.4053,26
+18291,Decathlon Pisa,MD Discount Riglione,route_784,43.71041,10.40524,27
+18292,Decathlon Pisa,MD Discount Riglione,route_784,43.71035,10.4052,28
+18293,Decathlon Pisa,MD Discount Riglione,route_784,43.7103,10.4052,29
+18294,Decathlon Pisa,MD Discount Riglione,route_784,43.71019,10.40527,30
+18295,Decathlon Pisa,MD Discount Riglione,route_784,43.7101,10.40527,31
+18296,Decathlon Pisa,MD Discount Riglione,route_784,43.71006,10.40525,32
+18297,Decathlon Pisa,MD Discount Riglione,route_784,43.70988,10.40513,33
+18298,Decathlon Pisa,MD Discount Riglione,route_784,43.70974,10.40512,34
+18299,Decathlon Pisa,MD Discount Riglione,route_784,43.70969,10.40513,35
+18300,Decathlon Pisa,MD Discount Riglione,route_784,43.70959,10.4052,36
+18301,Decathlon Pisa,MD Discount Riglione,route_784,43.70953,10.40562,37
+18302,Decathlon Pisa,MD Discount Riglione,route_784,43.70919,10.40552,38
+18303,Decathlon Pisa,MD Discount Riglione,route_784,43.70824,10.40505,39
+18304,Decathlon Pisa,MD Discount Riglione,route_784,43.70776,10.40479,40
+18305,Decathlon Pisa,MD Discount Riglione,route_784,43.70741,10.40576,41
+18306,Decathlon Pisa,MD Discount Riglione,route_784,43.70675,10.40529,42
+18307,Decathlon Pisa,MD Discount Riglione,route_784,43.70611,10.40711,43
+18308,Decathlon Pisa,MD Discount Riglione,route_784,43.70588,10.4077,44
+18309,Decathlon Pisa,MD Discount Riglione,route_784,43.70583,10.40781,45
+18310,Decathlon Pisa,MD Discount Riglione,route_784,43.7058,10.40785,46
+18311,Decathlon Pisa,MD Discount Riglione,route_784,43.70561,10.40805,47
+18312,Decathlon Pisa,MD Discount Riglione,route_784,43.7048,10.40879,48
+18313,Decathlon Pisa,MD Discount Riglione,route_784,43.70471,10.40891,49
+18314,Decathlon Pisa,MD Discount Riglione,route_784,43.70465,10.40904,50
+18315,Decathlon Pisa,MD Discount Riglione,route_784,43.70461,10.4092,51
+18316,Decathlon Pisa,MD Discount Riglione,route_784,43.70456,10.40981,52
+18317,Decathlon Pisa,MD Discount Riglione,route_784,43.70467,10.40993,53
+18318,Decathlon Pisa,MD Discount Riglione,route_784,43.7044,10.41019,54
+18319,Decathlon Pisa,MD Discount Riglione,route_784,43.70435,10.41024,55
+18320,Decathlon Pisa,MD Discount Riglione,route_784,43.70429,10.41036,56
+18321,Decathlon Pisa,MD Discount Riglione,route_784,43.70421,10.41057,57
+18322,Decathlon Pisa,MD Discount Riglione,route_784,43.70417,10.4107,58
+18323,Decathlon Pisa,MD Discount Riglione,route_784,43.70412,10.4109,59
+18324,Decathlon Pisa,MD Discount Riglione,route_784,43.70409,10.41094,60
+18325,Decathlon Pisa,MD Discount Riglione,route_784,43.70407,10.41101,61
+18326,Decathlon Pisa,MD Discount Riglione,route_784,43.70396,10.41122,62
+18327,Decathlon Pisa,MD Discount Riglione,route_784,43.70386,10.4114,63
+18328,Decathlon Pisa,MD Discount Riglione,route_784,43.70376,10.41157,64
+18329,Decathlon Pisa,MD Discount Riglione,route_784,43.70362,10.41176,65
+18330,Decathlon Pisa,MD Discount Riglione,route_784,43.70356,10.41182,66
+18331,Decathlon Pisa,MD Discount Riglione,route_784,43.70334,10.41196,67
+18332,Decathlon Pisa,MD Discount Riglione,route_784,43.70313,10.41207,68
+18333,Decathlon Pisa,MD Discount Riglione,route_784,43.70296,10.41212,69
+18334,Decathlon Pisa,MD Discount Riglione,route_784,43.70287,10.41213,70
+18335,Decathlon Pisa,MD Discount Riglione,route_784,43.70268,10.41213,71
+18336,Decathlon Pisa,MD Discount Riglione,route_784,43.70205,10.41205,72
+18337,Decathlon Pisa,MD Discount Riglione,route_784,43.70153,10.41197,73
+18338,Decathlon Pisa,MD Discount Riglione,route_784,43.70139,10.41197,74
+18339,Decathlon Pisa,MD Discount Riglione,route_784,43.70125,10.412,75
+18340,Decathlon Pisa,MD Discount Riglione,route_784,43.70104,10.41205,76
+18341,Decathlon Pisa,MD Discount Riglione,route_784,43.70095,10.41205,77
+18342,Decathlon Pisa,MD Discount Riglione,route_784,43.70089,10.41203,78
+18343,Decathlon Pisa,MD Discount Riglione,route_784,43.70086,10.412,79
+18344,Decathlon Pisa,MD Discount Riglione,route_784,43.70083,10.412,80
+18345,Decathlon Pisa,MD Discount Riglione,route_784,43.70079,10.41203,81
+18346,Decathlon Pisa,MD Discount Riglione,route_784,43.70078,10.4121,82
+18347,Decathlon Pisa,MD Discount Riglione,route_784,43.70069,10.41232,83
+18348,Decathlon Pisa,MD Discount Riglione,route_784,43.70016,10.41292,84
+18349,Decathlon Pisa,MD Discount Riglione,route_784,43.70005,10.41301,85
+18350,Decathlon Pisa,MD Discount Riglione,route_784,43.69997,10.41306,86
+18351,Decathlon Pisa,MD Discount Riglione,route_784,43.69937,10.41326,87
+18352,Decathlon Pisa,MD Discount Riglione,route_784,43.69846,10.41356,88
+18353,Decathlon Pisa,MD Discount Riglione,route_784,43.69756,10.41387,89
+18354,Decathlon Pisa,MD Discount Riglione,route_784,43.69732,10.41399,90
+18355,Decathlon Pisa,MD Discount Riglione,route_784,43.69698,10.41418,91
+18356,Decathlon Pisa,MD Discount Riglione,route_784,43.69701,10.41463,92
+18357,Decathlon Pisa,MD Discount Riglione,route_784,43.697,10.41506,93
+18358,Decathlon Pisa,MD Discount Riglione,route_784,43.69695,10.41553,94
+18359,Decathlon Pisa,MD Discount Riglione,route_784,43.69685,10.41619,95
+18360,Decathlon Pisa,MD Discount Riglione,route_784,43.69681,10.41641,96
+18361,Decathlon Pisa,MD Discount Riglione,route_784,43.69672,10.4167,97
+18362,Decathlon Pisa,MD Discount Riglione,route_784,43.69647,10.41732,98
+18363,Decathlon Pisa,MD Discount Riglione,route_784,43.69643,10.41755,99
+18364,Decathlon Pisa,MD Discount Riglione,route_784,43.69637,10.41797,100
+18365,Decathlon Pisa,MD Discount Riglione,route_784,43.69631,10.41862,101
+18366,Decathlon Pisa,MD Discount Riglione,route_784,43.69628,10.41874,102
+18367,Decathlon Pisa,MD Discount Riglione,route_784,43.69619,10.41891,103
+18368,Decathlon Pisa,MD Discount Riglione,route_784,43.69615,10.41903,104
+18369,Decathlon Pisa,MD Discount Riglione,route_784,43.69609,10.41931,105
+18370,Decathlon Pisa,MD Discount Riglione,route_784,43.69607,10.4195,106
+18371,Decathlon Pisa,MD Discount Riglione,route_784,43.69606,10.42078,107
+18372,Decathlon Pisa,MD Discount Riglione,route_784,43.69609,10.42109,108
+18373,Decathlon Pisa,MD Discount Riglione,route_784,43.69611,10.42122,109
+18374,Decathlon Pisa,MD Discount Riglione,route_784,43.69633,10.42198,110
+18375,Decathlon Pisa,MD Discount Riglione,route_784,43.69635,10.42212,111
+18376,Decathlon Pisa,MD Discount Riglione,route_784,43.69635,10.42223,112
+18377,Decathlon Pisa,MD Discount Riglione,route_784,43.69633,10.42236,113
+18378,Decathlon Pisa,MD Discount Riglione,route_784,43.69623,10.42278,114
+18379,Decathlon Pisa,MD Discount Riglione,route_784,43.69623,10.42292,115
+18380,Decathlon Pisa,MD Discount Riglione,route_784,43.69627,10.42348,116
+18381,Decathlon Pisa,MD Discount Riglione,route_784,43.69597,10.42362,117
+18382,Decathlon Pisa,MD Discount Riglione,route_784,43.69561,10.42373,118
+18383,Decathlon Pisa,MD Discount Riglione,route_784,43.69499,10.42393,119
+18384,Decathlon Pisa,MD Discount Riglione,route_784,43.69382,10.42443,120
+18385,Decathlon Pisa,MD Discount Riglione,route_784,43.69294,10.42461,121
+18386,Decathlon Pisa,MD Discount Riglione,route_784,43.69253,10.42453,122
+18387,Decathlon Pisa,MD Discount Riglione,route_784,43.6922,10.42451,123
+18388,Decathlon Pisa,MD Discount Riglione,route_784,43.69185,10.42453,124
+18389,Decathlon Pisa,MD Discount Riglione,route_784,43.69158,10.42458,125
+18390,Decathlon Pisa,MD Discount Riglione,route_784,43.69134,10.42467,126
+18391,Decathlon Pisa,MD Discount Riglione,route_784,43.69123,10.42472,127
+18392,Decathlon Pisa,MD Discount Riglione,route_784,43.69103,10.42484,128
+18393,Decathlon Pisa,MD Discount Riglione,route_784,43.69088,10.42495,129
+18394,Decathlon Pisa,MD Discount Riglione,route_784,43.69073,10.42508,130
+18395,Decathlon Pisa,MD Discount Riglione,route_784,43.69038,10.42543,131
+18396,Decathlon Pisa,MD Discount Riglione,route_784,43.69052,10.42541,132
+18397,Decathlon Pisa,MD Discount Riglione,route_784,43.69086,10.42825,133
+18398,Decathlon Pisa,MD Discount Riglione,route_784,43.69057,10.42831,134
+18399,Decathlon Pisa,MD Discount Riglione,route_784,43.6902,10.42836,135
+18400,Decathlon Pisa,MD Discount Riglione,route_784,43.69009,10.42827,136
+18401,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.7063,10.41019,0
+18402,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70641,10.41001,1
+18403,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70653,10.40976,2
+18404,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70657,10.40964,3
+18405,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70659,10.40953,4
+18406,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70659,10.40939,5
+18407,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.7066,10.40933,6
+18408,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70672,10.40909,7
+18409,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70684,10.40889,8
+18410,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70696,10.40875,9
+18411,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70709,10.40862,10
+18412,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70721,10.40847,11
+18413,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70728,10.40833,12
+18414,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70738,10.40823,13
+18415,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70754,10.40807,14
+18416,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70782,10.40784,15
+18417,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70765,10.40736,16
+18418,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70842,10.40681,17
+18419,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70922,10.40625,18
+18420,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70944,10.40613,19
+18421,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.7097,10.40593,20
+18422,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70981,10.40586,21
+18423,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71027,10.40559,22
+18424,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.7104,10.4055,23
+18425,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71043,10.40545,24
+18426,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71044,10.40536,25
+18427,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71044,10.4053,26
+18428,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71041,10.40524,27
+18429,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71035,10.4052,28
+18430,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.7103,10.4052,29
+18431,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71019,10.40527,30
+18432,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.7101,10.40527,31
+18433,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71006,10.40525,32
+18434,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70988,10.40513,33
+18435,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70974,10.40502,34
+18436,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70967,10.40492,35
+18437,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70965,10.40486,36
+18438,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70975,10.40422,37
+18439,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70988,10.40324,38
+18440,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70997,10.40252,39
+18441,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70997,10.40207,40
+18442,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70994,10.39992,41
+18443,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70994,10.39905,42
+18444,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70997,10.39904,43
+18445,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71001,10.39899,44
+18446,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71003,10.39892,45
+18447,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71001,10.39885,46
+18448,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70999,10.39882,47
+18449,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70997,10.3988,48
+18450,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71001,10.39838,49
+18451,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71008,10.39813,50
+18452,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.7101,10.39807,51
+18453,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71016,10.39794,52
+18454,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71019,10.39794,53
+18455,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71022,10.39792,54
+18456,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71025,10.3979,55
+18457,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71027,10.39786,56
+18458,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71028,10.39781,57
+18459,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71028,10.39777,58
+18460,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71027,10.39772,59
+18461,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71025,10.39769,60
+18462,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71022,10.39766,61
+18463,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71018,10.39764,62
+18464,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71016,10.39755,63
+18465,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71014,10.39743,64
+18466,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71033,10.39616,65
+18467,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71038,10.39588,66
+18468,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71041,10.39588,67
+18469,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71043,10.39586,68
+18470,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71046,10.39581,69
+18471,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71047,10.39578,70
+18472,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71045,10.39571,71
+18473,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71041,10.39568,72
+18474,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71054,10.39481,73
+18475,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71057,10.39451,74
+18476,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71058,10.39434,75
+18477,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.7106,10.39206,76
+18478,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71061,10.39193,77
+18479,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71063,10.39186,78
+18480,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71067,10.39179,79
+18481,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71072,10.39173,80
+18482,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71082,10.39166,81
+18483,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71093,10.39162,82
+18484,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71133,10.39152,83
+18485,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71159,10.39157,84
+18486,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71162,10.39159,85
+18487,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71164,10.39159,86
+18488,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71168,10.39157,87
+18489,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.7117,10.39153,88
+18490,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71171,10.39148,89
+18491,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71169,10.39142,90
+18492,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71162,10.39112,91
+18493,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71157,10.39094,92
+18494,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71112,10.3897,93
+18495,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71052,10.38788,94
+18496,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71056,10.38773,95
+18497,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71064,10.38746,96
+18498,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71088,10.38679,97
+18499,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71061,10.3858,98
+18500,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71043,10.3849,99
+18501,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71106,10.38465,100
+18502,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71172,10.38437,101
+18503,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71177,10.38437,102
+18504,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71182,10.38436,103
+18505,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71224,10.38411,104
+18506,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71258,10.38383,105
+18507,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71262,10.38381,106
+18508,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71273,10.3838,107
+18509,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71279,10.38379,108
+18510,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71284,10.38375,109
+18511,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71287,10.38369,110
+18512,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71288,10.38361,111
+18513,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71288,10.38358,112
+18514,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71286,10.38351,113
+18515,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71285,10.38347,114
+18516,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.7128,10.38342,115
+18517,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71277,10.38341,116
+18518,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71271,10.3834,117
+18519,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71253,10.38325,118
+18520,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.7115,10.38155,119
+18521,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71139,10.38128,120
+18522,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71131,10.38101,121
+18523,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71125,10.38068,122
+18524,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71087,10.37801,123
+18525,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71082,10.37777,124
+18526,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71073,10.37738,125
+18527,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71063,10.37703,126
+18528,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.71056,10.37685,127
+18529,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70989,10.37495,128
+18530,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70982,10.37478,129
+18531,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70973,10.37462,130
+18532,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.7096,10.37428,131
+18533,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70961,10.37419,132
+18534,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70961,10.37413,133
+18535,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70958,10.37405,134
+18536,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70956,10.37401,135
+18537,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.7095,10.37395,136
+18538,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70947,10.37394,137
+18539,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70942,10.37394,138
+18540,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70936,10.37396,139
+18541,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70896,10.37432,140
+18542,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70884,10.37448,141
+18543,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70747,10.37576,142
+18544,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70742,10.37578,143
+18545,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.7074,10.37574,144
+18546,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70736,10.37572,145
+18547,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70732,10.37574,146
+18548,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.7073,10.37577,147
+18549,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70716,10.37549,148
+18550,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70657,10.37427,149
+18551,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70551,10.37202,150
+18552,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70296,10.3666,151
+18553,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70287,10.36639,152
+18554,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70245,10.36551,153
+18555,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70212,10.36483,154
+18556,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.702,10.36461,155
+18557,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.7018,10.36429,156
+18558,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70163,10.36405,157
+18559,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70138,10.36374,158
+18560,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70128,10.36364,159
+18561,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70092,10.36328,160
+18562,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.70042,10.36281,161
+18563,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.69734,10.35993,162
+18564,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.69708,10.35967,163
+18565,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.69679,10.35932,164
+18566,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.6967,10.35921,165
+18567,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.69636,10.35873,166
+18568,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.69602,10.35817,167
+18569,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.69272,10.35186,168
+18570,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.69246,10.35139,169
+18571,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.69212,10.35085,170
+18572,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.69149,10.34995,171
+18573,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.69099,10.34928,172
+18574,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68798,10.34514,173
+18575,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68763,10.34467,174
+18576,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68734,10.34429,175
+18577,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68719,10.34413,176
+18578,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68708,10.34404,177
+18579,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68674,10.34385,178
+18580,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68664,10.34376,179
+18581,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.6866,10.3437,180
+18582,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68659,10.34365,181
+18583,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68657,10.34357,182
+18584,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68654,10.34352,183
+18585,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68648,10.34345,184
+18586,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68642,10.34343,185
+18587,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68629,10.34303,186
+18588,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68623,10.34278,187
+18589,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68613,10.34244,188
+18590,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68605,10.34227,189
+18591,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68595,10.34209,190
+18592,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68554,10.34141,191
+18593,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68279,10.33663,192
+18594,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68145,10.33431,193
+18595,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68096,10.33341,194
+18596,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.68076,10.33299,195
+18597,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67981,10.33095,196
+18598,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67942,10.33012,197
+18599,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67916,10.32951,198
+18600,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.6771,10.32501,199
+18601,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67688,10.3245,200
+18602,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67672,10.32407,201
+18603,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67652,10.32342,202
+18604,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.6754,10.31884,203
+18605,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67538,10.31871,204
+18606,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67536,10.31847,205
+18607,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67538,10.31812,206
+18608,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67543,10.31788,207
+18609,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67567,10.31673,208
+18610,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67573,10.31638,209
+18611,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67621,10.31305,210
+18612,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67633,10.31227,211
+18613,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67649,10.31115,212
+18614,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.6766,10.31023,213
+18615,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67673,10.30794,214
+18616,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67677,10.30746,215
+18617,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67683,10.30693,216
+18618,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67696,10.30594,217
+18619,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.6761,10.30478,218
+18620,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67603,10.3047,219
+18621,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67553,10.30485,220
+18622,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67539,10.30492,221
+18623,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67513,10.30511,222
+18624,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67473,10.30423,223
+18625,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67399,10.30296,224
+18626,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67389,10.30282,225
+18627,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.6722,10.30106,226
+18628,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67201,10.30082,227
+18629,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.67168,10.30061,228
+18630,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.66954,10.29806,229
+18631,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.66935,10.29779,230
+18632,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.66924,10.29761,231
+18633,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.66922,10.29755,232
+18634,Decathlon Pisa,Parcheggio Porto di Marina,route_785,43.66922,10.29748,233
+18635,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.7063,10.41019,0
+18636,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70641,10.41001,1
+18637,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70653,10.40976,2
+18638,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70657,10.40964,3
+18639,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70659,10.40953,4
+18640,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70659,10.40939,5
+18641,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.7066,10.40933,6
+18642,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70672,10.40909,7
+18643,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70684,10.40889,8
+18644,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70696,10.40875,9
+18645,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70709,10.40862,10
+18646,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70721,10.40847,11
+18647,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70728,10.40833,12
+18648,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70738,10.40823,13
+18649,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70754,10.40807,14
+18650,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70782,10.40784,15
+18651,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70765,10.40736,16
+18652,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70842,10.40681,17
+18653,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70922,10.40625,18
+18654,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70944,10.40613,19
+18655,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.7097,10.40593,20
+18656,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70981,10.40586,21
+18657,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.71027,10.40559,22
+18658,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.7104,10.4055,23
+18659,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.71043,10.40545,24
+18660,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.71044,10.40536,25
+18661,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.71044,10.4053,26
+18662,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.71041,10.40524,27
+18663,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.71035,10.4052,28
+18664,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.7103,10.4052,29
+18665,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.71019,10.40527,30
+18666,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.7101,10.40527,31
+18667,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.71006,10.40525,32
+18668,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70988,10.40513,33
+18669,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70974,10.40502,34
+18670,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70967,10.40492,35
+18671,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70965,10.40486,36
+18672,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70975,10.40422,37
+18673,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70988,10.40324,38
+18674,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70958,10.40294,39
+18675,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70931,10.40264,40
+18676,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70908,10.40242,41
+18677,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.7087,10.40213,42
+18678,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70831,10.40184,43
+18679,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70795,10.40155,44
+18680,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70789,10.40152,45
+18681,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70786,10.40151,46
+18682,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.7078,10.40151,47
+18683,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70777,10.40153,48
+18684,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70771,10.40159,49
+18685,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70765,10.40172,50
+18686,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70712,10.40318,51
+18687,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70614,10.40251,52
+18688,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70553,10.40214,53
+18689,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70547,10.40207,54
+18690,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70535,10.40184,55
+18691,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.7053,10.40178,56
+18692,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70524,10.40171,57
+18693,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70471,10.40133,58
+18694,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70455,10.40124,59
+18695,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70276,10.40076,60
+18696,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70252,10.40069,61
+18697,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70247,10.40067,62
+18698,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70244,10.40064,63
+18699,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70245,10.40061,64
+18700,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70245,10.40056,65
+18701,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70244,10.40052,66
+18702,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.7024,10.40047,67
+18703,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70237,10.40046,68
+18704,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70234,10.40046,69
+18705,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70231,10.40048,70
+18706,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70229,10.40051,71
+18707,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70228,10.40054,72
+18708,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70227,10.40058,73
+18709,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70215,10.40059,74
+18710,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.7018,10.40051,75
+18711,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70155,10.40042,76
+18712,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70036,10.3998,77
+18713,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70022,10.39969,78
+18714,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70002,10.39958,79
+18715,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69981,10.39948,80
+18716,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69978,10.39945,81
+18717,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69975,10.39939,82
+18718,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69973,10.39932,83
+18719,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69971,10.39917,84
+18720,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69979,10.39842,85
+18721,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69985,10.39803,86
+18722,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69986,10.39795,87
+18723,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69986,10.39785,88
+18724,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69985,10.39773,89
+18725,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69984,10.39757,90
+18726,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69985,10.39744,91
+18727,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6999,10.39727,92
+18728,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69998,10.39716,93
+18729,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70003,10.3971,94
+18730,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70009,10.39713,95
+18731,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70014,10.39713,96
+18732,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70018,10.39714,97
+18733,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70025,10.3972,98
+18734,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70032,10.3973,99
+18735,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.7004,10.39742,100
+18736,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70048,10.39756,101
+18737,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70052,10.39767,102
+18738,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70055,10.39782,103
+18739,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70057,10.39795,104
+18740,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70058,10.39808,105
+18741,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70055,10.39822,106
+18742,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70052,10.3983,107
+18743,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70047,10.39837,108
+18744,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70042,10.39841,109
+18745,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70038,10.39842,110
+18746,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70033,10.39842,111
+18747,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70026,10.3984,112
+18748,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70023,10.39837,113
+18749,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70019,10.39831,114
+18750,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70014,10.39817,115
+18751,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70014,10.39808,116
+18752,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70016,10.3977,117
+18753,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70013,10.39718,118
+18754,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70016,10.39669,119
+18755,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70016,10.39634,120
+18756,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70014,10.39574,121
+18757,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70011,10.39535,122
+18758,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70005,10.39477,123
+18759,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69972,10.39251,124
+18760,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69964,10.39173,125
+18761,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69962,10.39127,126
+18762,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69963,10.39086,127
+18763,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69967,10.39018,128
+18764,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69975,10.38967,129
+18765,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69984,10.38924,130
+18766,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69996,10.38883,131
+18767,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70009,10.38843,132
+18768,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70036,10.38767,133
+18769,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70047,10.38733,134
+18770,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70068,10.38654,135
+18771,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70081,10.38604,136
+18772,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70097,10.3852,137
+18773,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70105,10.38467,138
+18774,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70109,10.38423,139
+18775,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70115,10.38346,140
+18776,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70117,10.38282,141
+18777,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70117,10.38227,142
+18778,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70115,10.38181,143
+18779,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70113,10.38153,144
+18780,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70106,10.38084,145
+18781,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.701,10.38039,146
+18782,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70093,10.37999,147
+18783,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70078,10.37926,148
+18784,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70062,10.37866,149
+18785,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70051,10.37826,150
+18786,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70032,10.37773,151
+18787,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.70024,10.37751,152
+18788,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69999,10.3769,153
+18789,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69984,10.37658,154
+18790,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69967,10.37625,155
+18791,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69775,10.37273,156
+18792,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69686,10.37109,157
+18793,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69673,10.37081,158
+18794,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6965,10.37025,159
+18795,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69633,10.36975,160
+18796,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69625,10.36946,161
+18797,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69612,10.36889,162
+18798,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69594,10.36792,163
+18799,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69561,10.36605,164
+18800,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69534,10.36448,165
+18801,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69525,10.36399,166
+18802,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69519,10.36374,167
+18803,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69509,10.36336,168
+18804,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69498,10.36299,169
+18805,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69485,10.36265,170
+18806,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69459,10.36203,171
+18807,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69449,10.3618,172
+18808,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69435,10.36146,173
+18809,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69423,10.36118,174
+18810,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69335,10.35937,175
+18811,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69324,10.35905,176
+18812,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6932,10.35887,177
+18813,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69316,10.35867,178
+18814,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69313,10.35831,179
+18815,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69309,10.35808,180
+18816,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69307,10.35765,181
+18817,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69305,10.35753,182
+18818,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69301,10.35729,183
+18819,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69294,10.35704,184
+18820,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.69285,10.35677,185
+18821,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6927,10.35647,186
+18822,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6925,10.35611,187
+18823,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68909,10.35052,188
+18824,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68887,10.35023,189
+18825,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68869,10.35004,190
+18826,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68854,10.34991,191
+18827,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68836,10.34975,192
+18828,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68818,10.34963,193
+18829,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68803,10.34955,194
+18830,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68788,10.34948,195
+18831,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68759,10.34938,196
+18832,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68745,10.34934,197
+18833,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68719,10.3493,198
+18834,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68695,10.3493,199
+18835,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68674,10.34932,200
+18836,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68654,10.34936,201
+18837,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6864,10.3494,202
+18838,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68615,10.3495,203
+18839,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68588,10.34965,204
+18840,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68573,10.34976,205
+18841,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68558,10.34989,206
+18842,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68537,10.3501,207
+18843,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68512,10.3504,208
+18844,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68491,10.35074,209
+18845,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68427,10.35214,210
+18846,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68417,10.35233,211
+18847,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68408,10.35248,212
+18848,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6839,10.35275,213
+18849,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68372,10.35298,214
+18850,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68361,10.35308,215
+18851,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68335,10.3533,216
+18852,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68315,10.35342,217
+18853,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68289,10.35354,218
+18854,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68254,10.35363,219
+18855,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68225,10.35365,220
+18856,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.682,10.35365,221
+18857,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67764,10.35311,222
+18858,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67723,10.35303,223
+18859,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6769,10.35293,224
+18860,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67667,10.35284,225
+18861,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67641,10.3527,226
+18862,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67606,10.35247,227
+18863,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67587,10.35231,228
+18864,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67563,10.35205,229
+18865,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67539,10.35175,230
+18866,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67522,10.35149,231
+18867,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67491,10.35097,232
+18868,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67429,10.34975,233
+18869,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67373,10.34866,234
+18870,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67369,10.34854,235
+18871,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67357,10.34829,236
+18872,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67351,10.34806,237
+18873,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67352,10.34798,238
+18874,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67362,10.34781,239
+18875,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67368,10.34775,240
+18876,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67384,10.34761,241
+18877,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67453,10.34742,242
+18878,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67682,10.34706,243
+18879,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67712,10.347,244
+18880,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67711,10.34608,245
+18881,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67712,10.34597,246
+18882,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67713,10.34587,247
+18883,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67716,10.3458,248
+18884,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67718,10.34574,249
+18885,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67724,10.34566,250
+18886,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67733,10.34558,251
+18887,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67738,10.34556,252
+18888,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6775,10.34553,253
+18889,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6795,10.34539,254
+18890,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6796,10.34535,255
+18891,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67967,10.3453,256
+18892,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67971,10.34527,257
+18893,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67976,10.34519,258
+18894,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67981,10.345,259
+18895,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67984,10.3448,260
+18896,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68001,10.34327,261
+18897,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68017,10.34175,262
+18898,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68018,10.34153,263
+18899,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68018,10.34126,264
+18900,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68017,10.34093,265
+18901,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68016,10.34036,266
+18902,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68019,10.3396,267
+18903,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68019,10.33928,268
+18904,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68013,10.33823,269
+18905,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68001,10.33624,270
+18906,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68001,10.33592,271
+18907,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68003,10.33542,272
+18908,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68001,10.33468,273
+18909,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.68,10.33441,274
+18910,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67996,10.33418,275
+18911,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67856,10.32873,276
+18912,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67847,10.32857,277
+18913,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67831,10.32808,278
+18914,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67817,10.32767,279
+18915,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67794,10.32714,280
+18916,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67709,10.3253,281
+18917,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6769,10.32489,282
+18918,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67676,10.32453,283
+18919,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67662,10.32415,284
+18920,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67651,10.32383,285
+18921,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67642,10.32352,286
+18922,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67626,10.32287,287
+18923,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67604,10.32199,288
+18924,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67595,10.32175,289
+18925,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6757,10.32124,290
+18926,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67513,10.32036,291
+18927,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.67467,10.31963,292
+18928,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6736,10.31798,293
+18929,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66954,10.31179,294
+18930,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6694,10.31159,295
+18931,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6693,10.31147,296
+18932,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6692,10.3114,297
+18933,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66906,10.31138,298
+18934,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66756,10.31138,299
+18935,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66716,10.3114,300
+18936,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66673,10.31143,301
+18937,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66667,10.31142,302
+18938,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66664,10.3114,303
+18939,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66659,10.31136,304
+18940,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66656,10.31131,305
+18941,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66636,10.31082,306
+18942,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.666,10.31009,307
+18943,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66588,10.30981,308
+18944,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66581,10.30965,309
+18945,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66574,10.30953,310
+18946,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6657,10.30947,311
+18947,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66502,10.30857,312
+18948,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66459,10.30806,313
+18949,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66444,10.3079,314
+18950,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66418,10.30765,315
+18951,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66386,10.30737,316
+18952,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66319,10.30676,317
+18953,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66298,10.30655,318
+18954,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66266,10.30628,319
+18955,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66251,10.30618,320
+18956,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66241,10.30614,321
+18957,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66231,10.30612,322
+18958,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66209,10.30614,323
+18959,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66181,10.3062,324
+18960,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66082,10.30645,325
+18961,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.66013,10.30664,326
+18962,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.65868,10.30713,327
+18963,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.65579,10.30816,328
+18964,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.65462,10.30856,329
+18965,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.65399,10.30881,330
+18966,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.65314,10.30922,331
+18967,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.65308,10.30921,332
+18968,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.65303,10.30916,333
+18969,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.65236,10.30765,334
+18970,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.65165,10.30609,335
+18971,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6508,10.30423,336
+18972,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.64976,10.30195,337
+18973,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.64816,10.29839,338
+18974,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.64713,10.29614,339
+18975,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.64573,10.29305,340
+18976,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.64552,10.29259,341
+18977,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.64547,10.29249,342
+18978,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.64544,10.29244,343
+18979,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.64545,10.2924,344
+18980,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.64544,10.29235,345
+18981,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.6454,10.29232,346
+18982,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.64538,10.29231,347
+18983,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.64535,10.29233,348
+18984,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.64533,10.29235,349
+18985,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.64532,10.29237,350
+18986,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.64532,10.29242,351
+18987,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.64518,10.29248,352
+18988,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.64406,10.29316,353
+18989,Decathlon Pisa,Ristorante Da Stefano (Tirrenia),route_786,43.64318,10.29351,354
+18990,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.7063,10.41019,0
+18991,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70641,10.41001,1
+18992,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70653,10.40976,2
+18993,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70657,10.40964,3
+18994,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70659,10.40953,4
+18995,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70659,10.40939,5
+18996,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.7066,10.40933,6
+18997,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70672,10.40909,7
+18998,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70684,10.40889,8
+18999,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70696,10.40875,9
+19000,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70709,10.40862,10
+19001,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70721,10.40847,11
+19002,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70728,10.40833,12
+19003,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70738,10.40823,13
+19004,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70754,10.40807,14
+19005,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70782,10.40784,15
+19006,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70765,10.40736,16
+19007,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70842,10.40681,17
+19008,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70922,10.40625,18
+19009,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70944,10.40613,19
+19010,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.7097,10.40593,20
+19011,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70981,10.40586,21
+19012,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.71027,10.40559,22
+19013,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.7104,10.4055,23
+19014,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.71043,10.40545,24
+19015,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.71044,10.40536,25
+19016,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.71044,10.4053,26
+19017,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.71041,10.40524,27
+19018,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.71035,10.4052,28
+19019,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.7103,10.4052,29
+19020,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.71019,10.40527,30
+19021,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.7101,10.40527,31
+19022,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.71006,10.40525,32
+19023,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70988,10.40513,33
+19024,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70974,10.40502,34
+19025,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70967,10.40492,35
+19026,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70965,10.40486,36
+19027,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70975,10.40422,37
+19028,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70988,10.40324,38
+19029,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70958,10.40294,39
+19030,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70931,10.40264,40
+19031,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70908,10.40242,41
+19032,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.7087,10.40213,42
+19033,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70831,10.40184,43
+19034,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70795,10.40155,44
+19035,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70789,10.40152,45
+19036,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70786,10.40151,46
+19037,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.7078,10.40151,47
+19038,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70777,10.40153,48
+19039,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70771,10.40159,49
+19040,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70765,10.40172,50
+19041,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70712,10.40318,51
+19042,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70614,10.40251,52
+19043,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70553,10.40214,53
+19044,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70547,10.40207,54
+19045,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70535,10.40184,55
+19046,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.7053,10.40178,56
+19047,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70524,10.40171,57
+19048,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70471,10.40133,58
+19049,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70455,10.40124,59
+19050,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70276,10.40076,60
+19051,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70252,10.40069,61
+19052,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70247,10.40067,62
+19053,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70244,10.40064,63
+19054,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70245,10.40061,64
+19055,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70245,10.40056,65
+19056,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70244,10.40052,66
+19057,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.7024,10.40047,67
+19058,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70237,10.40046,68
+19059,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70234,10.40046,69
+19060,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70231,10.40048,70
+19061,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70229,10.40051,71
+19062,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70228,10.40054,72
+19063,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70227,10.40058,73
+19064,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70215,10.40059,74
+19065,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.7018,10.40051,75
+19066,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70155,10.40042,76
+19067,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70036,10.3998,77
+19068,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70022,10.39969,78
+19069,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70002,10.39958,79
+19070,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69981,10.39948,80
+19071,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69978,10.39945,81
+19072,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69975,10.39939,82
+19073,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69973,10.39932,83
+19074,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69971,10.39917,84
+19075,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69979,10.39842,85
+19076,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69985,10.39803,86
+19077,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69986,10.39795,87
+19078,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69986,10.39785,88
+19079,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69985,10.39773,89
+19080,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69984,10.39757,90
+19081,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69985,10.39744,91
+19082,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6999,10.39727,92
+19083,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69998,10.39716,93
+19084,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70003,10.3971,94
+19085,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70009,10.39713,95
+19086,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70014,10.39713,96
+19087,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70018,10.39714,97
+19088,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70025,10.3972,98
+19089,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70032,10.3973,99
+19090,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.7004,10.39742,100
+19091,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70048,10.39756,101
+19092,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70052,10.39767,102
+19093,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70055,10.39782,103
+19094,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70057,10.39795,104
+19095,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70058,10.39808,105
+19096,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70055,10.39822,106
+19097,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70052,10.3983,107
+19098,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70047,10.39837,108
+19099,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70042,10.39841,109
+19100,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70038,10.39842,110
+19101,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70033,10.39842,111
+19102,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70026,10.3984,112
+19103,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70023,10.39837,113
+19104,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70019,10.39831,114
+19105,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70014,10.39817,115
+19106,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70014,10.39808,116
+19107,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70016,10.3977,117
+19108,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70013,10.39718,118
+19109,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70016,10.39669,119
+19110,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70016,10.39634,120
+19111,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70014,10.39574,121
+19112,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70011,10.39535,122
+19113,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70005,10.39477,123
+19114,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69972,10.39251,124
+19115,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69964,10.39173,125
+19116,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69962,10.39127,126
+19117,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69963,10.39086,127
+19118,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69967,10.39018,128
+19119,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69975,10.38967,129
+19120,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69984,10.38924,130
+19121,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69996,10.38883,131
+19122,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70009,10.38843,132
+19123,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70036,10.38767,133
+19124,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70047,10.38733,134
+19125,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70068,10.38654,135
+19126,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70081,10.38604,136
+19127,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70097,10.3852,137
+19128,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70105,10.38467,138
+19129,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70109,10.38423,139
+19130,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70115,10.38346,140
+19131,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70117,10.38282,141
+19132,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70117,10.38227,142
+19133,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70115,10.38181,143
+19134,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70113,10.38153,144
+19135,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70106,10.38084,145
+19136,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.701,10.38039,146
+19137,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70093,10.37999,147
+19138,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70078,10.37926,148
+19139,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70062,10.37866,149
+19140,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70051,10.37826,150
+19141,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70032,10.37773,151
+19142,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.70024,10.37751,152
+19143,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69999,10.3769,153
+19144,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69984,10.37658,154
+19145,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69967,10.37625,155
+19146,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69775,10.37273,156
+19147,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69686,10.37109,157
+19148,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69673,10.37081,158
+19149,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6965,10.37025,159
+19150,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69633,10.36975,160
+19151,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69625,10.36946,161
+19152,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69612,10.36889,162
+19153,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69594,10.36792,163
+19154,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69561,10.36605,164
+19155,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69534,10.36448,165
+19156,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69525,10.36399,166
+19157,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69519,10.36374,167
+19158,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69509,10.36336,168
+19159,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69498,10.36299,169
+19160,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69485,10.36265,170
+19161,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69459,10.36203,171
+19162,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69449,10.3618,172
+19163,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69435,10.36146,173
+19164,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69423,10.36118,174
+19165,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69335,10.35937,175
+19166,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69324,10.35905,176
+19167,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6932,10.35887,177
+19168,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69316,10.35867,178
+19169,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69313,10.35831,179
+19170,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69309,10.35808,180
+19171,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69307,10.35765,181
+19172,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69305,10.35753,182
+19173,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69301,10.35729,183
+19174,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69294,10.35704,184
+19175,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.69285,10.35677,185
+19176,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6927,10.35647,186
+19177,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6925,10.35611,187
+19178,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68909,10.35052,188
+19179,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68887,10.35023,189
+19180,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68869,10.35004,190
+19181,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68854,10.34991,191
+19182,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68836,10.34975,192
+19183,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68818,10.34963,193
+19184,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68803,10.34955,194
+19185,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68788,10.34948,195
+19186,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68759,10.34938,196
+19187,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68745,10.34934,197
+19188,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68719,10.3493,198
+19189,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68695,10.3493,199
+19190,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68674,10.34932,200
+19191,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68654,10.34936,201
+19192,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6864,10.3494,202
+19193,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68615,10.3495,203
+19194,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68588,10.34965,204
+19195,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68573,10.34976,205
+19196,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68558,10.34989,206
+19197,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68537,10.3501,207
+19198,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68512,10.3504,208
+19199,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68491,10.35074,209
+19200,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68427,10.35214,210
+19201,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68417,10.35233,211
+19202,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68408,10.35248,212
+19203,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6839,10.35275,213
+19204,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68372,10.35298,214
+19205,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68361,10.35308,215
+19206,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68335,10.3533,216
+19207,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68315,10.35342,217
+19208,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68289,10.35354,218
+19209,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68254,10.35363,219
+19210,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68225,10.35365,220
+19211,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.682,10.35365,221
+19212,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67764,10.35311,222
+19213,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67723,10.35303,223
+19214,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6769,10.35293,224
+19215,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67667,10.35284,225
+19216,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67641,10.3527,226
+19217,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67606,10.35247,227
+19218,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67587,10.35231,228
+19219,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67563,10.35205,229
+19220,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67539,10.35175,230
+19221,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67522,10.35149,231
+19222,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67491,10.35097,232
+19223,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67429,10.34975,233
+19224,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67373,10.34866,234
+19225,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67369,10.34854,235
+19226,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67357,10.34829,236
+19227,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67351,10.34806,237
+19228,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67352,10.34798,238
+19229,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67362,10.34781,239
+19230,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67368,10.34775,240
+19231,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67384,10.34761,241
+19232,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67453,10.34742,242
+19233,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67682,10.34706,243
+19234,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67712,10.347,244
+19235,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67711,10.34608,245
+19236,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67712,10.34597,246
+19237,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67713,10.34587,247
+19238,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67716,10.3458,248
+19239,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67718,10.34574,249
+19240,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67724,10.34566,250
+19241,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67733,10.34558,251
+19242,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67738,10.34556,252
+19243,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6775,10.34553,253
+19244,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6795,10.34539,254
+19245,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6796,10.34535,255
+19246,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67967,10.3453,256
+19247,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67971,10.34527,257
+19248,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67976,10.34519,258
+19249,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67981,10.345,259
+19250,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67984,10.3448,260
+19251,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68001,10.34327,261
+19252,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68017,10.34175,262
+19253,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68018,10.34153,263
+19254,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68018,10.34126,264
+19255,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68017,10.34093,265
+19256,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68016,10.34036,266
+19257,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68019,10.3396,267
+19258,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68019,10.33928,268
+19259,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68013,10.33823,269
+19260,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68001,10.33624,270
+19261,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68001,10.33592,271
+19262,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68003,10.33542,272
+19263,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68001,10.33468,273
+19264,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.68,10.33441,274
+19265,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67996,10.33418,275
+19266,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67856,10.32873,276
+19267,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67847,10.32857,277
+19268,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67831,10.32808,278
+19269,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67817,10.32767,279
+19270,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67794,10.32714,280
+19271,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67709,10.3253,281
+19272,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6769,10.32489,282
+19273,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67676,10.32453,283
+19274,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67662,10.32415,284
+19275,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67651,10.32383,285
+19276,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67642,10.32352,286
+19277,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67626,10.32287,287
+19278,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67604,10.32199,288
+19279,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67595,10.32175,289
+19280,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6757,10.32124,290
+19281,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67513,10.32036,291
+19282,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.67467,10.31963,292
+19283,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6736,10.31798,293
+19284,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66954,10.31179,294
+19285,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6694,10.31159,295
+19286,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6693,10.31147,296
+19287,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6692,10.3114,297
+19288,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66906,10.31138,298
+19289,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66756,10.31138,299
+19290,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66716,10.3114,300
+19291,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66673,10.31143,301
+19292,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66667,10.31142,302
+19293,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66664,10.3114,303
+19294,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66659,10.31136,304
+19295,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66656,10.31131,305
+19296,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66636,10.31082,306
+19297,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.666,10.31009,307
+19298,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66588,10.30981,308
+19299,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66581,10.30965,309
+19300,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66574,10.30953,310
+19301,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6657,10.30947,311
+19302,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66502,10.30857,312
+19303,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66459,10.30806,313
+19304,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66444,10.3079,314
+19305,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66418,10.30765,315
+19306,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66386,10.30737,316
+19307,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66319,10.30676,317
+19308,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66298,10.30655,318
+19309,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66266,10.30628,319
+19310,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66251,10.30618,320
+19311,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66241,10.30614,321
+19312,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66231,10.30612,322
+19313,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66209,10.30614,323
+19314,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66181,10.3062,324
+19315,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66082,10.30645,325
+19316,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.66013,10.30664,326
+19317,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.65868,10.30713,327
+19318,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.65579,10.30816,328
+19319,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.65462,10.30856,329
+19320,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.65399,10.30881,330
+19321,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.65314,10.30922,331
+19322,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.65308,10.30921,332
+19323,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.65303,10.30916,333
+19324,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.65236,10.30765,334
+19325,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.65165,10.30609,335
+19326,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6508,10.30423,336
+19327,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64976,10.30195,337
+19328,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64816,10.29839,338
+19329,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64713,10.29614,339
+19330,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64573,10.29305,340
+19331,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64552,10.29259,341
+19332,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64547,10.29249,342
+19333,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64544,10.29244,343
+19334,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64545,10.2924,344
+19335,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64544,10.29235,345
+19336,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6454,10.29232,346
+19337,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64538,10.29231,347
+19338,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64536,10.29225,348
+19339,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64531,10.29212,349
+19340,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64483,10.29108,350
+19341,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64404,10.28934,351
+19342,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.644,10.2892,352
+19343,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64395,10.28904,353
+19344,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64395,10.289,354
+19345,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64399,10.28899,355
+19346,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64401,10.28895,356
+19347,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64402,10.2889,357
+19348,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64402,10.28885,358
+19349,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64398,10.2888,359
+19350,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64396,10.28879,360
+19351,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64393,10.28879,361
+19352,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6439,10.28881,362
+19353,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64388,10.28884,363
+19354,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64387,10.28889,364
+19355,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64387,10.28893,365
+19356,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64385,10.28893,366
+19357,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64238,10.28979,367
+19358,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64199,10.28998,368
+19359,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64154,10.29019,369
+19360,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64093,10.29043,370
+19361,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.64023,10.29069,371
+19362,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.63956,10.29092,372
+19363,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.63953,10.2908,373
+19364,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.63927,10.29018,374
+19365,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.63836,10.28813,375
+19366,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.63834,10.28806,376
+19367,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.63816,10.28794,377
+19368,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.63808,10.28781,378
+19369,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.6379,10.28777,379
+19370,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.63767,10.28764,380
+19371,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.63736,10.28764,381
+19372,Decathlon Pisa,Centro Commerciale Darsena (Tirrenia),route_787,43.63653,10.28784,382

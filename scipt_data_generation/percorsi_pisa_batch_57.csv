@@ -1,0 +1,1571 @@
+id,start,end,route_id,lat,lon,idx
+41741,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.70994,10.42005,0
+41742,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.70996,10.42017,1
+41743,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71005,10.4201,2
+41744,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71003,10.41994,3
+41745,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71008,10.41993,4
+41746,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71006,10.41974,5
+41747,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71002,10.41963,6
+41748,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71001,10.41958,7
+41749,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71002,10.41955,8
+41750,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71007,10.41951,9
+41751,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.7103,10.41942,10
+41752,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71039,10.41928,11
+41753,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71038,10.41924,12
+41754,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71078,10.41912,13
+41755,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71085,10.41915,14
+41756,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71091,10.41974,15
+41757,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.7109,10.4199,16
+41758,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71092,10.4202,17
+41759,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71094,10.42031,18
+41760,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71098,10.42043,19
+41761,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71101,10.42058,20
+41762,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.711,10.42062,21
+41763,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71101,10.42067,22
+41764,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71103,10.4207,23
+41765,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71105,10.42071,24
+41766,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71109,10.4207,25
+41767,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71111,10.42068,26
+41768,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71112,10.42064,27
+41769,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71112,10.4206,28
+41770,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71108,10.42055,29
+41771,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71102,10.42034,30
+41772,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71095,10.41991,31
+41773,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71091,10.41974,32
+41774,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71068,10.41746,33
+41775,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71037,10.41529,34
+41776,Ristorante Tuscany 2,Pizzeria Pisanova,route_1680,43.71009,10.41323,35
+41777,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70994,10.42005,0
+41778,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70996,10.42017,1
+41779,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71005,10.4201,2
+41780,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71003,10.41994,3
+41781,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71008,10.41993,4
+41782,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71006,10.41974,5
+41783,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71002,10.41963,6
+41784,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71001,10.41958,7
+41785,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71002,10.41955,8
+41786,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71007,10.41951,9
+41787,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7103,10.41942,10
+41788,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71039,10.41928,11
+41789,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71038,10.41924,12
+41790,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71078,10.41912,13
+41791,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71085,10.41915,14
+41792,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71091,10.41974,15
+41793,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7109,10.4199,16
+41794,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71092,10.4202,17
+41795,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71094,10.42031,18
+41796,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71098,10.42043,19
+41797,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71101,10.42058,20
+41798,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.711,10.42062,21
+41799,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71101,10.42067,22
+41800,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71103,10.4207,23
+41801,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71105,10.42071,24
+41802,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71109,10.4207,25
+41803,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71111,10.42068,26
+41804,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71112,10.42064,27
+41805,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71112,10.4206,28
+41806,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71108,10.42055,29
+41807,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71102,10.42034,30
+41808,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71095,10.41991,31
+41809,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71091,10.41974,32
+41810,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71068,10.41746,33
+41811,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71037,10.41529,34
+41812,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70997,10.41245,35
+41813,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70992,10.41199,36
+41814,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70991,10.41172,37
+41815,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7099,10.41147,38
+41816,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70993,10.41076,39
+41817,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70994,10.41066,40
+41818,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70995,10.41058,41
+41819,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71002,10.41043,42
+41820,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71006,10.4104,43
+41821,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71008,10.41036,44
+41822,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7101,10.41032,45
+41823,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71011,10.41027,46
+41824,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71011,10.41022,47
+41825,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7101,10.41017,48
+41826,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71009,10.41013,49
+41827,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71006,10.41009,50
+41828,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71002,10.41005,51
+41829,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70998,10.40978,52
+41830,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71007,10.40776,53
+41831,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71014,10.40774,54
+41832,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71018,10.40769,55
+41833,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71027,10.40767,56
+41834,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71063,10.40769,57
+41835,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71112,10.40773,58
+41836,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71118,10.40776,59
+41837,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71127,10.40782,60
+41838,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71131,10.40786,61
+41839,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71138,10.40789,62
+41840,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71204,10.40793,63
+41841,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71261,10.40789,64
+41842,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71299,10.40783,65
+41843,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71305,10.40781,66
+41844,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71307,10.40778,67
+41845,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7136,10.40622,68
+41846,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71372,10.40591,69
+41847,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71412,10.40501,70
+41848,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71493,10.40327,71
+41849,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71526,10.4025,72
+41850,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7154,10.40214,73
+41851,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71551,10.40181,74
+41852,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71566,10.40129,75
+41853,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7157,10.40111,76
+41854,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71576,10.40067,77
+41855,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7158,10.40037,78
+41856,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71583,10.39998,79
+41857,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71583,10.39968,80
+41858,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7158,10.39919,81
+41859,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71577,10.39888,82
+41860,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71571,10.39854,83
+41861,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71557,10.39791,84
+41862,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71542,10.39746,85
+41863,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71511,10.3966,86
+41864,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71508,10.39645,87
+41865,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71496,10.39619,88
+41866,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71472,10.39571,89
+41867,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7156,10.39498,90
+41868,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7154,10.39451,91
+41869,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7153,10.3943,92
+41870,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71495,10.39362,93
+41871,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71451,10.39274,94
+41872,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71413,10.39183,95
+41873,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71406,10.39165,96
+41874,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71405,10.39151,97
+41875,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71401,10.39126,98
+41876,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71401,10.39117,99
+41877,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71407,10.39084,100
+41878,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71408,10.39068,101
+41879,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71401,10.39043,102
+41880,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71385,10.39001,103
+41881,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71384,10.38995,104
+41882,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71376,10.38983,105
+41883,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71371,10.38969,106
+41884,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71353,10.38923,107
+41885,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71345,10.38902,108
+41886,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71344,10.38891,109
+41887,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71346,10.38884,110
+41888,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71345,10.38878,111
+41889,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71344,10.38876,112
+41890,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71337,10.38865,113
+41891,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7133,10.3884,114
+41892,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71328,10.38836,115
+41893,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71324,10.38836,116
+41894,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71319,10.38837,117
+41895,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71301,10.38844,118
+41896,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71297,10.38844,119
+41897,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71292,10.38844,120
+41898,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71286,10.38841,121
+41899,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7128,10.38836,122
+41900,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71275,10.38828,123
+41901,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71273,10.38822,124
+41902,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71262,10.38783,125
+41903,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71182,10.38436,126
+41904,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71224,10.38411,127
+41905,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71258,10.38383,128
+41906,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71262,10.38381,129
+41907,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71273,10.3838,130
+41908,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71279,10.38379,131
+41909,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71284,10.38375,132
+41910,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71287,10.38369,133
+41911,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71288,10.38361,134
+41912,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71288,10.38358,135
+41913,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71286,10.38351,136
+41914,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71285,10.38347,137
+41915,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7128,10.38342,138
+41916,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71277,10.38341,139
+41917,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71271,10.3834,140
+41918,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71253,10.38325,141
+41919,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7115,10.38155,142
+41920,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71139,10.38128,143
+41921,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71131,10.38101,144
+41922,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71125,10.38068,145
+41923,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71087,10.37801,146
+41924,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71082,10.37777,147
+41925,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71073,10.37738,148
+41926,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71063,10.37703,149
+41927,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.71056,10.37685,150
+41928,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70989,10.37495,151
+41929,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70982,10.37478,152
+41930,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70973,10.37462,153
+41931,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7096,10.37428,154
+41932,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70961,10.37419,155
+41933,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70961,10.37413,156
+41934,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70958,10.37405,157
+41935,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70956,10.37401,158
+41936,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7095,10.37395,159
+41937,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70947,10.37394,160
+41938,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70942,10.37394,161
+41939,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70936,10.37396,162
+41940,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70896,10.37432,163
+41941,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70884,10.37448,164
+41942,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70747,10.37576,165
+41943,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70742,10.37578,166
+41944,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7074,10.37574,167
+41945,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70736,10.37572,168
+41946,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70732,10.37574,169
+41947,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7073,10.37577,170
+41948,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70716,10.37549,171
+41949,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70657,10.37427,172
+41950,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70551,10.37202,173
+41951,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70296,10.3666,174
+41952,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70287,10.36639,175
+41953,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70212,10.36483,176
+41954,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.702,10.36461,177
+41955,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.7018,10.36429,178
+41956,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70163,10.36405,179
+41957,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70138,10.36374,180
+41958,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.70092,10.36328,181
+41959,Ristorante Tuscany 2,Ristorante Il Rustichello - San Piero,route_1681,43.69993,10.36235,182
+41960,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70994,10.42005,0
+41961,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70996,10.42017,1
+41962,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71005,10.4201,2
+41963,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71003,10.41994,3
+41964,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71008,10.41993,4
+41965,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71006,10.41974,5
+41966,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71002,10.41963,6
+41967,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71001,10.41958,7
+41968,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71002,10.41955,8
+41969,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71007,10.41951,9
+41970,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7103,10.41942,10
+41971,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71039,10.41928,11
+41972,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71038,10.41924,12
+41973,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71078,10.41912,13
+41974,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71085,10.41915,14
+41975,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71091,10.41974,15
+41976,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7109,10.4199,16
+41977,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71092,10.4202,17
+41978,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71094,10.42031,18
+41979,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71098,10.42043,19
+41980,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71101,10.42058,20
+41981,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.711,10.42062,21
+41982,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71101,10.42067,22
+41983,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71103,10.4207,23
+41984,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71105,10.42071,24
+41985,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71109,10.4207,25
+41986,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71111,10.42068,26
+41987,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71112,10.42064,27
+41988,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71112,10.4206,28
+41989,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71108,10.42055,29
+41990,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71102,10.42034,30
+41991,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71095,10.41991,31
+41992,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71091,10.41974,32
+41993,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71068,10.41746,33
+41994,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71037,10.41529,34
+41995,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70997,10.41245,35
+41996,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70992,10.41199,36
+41997,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70991,10.41172,37
+41998,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7099,10.41147,38
+41999,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70993,10.41076,39
+42000,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70994,10.41066,40
+42001,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70995,10.41058,41
+42002,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71002,10.41043,42
+42003,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71006,10.4104,43
+42004,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71008,10.41036,44
+42005,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7101,10.41032,45
+42006,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71011,10.41027,46
+42007,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71011,10.41022,47
+42008,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7101,10.41017,48
+42009,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71009,10.41013,49
+42010,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71006,10.41009,50
+42011,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71002,10.41005,51
+42012,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70998,10.40978,52
+42013,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71007,10.40776,53
+42014,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71014,10.40774,54
+42015,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71018,10.40769,55
+42016,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71027,10.40767,56
+42017,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71063,10.40769,57
+42018,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71112,10.40773,58
+42019,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71118,10.40776,59
+42020,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71127,10.40782,60
+42021,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71131,10.40786,61
+42022,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71138,10.40789,62
+42023,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71204,10.40793,63
+42024,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71261,10.40789,64
+42025,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71299,10.40783,65
+42026,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71305,10.40781,66
+42027,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71307,10.40778,67
+42028,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7136,10.40622,68
+42029,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71372,10.40591,69
+42030,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71412,10.40501,70
+42031,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71493,10.40327,71
+42032,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71526,10.4025,72
+42033,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7154,10.40214,73
+42034,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71551,10.40181,74
+42035,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71566,10.40129,75
+42036,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7157,10.40111,76
+42037,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71576,10.40067,77
+42038,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7158,10.40037,78
+42039,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71583,10.39998,79
+42040,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71583,10.39968,80
+42041,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7158,10.39919,81
+42042,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71577,10.39888,82
+42043,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71571,10.39854,83
+42044,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71557,10.39791,84
+42045,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71542,10.39746,85
+42046,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71511,10.3966,86
+42047,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71508,10.39645,87
+42048,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71496,10.39619,88
+42049,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71472,10.39571,89
+42050,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7156,10.39498,90
+42051,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7154,10.39451,91
+42052,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7153,10.3943,92
+42053,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71495,10.39362,93
+42054,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71451,10.39274,94
+42055,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71413,10.39183,95
+42056,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71406,10.39165,96
+42057,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71405,10.39151,97
+42058,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71401,10.39126,98
+42059,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71401,10.39117,99
+42060,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71407,10.39084,100
+42061,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71408,10.39068,101
+42062,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71401,10.39043,102
+42063,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71385,10.39001,103
+42064,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71384,10.38995,104
+42065,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71376,10.38983,105
+42066,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71371,10.38969,106
+42067,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71353,10.38923,107
+42068,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71345,10.38902,108
+42069,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71344,10.38891,109
+42070,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71346,10.38884,110
+42071,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71345,10.38878,111
+42072,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71344,10.38876,112
+42073,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71337,10.38865,113
+42074,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7133,10.3884,114
+42075,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71328,10.38836,115
+42076,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71324,10.38836,116
+42077,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71319,10.38837,117
+42078,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71301,10.38844,118
+42079,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71297,10.38844,119
+42080,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71292,10.38844,120
+42081,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71286,10.38841,121
+42082,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7128,10.38836,122
+42083,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71275,10.38828,123
+42084,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71273,10.38822,124
+42085,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71262,10.38783,125
+42086,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71182,10.38436,126
+42087,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71224,10.38411,127
+42088,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71258,10.38383,128
+42089,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71262,10.38381,129
+42090,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71273,10.3838,130
+42091,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71279,10.38379,131
+42092,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71284,10.38375,132
+42093,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71287,10.38369,133
+42094,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71288,10.38361,134
+42095,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71288,10.38358,135
+42096,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71286,10.38351,136
+42097,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71285,10.38347,137
+42098,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7128,10.38342,138
+42099,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71277,10.38341,139
+42100,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71271,10.3834,140
+42101,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71253,10.38325,141
+42102,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7115,10.38155,142
+42103,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71139,10.38128,143
+42104,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71131,10.38101,144
+42105,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71125,10.38068,145
+42106,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71087,10.37801,146
+42107,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71082,10.37777,147
+42108,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71073,10.37738,148
+42109,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71063,10.37703,149
+42110,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.71056,10.37685,150
+42111,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70989,10.37495,151
+42112,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70982,10.37478,152
+42113,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70973,10.37462,153
+42114,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7096,10.37428,154
+42115,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70961,10.37419,155
+42116,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70961,10.37413,156
+42117,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70958,10.37405,157
+42118,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70956,10.37401,158
+42119,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7095,10.37395,159
+42120,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70947,10.37394,160
+42121,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70942,10.37394,161
+42122,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70936,10.37396,162
+42123,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70896,10.37432,163
+42124,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70884,10.37448,164
+42125,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70747,10.37576,165
+42126,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70742,10.37578,166
+42127,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7074,10.37574,167
+42128,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70736,10.37572,168
+42129,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70732,10.37574,169
+42130,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7073,10.37577,170
+42131,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7073,10.37581,171
+42132,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70724,10.37581,172
+42133,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70718,10.37585,173
+42134,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70716,10.37589,174
+42135,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70714,10.37596,175
+42136,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7071,10.37621,176
+42137,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70709,10.37626,177
+42138,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70705,10.37632,178
+42139,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70698,10.3762,179
+42140,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70685,10.37602,180
+42141,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70644,10.37562,181
+42142,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70624,10.37541,182
+42143,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70616,10.37528,183
+42144,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70608,10.37513,184
+42145,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70575,10.37431,185
+42146,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70526,10.37277,186
+42147,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7051,10.37239,187
+42148,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7038,10.37014,188
+42149,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70333,10.36931,189
+42150,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70325,10.36919,190
+42151,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70303,10.36894,191
+42152,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70278,10.36872,192
+42153,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.7013,10.36756,193
+42154,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70077,10.36712,194
+42155,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.70008,10.36649,195
+42156,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.69983,10.36629,196
+42157,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.69973,10.36623,197
+42158,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.69914,10.36602,198
+42159,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.69876,10.36592,199
+42160,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.69857,10.36589,200
+42161,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.69839,10.36589,201
+42162,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.69825,10.36592,202
+42163,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.69737,10.36619,203
+42164,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.69719,10.36621,204
+42165,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.69622,10.36622,205
+42166,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.69594,10.36624,206
+42167,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.69576,10.36627,207
+42168,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.69498,10.36653,208
+42169,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.69443,10.36667,209
+42170,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.69412,10.36675,210
+42171,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.69298,10.36693,211
+42172,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.69223,10.36713,212
+42173,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.69192,10.3672,213
+42174,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.6914,10.36728,214
+42175,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.69033,10.36734,215
+42176,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.6901,10.36733,216
+42177,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.68975,10.36729,217
+42178,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.68953,10.36725,218
+42179,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.68936,10.36719,219
+42180,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.68916,10.36711,220
+42181,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.68902,10.36702,221
+42182,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.68889,10.36693,222
+42183,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.68846,10.36657,223
+42184,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.68812,10.36758,224
+42185,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.68763,10.36873,225
+42186,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.68705,10.37013,226
+42187,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.68616,10.37213,227
+42188,Ristorante Tuscany 2,Eurospin Ospedaletto,route_1682,43.68598,10.37277,228
+42189,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.70994,10.42005,0
+42190,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.70996,10.42017,1
+42191,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71005,10.4201,2
+42192,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71003,10.41994,3
+42193,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71008,10.41993,4
+42194,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71006,10.41974,5
+42195,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71002,10.41963,6
+42196,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71001,10.41958,7
+42197,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71002,10.41955,8
+42198,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71007,10.41951,9
+42199,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.7103,10.41942,10
+42200,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71039,10.41928,11
+42201,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71038,10.41924,12
+42202,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71078,10.41912,13
+42203,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71085,10.41915,14
+42204,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71091,10.41974,15
+42205,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.7109,10.4199,16
+42206,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71092,10.4202,17
+42207,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71094,10.42031,18
+42208,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71098,10.42043,19
+42209,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71101,10.42058,20
+42210,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.711,10.42062,21
+42211,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71101,10.42067,22
+42212,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71103,10.4207,23
+42213,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71105,10.42071,24
+42214,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71109,10.4207,25
+42215,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71111,10.42068,26
+42216,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71112,10.42064,27
+42217,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71112,10.4206,28
+42218,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71108,10.42055,29
+42219,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71102,10.42034,30
+42220,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71095,10.41991,31
+42221,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71091,10.41974,32
+42222,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71068,10.41746,33
+42223,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71037,10.41529,34
+42224,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.70997,10.41245,35
+42225,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.70992,10.41199,36
+42226,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.70991,10.41172,37
+42227,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.7099,10.41147,38
+42228,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.70993,10.41076,39
+42229,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.70994,10.41066,40
+42230,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.70995,10.41058,41
+42231,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71002,10.41043,42
+42232,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71006,10.4104,43
+42233,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71008,10.41036,44
+42234,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.7101,10.41032,45
+42235,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71011,10.41027,46
+42236,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71011,10.41022,47
+42237,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.7101,10.41017,48
+42238,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71009,10.41013,49
+42239,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71006,10.41009,50
+42240,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71002,10.41005,51
+42241,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.70998,10.40978,52
+42242,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71007,10.40776,53
+42243,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71014,10.40774,54
+42244,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71018,10.40769,55
+42245,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71027,10.40767,56
+42246,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71063,10.40769,57
+42247,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71112,10.40773,58
+42248,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71118,10.40776,59
+42249,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71127,10.40782,60
+42250,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71131,10.40786,61
+42251,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71138,10.40789,62
+42252,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71204,10.40793,63
+42253,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71261,10.40789,64
+42254,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71299,10.40783,65
+42255,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71305,10.40781,66
+42256,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71307,10.40778,67
+42257,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.7136,10.40622,68
+42258,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71372,10.40591,69
+42259,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71412,10.40501,70
+42260,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71493,10.40327,71
+42261,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71526,10.4025,72
+42262,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.7154,10.40214,73
+42263,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71551,10.40181,74
+42264,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71566,10.40129,75
+42265,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.7157,10.40111,76
+42266,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71576,10.40067,77
+42267,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.7158,10.40037,78
+42268,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71583,10.39998,79
+42269,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71583,10.39968,80
+42270,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.7158,10.39919,81
+42271,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71577,10.39888,82
+42272,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71571,10.39854,83
+42273,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71557,10.39791,84
+42274,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71542,10.39746,85
+42275,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71511,10.3966,86
+42276,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71508,10.39645,87
+42277,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71496,10.39619,88
+42278,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71472,10.39571,89
+42279,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.7156,10.39498,90
+42280,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.7154,10.39451,91
+42281,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.7153,10.3943,92
+42282,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71495,10.39362,93
+42283,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71451,10.39274,94
+42284,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71413,10.39183,95
+42285,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71406,10.39165,96
+42286,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71405,10.39151,97
+42287,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71401,10.39126,98
+42288,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71401,10.39117,99
+42289,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71407,10.39084,100
+42290,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71408,10.39068,101
+42291,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71401,10.39043,102
+42292,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71385,10.39001,103
+42293,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71384,10.38995,104
+42294,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71376,10.38983,105
+42295,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71371,10.38969,106
+42296,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71353,10.38923,107
+42297,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71345,10.38902,108
+42298,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71344,10.38891,109
+42299,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71346,10.38884,110
+42300,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71345,10.38878,111
+42301,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71344,10.38876,112
+42302,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71337,10.38865,113
+42303,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.7133,10.3884,114
+42304,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71328,10.38836,115
+42305,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71324,10.38836,116
+42306,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71319,10.38837,117
+42307,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71301,10.38844,118
+42308,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71297,10.38844,119
+42309,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71292,10.38844,120
+42310,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71286,10.38841,121
+42311,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.7128,10.38836,122
+42312,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71275,10.38828,123
+42313,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71273,10.38822,124
+42314,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71262,10.38783,125
+42315,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71182,10.38436,126
+42316,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71224,10.38411,127
+42317,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71258,10.38383,128
+42318,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71262,10.38381,129
+42319,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71273,10.3838,130
+42320,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71279,10.38379,131
+42321,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71284,10.38375,132
+42322,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71285,10.38372,133
+42323,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71296,10.38369,134
+42324,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71318,10.38364,135
+42325,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.7133,10.38364,136
+42326,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71348,10.38361,137
+42327,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71586,10.38263,138
+42328,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71678,10.38224,139
+42329,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71689,10.38222,140
+42330,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.717,10.38214,141
+42331,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71707,10.38216,142
+42332,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.7171,10.38214,143
+42333,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71713,10.38212,144
+42334,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71718,10.38205,145
+42335,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71724,10.38201,146
+42336,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71746,10.38197,147
+42337,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.71749,10.38194,148
+42338,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72295,10.3797,149
+42339,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72307,10.37968,150
+42340,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72315,10.37964,151
+42341,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72324,10.37958,152
+42342,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72336,10.37954,153
+42343,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72341,10.37957,154
+42344,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72347,10.37957,155
+42345,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72353,10.37953,156
+42346,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72356,10.37946,157
+42347,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72356,10.37941,158
+42348,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72356,10.37936,159
+42349,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72354,10.37931,160
+42350,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72347,10.37916,161
+42351,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72337,10.37888,162
+42352,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72333,10.37835,163
+42353,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72329,10.37802,164
+42354,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72288,10.37472,165
+42355,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72263,10.37273,166
+42356,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72229,10.36996,167
+42357,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72196,10.36727,168
+42358,Ristorante Tuscany 2,McDonald's Barbaricina,route_1683,43.72127,10.36178,169
+42359,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.70994,10.42005,0
+42360,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.70996,10.42017,1
+42361,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71005,10.4201,2
+42362,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71003,10.41994,3
+42363,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71008,10.41993,4
+42364,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71006,10.41974,5
+42365,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71002,10.41963,6
+42366,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71001,10.41958,7
+42367,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71002,10.41955,8
+42368,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71007,10.41951,9
+42369,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.7103,10.41942,10
+42370,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71039,10.41928,11
+42371,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71038,10.41924,12
+42372,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71078,10.41912,13
+42373,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71085,10.41915,14
+42374,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71091,10.41974,15
+42375,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.7109,10.4199,16
+42376,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71092,10.4202,17
+42377,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71094,10.42031,18
+42378,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71098,10.42043,19
+42379,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71101,10.42058,20
+42380,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.711,10.42062,21
+42381,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71101,10.42067,22
+42382,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71103,10.4207,23
+42383,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71105,10.42071,24
+42384,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71109,10.4207,25
+42385,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71111,10.42068,26
+42386,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71112,10.42064,27
+42387,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71112,10.4206,28
+42388,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71108,10.42055,29
+42389,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71102,10.42034,30
+42390,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71095,10.41991,31
+42391,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71091,10.41974,32
+42392,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71068,10.41746,33
+42393,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71037,10.41529,34
+42394,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.70997,10.41245,35
+42395,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.70992,10.41199,36
+42396,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.70991,10.41172,37
+42397,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.7099,10.41147,38
+42398,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.70993,10.41076,39
+42399,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.70994,10.41066,40
+42400,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.70995,10.41058,41
+42401,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71002,10.41043,42
+42402,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71006,10.4104,43
+42403,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71008,10.41036,44
+42404,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.7101,10.41032,45
+42405,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71011,10.41027,46
+42406,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71011,10.41022,47
+42407,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.7101,10.41017,48
+42408,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71009,10.41013,49
+42409,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71006,10.41009,50
+42410,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71002,10.41005,51
+42411,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.70998,10.40978,52
+42412,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71007,10.40776,53
+42413,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71014,10.40774,54
+42414,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71018,10.40769,55
+42415,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71027,10.40767,56
+42416,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71063,10.40769,57
+42417,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71112,10.40773,58
+42418,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71118,10.40776,59
+42419,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71127,10.40782,60
+42420,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71131,10.40786,61
+42421,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71138,10.40789,62
+42422,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71204,10.40793,63
+42423,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71261,10.40789,64
+42424,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71299,10.40783,65
+42425,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71305,10.40781,66
+42426,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71307,10.40778,67
+42427,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.7136,10.40622,68
+42428,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71372,10.40591,69
+42429,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71412,10.40501,70
+42430,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71493,10.40327,71
+42431,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71526,10.4025,72
+42432,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.7154,10.40214,73
+42433,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71551,10.40181,74
+42434,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71566,10.40129,75
+42435,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.7157,10.40111,76
+42436,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71576,10.40067,77
+42437,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.7158,10.40037,78
+42438,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71583,10.39998,79
+42439,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71583,10.39968,80
+42440,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.7158,10.39919,81
+42441,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71577,10.39888,82
+42442,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71571,10.39854,83
+42443,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71557,10.39791,84
+42444,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71542,10.39746,85
+42445,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71511,10.3966,86
+42446,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71508,10.39645,87
+42447,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71496,10.39619,88
+42448,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71472,10.39571,89
+42449,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.7156,10.39498,90
+42450,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.7154,10.39451,91
+42451,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.7153,10.3943,92
+42452,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71495,10.39362,93
+42453,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71451,10.39274,94
+42454,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71413,10.39183,95
+42455,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71406,10.39165,96
+42456,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71405,10.39151,97
+42457,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71401,10.39126,98
+42458,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71401,10.39117,99
+42459,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71407,10.39084,100
+42460,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71408,10.39068,101
+42461,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71401,10.39043,102
+42462,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71385,10.39001,103
+42463,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71384,10.38995,104
+42464,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71376,10.38983,105
+42465,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71371,10.38969,106
+42466,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71353,10.38923,107
+42467,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71345,10.38902,108
+42468,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71344,10.38891,109
+42469,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71346,10.38884,110
+42470,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71345,10.38878,111
+42471,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71344,10.38876,112
+42472,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71337,10.38865,113
+42473,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.7133,10.3884,114
+42474,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71328,10.38836,115
+42475,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71324,10.38836,116
+42476,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71319,10.38837,117
+42477,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71301,10.38844,118
+42478,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71297,10.38844,119
+42479,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71292,10.38844,120
+42480,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71286,10.38841,121
+42481,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.7128,10.38836,122
+42482,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71275,10.38828,123
+42483,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71273,10.38822,124
+42484,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71262,10.38783,125
+42485,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71182,10.38436,126
+42486,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71224,10.38411,127
+42487,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71258,10.38383,128
+42488,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71262,10.38381,129
+42489,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71273,10.3838,130
+42490,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71279,10.38379,131
+42491,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71284,10.38375,132
+42492,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71285,10.38372,133
+42493,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71296,10.38369,134
+42494,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71318,10.38364,135
+42495,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.7133,10.38364,136
+42496,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71348,10.38361,137
+42497,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71586,10.38263,138
+42498,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71678,10.38224,139
+42499,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71689,10.38222,140
+42500,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.717,10.38214,141
+42501,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71707,10.38216,142
+42502,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.7171,10.38214,143
+42503,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71713,10.38212,144
+42504,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71718,10.38205,145
+42505,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71724,10.38201,146
+42506,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71746,10.38197,147
+42507,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71749,10.38194,148
+42508,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72295,10.3797,149
+42509,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72307,10.37968,150
+42510,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72315,10.37964,151
+42511,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72324,10.37958,152
+42512,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72336,10.37954,153
+42513,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72341,10.37957,154
+42514,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72347,10.37957,155
+42515,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72353,10.37953,156
+42516,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72356,10.37946,157
+42517,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72356,10.37941,158
+42518,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72356,10.37936,159
+42519,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72354,10.37931,160
+42520,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72347,10.37916,161
+42521,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72337,10.37888,162
+42522,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72333,10.37835,163
+42523,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72329,10.37802,164
+42524,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72288,10.37472,165
+42525,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72263,10.37273,166
+42526,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72229,10.36996,167
+42527,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72196,10.36727,168
+42528,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72111,10.36056,169
+42529,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72066,10.35688,170
+42530,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72066,10.35673,171
+42531,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72067,10.35656,172
+42532,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.7219,10.35048,173
+42533,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72182,10.35042,174
+42534,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72176,10.35042,175
+42535,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72162,10.35055,176
+42536,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72097,10.35372,177
+42537,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72089,10.35385,178
+42538,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72082,10.3539,179
+42539,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72068,10.35388,180
+42540,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.72021,10.35377,181
+42541,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.7186,10.35336,182
+42542,Ristorante Tuscany 2,Conad La Vettola,route_1684,43.71283,10.35194,183
+42543,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70994,10.42005,0
+42544,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70996,10.42017,1
+42545,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71005,10.4201,2
+42546,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71003,10.41994,3
+42547,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71008,10.41993,4
+42548,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71006,10.41974,5
+42549,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71002,10.41963,6
+42550,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71001,10.41958,7
+42551,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71002,10.41955,8
+42552,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71007,10.41951,9
+42553,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.7103,10.41942,10
+42554,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71039,10.41928,11
+42555,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71038,10.41924,12
+42556,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71078,10.41912,13
+42557,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71085,10.41915,14
+42558,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71091,10.41974,15
+42559,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.7109,10.4199,16
+42560,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71092,10.4202,17
+42561,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71094,10.42031,18
+42562,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71098,10.42043,19
+42563,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71101,10.42058,20
+42564,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.711,10.42062,21
+42565,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71101,10.42067,22
+42566,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71099,10.42074,23
+42567,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71098,10.42086,24
+42568,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71101,10.42188,25
+42569,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71101,10.42217,26
+42570,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71099,10.42282,27
+42571,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71096,10.42328,28
+42572,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71093,10.42348,29
+42573,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71089,10.42368,30
+42574,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71081,10.42402,31
+42575,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.71069,10.4244,32
+42576,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.7097,10.42692,33
+42577,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70948,10.42755,34
+42578,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70945,10.42761,35
+42579,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70939,10.42767,36
+42580,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70935,10.42768,37
+42581,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.7093,10.42772,38
+42582,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70926,10.42778,39
+42583,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70923,10.42786,40
+42584,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70923,10.42794,41
+42585,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70923,10.428,42
+42586,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70927,10.42809,43
+42587,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70925,10.42822,44
+42588,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70919,10.42839,45
+42589,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70705,10.43434,46
+42590,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70695,10.4346,47
+42591,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70691,10.43468,48
+42592,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70666,10.43507,49
+42593,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70661,10.43518,50
+42594,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.7064,10.43531,51
+42595,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70622,10.43544,52
+42596,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70605,10.43552,53
+42597,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70591,10.43556,54
+42598,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70564,10.43562,55
+42599,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70435,10.43575,56
+42600,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70081,10.43605,57
+42601,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70074,10.43604,58
+42602,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70068,10.43603,59
+42603,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.7006,10.43597,60
+42604,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70055,10.4359,61
+42605,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.7005,10.43585,62
+42606,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70043,10.43583,63
+42607,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70039,10.43584,64
+42608,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70033,10.43586,65
+42609,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70027,10.43592,66
+42610,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70025,10.43595,67
+42611,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70022,10.43603,68
+42612,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.70012,10.43609,69
+42613,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.7,10.43612,70
+42614,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.69987,10.43613,71
+42615,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.69941,10.43612,72
+42616,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.69918,10.4361,73
+42617,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.699,10.43607,74
+42618,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.69876,10.43602,75
+42619,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.69584,10.43508,76
+42620,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.69563,10.43503,77
+42621,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.69519,10.43494,78
+42622,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.69459,10.43489,79
+42623,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.69422,10.4349,80
+42624,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.69277,10.435,81
+42625,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.6915,10.43507,82
+42626,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.69122,10.43505,83
+42627,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.69095,10.435,84
+42628,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.69072,10.43492,85
+42629,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.69017,10.43467,86
+42630,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.6897,10.43438,87
+42631,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.68752,10.43292,88
+42632,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.68743,10.43282,89
+42633,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.68743,10.43271,90
+42634,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.6874,10.43262,91
+42635,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.68739,10.43252,92
+42636,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.68739,10.43241,93
+42637,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.68742,10.43224,94
+42638,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.68752,10.43179,95
+42639,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.68802,10.42981,96
+42640,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.68853,10.42765,97
+42641,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.68853,10.42757,98
+42642,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.6885,10.42749,99
+42643,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.68845,10.42742,100
+42644,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.6879,10.42687,101
+42645,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.68787,10.42684,102
+42646,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.68785,10.42679,103
+42647,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.68785,10.42675,104
+42648,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.68787,10.42666,105
+42649,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.68809,10.42624,106
+42650,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.6885,10.42666,107
+42651,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.6891,10.42727,108
+42652,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.68946,10.42763,109
+42653,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.69002,10.42821,110
+42654,Ristorante Tuscany 2,MD Discount Riglione,route_1685,43.69009,10.42827,111
+42655,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70994,10.42005,0
+42656,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70996,10.42017,1
+42657,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71005,10.4201,2
+42658,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71003,10.41994,3
+42659,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71008,10.41993,4
+42660,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71006,10.41974,5
+42661,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71002,10.41963,6
+42662,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71001,10.41958,7
+42663,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71002,10.41955,8
+42664,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71007,10.41951,9
+42665,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7103,10.41942,10
+42666,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71039,10.41928,11
+42667,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71038,10.41924,12
+42668,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71078,10.41912,13
+42669,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71085,10.41915,14
+42670,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71091,10.41974,15
+42671,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7109,10.4199,16
+42672,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71092,10.4202,17
+42673,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71094,10.42031,18
+42674,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71098,10.42043,19
+42675,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71101,10.42058,20
+42676,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.711,10.42062,21
+42677,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71101,10.42067,22
+42678,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71103,10.4207,23
+42679,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71105,10.42071,24
+42680,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71109,10.4207,25
+42681,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71111,10.42068,26
+42682,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71112,10.42064,27
+42683,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71112,10.4206,28
+42684,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71108,10.42055,29
+42685,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71102,10.42034,30
+42686,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71095,10.41991,31
+42687,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71091,10.41974,32
+42688,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71068,10.41746,33
+42689,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71037,10.41529,34
+42690,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70997,10.41245,35
+42691,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70992,10.41199,36
+42692,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70991,10.41172,37
+42693,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7099,10.41147,38
+42694,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70993,10.41076,39
+42695,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70994,10.41066,40
+42696,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70995,10.41058,41
+42697,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71002,10.41043,42
+42698,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71006,10.4104,43
+42699,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71008,10.41036,44
+42700,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7101,10.41032,45
+42701,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71011,10.41027,46
+42702,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71011,10.41022,47
+42703,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7101,10.41017,48
+42704,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71009,10.41013,49
+42705,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71006,10.41009,50
+42706,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71002,10.41005,51
+42707,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70998,10.40978,52
+42708,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71007,10.40776,53
+42709,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71014,10.40774,54
+42710,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71018,10.40769,55
+42711,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71027,10.40767,56
+42712,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71063,10.40769,57
+42713,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71112,10.40773,58
+42714,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71118,10.40776,59
+42715,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71127,10.40782,60
+42716,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71131,10.40786,61
+42717,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71138,10.40789,62
+42718,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71204,10.40793,63
+42719,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71261,10.40789,64
+42720,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71299,10.40783,65
+42721,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71305,10.40781,66
+42722,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71307,10.40778,67
+42723,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7136,10.40622,68
+42724,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71372,10.40591,69
+42725,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71412,10.40501,70
+42726,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71493,10.40327,71
+42727,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71526,10.4025,72
+42728,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7154,10.40214,73
+42729,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71551,10.40181,74
+42730,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71566,10.40129,75
+42731,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7157,10.40111,76
+42732,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71576,10.40067,77
+42733,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7158,10.40037,78
+42734,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71583,10.39998,79
+42735,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71583,10.39968,80
+42736,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7158,10.39919,81
+42737,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71577,10.39888,82
+42738,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71571,10.39854,83
+42739,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71557,10.39791,84
+42740,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71542,10.39746,85
+42741,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71511,10.3966,86
+42742,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71508,10.39645,87
+42743,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71496,10.39619,88
+42744,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71472,10.39571,89
+42745,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7156,10.39498,90
+42746,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7154,10.39451,91
+42747,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7153,10.3943,92
+42748,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71495,10.39362,93
+42749,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71451,10.39274,94
+42750,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71413,10.39183,95
+42751,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71406,10.39165,96
+42752,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71405,10.39151,97
+42753,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71401,10.39126,98
+42754,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71401,10.39117,99
+42755,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71407,10.39084,100
+42756,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71408,10.39068,101
+42757,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71401,10.39043,102
+42758,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71385,10.39001,103
+42759,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71384,10.38995,104
+42760,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71376,10.38983,105
+42761,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71371,10.38969,106
+42762,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71353,10.38923,107
+42763,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71345,10.38902,108
+42764,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71344,10.38891,109
+42765,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71346,10.38884,110
+42766,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71345,10.38878,111
+42767,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71344,10.38876,112
+42768,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71337,10.38865,113
+42769,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7133,10.3884,114
+42770,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71328,10.38836,115
+42771,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71324,10.38836,116
+42772,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71319,10.38837,117
+42773,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71301,10.38844,118
+42774,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71297,10.38844,119
+42775,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71292,10.38844,120
+42776,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71286,10.38841,121
+42777,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7128,10.38836,122
+42778,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71275,10.38828,123
+42779,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71273,10.38822,124
+42780,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71262,10.38783,125
+42781,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71182,10.38436,126
+42782,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71224,10.38411,127
+42783,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71258,10.38383,128
+42784,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71262,10.38381,129
+42785,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71273,10.3838,130
+42786,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71279,10.38379,131
+42787,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71284,10.38375,132
+42788,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71287,10.38369,133
+42789,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71288,10.38361,134
+42790,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71288,10.38358,135
+42791,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71286,10.38351,136
+42792,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71285,10.38347,137
+42793,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7128,10.38342,138
+42794,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71277,10.38341,139
+42795,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71271,10.3834,140
+42796,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71253,10.38325,141
+42797,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7115,10.38155,142
+42798,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71139,10.38128,143
+42799,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71131,10.38101,144
+42800,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71125,10.38068,145
+42801,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71087,10.37801,146
+42802,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71082,10.37777,147
+42803,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71073,10.37738,148
+42804,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71063,10.37703,149
+42805,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.71056,10.37685,150
+42806,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70989,10.37495,151
+42807,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70982,10.37478,152
+42808,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70973,10.37462,153
+42809,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7096,10.37428,154
+42810,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70961,10.37419,155
+42811,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70961,10.37413,156
+42812,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70958,10.37405,157
+42813,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70956,10.37401,158
+42814,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7095,10.37395,159
+42815,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70947,10.37394,160
+42816,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70942,10.37394,161
+42817,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70936,10.37396,162
+42818,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70896,10.37432,163
+42819,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70884,10.37448,164
+42820,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70747,10.37576,165
+42821,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70742,10.37578,166
+42822,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7074,10.37574,167
+42823,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70736,10.37572,168
+42824,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70732,10.37574,169
+42825,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7073,10.37577,170
+42826,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70716,10.37549,171
+42827,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70657,10.37427,172
+42828,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70551,10.37202,173
+42829,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70296,10.3666,174
+42830,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70287,10.36639,175
+42831,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70245,10.36551,176
+42832,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70212,10.36483,177
+42833,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.702,10.36461,178
+42834,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.7018,10.36429,179
+42835,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70163,10.36405,180
+42836,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70138,10.36374,181
+42837,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70128,10.36364,182
+42838,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70092,10.36328,183
+42839,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.70042,10.36281,184
+42840,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.69734,10.35993,185
+42841,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.69708,10.35967,186
+42842,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.69679,10.35932,187
+42843,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.6967,10.35921,188
+42844,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.69636,10.35873,189
+42845,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.69602,10.35817,190
+42846,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.69272,10.35186,191
+42847,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.69246,10.35139,192
+42848,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.69212,10.35085,193
+42849,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.69149,10.34995,194
+42850,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.69099,10.34928,195
+42851,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68798,10.34514,196
+42852,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68763,10.34467,197
+42853,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68734,10.34429,198
+42854,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68719,10.34413,199
+42855,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68708,10.34404,200
+42856,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68674,10.34385,201
+42857,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68664,10.34376,202
+42858,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.6866,10.3437,203
+42859,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68659,10.34365,204
+42860,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68657,10.34357,205
+42861,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68654,10.34352,206
+42862,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68648,10.34345,207
+42863,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68642,10.34343,208
+42864,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68629,10.34303,209
+42865,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68623,10.34278,210
+42866,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68613,10.34244,211
+42867,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68605,10.34227,212
+42868,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68595,10.34209,213
+42869,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68554,10.34141,214
+42870,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68279,10.33663,215
+42871,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68145,10.33431,216
+42872,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68096,10.33341,217
+42873,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.68076,10.33299,218
+42874,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67981,10.33095,219
+42875,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67942,10.33012,220
+42876,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67916,10.32951,221
+42877,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.6771,10.32501,222
+42878,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67688,10.3245,223
+42879,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67672,10.32407,224
+42880,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67652,10.32342,225
+42881,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.6754,10.31884,226
+42882,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67538,10.31871,227
+42883,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67536,10.31847,228
+42884,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67538,10.31812,229
+42885,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67543,10.31788,230
+42886,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67567,10.31673,231
+42887,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67573,10.31638,232
+42888,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67621,10.31305,233
+42889,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67633,10.31227,234
+42890,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67649,10.31115,235
+42891,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.6766,10.31023,236
+42892,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67673,10.30794,237
+42893,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67677,10.30746,238
+42894,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67683,10.30693,239
+42895,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67696,10.30594,240
+42896,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.6761,10.30478,241
+42897,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67603,10.3047,242
+42898,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67553,10.30485,243
+42899,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67539,10.30492,244
+42900,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67513,10.30511,245
+42901,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67473,10.30423,246
+42902,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67399,10.30296,247
+42903,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67389,10.30282,248
+42904,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.6722,10.30106,249
+42905,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67201,10.30082,250
+42906,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.67168,10.30061,251
+42907,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.66954,10.29806,252
+42908,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.66935,10.29779,253
+42909,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.66924,10.29761,254
+42910,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.66922,10.29755,255
+42911,Ristorante Tuscany 2,Parcheggio Porto di Marina,route_1686,43.66922,10.29748,256
+42912,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70994,10.42005,0
+42913,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70996,10.42017,1
+42914,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71005,10.4201,2
+42915,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71003,10.41994,3
+42916,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71008,10.41993,4
+42917,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71006,10.41974,5
+42918,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71002,10.41963,6
+42919,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71001,10.41958,7
+42920,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71002,10.41955,8
+42921,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71007,10.41951,9
+42922,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.7103,10.41942,10
+42923,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71039,10.41928,11
+42924,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71038,10.41924,12
+42925,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71078,10.41912,13
+42926,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71085,10.41915,14
+42927,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71091,10.41974,15
+42928,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.7109,10.4199,16
+42929,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71092,10.4202,17
+42930,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71094,10.42031,18
+42931,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71098,10.42043,19
+42932,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71101,10.42058,20
+42933,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.711,10.42062,21
+42934,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71101,10.42067,22
+42935,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71103,10.4207,23
+42936,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71105,10.42071,24
+42937,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71109,10.4207,25
+42938,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71111,10.42068,26
+42939,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71112,10.42064,27
+42940,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71112,10.4206,28
+42941,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71108,10.42055,29
+42942,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71102,10.42034,30
+42943,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71095,10.41991,31
+42944,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71091,10.41974,32
+42945,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71068,10.41746,33
+42946,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71037,10.41529,34
+42947,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70997,10.41245,35
+42948,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70992,10.41199,36
+42949,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70991,10.41172,37
+42950,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.7099,10.41147,38
+42951,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70993,10.41076,39
+42952,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70994,10.41066,40
+42953,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70995,10.41058,41
+42954,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71002,10.41043,42
+42955,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71006,10.4104,43
+42956,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71008,10.41036,44
+42957,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.7101,10.41032,45
+42958,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71011,10.41027,46
+42959,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71011,10.41022,47
+42960,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.7101,10.41017,48
+42961,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71009,10.41013,49
+42962,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71006,10.41009,50
+42963,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71002,10.41005,51
+42964,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70998,10.40978,52
+42965,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71007,10.40776,53
+42966,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71014,10.40774,54
+42967,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71018,10.40769,55
+42968,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71019,10.40765,56
+42969,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.7102,10.4076,57
+42970,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71019,10.40752,58
+42971,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71017,10.40749,59
+42972,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71014,10.40745,60
+42973,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.7101,10.40743,61
+42974,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71008,10.40743,62
+42975,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71015,10.4061,63
+42976,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71019,10.4058,64
+42977,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71021,10.40573,65
+42978,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71027,10.40559,66
+42979,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.7104,10.4055,67
+42980,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71043,10.40545,68
+42981,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71044,10.40536,69
+42982,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71044,10.4053,70
+42983,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71041,10.40524,71
+42984,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71035,10.4052,72
+42985,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.7103,10.4052,73
+42986,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71019,10.40527,74
+42987,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.7101,10.40527,75
+42988,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.71006,10.40525,76
+42989,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70988,10.40513,77
+42990,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70974,10.40502,78
+42991,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70967,10.40492,79
+42992,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70965,10.40486,80
+42993,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70975,10.40422,81
+42994,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70988,10.40324,82
+42995,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70958,10.40294,83
+42996,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70931,10.40264,84
+42997,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70908,10.40242,85
+42998,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.7087,10.40213,86
+42999,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70831,10.40184,87
+43000,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70795,10.40155,88
+43001,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70789,10.40152,89
+43002,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70786,10.40151,90
+43003,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.7078,10.40151,91
+43004,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70777,10.40153,92
+43005,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70771,10.40159,93
+43006,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70765,10.40172,94
+43007,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70712,10.40318,95
+43008,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70614,10.40251,96
+43009,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70553,10.40214,97
+43010,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70547,10.40207,98
+43011,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70535,10.40184,99
+43012,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.7053,10.40178,100
+43013,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70524,10.40171,101
+43014,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70471,10.40133,102
+43015,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70455,10.40124,103
+43016,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70276,10.40076,104
+43017,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70252,10.40069,105
+43018,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70247,10.40067,106
+43019,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70244,10.40064,107
+43020,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70245,10.40061,108
+43021,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70245,10.40056,109
+43022,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70244,10.40052,110
+43023,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.7024,10.40047,111
+43024,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70237,10.40046,112
+43025,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70234,10.40046,113
+43026,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70231,10.40048,114
+43027,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70229,10.40051,115
+43028,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70228,10.40054,116
+43029,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70227,10.40058,117
+43030,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70215,10.40059,118
+43031,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.7018,10.40051,119
+43032,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70155,10.40042,120
+43033,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70036,10.3998,121
+43034,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70022,10.39969,122
+43035,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70002,10.39958,123
+43036,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69981,10.39948,124
+43037,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69978,10.39945,125
+43038,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69975,10.39939,126
+43039,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69973,10.39932,127
+43040,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69971,10.39917,128
+43041,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69979,10.39842,129
+43042,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69985,10.39803,130
+43043,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69986,10.39795,131
+43044,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69986,10.39785,132
+43045,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69985,10.39773,133
+43046,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69984,10.39757,134
+43047,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69985,10.39744,135
+43048,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6999,10.39727,136
+43049,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69998,10.39716,137
+43050,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70003,10.3971,138
+43051,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70009,10.39713,139
+43052,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70014,10.39713,140
+43053,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70018,10.39714,141
+43054,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70025,10.3972,142
+43055,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70032,10.3973,143
+43056,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.7004,10.39742,144
+43057,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70048,10.39756,145
+43058,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70052,10.39767,146
+43059,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70055,10.39782,147
+43060,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70057,10.39795,148
+43061,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70058,10.39808,149
+43062,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70055,10.39822,150
+43063,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70052,10.3983,151
+43064,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70047,10.39837,152
+43065,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70042,10.39841,153
+43066,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70038,10.39842,154
+43067,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70033,10.39842,155
+43068,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70026,10.3984,156
+43069,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70023,10.39837,157
+43070,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70019,10.39831,158
+43071,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70014,10.39817,159
+43072,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70014,10.39808,160
+43073,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70016,10.3977,161
+43074,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70013,10.39718,162
+43075,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70016,10.39669,163
+43076,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70016,10.39634,164
+43077,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70014,10.39574,165
+43078,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70011,10.39535,166
+43079,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70005,10.39477,167
+43080,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69972,10.39251,168
+43081,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69964,10.39173,169
+43082,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69962,10.39127,170
+43083,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69963,10.39086,171
+43084,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69967,10.39018,172
+43085,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69975,10.38967,173
+43086,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69984,10.38924,174
+43087,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69996,10.38883,175
+43088,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70009,10.38843,176
+43089,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70036,10.38767,177
+43090,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70047,10.38733,178
+43091,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70068,10.38654,179
+43092,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70081,10.38604,180
+43093,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70097,10.3852,181
+43094,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70105,10.38467,182
+43095,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70109,10.38423,183
+43096,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70115,10.38346,184
+43097,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70117,10.38282,185
+43098,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70117,10.38227,186
+43099,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70115,10.38181,187
+43100,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70113,10.38153,188
+43101,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70106,10.38084,189
+43102,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.701,10.38039,190
+43103,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70093,10.37999,191
+43104,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70078,10.37926,192
+43105,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70062,10.37866,193
+43106,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70051,10.37826,194
+43107,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70032,10.37773,195
+43108,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.70024,10.37751,196
+43109,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69999,10.3769,197
+43110,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69984,10.37658,198
+43111,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69967,10.37625,199
+43112,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69775,10.37273,200
+43113,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69686,10.37109,201
+43114,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69673,10.37081,202
+43115,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6965,10.37025,203
+43116,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69633,10.36975,204
+43117,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69625,10.36946,205
+43118,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69612,10.36889,206
+43119,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69594,10.36792,207
+43120,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69561,10.36605,208
+43121,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69534,10.36448,209
+43122,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69525,10.36399,210
+43123,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69519,10.36374,211
+43124,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69509,10.36336,212
+43125,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69498,10.36299,213
+43126,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69485,10.36265,214
+43127,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69459,10.36203,215
+43128,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69449,10.3618,216
+43129,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69435,10.36146,217
+43130,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69423,10.36118,218
+43131,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69335,10.35937,219
+43132,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69324,10.35905,220
+43133,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6932,10.35887,221
+43134,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69316,10.35867,222
+43135,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69313,10.35831,223
+43136,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69309,10.35808,224
+43137,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69307,10.35765,225
+43138,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69305,10.35753,226
+43139,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69301,10.35729,227
+43140,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69294,10.35704,228
+43141,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.69285,10.35677,229
+43142,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6927,10.35647,230
+43143,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6925,10.35611,231
+43144,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68909,10.35052,232
+43145,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68887,10.35023,233
+43146,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68869,10.35004,234
+43147,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68854,10.34991,235
+43148,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68836,10.34975,236
+43149,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68818,10.34963,237
+43150,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68803,10.34955,238
+43151,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68788,10.34948,239
+43152,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68759,10.34938,240
+43153,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68745,10.34934,241
+43154,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68719,10.3493,242
+43155,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68695,10.3493,243
+43156,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68674,10.34932,244
+43157,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68654,10.34936,245
+43158,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6864,10.3494,246
+43159,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68615,10.3495,247
+43160,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68588,10.34965,248
+43161,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68573,10.34976,249
+43162,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68558,10.34989,250
+43163,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68537,10.3501,251
+43164,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68512,10.3504,252
+43165,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68491,10.35074,253
+43166,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68427,10.35214,254
+43167,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68417,10.35233,255
+43168,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68408,10.35248,256
+43169,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6839,10.35275,257
+43170,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68372,10.35298,258
+43171,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68361,10.35308,259
+43172,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68335,10.3533,260
+43173,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68315,10.35342,261
+43174,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68289,10.35354,262
+43175,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68254,10.35363,263
+43176,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68225,10.35365,264
+43177,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.682,10.35365,265
+43178,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67764,10.35311,266
+43179,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67723,10.35303,267
+43180,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6769,10.35293,268
+43181,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67667,10.35284,269
+43182,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67641,10.3527,270
+43183,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67606,10.35247,271
+43184,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67587,10.35231,272
+43185,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67563,10.35205,273
+43186,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67539,10.35175,274
+43187,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67522,10.35149,275
+43188,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67491,10.35097,276
+43189,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67429,10.34975,277
+43190,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67373,10.34866,278
+43191,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67369,10.34854,279
+43192,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67357,10.34829,280
+43193,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67351,10.34806,281
+43194,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67352,10.34798,282
+43195,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67362,10.34781,283
+43196,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67368,10.34775,284
+43197,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67384,10.34761,285
+43198,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67453,10.34742,286
+43199,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67682,10.34706,287
+43200,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67712,10.347,288
+43201,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67711,10.34608,289
+43202,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67712,10.34597,290
+43203,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67713,10.34587,291
+43204,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67716,10.3458,292
+43205,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67718,10.34574,293
+43206,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67724,10.34566,294
+43207,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67733,10.34558,295
+43208,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67738,10.34556,296
+43209,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6775,10.34553,297
+43210,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6795,10.34539,298
+43211,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6796,10.34535,299
+43212,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67967,10.3453,300
+43213,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67971,10.34527,301
+43214,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67976,10.34519,302
+43215,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67981,10.345,303
+43216,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67984,10.3448,304
+43217,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68001,10.34327,305
+43218,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68017,10.34175,306
+43219,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68018,10.34153,307
+43220,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68018,10.34126,308
+43221,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68017,10.34093,309
+43222,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68016,10.34036,310
+43223,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68019,10.3396,311
+43224,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68019,10.33928,312
+43225,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68013,10.33823,313
+43226,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68001,10.33624,314
+43227,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68001,10.33592,315
+43228,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68003,10.33542,316
+43229,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68001,10.33468,317
+43230,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.68,10.33441,318
+43231,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67996,10.33418,319
+43232,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67856,10.32873,320
+43233,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67847,10.32857,321
+43234,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67831,10.32808,322
+43235,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67817,10.32767,323
+43236,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67794,10.32714,324
+43237,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67709,10.3253,325
+43238,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6769,10.32489,326
+43239,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67676,10.32453,327
+43240,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67662,10.32415,328
+43241,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67651,10.32383,329
+43242,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67642,10.32352,330
+43243,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67626,10.32287,331
+43244,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67604,10.32199,332
+43245,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67595,10.32175,333
+43246,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6757,10.32124,334
+43247,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67513,10.32036,335
+43248,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.67467,10.31963,336
+43249,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6736,10.31798,337
+43250,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66954,10.31179,338
+43251,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6694,10.31159,339
+43252,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6693,10.31147,340
+43253,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6692,10.3114,341
+43254,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66906,10.31138,342
+43255,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66756,10.31138,343
+43256,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66716,10.3114,344
+43257,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66673,10.31143,345
+43258,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66667,10.31142,346
+43259,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66664,10.3114,347
+43260,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66659,10.31136,348
+43261,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66656,10.31131,349
+43262,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66636,10.31082,350
+43263,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.666,10.31009,351
+43264,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66588,10.30981,352
+43265,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66581,10.30965,353
+43266,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66574,10.30953,354
+43267,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6657,10.30947,355
+43268,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66502,10.30857,356
+43269,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66459,10.30806,357
+43270,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66444,10.3079,358
+43271,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66418,10.30765,359
+43272,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66386,10.30737,360
+43273,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66319,10.30676,361
+43274,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66298,10.30655,362
+43275,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66266,10.30628,363
+43276,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66251,10.30618,364
+43277,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66241,10.30614,365
+43278,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66231,10.30612,366
+43279,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66209,10.30614,367
+43280,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66181,10.3062,368
+43281,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66082,10.30645,369
+43282,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.66013,10.30664,370
+43283,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.65868,10.30713,371
+43284,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.65579,10.30816,372
+43285,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.65462,10.30856,373
+43286,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.65399,10.30881,374
+43287,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.65314,10.30922,375
+43288,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.65308,10.30921,376
+43289,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.65303,10.30916,377
+43290,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.65236,10.30765,378
+43291,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.65165,10.30609,379
+43292,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6508,10.30423,380
+43293,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.64976,10.30195,381
+43294,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.64816,10.29839,382
+43295,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.64713,10.29614,383
+43296,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.64573,10.29305,384
+43297,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.64552,10.29259,385
+43298,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.64547,10.29249,386
+43299,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.64544,10.29244,387
+43300,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.64545,10.2924,388
+43301,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.64544,10.29235,389
+43302,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.6454,10.29232,390
+43303,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.64538,10.29231,391
+43304,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.64535,10.29233,392
+43305,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.64533,10.29235,393
+43306,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.64532,10.29237,394
+43307,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.64532,10.29242,395
+43308,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.64518,10.29248,396
+43309,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.64406,10.29316,397
+43310,Ristorante Tuscany 2,Ristorante Da Stefano (Tirrenia),route_1687,43.64318,10.29351,398

@@ -1,0 +1,901 @@
+id,start,end,route_id,lat,lon,idx
+49522,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70264,10.38743,0
+49523,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70243,10.38759,1
+49524,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70218,10.38777,2
+49525,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70195,10.38796,3
+49526,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70152,10.38831,4
+49527,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70116,10.38855,5
+49528,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70098,10.38865,6
+49529,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70059,10.38883,7
+49530,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70017,10.38897,8
+49531,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.69995,10.38902,9
+49532,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.69977,10.38903,10
+49533,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.69955,10.38901,11
+49534,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.69951,10.38899,12
+49535,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.69947,10.38899,13
+49536,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.69944,10.389,14
+49537,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.6994,10.38904,15
+49538,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.69938,10.38909,16
+49539,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.69937,10.38917,17
+49540,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.6994,10.38925,18
+49541,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.69944,10.3893,19
+49542,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.6995,10.3893,20
+49543,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.69975,10.38946,21
+49544,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.6999,10.38952,22
+49545,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70009,10.38957,23
+49546,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70016,10.38967,24
+49547,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70051,10.39053,25
+49548,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70056,10.39066,26
+49549,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70059,10.39073,27
+49550,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70068,10.39075,28
+49551,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70082,10.39074,29
+49552,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70104,10.39065,30
+49553,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70121,10.39055,31
+49554,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70133,10.39046,32
+49555,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70147,10.39033,33
+49556,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70156,10.39021,34
+49557,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70167,10.39004,35
+49558,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70173,10.38991,36
+49559,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70182,10.3897,37
+49560,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70188,10.38944,38
+49561,Conad Pian di Marco,McDonald's Pisa Aurelia,route_1920,43.70189,10.38935,39
+49562,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70264,10.38743,0
+49563,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70284,10.38726,1
+49564,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70302,10.38699,2
+49565,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70308,10.38696,3
+49566,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70312,10.3869,4
+49567,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70339,10.38672,5
+49568,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70371,10.3866,6
+49569,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70409,10.38652,7
+49570,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70729,10.38573,8
+49571,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70739,10.38574,9
+49572,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70837,10.3855,10
+49573,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70852,10.38545,11
+49574,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70865,10.38544,12
+49575,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70871,10.38549,13
+49576,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70875,10.38551,14
+49577,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70879,10.38552,15
+49578,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70883,10.3855,16
+49579,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70888,10.38544,17
+49580,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70898,10.38537,18
+49581,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70908,10.38529,19
+49582,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70928,10.38523,20
+49583,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.70998,10.38502,21
+49584,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71043,10.3849,22
+49585,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71106,10.38465,23
+49586,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71172,10.38437,24
+49587,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71177,10.38437,25
+49588,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71182,10.38436,26
+49589,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71262,10.38783,27
+49590,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71273,10.38822,28
+49591,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71275,10.38828,29
+49592,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.7128,10.38836,30
+49593,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71286,10.38841,31
+49594,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71292,10.38844,32
+49595,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71297,10.38844,33
+49596,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71301,10.38844,34
+49597,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71319,10.38837,35
+49598,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71324,10.38836,36
+49599,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71326,10.38838,37
+49600,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71327,10.38842,38
+49601,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.7133,10.38857,39
+49602,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71332,10.38861,40
+49603,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71337,10.38876,41
+49604,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71341,10.38881,42
+49605,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71346,10.38884,43
+49606,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71349,10.38879,44
+49607,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71368,10.38866,45
+49608,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71541,10.38785,46
+49609,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71552,10.38782,47
+49610,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71563,10.38783,48
+49611,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71573,10.38784,49
+49612,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71589,10.38791,50
+49613,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.716,10.38799,51
+49614,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.71818,10.38945,52
+49615,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72147,10.39162,53
+49616,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.7218,10.39181,54
+49617,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72197,10.39191,55
+49618,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72264,10.3922,56
+49619,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72271,10.39222,57
+49620,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72283,10.39223,58
+49621,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72295,10.39222,59
+49622,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72306,10.39219,60
+49623,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72369,10.3919,61
+49624,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72486,10.3913,62
+49625,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72489,10.39135,63
+49626,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72494,10.39137,64
+49627,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72497,10.39185,65
+49628,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72497,10.39193,66
+49629,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72495,10.39213,67
+49630,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.7249,10.3925,68
+49631,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72469,10.39364,69
+49632,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72409,10.39685,70
+49633,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.724,10.39723,71
+49634,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72359,10.39853,72
+49635,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72347,10.39894,73
+49636,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72284,10.40176,74
+49637,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72371,10.40559,75
+49638,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72411,10.40731,76
+49639,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72438,10.4084,77
+49640,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72441,10.40848,78
+49641,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72446,10.40882,79
+49642,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72444,10.40889,80
+49643,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72443,10.40894,81
+49644,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72444,10.409,82
+49645,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72445,10.40904,83
+49646,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72447,10.40908,84
+49647,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.7245,10.40912,85
+49648,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72453,10.40914,86
+49649,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.7246,10.40923,87
+49650,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72461,10.40929,88
+49651,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72461,10.40939,89
+49652,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72457,10.40954,90
+49653,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72457,10.40959,91
+49654,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72459,10.40963,92
+49655,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72463,10.40966,93
+49656,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72467,10.40966,94
+49657,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72473,10.4097,95
+49658,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72478,10.40975,96
+49659,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72505,10.41095,97
+49660,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.7251,10.41115,98
+49661,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72526,10.41164,99
+49662,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72559,10.41258,100
+49663,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72575,10.41297,101
+49664,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72588,10.41326,102
+49665,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.72601,10.41349,103
+49666,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.7266,10.41445,104
+49667,Conad Pian di Marco,Parcheggio Via Paparelli,route_1921,43.7272,10.41538,105
+49668,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70264,10.38743,0
+49669,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70284,10.38726,1
+49670,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70302,10.38699,2
+49671,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70308,10.38696,3
+49672,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70312,10.3869,4
+49673,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70339,10.38672,5
+49674,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70371,10.3866,6
+49675,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70409,10.38652,7
+49676,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70729,10.38573,8
+49677,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70739,10.38574,9
+49678,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70837,10.3855,10
+49679,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70852,10.38545,11
+49680,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70865,10.38544,12
+49681,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70871,10.38549,13
+49682,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70875,10.38551,14
+49683,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70879,10.38552,15
+49684,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70883,10.3855,16
+49685,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70888,10.38544,17
+49686,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70898,10.38537,18
+49687,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70908,10.38529,19
+49688,Conad Pian di Marco,Decathlon Pisa,route_1922,43.7091,10.38528,20
+49689,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70916,10.38531,21
+49690,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70928,10.38534,22
+49691,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70932,10.38534,23
+49692,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70947,10.3853,24
+49693,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70955,10.38531,25
+49694,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70961,10.38534,26
+49695,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70966,10.38537,27
+49696,Conad Pian di Marco,Decathlon Pisa,route_1922,43.7097,10.38542,28
+49697,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70982,10.38573,29
+49698,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70986,10.38575,30
+49699,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70985,10.38581,31
+49700,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70986,10.38586,32
+49701,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70989,10.3859,33
+49702,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70992,10.3859,34
+49703,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70995,10.38612,35
+49704,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71045,10.38769,36
+49705,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71052,10.38788,37
+49706,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71068,10.38834,38
+49707,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71112,10.3897,39
+49708,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71157,10.39094,40
+49709,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71162,10.39112,41
+49710,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71163,10.39133,42
+49711,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71162,10.39139,43
+49712,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71158,10.39142,44
+49713,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71133,10.39152,45
+49714,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71093,10.39162,46
+49715,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71082,10.39166,47
+49716,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71072,10.39173,48
+49717,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71067,10.39179,49
+49718,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71063,10.39186,50
+49719,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71061,10.39193,51
+49720,Conad Pian di Marco,Decathlon Pisa,route_1922,43.7106,10.39206,52
+49721,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71058,10.39434,53
+49722,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71057,10.39451,54
+49723,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71054,10.39481,55
+49724,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71041,10.39568,56
+49725,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71036,10.39568,57
+49726,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71033,10.39573,58
+49727,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71032,10.3958,59
+49728,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71034,10.39585,60
+49729,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71038,10.39588,61
+49730,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71033,10.39616,62
+49731,Conad Pian di Marco,Decathlon Pisa,route_1922,43.7101,10.39766,63
+49732,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71009,10.39768,64
+49733,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71006,10.39775,65
+49734,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71006,10.39784,66
+49735,Conad Pian di Marco,Decathlon Pisa,route_1922,43.71001,10.39838,67
+49736,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70997,10.3988,68
+49737,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70992,10.39879,69
+49738,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70989,10.39881,70
+49739,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70986,10.39884,71
+49740,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70984,10.3989,72
+49741,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70919,10.39873,73
+49742,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70913,10.39873,74
+49743,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70908,10.39875,75
+49744,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70905,10.3988,76
+49745,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70883,10.39942,77
+49746,Conad Pian di Marco,Decathlon Pisa,route_1922,43.7086,10.40011,78
+49747,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70815,10.40138,79
+49748,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70805,10.40164,80
+49749,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70795,10.40155,81
+49750,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70789,10.40152,82
+49751,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70786,10.40151,83
+49752,Conad Pian di Marco,Decathlon Pisa,route_1922,43.7078,10.40151,84
+49753,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70777,10.40153,85
+49754,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70771,10.40159,86
+49755,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70765,10.40172,87
+49756,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70685,10.40392,88
+49757,Conad Pian di Marco,Decathlon Pisa,route_1922,43.7068,10.40407,89
+49758,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70676,10.40427,90
+49759,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70675,10.40444,91
+49760,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70675,10.40455,92
+49761,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70678,10.40479,93
+49762,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70683,10.40508,94
+49763,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70611,10.40711,95
+49764,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70609,10.40749,96
+49765,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70609,10.40762,97
+49766,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70611,10.40773,98
+49767,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70614,10.40784,99
+49768,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70623,10.40805,100
+49769,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70638,10.40833,101
+49770,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70644,10.40829,102
+49771,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70663,10.40808,103
+49772,Conad Pian di Marco,Decathlon Pisa,route_1922,43.7067,10.40803,104
+49773,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70765,10.40736,105
+49774,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70782,10.40784,106
+49775,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70754,10.40807,107
+49776,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70738,10.40823,108
+49777,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70728,10.40833,109
+49778,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70721,10.40847,110
+49779,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70709,10.40862,111
+49780,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70696,10.40875,112
+49781,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70684,10.40889,113
+49782,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70672,10.40909,114
+49783,Conad Pian di Marco,Decathlon Pisa,route_1922,43.7066,10.40933,115
+49784,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70659,10.40939,116
+49785,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70659,10.40953,117
+49786,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70657,10.40964,118
+49787,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70653,10.40976,119
+49788,Conad Pian di Marco,Decathlon Pisa,route_1922,43.70641,10.41001,120
+49789,Conad Pian di Marco,Decathlon Pisa,route_1922,43.7063,10.41019,121
+49790,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70264,10.38743,0
+49791,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70284,10.38726,1
+49792,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70302,10.38699,2
+49793,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70308,10.38696,3
+49794,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70312,10.3869,4
+49795,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70339,10.38672,5
+49796,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70371,10.3866,6
+49797,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70409,10.38652,7
+49798,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70729,10.38573,8
+49799,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70739,10.38574,9
+49800,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70837,10.3855,10
+49801,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70852,10.38545,11
+49802,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70865,10.38544,12
+49803,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70871,10.38549,13
+49804,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70875,10.38551,14
+49805,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70879,10.38552,15
+49806,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70883,10.3855,16
+49807,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70888,10.38544,17
+49808,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70898,10.38537,18
+49809,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70908,10.38529,19
+49810,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.7091,10.38528,20
+49811,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70916,10.38531,21
+49812,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70928,10.38534,22
+49813,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70932,10.38534,23
+49814,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70947,10.3853,24
+49815,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70955,10.38531,25
+49816,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70961,10.38534,26
+49817,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70966,10.38537,27
+49818,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.7097,10.38542,28
+49819,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70982,10.38573,29
+49820,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70986,10.38575,30
+49821,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70985,10.38581,31
+49822,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70986,10.38586,32
+49823,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70989,10.3859,33
+49824,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70992,10.3859,34
+49825,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70995,10.38612,35
+49826,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71045,10.38769,36
+49827,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71052,10.38788,37
+49828,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71068,10.38834,38
+49829,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71112,10.3897,39
+49830,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71157,10.39094,40
+49831,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71162,10.39112,41
+49832,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71163,10.39133,42
+49833,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71162,10.39139,43
+49834,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71158,10.39142,44
+49835,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71133,10.39152,45
+49836,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71093,10.39162,46
+49837,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71082,10.39166,47
+49838,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71072,10.39173,48
+49839,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71067,10.39179,49
+49840,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71063,10.39186,50
+49841,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71061,10.39193,51
+49842,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.7106,10.39206,52
+49843,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71058,10.39434,53
+49844,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71057,10.39451,54
+49845,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71054,10.39481,55
+49846,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71041,10.39568,56
+49847,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71036,10.39568,57
+49848,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71033,10.39573,58
+49849,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71032,10.3958,59
+49850,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71034,10.39585,60
+49851,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71038,10.39588,61
+49852,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71033,10.39616,62
+49853,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.7101,10.39766,63
+49854,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71009,10.39768,64
+49855,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71006,10.39775,65
+49856,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71006,10.39784,66
+49857,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71001,10.39838,67
+49858,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70997,10.3988,68
+49859,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70992,10.39879,69
+49860,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70989,10.39881,70
+49861,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70986,10.39884,71
+49862,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70984,10.3989,72
+49863,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70984,10.39895,73
+49864,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70986,10.399,74
+49865,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.7099,10.39904,75
+49866,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70994,10.39905,76
+49867,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70994,10.39992,77
+49868,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70997,10.40207,78
+49869,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70997,10.40252,79
+49870,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70988,10.40324,80
+49871,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70975,10.40422,81
+49872,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70959,10.4052,82
+49873,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70953,10.40562,83
+49874,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70953,10.40571,84
+49875,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70954,10.40577,85
+49876,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70958,10.40585,86
+49877,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70962,10.40589,87
+49878,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.7097,10.40593,88
+49879,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70981,10.40586,89
+49880,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70996,10.40588,90
+49881,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71001,10.4059,91
+49882,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71007,10.40596,92
+49883,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71009,10.40599,93
+49884,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71015,10.4061,94
+49885,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71008,10.40743,95
+49886,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71004,10.40744,96
+49887,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71001,10.40747,97
+49888,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70998,10.40751,98
+49889,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70997,10.40755,99
+49890,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70997,10.40763,100
+49891,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70998,10.40769,101
+49892,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71003,10.40774,102
+49893,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.71007,10.40776,103
+49894,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70998,10.40978,104
+49895,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70992,10.41005,105
+49896,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70987,10.41009,106
+49897,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70983,10.41016,107
+49898,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70982,10.41022,108
+49899,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70983,10.4103,109
+49900,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70985,10.41035,110
+49901,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70988,10.4104,111
+49902,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70993,10.41076,112
+49903,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.7099,10.41147,113
+49904,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70991,10.41172,114
+49905,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70992,10.41199,115
+49906,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.7098,10.41201,116
+49907,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70964,10.41211,117
+49908,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70956,10.41218,118
+49909,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70912,10.41268,119
+49910,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70819,10.41357,120
+49911,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70812,10.41342,121
+49912,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70784,10.41271,122
+49913,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70752,10.41198,123
+49914,Conad Pian di Marco,MediaWorld Pisa,route_1923,43.70751,10.41201,124
+49915,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70264,10.38743,0
+49916,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70284,10.38726,1
+49917,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70302,10.38699,2
+49918,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70308,10.38696,3
+49919,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70312,10.3869,4
+49920,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70339,10.38672,5
+49921,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70371,10.3866,6
+49922,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70409,10.38652,7
+49923,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70729,10.38573,8
+49924,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70739,10.38574,9
+49925,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70837,10.3855,10
+49926,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70852,10.38545,11
+49927,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70865,10.38544,12
+49928,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70871,10.38549,13
+49929,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70875,10.38551,14
+49930,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70879,10.38552,15
+49931,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70883,10.3855,16
+49932,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70888,10.38544,17
+49933,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70898,10.38537,18
+49934,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70908,10.38529,19
+49935,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.7091,10.38528,20
+49936,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70916,10.38531,21
+49937,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70928,10.38534,22
+49938,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70932,10.38534,23
+49939,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70947,10.3853,24
+49940,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70955,10.38531,25
+49941,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70961,10.38534,26
+49942,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70966,10.38537,27
+49943,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.7097,10.38542,28
+49944,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70982,10.38573,29
+49945,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70986,10.38575,30
+49946,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70985,10.38581,31
+49947,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70986,10.38586,32
+49948,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70989,10.3859,33
+49949,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70992,10.3859,34
+49950,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70995,10.38612,35
+49951,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71045,10.38769,36
+49952,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71052,10.38788,37
+49953,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71068,10.38834,38
+49954,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71112,10.3897,39
+49955,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71157,10.39094,40
+49956,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71162,10.39112,41
+49957,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71163,10.39133,42
+49958,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71162,10.39139,43
+49959,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71158,10.39142,44
+49960,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71133,10.39152,45
+49961,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71093,10.39162,46
+49962,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71082,10.39166,47
+49963,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71072,10.39173,48
+49964,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71067,10.39179,49
+49965,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71063,10.39186,50
+49966,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71061,10.39193,51
+49967,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.7106,10.39206,52
+49968,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71058,10.39434,53
+49969,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71057,10.39451,54
+49970,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71054,10.39481,55
+49971,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71041,10.39568,56
+49972,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71036,10.39568,57
+49973,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71033,10.39573,58
+49974,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71032,10.3958,59
+49975,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71034,10.39585,60
+49976,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71038,10.39588,61
+49977,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71033,10.39616,62
+49978,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.7101,10.39766,63
+49979,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71009,10.39768,64
+49980,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71006,10.39775,65
+49981,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71006,10.39784,66
+49982,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71001,10.39838,67
+49983,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70997,10.3988,68
+49984,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70992,10.39879,69
+49985,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70989,10.39881,70
+49986,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70986,10.39884,71
+49987,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70984,10.3989,72
+49988,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70984,10.39895,73
+49989,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70986,10.399,74
+49990,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.7099,10.39904,75
+49991,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70994,10.39905,76
+49992,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70994,10.39992,77
+49993,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70997,10.40207,78
+49994,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70997,10.40252,79
+49995,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70988,10.40324,80
+49996,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70975,10.40422,81
+49997,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70959,10.4052,82
+49998,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70953,10.40562,83
+49999,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70953,10.40571,84
+50000,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70954,10.40577,85
+50001,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70958,10.40585,86
+50002,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70962,10.40589,87
+50003,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.7097,10.40593,88
+50004,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70981,10.40586,89
+50005,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70996,10.40588,90
+50006,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71001,10.4059,91
+50007,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71007,10.40596,92
+50008,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71009,10.40599,93
+50009,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71015,10.4061,94
+50010,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71008,10.40743,95
+50011,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71004,10.40744,96
+50012,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71001,10.40747,97
+50013,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70998,10.40751,98
+50014,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70997,10.40755,99
+50015,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70997,10.40763,100
+50016,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70998,10.40769,101
+50017,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71003,10.40774,102
+50018,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.71007,10.40776,103
+50019,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70998,10.40978,104
+50020,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70992,10.41005,105
+50021,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70987,10.41009,106
+50022,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70983,10.41016,107
+50023,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70982,10.41022,108
+50024,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70983,10.4103,109
+50025,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70985,10.41035,110
+50026,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70988,10.4104,111
+50027,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70993,10.41076,112
+50028,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.7099,10.41147,113
+50029,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70991,10.41172,114
+50030,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70992,10.41199,115
+50031,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.7098,10.41201,116
+50032,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70964,10.41211,117
+50033,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70956,10.41218,118
+50034,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70912,10.41268,119
+50035,Conad Pian di Marco,Centro Commerciale Pisanova,route_1924,43.70952,10.41348,120
+50036,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70264,10.38743,0
+50037,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70284,10.38726,1
+50038,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70302,10.38699,2
+50039,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70308,10.38696,3
+50040,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70312,10.3869,4
+50041,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70339,10.38672,5
+50042,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70371,10.3866,6
+50043,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70409,10.38652,7
+50044,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70729,10.38573,8
+50045,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70739,10.38574,9
+50046,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70837,10.3855,10
+50047,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70852,10.38545,11
+50048,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70865,10.38544,12
+50049,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70871,10.38549,13
+50050,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70875,10.38551,14
+50051,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70879,10.38552,15
+50052,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70883,10.3855,16
+50053,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70888,10.38544,17
+50054,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70898,10.38537,18
+50055,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70908,10.38529,19
+50056,Conad Pian di Marco,Ristorante Galileo,route_1925,43.7091,10.38528,20
+50057,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70916,10.38531,21
+50058,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70928,10.38534,22
+50059,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70932,10.38534,23
+50060,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70947,10.3853,24
+50061,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70955,10.38531,25
+50062,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70961,10.38534,26
+50063,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70966,10.38537,27
+50064,Conad Pian di Marco,Ristorante Galileo,route_1925,43.7097,10.38542,28
+50065,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70982,10.38573,29
+50066,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70986,10.38575,30
+50067,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70985,10.38581,31
+50068,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70986,10.38586,32
+50069,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70989,10.3859,33
+50070,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70992,10.3859,34
+50071,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70995,10.38612,35
+50072,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71045,10.38769,36
+50073,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71052,10.38788,37
+50074,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71068,10.38834,38
+50075,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71112,10.3897,39
+50076,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71157,10.39094,40
+50077,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71162,10.39112,41
+50078,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71163,10.39133,42
+50079,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71162,10.39139,43
+50080,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71158,10.39142,44
+50081,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71133,10.39152,45
+50082,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71093,10.39162,46
+50083,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71082,10.39166,47
+50084,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71072,10.39173,48
+50085,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71067,10.39179,49
+50086,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71063,10.39186,50
+50087,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71061,10.39193,51
+50088,Conad Pian di Marco,Ristorante Galileo,route_1925,43.7106,10.39206,52
+50089,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71058,10.39434,53
+50090,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71057,10.39451,54
+50091,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71054,10.39481,55
+50092,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71041,10.39568,56
+50093,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71036,10.39568,57
+50094,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71033,10.39573,58
+50095,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71032,10.3958,59
+50096,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71034,10.39585,60
+50097,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71038,10.39588,61
+50098,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71033,10.39616,62
+50099,Conad Pian di Marco,Ristorante Galileo,route_1925,43.7101,10.39766,63
+50100,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71009,10.39768,64
+50101,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71006,10.39775,65
+50102,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71006,10.39784,66
+50103,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71001,10.39838,67
+50104,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70997,10.3988,68
+50105,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70992,10.39879,69
+50106,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70989,10.39881,70
+50107,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70986,10.39884,71
+50108,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70984,10.3989,72
+50109,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70984,10.39895,73
+50110,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70986,10.399,74
+50111,Conad Pian di Marco,Ristorante Galileo,route_1925,43.7099,10.39904,75
+50112,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70994,10.39905,76
+50113,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70994,10.39992,77
+50114,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70997,10.40207,78
+50115,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70997,10.40252,79
+50116,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70988,10.40324,80
+50117,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70975,10.40422,81
+50118,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70959,10.4052,82
+50119,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70953,10.40562,83
+50120,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70953,10.40571,84
+50121,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70954,10.40577,85
+50122,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70958,10.40585,86
+50123,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70962,10.40589,87
+50124,Conad Pian di Marco,Ristorante Galileo,route_1925,43.7097,10.40593,88
+50125,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70981,10.40586,89
+50126,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70996,10.40588,90
+50127,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71001,10.4059,91
+50128,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71007,10.40596,92
+50129,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71009,10.40599,93
+50130,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71015,10.4061,94
+50131,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71008,10.40743,95
+50132,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71004,10.40744,96
+50133,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71001,10.40747,97
+50134,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70998,10.40751,98
+50135,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70997,10.40755,99
+50136,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70997,10.40763,100
+50137,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70998,10.40769,101
+50138,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71003,10.40774,102
+50139,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71007,10.40776,103
+50140,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70998,10.40978,104
+50141,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70992,10.41005,105
+50142,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70987,10.41009,106
+50143,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70983,10.41016,107
+50144,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70982,10.41022,108
+50145,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70983,10.4103,109
+50146,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70985,10.41035,110
+50147,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70988,10.4104,111
+50148,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70993,10.41076,112
+50149,Conad Pian di Marco,Ristorante Galileo,route_1925,43.7099,10.41147,113
+50150,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70991,10.41172,114
+50151,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70992,10.41199,115
+50152,Conad Pian di Marco,Ristorante Galileo,route_1925,43.70997,10.41245,116
+50153,Conad Pian di Marco,Ristorante Galileo,route_1925,43.71048,10.41609,117
+50154,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70264,10.38743,0
+50155,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70284,10.38726,1
+50156,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70302,10.38699,2
+50157,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70308,10.38696,3
+50158,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70312,10.3869,4
+50159,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70339,10.38672,5
+50160,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70371,10.3866,6
+50161,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70409,10.38652,7
+50162,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70729,10.38573,8
+50163,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70739,10.38574,9
+50164,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70837,10.3855,10
+50165,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70852,10.38545,11
+50166,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70865,10.38544,12
+50167,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70871,10.38549,13
+50168,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70875,10.38551,14
+50169,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70879,10.38552,15
+50170,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70883,10.3855,16
+50171,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70888,10.38544,17
+50172,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70898,10.38537,18
+50173,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70908,10.38529,19
+50174,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.7091,10.38528,20
+50175,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70916,10.38531,21
+50176,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70928,10.38534,22
+50177,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70932,10.38534,23
+50178,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70947,10.3853,24
+50179,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70955,10.38531,25
+50180,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70961,10.38534,26
+50181,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70966,10.38537,27
+50182,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.7097,10.38542,28
+50183,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70982,10.38573,29
+50184,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70986,10.38575,30
+50185,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70985,10.38581,31
+50186,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70986,10.38586,32
+50187,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70989,10.3859,33
+50188,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70992,10.3859,34
+50189,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70995,10.38612,35
+50190,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71045,10.38769,36
+50191,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71052,10.38788,37
+50192,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71068,10.38834,38
+50193,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71112,10.3897,39
+50194,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71157,10.39094,40
+50195,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71162,10.39112,41
+50196,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71163,10.39133,42
+50197,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71162,10.39139,43
+50198,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71158,10.39142,44
+50199,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71133,10.39152,45
+50200,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71093,10.39162,46
+50201,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71082,10.39166,47
+50202,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71072,10.39173,48
+50203,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71067,10.39179,49
+50204,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71063,10.39186,50
+50205,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71061,10.39193,51
+50206,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.7106,10.39206,52
+50207,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71058,10.39434,53
+50208,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71057,10.39451,54
+50209,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71054,10.39481,55
+50210,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71041,10.39568,56
+50211,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71036,10.39568,57
+50212,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71033,10.39573,58
+50213,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71032,10.3958,59
+50214,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71034,10.39585,60
+50215,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71038,10.39588,61
+50216,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71033,10.39616,62
+50217,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.7101,10.39766,63
+50218,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71009,10.39768,64
+50219,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71006,10.39775,65
+50220,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71006,10.39784,66
+50221,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.71001,10.39838,67
+50222,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70997,10.3988,68
+50223,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70992,10.39879,69
+50224,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70989,10.39881,70
+50225,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70986,10.39884,71
+50226,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70984,10.3989,72
+50227,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70919,10.39873,73
+50228,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70913,10.39873,74
+50229,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70908,10.39875,75
+50230,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70905,10.3988,76
+50231,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70883,10.39942,77
+50232,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.7086,10.40011,78
+50233,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70815,10.40138,79
+50234,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70805,10.40164,80
+50235,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70795,10.40155,81
+50236,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70789,10.40152,82
+50237,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70786,10.40151,83
+50238,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.7078,10.40151,84
+50239,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70777,10.40153,85
+50240,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70771,10.40159,86
+50241,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70765,10.40172,87
+50242,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70685,10.40392,88
+50243,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.7068,10.40407,89
+50244,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70676,10.40427,90
+50245,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70675,10.40444,91
+50246,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70675,10.40455,92
+50247,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70678,10.40479,93
+50248,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70683,10.40508,94
+50249,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70611,10.40711,95
+50250,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70588,10.4077,96
+50251,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70583,10.40781,97
+50252,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.7058,10.40785,98
+50253,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70561,10.40805,99
+50254,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.7048,10.40879,100
+50255,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70471,10.40891,101
+50256,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70465,10.40904,102
+50257,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70461,10.4092,103
+50258,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70456,10.40981,104
+50259,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70467,10.40993,105
+50260,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.7044,10.41019,106
+50261,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70435,10.41024,107
+50262,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70429,10.41036,108
+50263,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70421,10.41057,109
+50264,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70417,10.4107,110
+50265,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70412,10.4109,111
+50266,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70409,10.41094,112
+50267,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70407,10.41101,113
+50268,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70407,10.41105,114
+50269,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70408,10.41109,115
+50270,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.7041,10.41113,116
+50271,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70423,10.41121,117
+50272,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70424,10.41125,118
+50273,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70447,10.41253,119
+50274,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70449,10.4126,120
+50275,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70449,10.41268,121
+50276,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70451,10.41274,122
+50277,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70456,10.4131,123
+50278,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70443,10.41358,124
+50279,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70436,10.41382,125
+50280,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70432,10.41389,126
+50281,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70426,10.41399,127
+50282,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70444,10.41415,128
+50283,Conad Pian di Marco,Ipercoop Pisa,route_1926,43.70449,10.41421,129
+50284,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70264,10.38743,0
+50285,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70284,10.38726,1
+50286,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70302,10.38699,2
+50287,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70308,10.38696,3
+50288,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70312,10.3869,4
+50289,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70339,10.38672,5
+50290,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70371,10.3866,6
+50291,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70409,10.38652,7
+50292,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70729,10.38573,8
+50293,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70739,10.38574,9
+50294,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70837,10.3855,10
+50295,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70852,10.38545,11
+50296,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70865,10.38544,12
+50297,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70871,10.38549,13
+50298,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70875,10.38551,14
+50299,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70879,10.38552,15
+50300,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70883,10.3855,16
+50301,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70888,10.38544,17
+50302,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70898,10.38537,18
+50303,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70908,10.38529,19
+50304,Conad Pian di Marco,Via Cisanello 170,route_1927,43.7091,10.38528,20
+50305,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70916,10.38531,21
+50306,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70928,10.38534,22
+50307,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70932,10.38534,23
+50308,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70947,10.3853,24
+50309,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70955,10.38531,25
+50310,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70961,10.38534,26
+50311,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70966,10.38537,27
+50312,Conad Pian di Marco,Via Cisanello 170,route_1927,43.7097,10.38542,28
+50313,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70982,10.38573,29
+50314,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70986,10.38575,30
+50315,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70985,10.38581,31
+50316,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70986,10.38586,32
+50317,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70989,10.3859,33
+50318,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70992,10.3859,34
+50319,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70995,10.38612,35
+50320,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71045,10.38769,36
+50321,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71052,10.38788,37
+50322,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71068,10.38834,38
+50323,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71112,10.3897,39
+50324,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71157,10.39094,40
+50325,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71162,10.39112,41
+50326,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71163,10.39133,42
+50327,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71162,10.39139,43
+50328,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71158,10.39142,44
+50329,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71133,10.39152,45
+50330,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71093,10.39162,46
+50331,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71082,10.39166,47
+50332,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71072,10.39173,48
+50333,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71067,10.39179,49
+50334,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71063,10.39186,50
+50335,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71061,10.39193,51
+50336,Conad Pian di Marco,Via Cisanello 170,route_1927,43.7106,10.39206,52
+50337,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71058,10.39434,53
+50338,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71057,10.39451,54
+50339,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71054,10.39481,55
+50340,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71041,10.39568,56
+50341,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71036,10.39568,57
+50342,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71033,10.39573,58
+50343,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71032,10.3958,59
+50344,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71034,10.39585,60
+50345,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71038,10.39588,61
+50346,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71033,10.39616,62
+50347,Conad Pian di Marco,Via Cisanello 170,route_1927,43.7101,10.39766,63
+50348,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71009,10.39768,64
+50349,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71006,10.39775,65
+50350,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71006,10.39784,66
+50351,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71001,10.39838,67
+50352,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70997,10.3988,68
+50353,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70992,10.39879,69
+50354,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70989,10.39881,70
+50355,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70986,10.39884,71
+50356,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70984,10.3989,72
+50357,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70984,10.39895,73
+50358,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70986,10.399,74
+50359,Conad Pian di Marco,Via Cisanello 170,route_1927,43.7099,10.39904,75
+50360,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70994,10.39905,76
+50361,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70994,10.39992,77
+50362,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70997,10.40207,78
+50363,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70997,10.40252,79
+50364,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70988,10.40324,80
+50365,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70975,10.40422,81
+50366,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70959,10.4052,82
+50367,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70953,10.40562,83
+50368,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70953,10.40571,84
+50369,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70954,10.40577,85
+50370,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70958,10.40585,86
+50371,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70962,10.40589,87
+50372,Conad Pian di Marco,Via Cisanello 170,route_1927,43.7097,10.40593,88
+50373,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70981,10.40586,89
+50374,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70996,10.40588,90
+50375,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71001,10.4059,91
+50376,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71007,10.40596,92
+50377,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71009,10.40599,93
+50378,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71015,10.4061,94
+50379,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71008,10.40743,95
+50380,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71004,10.40744,96
+50381,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71001,10.40747,97
+50382,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70998,10.40751,98
+50383,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70997,10.40755,99
+50384,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70997,10.40763,100
+50385,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70998,10.40769,101
+50386,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71003,10.40774,102
+50387,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71007,10.40776,103
+50388,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70998,10.40978,104
+50389,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70992,10.41005,105
+50390,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70987,10.41009,106
+50391,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70983,10.41016,107
+50392,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70982,10.41022,108
+50393,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70983,10.4103,109
+50394,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70985,10.41035,110
+50395,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70988,10.4104,111
+50396,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70993,10.41076,112
+50397,Conad Pian di Marco,Via Cisanello 170,route_1927,43.7099,10.41147,113
+50398,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70991,10.41172,114
+50399,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70992,10.41199,115
+50400,Conad Pian di Marco,Via Cisanello 170,route_1927,43.70997,10.41245,116
+50401,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71037,10.41529,117
+50402,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71068,10.41746,118
+50403,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71091,10.41974,119
+50404,Conad Pian di Marco,Via Cisanello 170,route_1927,43.7109,10.4199,120
+50405,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71092,10.4202,121
+50406,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71094,10.42031,122
+50407,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71098,10.42043,123
+50408,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71101,10.42058,124
+50409,Conad Pian di Marco,Via Cisanello 170,route_1927,43.711,10.42062,125
+50410,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71101,10.42067,126
+50411,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71103,10.4207,127
+50412,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71105,10.42071,128
+50413,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71109,10.4207,129
+50414,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71111,10.42068,130
+50415,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71223,10.42094,131
+50416,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71242,10.4202,132
+50417,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71253,10.41978,133
+50418,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71266,10.41937,134
+50419,Conad Pian di Marco,Via Cisanello 170,route_1927,43.7128,10.41885,135
+50420,Conad Pian di Marco,Via Cisanello 170,route_1927,43.71292,10.4183,136
+50421,Conad Pian di Marco,Via Cisanello 170,route_1927,43.713,10.4178,137

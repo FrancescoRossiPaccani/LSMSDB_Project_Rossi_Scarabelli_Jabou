@@ -1,0 +1,992 @@
+id,start,end,route_id,lat,lon,idx
+28994,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71974,10.40577,0
+28995,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71974,10.40559,1
+28996,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.7197,10.40409,2
+28997,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.7197,10.40322,3
+28998,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71905,10.40317,4
+28999,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71831,10.40315,5
+29000,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71825,10.4039,6
+29001,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71751,10.40392,7
+29002,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71752,10.40381,8
+29003,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.7172,10.40378,9
+29004,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71643,10.40367,10
+29005,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.7162,10.40361,11
+29006,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71591,10.40346,12
+29007,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71557,10.40465,13
+29008,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71546,10.40496,14
+29009,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71525,10.40549,15
+29010,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71463,10.40691,16
+29011,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71415,10.40796,17
+29012,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71397,10.40838,18
+29013,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71384,10.40863,19
+29014,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71382,10.40869,20
+29015,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71375,10.40881,21
+29016,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71363,10.40896,22
+29017,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71343,10.40916,23
+29018,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71329,10.40926,24
+29019,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71311,10.40938,25
+29020,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71297,10.40944,26
+29021,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71286,10.40947,27
+29022,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71141,10.40947,28
+29023,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71076,10.40944,29
+29024,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71019,10.40941,30
+29025,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.7101,10.40935,31
+29026,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71005,10.40929,32
+29027,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71003,10.40924,33
+29028,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71001,10.40915,34
+29029,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71007,10.40776,35
+29030,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71014,10.40774,36
+29031,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71018,10.40769,37
+29032,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71019,10.40765,38
+29033,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.7102,10.4076,39
+29034,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71019,10.40752,40
+29035,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71017,10.40749,41
+29036,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71014,10.40745,42
+29037,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.7101,10.40743,43
+29038,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71008,10.40743,44
+29039,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71015,10.4061,45
+29040,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71019,10.4058,46
+29041,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71021,10.40573,47
+29042,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71027,10.40559,48
+29043,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.7104,10.4055,49
+29044,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71043,10.40545,50
+29045,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71044,10.40536,51
+29046,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71044,10.4053,52
+29047,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71041,10.40524,53
+29048,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71035,10.4052,54
+29049,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.7103,10.4052,55
+29050,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71019,10.40527,56
+29051,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.7101,10.40527,57
+29052,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.71006,10.40525,58
+29053,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70988,10.40513,59
+29054,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70974,10.40502,60
+29055,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70967,10.40492,61
+29056,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70965,10.40486,62
+29057,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70975,10.40422,63
+29058,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70988,10.40324,64
+29059,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70958,10.40294,65
+29060,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70931,10.40264,66
+29061,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70908,10.40242,67
+29062,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.7087,10.40213,68
+29063,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70831,10.40184,69
+29064,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70795,10.40155,70
+29065,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70789,10.40152,71
+29066,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70786,10.40151,72
+29067,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.7078,10.40151,73
+29068,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70777,10.40153,74
+29069,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70771,10.40159,75
+29070,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70765,10.40172,76
+29071,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70712,10.40318,77
+29072,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70614,10.40251,78
+29073,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70553,10.40214,79
+29074,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70547,10.40207,80
+29075,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70535,10.40184,81
+29076,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.7053,10.40178,82
+29077,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70524,10.40171,83
+29078,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70471,10.40133,84
+29079,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70455,10.40124,85
+29080,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70276,10.40076,86
+29081,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70252,10.40069,87
+29082,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70247,10.40067,88
+29083,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70244,10.40064,89
+29084,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70245,10.40061,90
+29085,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70245,10.40056,91
+29086,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70244,10.40052,92
+29087,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.7024,10.40047,93
+29088,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70237,10.40046,94
+29089,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70234,10.40046,95
+29090,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70231,10.40048,96
+29091,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70229,10.40051,97
+29092,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70228,10.40054,98
+29093,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70227,10.40058,99
+29094,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70215,10.40059,100
+29095,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.7018,10.40051,101
+29096,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70155,10.40042,102
+29097,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70036,10.3998,103
+29098,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70022,10.39969,104
+29099,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.70002,10.39958,105
+29100,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69981,10.39948,106
+29101,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69978,10.39945,107
+29102,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69975,10.39939,108
+29103,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69973,10.39932,109
+29104,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69971,10.39917,110
+29105,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69979,10.39842,111
+29106,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69985,10.39803,112
+29107,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69986,10.39795,113
+29108,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69986,10.39785,114
+29109,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69985,10.39773,115
+29110,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69981,10.39763,116
+29111,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69966,10.39739,117
+29112,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69957,10.39741,118
+29113,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69949,10.39741,119
+29114,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69919,10.39734,120
+29115,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69894,10.39734,121
+29116,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69887,10.39731,122
+29117,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69883,10.39727,123
+29118,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69882,10.39713,124
+29119,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69886,10.39679,125
+29120,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69889,10.39669,126
+29121,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69895,10.39647,127
+29122,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.699,10.39648,128
+29123,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69904,10.39645,129
+29124,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69906,10.39639,130
+29125,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69906,10.39632,131
+29126,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69904,10.39628,132
+29127,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.699,10.39624,133
+29128,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69893,10.39599,134
+29129,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69892,10.39586,135
+29130,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69891,10.39577,136
+29131,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69885,10.39576,137
+29132,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.6987,10.39581,138
+29133,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69858,10.3958,139
+29134,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69844,10.39577,140
+29135,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69809,10.39567,141
+29136,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69753,10.39547,142
+29137,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69642,10.39518,143
+29138,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.6963,10.39505,144
+29139,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.6963,10.39499,145
+29140,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69623,10.39469,146
+29141,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69629,10.39371,147
+29142,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69629,10.39337,148
+29143,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69627,10.39299,149
+29144,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69624,10.39256,150
+29145,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69613,10.39162,151
+29146,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69609,10.39107,152
+29147,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69608,10.38984,153
+29148,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69607,10.38605,154
+29149,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69607,10.38547,155
+29150,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69617,10.38453,156
+29151,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69623,10.38433,157
+29152,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.6963,10.38418,158
+29153,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69636,10.38413,159
+29154,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.6964,10.38405,160
+29155,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69642,10.38397,161
+29156,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69642,10.38392,162
+29157,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69641,10.38385,163
+29158,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69639,10.38378,164
+29159,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69636,10.38372,165
+29160,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69631,10.38368,166
+29161,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69624,10.38365,167
+29162,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69621,10.38365,168
+29163,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69617,10.38365,169
+29164,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69611,10.38369,170
+29165,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69607,10.38374,171
+29166,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69574,10.38377,172
+29167,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69513,10.38354,173
+29168,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.695,10.38348,174
+29169,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69492,10.38342,175
+29170,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69486,10.38336,176
+29171,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69482,10.3833,177
+29172,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69477,10.38328,178
+29173,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69474,10.38328,179
+29174,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69471,10.3833,180
+29175,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69468,10.38334,181
+29176,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69467,10.38338,182
+29177,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69466,10.38343,183
+29178,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69467,10.38348,184
+29179,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.6944,10.38444,185
+29180,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69434,10.38458,186
+29181,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69421,10.38478,187
+29182,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69406,10.38496,188
+29183,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69399,10.38502,189
+29184,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69388,10.3851,190
+29185,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69379,10.38514,191
+29186,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69363,10.3852,192
+29187,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69347,10.38521,193
+29188,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69339,10.38521,194
+29189,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69328,10.38518,195
+29190,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69288,10.38497,196
+29191,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69183,10.38439,197
+29192,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69138,10.38415,198
+29193,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69113,10.38503,199
+29194,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69103,10.38517,200
+29195,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69097,10.38526,201
+29196,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69095,10.38527,202
+29197,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69054,10.38527,203
+29198,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.69038,10.38522,204
+29199,Via del Borghetto 102,Piscina Comunale Camalich,route_1200,43.6866,10.38313,205
+29200,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71974,10.40577,0
+29201,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71974,10.40559,1
+29202,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.7197,10.40409,2
+29203,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.7211,10.40404,3
+29204,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72117,10.40403,4
+29205,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72129,10.40397,5
+29206,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72133,10.40392,6
+29207,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72135,10.40388,7
+29208,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72138,10.40376,8
+29209,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72142,10.40352,9
+29210,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72144,10.40328,10
+29211,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72146,10.40302,11
+29212,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72146,10.40218,12
+29213,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.7218,10.40213,13
+29214,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72191,10.4021,14
+29215,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72207,10.40186,15
+29216,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72219,10.4017,16
+29217,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72265,10.40173,17
+29218,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72284,10.40176,18
+29219,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72347,10.39894,19
+29220,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72359,10.39853,20
+29221,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.724,10.39723,21
+29222,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72409,10.39685,22
+29223,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72469,10.39364,23
+29224,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.7249,10.3925,24
+29225,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72495,10.39213,25
+29226,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72497,10.39193,26
+29227,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72494,10.39137,27
+29228,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72498,10.39135,28
+29229,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72501,10.39131,29
+29230,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72501,10.39126,30
+29231,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72501,10.39123,31
+29232,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.725,10.39119,32
+29233,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72496,10.39116,33
+29234,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72493,10.39115,34
+29235,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.7249,10.39116,35
+29236,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72435,10.38669,36
+29237,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72391,10.38318,37
+29238,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.7237,10.38149,38
+29239,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72353,10.37997,39
+29240,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72352,10.37959,40
+29241,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72353,10.37953,41
+29242,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72356,10.37946,42
+29243,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72356,10.37941,43
+29244,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72356,10.37936,44
+29245,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72354,10.37931,45
+29246,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72352,10.37927,46
+29247,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72349,10.37925,47
+29248,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72345,10.37923,48
+29249,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72341,10.37924,49
+29250,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72338,10.37925,50
+29251,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72335,10.37929,51
+29252,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72326,10.37945,52
+29253,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72318,10.37955,53
+29254,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.72295,10.3797,54
+29255,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71749,10.38194,55
+29256,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71746,10.38193,56
+29257,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.7173,10.38192,57
+29258,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71717,10.38189,58
+29259,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71714,10.38183,59
+29260,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71711,10.3818,60
+29261,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71708,10.38179,61
+29262,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71703,10.38179,62
+29263,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71699,10.38181,63
+29264,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71696,10.38184,64
+29265,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71694,10.38189,65
+29266,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71692,10.38195,66
+29267,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71692,10.382,67
+29268,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71688,10.38212,68
+29269,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71683,10.38219,69
+29270,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71678,10.38224,70
+29271,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71586,10.38263,71
+29272,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71348,10.38361,72
+29273,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.7133,10.38364,73
+29274,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71318,10.38364,74
+29275,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71306,10.38361,75
+29276,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71292,10.38355,76
+29277,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71286,10.38351,77
+29278,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71285,10.38347,78
+29279,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.7128,10.38342,79
+29280,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71277,10.38341,80
+29281,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71271,10.3834,81
+29282,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71267,10.38342,82
+29283,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71264,10.38346,83
+29284,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71262,10.38349,84
+29285,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.7126,10.38353,85
+29286,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71259,10.3836,86
+29287,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71256,10.3837,87
+29288,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71252,10.38376,88
+29289,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71243,10.38387,89
+29290,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71233,10.38396,90
+29291,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71215,10.3841,91
+29292,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71177,10.38429,92
+29293,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71172,10.38437,93
+29294,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71106,10.38465,94
+29295,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.71043,10.3849,95
+29296,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70998,10.38502,96
+29297,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70928,10.38523,97
+29298,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70908,10.38529,98
+29299,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70895,10.38528,99
+29300,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70886,10.38525,100
+29301,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70882,10.38519,101
+29302,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70878,10.38515,102
+29303,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70871,10.38514,103
+29304,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70865,10.38515,104
+29305,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70861,10.3852,105
+29306,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70859,10.38527,106
+29307,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70852,10.38534,107
+29308,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70847,10.38539,108
+29309,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70842,10.38541,109
+29310,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70751,10.38564,110
+29311,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70737,10.38569,111
+29312,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70729,10.38573,112
+29313,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70409,10.38652,113
+29314,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70371,10.3866,114
+29315,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70339,10.38672,115
+29316,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70325,10.38673,116
+29317,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.7031,10.3867,117
+29318,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70306,10.38666,118
+29319,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70303,10.38665,119
+29320,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70297,10.38666,120
+29321,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70292,10.3867,121
+29322,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70289,10.38677,122
+29323,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70289,10.38685,123
+29324,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70284,10.38717,124
+29325,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70281,10.38728,125
+29326,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70279,10.38731,126
+29327,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70275,10.38734,127
+29328,Via del Borghetto 102,Conad Pian di Marco,route_1201,43.70264,10.38743,128
+29329,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71974,10.40577,0
+29330,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71974,10.40559,1
+29331,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.7197,10.40409,2
+29332,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.7197,10.40322,3
+29333,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71905,10.40317,4
+29334,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71831,10.40315,5
+29335,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71825,10.4039,6
+29336,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71751,10.40392,7
+29337,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71752,10.40381,8
+29338,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.7172,10.40378,9
+29339,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71643,10.40367,10
+29340,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.7162,10.40361,11
+29341,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71591,10.40346,12
+29342,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71557,10.40465,13
+29343,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71546,10.40496,14
+29344,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71525,10.40549,15
+29345,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71463,10.40691,16
+29346,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71415,10.40796,17
+29347,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71397,10.40838,18
+29348,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71384,10.40863,19
+29349,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71382,10.40869,20
+29350,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71375,10.40881,21
+29351,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71363,10.40896,22
+29352,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71343,10.40916,23
+29353,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71329,10.40926,24
+29354,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71311,10.40938,25
+29355,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71297,10.40944,26
+29356,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71286,10.40947,27
+29357,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71141,10.40947,28
+29358,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71076,10.40944,29
+29359,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71019,10.40941,30
+29360,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.7101,10.40935,31
+29361,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71005,10.40929,32
+29362,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71003,10.40924,33
+29363,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71001,10.40915,34
+29364,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71007,10.40776,35
+29365,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71014,10.40774,36
+29366,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71018,10.40769,37
+29367,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71019,10.40765,38
+29368,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.7102,10.4076,39
+29369,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71019,10.40752,40
+29370,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71017,10.40749,41
+29371,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71014,10.40745,42
+29372,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.7101,10.40743,43
+29373,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71008,10.40743,44
+29374,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71015,10.4061,45
+29375,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71019,10.4058,46
+29376,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71021,10.40573,47
+29377,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71027,10.40559,48
+29378,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.7104,10.4055,49
+29379,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71043,10.40545,50
+29380,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71044,10.40536,51
+29381,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71044,10.4053,52
+29382,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71041,10.40524,53
+29383,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71035,10.4052,54
+29384,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.7103,10.4052,55
+29385,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71019,10.40527,56
+29386,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.7101,10.40527,57
+29387,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.71006,10.40525,58
+29388,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70988,10.40513,59
+29389,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70974,10.40502,60
+29390,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70967,10.40492,61
+29391,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70965,10.40486,62
+29392,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70975,10.40422,63
+29393,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70988,10.40324,64
+29394,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70958,10.40294,65
+29395,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70931,10.40264,66
+29396,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70908,10.40242,67
+29397,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.7087,10.40213,68
+29398,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70831,10.40184,69
+29399,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70795,10.40155,70
+29400,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70789,10.40152,71
+29401,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70786,10.40151,72
+29402,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.7078,10.40151,73
+29403,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70777,10.40153,74
+29404,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70771,10.40159,75
+29405,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70765,10.40172,76
+29406,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70712,10.40318,77
+29407,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70614,10.40251,78
+29408,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70553,10.40214,79
+29409,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70547,10.40207,80
+29410,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70535,10.40184,81
+29411,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.7053,10.40178,82
+29412,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70524,10.40171,83
+29413,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70471,10.40133,84
+29414,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70455,10.40124,85
+29415,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70276,10.40076,86
+29416,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70252,10.40069,87
+29417,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70247,10.40067,88
+29418,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70244,10.40064,89
+29419,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70245,10.40061,90
+29420,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70245,10.40056,91
+29421,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70244,10.40052,92
+29422,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.7024,10.40047,93
+29423,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70237,10.40046,94
+29424,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70234,10.40046,95
+29425,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70231,10.40048,96
+29426,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70229,10.40051,97
+29427,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70228,10.40054,98
+29428,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70227,10.40058,99
+29429,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70215,10.40059,100
+29430,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.7018,10.40051,101
+29431,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70155,10.40042,102
+29432,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70036,10.3998,103
+29433,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70022,10.39969,104
+29434,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.70002,10.39958,105
+29435,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69981,10.39948,106
+29436,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69978,10.39945,107
+29437,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69975,10.39939,108
+29438,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69973,10.39932,109
+29439,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69971,10.39917,110
+29440,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69979,10.39842,111
+29441,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69985,10.39803,112
+29442,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69986,10.39795,113
+29443,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69986,10.39785,114
+29444,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69985,10.39773,115
+29445,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69981,10.39763,116
+29446,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69966,10.39739,117
+29447,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69957,10.39741,118
+29448,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69949,10.39741,119
+29449,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69919,10.39734,120
+29450,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69894,10.39734,121
+29451,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69887,10.39731,122
+29452,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69883,10.39727,123
+29453,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69882,10.39713,124
+29454,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69886,10.39679,125
+29455,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69889,10.39669,126
+29456,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69895,10.39647,127
+29457,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.699,10.39648,128
+29458,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69904,10.39645,129
+29459,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69906,10.39639,130
+29460,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69906,10.39632,131
+29461,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69904,10.39628,132
+29462,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.699,10.39624,133
+29463,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69893,10.39599,134
+29464,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69892,10.39586,135
+29465,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69891,10.39577,136
+29466,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69885,10.39576,137
+29467,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.6987,10.39581,138
+29468,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69858,10.3958,139
+29469,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69844,10.39577,140
+29470,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69809,10.39567,141
+29471,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69753,10.39547,142
+29472,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69642,10.39518,143
+29473,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.6963,10.39505,144
+29474,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.6963,10.39499,145
+29475,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69623,10.39469,146
+29476,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69629,10.39371,147
+29477,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69629,10.39337,148
+29478,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69627,10.39299,149
+29479,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69624,10.39256,150
+29480,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69613,10.39162,151
+29481,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69609,10.39107,152
+29482,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69608,10.38984,153
+29483,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69607,10.38605,154
+29484,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69607,10.38547,155
+29485,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69617,10.38453,156
+29486,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69623,10.38433,157
+29487,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.6963,10.38418,158
+29488,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69636,10.38413,159
+29489,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.6964,10.38405,160
+29490,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69642,10.38397,161
+29491,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69641,10.38385,162
+29492,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69639,10.38378,163
+29493,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69636,10.38372,164
+29494,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69631,10.38368,165
+29495,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69624,10.38365,166
+29496,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69617,10.38365,167
+29497,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69611,10.38369,168
+29498,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69607,10.38374,169
+29499,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69604,10.38381,170
+29500,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69602,10.38386,171
+29501,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69602,10.38392,172
+29502,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69603,10.38401,173
+29503,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69613,10.38429,174
+29504,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69614,10.38437,175
+29505,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.6961,10.38485,176
+29506,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69606,10.38512,177
+29507,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69601,10.38551,178
+29508,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.6959,10.38717,179
+29509,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69586,10.38727,180
+29510,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69584,10.38732,181
+29511,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69574,10.38745,182
+29512,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69567,10.3875,183
+29513,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69561,10.38752,184
+29514,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69546,10.38754,185
+29515,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69518,10.38747,186
+29516,Via del Borghetto 102,Hotel Galilei Pisa,route_1202,43.69324,10.38662,187
+29517,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71974,10.40577,0
+29518,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71974,10.40559,1
+29519,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.7197,10.40409,2
+29520,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.7197,10.40322,3
+29521,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71905,10.40317,4
+29522,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71831,10.40315,5
+29523,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71825,10.4039,6
+29524,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71751,10.40392,7
+29525,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71752,10.40381,8
+29526,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.7172,10.40378,9
+29527,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71643,10.40367,10
+29528,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.7162,10.40361,11
+29529,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71591,10.40346,12
+29530,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71557,10.40465,13
+29531,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71546,10.40496,14
+29532,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71525,10.40549,15
+29533,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71463,10.40691,16
+29534,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71415,10.40796,17
+29535,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71397,10.40838,18
+29536,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71384,10.40863,19
+29537,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71382,10.40869,20
+29538,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71375,10.40881,21
+29539,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71363,10.40896,22
+29540,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71343,10.40916,23
+29541,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71329,10.40926,24
+29542,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71311,10.40938,25
+29543,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71297,10.40944,26
+29544,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71286,10.40947,27
+29545,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71141,10.40947,28
+29546,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71076,10.40944,29
+29547,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71059,10.40962,30
+29548,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71028,10.41003,31
+29549,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.7102,10.41008,32
+29550,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71011,10.41009,33
+29551,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71006,10.41009,34
+29552,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71002,10.41005,35
+29553,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.70996,10.41004,36
+29554,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.70992,10.41005,37
+29555,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.70987,10.41009,38
+29556,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.70983,10.41016,39
+29557,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.70982,10.41022,40
+29558,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.70983,10.4103,41
+29559,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.70985,10.41035,42
+29560,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.70988,10.4104,43
+29561,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.70993,10.41076,44
+29562,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.7099,10.41147,45
+29563,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.70991,10.41172,46
+29564,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.70992,10.41199,47
+29565,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.70997,10.41245,48
+29566,Via del Borghetto 102,Pizzeria Pisanova,route_1203,43.71009,10.41323,49
+29567,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71974,10.40577,0
+29568,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71974,10.40559,1
+29569,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.7197,10.40409,2
+29570,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.7211,10.40404,3
+29571,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72117,10.40403,4
+29572,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72129,10.40397,5
+29573,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72133,10.40392,6
+29574,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72135,10.40388,7
+29575,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72138,10.40376,8
+29576,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72142,10.40352,9
+29577,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72144,10.40328,10
+29578,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72146,10.40302,11
+29579,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72146,10.40218,12
+29580,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.7218,10.40213,13
+29581,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72191,10.4021,14
+29582,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72207,10.40186,15
+29583,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72219,10.4017,16
+29584,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72265,10.40173,17
+29585,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72284,10.40176,18
+29586,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72347,10.39894,19
+29587,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72359,10.39853,20
+29588,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.724,10.39723,21
+29589,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72409,10.39685,22
+29590,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72469,10.39364,23
+29591,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.7249,10.3925,24
+29592,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72495,10.39213,25
+29593,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72497,10.39193,26
+29594,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72494,10.39137,27
+29595,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72498,10.39135,28
+29596,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72501,10.39131,29
+29597,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72501,10.39126,30
+29598,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72501,10.39123,31
+29599,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.725,10.39119,32
+29600,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72496,10.39116,33
+29601,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72493,10.39115,34
+29602,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.7249,10.39116,35
+29603,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72435,10.38669,36
+29604,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72391,10.38318,37
+29605,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.7237,10.38149,38
+29606,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72353,10.37997,39
+29607,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72352,10.37959,40
+29608,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72353,10.37953,41
+29609,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72356,10.37946,42
+29610,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72356,10.37941,43
+29611,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72356,10.37936,44
+29612,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72354,10.37931,45
+29613,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72352,10.37927,46
+29614,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72349,10.37925,47
+29615,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72345,10.37923,48
+29616,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72341,10.37924,49
+29617,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72338,10.37925,50
+29618,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72335,10.37929,51
+29619,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72326,10.37945,52
+29620,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72318,10.37955,53
+29621,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.72295,10.3797,54
+29622,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71749,10.38194,55
+29623,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71746,10.38193,56
+29624,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.7173,10.38192,57
+29625,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71717,10.38189,58
+29626,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71714,10.38183,59
+29627,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71711,10.3818,60
+29628,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71708,10.38179,61
+29629,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71703,10.38179,62
+29630,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71699,10.38181,63
+29631,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71696,10.38184,64
+29632,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71694,10.38189,65
+29633,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71692,10.38195,66
+29634,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71692,10.382,67
+29635,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71688,10.38212,68
+29636,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71683,10.38219,69
+29637,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71678,10.38224,70
+29638,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71586,10.38263,71
+29639,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71348,10.38361,72
+29640,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.7133,10.38364,73
+29641,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71318,10.38364,74
+29642,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71306,10.38361,75
+29643,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71292,10.38355,76
+29644,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71286,10.38351,77
+29645,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71285,10.38347,78
+29646,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.7128,10.38342,79
+29647,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71277,10.38341,80
+29648,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71271,10.3834,81
+29649,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71253,10.38325,82
+29650,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.7115,10.38155,83
+29651,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71139,10.38128,84
+29652,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71131,10.38101,85
+29653,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71125,10.38068,86
+29654,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71087,10.37801,87
+29655,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71082,10.37777,88
+29656,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71073,10.37738,89
+29657,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71063,10.37703,90
+29658,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.71056,10.37685,91
+29659,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70989,10.37495,92
+29660,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70982,10.37478,93
+29661,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70973,10.37462,94
+29662,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.7096,10.37428,95
+29663,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70961,10.37419,96
+29664,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70961,10.37413,97
+29665,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70958,10.37405,98
+29666,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70956,10.37401,99
+29667,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.7095,10.37395,100
+29668,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70947,10.37394,101
+29669,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70942,10.37394,102
+29670,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70936,10.37396,103
+29671,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70896,10.37432,104
+29672,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70884,10.37448,105
+29673,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70747,10.37576,106
+29674,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70742,10.37578,107
+29675,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.7074,10.37574,108
+29676,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70736,10.37572,109
+29677,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70732,10.37574,110
+29678,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.7073,10.37577,111
+29679,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70716,10.37549,112
+29680,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70657,10.37427,113
+29681,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70551,10.37202,114
+29682,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70296,10.3666,115
+29683,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70287,10.36639,116
+29684,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70212,10.36483,117
+29685,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.702,10.36461,118
+29686,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.7018,10.36429,119
+29687,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70163,10.36405,120
+29688,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70138,10.36374,121
+29689,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.70092,10.36328,122
+29690,Via del Borghetto 102,Ristorante Il Rustichello - San Piero,route_1204,43.69993,10.36235,123
+29691,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71974,10.40577,0
+29692,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71974,10.40559,1
+29693,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.7197,10.40409,2
+29694,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.7211,10.40404,3
+29695,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72117,10.40403,4
+29696,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72129,10.40397,5
+29697,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72133,10.40392,6
+29698,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72135,10.40388,7
+29699,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72138,10.40376,8
+29700,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72142,10.40352,9
+29701,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72144,10.40328,10
+29702,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72146,10.40302,11
+29703,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72146,10.40218,12
+29704,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.7218,10.40213,13
+29705,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72191,10.4021,14
+29706,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72207,10.40186,15
+29707,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72219,10.4017,16
+29708,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72265,10.40173,17
+29709,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72284,10.40176,18
+29710,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72347,10.39894,19
+29711,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72359,10.39853,20
+29712,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.724,10.39723,21
+29713,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72409,10.39685,22
+29714,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72469,10.39364,23
+29715,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.7249,10.3925,24
+29716,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72495,10.39213,25
+29717,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72497,10.39193,26
+29718,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72494,10.39137,27
+29719,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72498,10.39135,28
+29720,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72501,10.39131,29
+29721,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72501,10.39126,30
+29722,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72501,10.39123,31
+29723,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.725,10.39119,32
+29724,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72496,10.39116,33
+29725,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72493,10.39115,34
+29726,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.7249,10.39116,35
+29727,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72435,10.38669,36
+29728,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72391,10.38318,37
+29729,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.7237,10.38149,38
+29730,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72353,10.37997,39
+29731,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72352,10.37959,40
+29732,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72353,10.37953,41
+29733,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72356,10.37946,42
+29734,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72356,10.37941,43
+29735,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72356,10.37936,44
+29736,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72354,10.37931,45
+29737,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72352,10.37927,46
+29738,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72349,10.37925,47
+29739,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72345,10.37923,48
+29740,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72341,10.37924,49
+29741,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72338,10.37925,50
+29742,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72335,10.37929,51
+29743,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72326,10.37945,52
+29744,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72318,10.37955,53
+29745,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.72295,10.3797,54
+29746,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71749,10.38194,55
+29747,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71746,10.38193,56
+29748,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.7173,10.38192,57
+29749,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71717,10.38189,58
+29750,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71714,10.38183,59
+29751,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71711,10.3818,60
+29752,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71708,10.38179,61
+29753,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71703,10.38179,62
+29754,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71699,10.38181,63
+29755,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71696,10.38184,64
+29756,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71694,10.38189,65
+29757,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71692,10.38195,66
+29758,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71692,10.382,67
+29759,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71688,10.38212,68
+29760,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71683,10.38219,69
+29761,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71678,10.38224,70
+29762,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71586,10.38263,71
+29763,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71348,10.38361,72
+29764,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.7133,10.38364,73
+29765,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71318,10.38364,74
+29766,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71306,10.38361,75
+29767,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71292,10.38355,76
+29768,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71286,10.38351,77
+29769,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71285,10.38347,78
+29770,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.7128,10.38342,79
+29771,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71277,10.38341,80
+29772,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71271,10.3834,81
+29773,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71253,10.38325,82
+29774,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.7115,10.38155,83
+29775,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71139,10.38128,84
+29776,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71131,10.38101,85
+29777,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71125,10.38068,86
+29778,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71087,10.37801,87
+29779,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71082,10.37777,88
+29780,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71073,10.37738,89
+29781,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71063,10.37703,90
+29782,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.71056,10.37685,91
+29783,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70989,10.37495,92
+29784,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70982,10.37478,93
+29785,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70973,10.37462,94
+29786,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.7096,10.37428,95
+29787,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70961,10.37419,96
+29788,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70961,10.37413,97
+29789,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70958,10.37405,98
+29790,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70956,10.37401,99
+29791,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.7095,10.37395,100
+29792,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70947,10.37394,101
+29793,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70942,10.37394,102
+29794,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70936,10.37396,103
+29795,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70896,10.37432,104
+29796,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70884,10.37448,105
+29797,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70747,10.37576,106
+29798,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70742,10.37578,107
+29799,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.7074,10.37574,108
+29800,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70736,10.37572,109
+29801,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70732,10.37574,110
+29802,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.7073,10.37577,111
+29803,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.7073,10.37581,112
+29804,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70724,10.37581,113
+29805,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70718,10.37585,114
+29806,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70716,10.37589,115
+29807,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70714,10.37596,116
+29808,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.7071,10.37621,117
+29809,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70709,10.37626,118
+29810,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70705,10.37632,119
+29811,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70698,10.3762,120
+29812,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70685,10.37602,121
+29813,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70644,10.37562,122
+29814,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70624,10.37541,123
+29815,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70616,10.37528,124
+29816,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70608,10.37513,125
+29817,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70575,10.37431,126
+29818,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70526,10.37277,127
+29819,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.7051,10.37239,128
+29820,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.7038,10.37014,129
+29821,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70333,10.36931,130
+29822,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70325,10.36919,131
+29823,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70303,10.36894,132
+29824,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70278,10.36872,133
+29825,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.7013,10.36756,134
+29826,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70077,10.36712,135
+29827,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.70008,10.36649,136
+29828,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.69983,10.36629,137
+29829,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.69973,10.36623,138
+29830,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.69914,10.36602,139
+29831,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.69876,10.36592,140
+29832,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.69857,10.36589,141
+29833,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.69839,10.36589,142
+29834,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.69825,10.36592,143
+29835,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.69737,10.36619,144
+29836,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.69719,10.36621,145
+29837,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.69622,10.36622,146
+29838,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.69594,10.36624,147
+29839,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.69576,10.36627,148
+29840,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.69498,10.36653,149
+29841,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.69443,10.36667,150
+29842,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.69412,10.36675,151
+29843,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.69298,10.36693,152
+29844,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.69223,10.36713,153
+29845,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.69192,10.3672,154
+29846,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.6914,10.36728,155
+29847,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.69033,10.36734,156
+29848,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.6901,10.36733,157
+29849,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.68975,10.36729,158
+29850,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.68953,10.36725,159
+29851,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.68936,10.36719,160
+29852,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.68916,10.36711,161
+29853,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.68902,10.36702,162
+29854,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.68889,10.36693,163
+29855,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.68846,10.36657,164
+29856,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.68812,10.36758,165
+29857,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.68763,10.36873,166
+29858,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.68705,10.37013,167
+29859,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.68616,10.37213,168
+29860,Via del Borghetto 102,Eurospin Ospedaletto,route_1205,43.68598,10.37277,169
+29861,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.71974,10.40577,0
+29862,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.71974,10.40559,1
+29863,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.7197,10.40409,2
+29864,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.7211,10.40404,3
+29865,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72117,10.40403,4
+29866,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72129,10.40397,5
+29867,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72133,10.40392,6
+29868,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72135,10.40388,7
+29869,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72138,10.40376,8
+29870,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72142,10.40352,9
+29871,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72144,10.40328,10
+29872,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72146,10.40302,11
+29873,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72146,10.40218,12
+29874,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.7218,10.40213,13
+29875,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72191,10.4021,14
+29876,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72207,10.40186,15
+29877,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72219,10.4017,16
+29878,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72265,10.40173,17
+29879,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72284,10.40176,18
+29880,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72347,10.39894,19
+29881,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72359,10.39853,20
+29882,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.724,10.39723,21
+29883,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72409,10.39685,22
+29884,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72469,10.39364,23
+29885,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.7249,10.3925,24
+29886,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72495,10.39213,25
+29887,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72497,10.39193,26
+29888,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72494,10.39137,27
+29889,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72498,10.39135,28
+29890,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72501,10.39131,29
+29891,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72501,10.39126,30
+29892,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72501,10.39123,31
+29893,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.725,10.39119,32
+29894,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72496,10.39116,33
+29895,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72493,10.39115,34
+29896,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.7249,10.39116,35
+29897,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72435,10.38669,36
+29898,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72391,10.38318,37
+29899,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.7237,10.38149,38
+29900,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72353,10.37997,39
+29901,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72352,10.37959,40
+29902,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72353,10.37953,41
+29903,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72356,10.37946,42
+29904,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72356,10.37941,43
+29905,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72356,10.37936,44
+29906,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72354,10.37931,45
+29907,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72347,10.37916,46
+29908,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72337,10.37888,47
+29909,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72333,10.37835,48
+29910,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72329,10.37802,49
+29911,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72288,10.37472,50
+29912,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72263,10.37273,51
+29913,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72229,10.36996,52
+29914,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72196,10.36727,53
+29915,Via del Borghetto 102,McDonald's Barbaricina,route_1206,43.72127,10.36178,54
+29916,Via del Borghetto 102,Conad La Vettola,route_1207,43.71974,10.40577,0
+29917,Via del Borghetto 102,Conad La Vettola,route_1207,43.71974,10.40559,1
+29918,Via del Borghetto 102,Conad La Vettola,route_1207,43.7197,10.40409,2
+29919,Via del Borghetto 102,Conad La Vettola,route_1207,43.7211,10.40404,3
+29920,Via del Borghetto 102,Conad La Vettola,route_1207,43.72117,10.40403,4
+29921,Via del Borghetto 102,Conad La Vettola,route_1207,43.72129,10.40397,5
+29922,Via del Borghetto 102,Conad La Vettola,route_1207,43.72133,10.40392,6
+29923,Via del Borghetto 102,Conad La Vettola,route_1207,43.72135,10.40388,7
+29924,Via del Borghetto 102,Conad La Vettola,route_1207,43.72138,10.40376,8
+29925,Via del Borghetto 102,Conad La Vettola,route_1207,43.72142,10.40352,9
+29926,Via del Borghetto 102,Conad La Vettola,route_1207,43.72144,10.40328,10
+29927,Via del Borghetto 102,Conad La Vettola,route_1207,43.72146,10.40302,11
+29928,Via del Borghetto 102,Conad La Vettola,route_1207,43.72146,10.40218,12
+29929,Via del Borghetto 102,Conad La Vettola,route_1207,43.7218,10.40213,13
+29930,Via del Borghetto 102,Conad La Vettola,route_1207,43.72191,10.4021,14
+29931,Via del Borghetto 102,Conad La Vettola,route_1207,43.72207,10.40186,15
+29932,Via del Borghetto 102,Conad La Vettola,route_1207,43.72219,10.4017,16
+29933,Via del Borghetto 102,Conad La Vettola,route_1207,43.72265,10.40173,17
+29934,Via del Borghetto 102,Conad La Vettola,route_1207,43.72284,10.40176,18
+29935,Via del Borghetto 102,Conad La Vettola,route_1207,43.72347,10.39894,19
+29936,Via del Borghetto 102,Conad La Vettola,route_1207,43.72359,10.39853,20
+29937,Via del Borghetto 102,Conad La Vettola,route_1207,43.724,10.39723,21
+29938,Via del Borghetto 102,Conad La Vettola,route_1207,43.72409,10.39685,22
+29939,Via del Borghetto 102,Conad La Vettola,route_1207,43.72469,10.39364,23
+29940,Via del Borghetto 102,Conad La Vettola,route_1207,43.7249,10.3925,24
+29941,Via del Borghetto 102,Conad La Vettola,route_1207,43.72495,10.39213,25
+29942,Via del Borghetto 102,Conad La Vettola,route_1207,43.72497,10.39193,26
+29943,Via del Borghetto 102,Conad La Vettola,route_1207,43.72494,10.39137,27
+29944,Via del Borghetto 102,Conad La Vettola,route_1207,43.72498,10.39135,28
+29945,Via del Borghetto 102,Conad La Vettola,route_1207,43.72501,10.39131,29
+29946,Via del Borghetto 102,Conad La Vettola,route_1207,43.72501,10.39126,30
+29947,Via del Borghetto 102,Conad La Vettola,route_1207,43.72501,10.39123,31
+29948,Via del Borghetto 102,Conad La Vettola,route_1207,43.725,10.39119,32
+29949,Via del Borghetto 102,Conad La Vettola,route_1207,43.72496,10.39116,33
+29950,Via del Borghetto 102,Conad La Vettola,route_1207,43.72493,10.39115,34
+29951,Via del Borghetto 102,Conad La Vettola,route_1207,43.7249,10.39116,35
+29952,Via del Borghetto 102,Conad La Vettola,route_1207,43.72435,10.38669,36
+29953,Via del Borghetto 102,Conad La Vettola,route_1207,43.72391,10.38318,37
+29954,Via del Borghetto 102,Conad La Vettola,route_1207,43.7237,10.38149,38
+29955,Via del Borghetto 102,Conad La Vettola,route_1207,43.72353,10.37997,39
+29956,Via del Borghetto 102,Conad La Vettola,route_1207,43.72352,10.37959,40
+29957,Via del Borghetto 102,Conad La Vettola,route_1207,43.72353,10.37953,41
+29958,Via del Borghetto 102,Conad La Vettola,route_1207,43.72356,10.37946,42
+29959,Via del Borghetto 102,Conad La Vettola,route_1207,43.72356,10.37941,43
+29960,Via del Borghetto 102,Conad La Vettola,route_1207,43.72356,10.37936,44
+29961,Via del Borghetto 102,Conad La Vettola,route_1207,43.72354,10.37931,45
+29962,Via del Borghetto 102,Conad La Vettola,route_1207,43.72347,10.37916,46
+29963,Via del Borghetto 102,Conad La Vettola,route_1207,43.72337,10.37888,47
+29964,Via del Borghetto 102,Conad La Vettola,route_1207,43.72333,10.37835,48
+29965,Via del Borghetto 102,Conad La Vettola,route_1207,43.72329,10.37802,49
+29966,Via del Borghetto 102,Conad La Vettola,route_1207,43.72288,10.37472,50
+29967,Via del Borghetto 102,Conad La Vettola,route_1207,43.72263,10.37273,51
+29968,Via del Borghetto 102,Conad La Vettola,route_1207,43.72229,10.36996,52
+29969,Via del Borghetto 102,Conad La Vettola,route_1207,43.72196,10.36727,53
+29970,Via del Borghetto 102,Conad La Vettola,route_1207,43.72111,10.36056,54
+29971,Via del Borghetto 102,Conad La Vettola,route_1207,43.72066,10.35688,55
+29972,Via del Borghetto 102,Conad La Vettola,route_1207,43.72066,10.35673,56
+29973,Via del Borghetto 102,Conad La Vettola,route_1207,43.72067,10.35656,57
+29974,Via del Borghetto 102,Conad La Vettola,route_1207,43.7219,10.35048,58
+29975,Via del Borghetto 102,Conad La Vettola,route_1207,43.72182,10.35042,59
+29976,Via del Borghetto 102,Conad La Vettola,route_1207,43.72176,10.35042,60
+29977,Via del Borghetto 102,Conad La Vettola,route_1207,43.72162,10.35055,61
+29978,Via del Borghetto 102,Conad La Vettola,route_1207,43.72097,10.35372,62
+29979,Via del Borghetto 102,Conad La Vettola,route_1207,43.72089,10.35385,63
+29980,Via del Borghetto 102,Conad La Vettola,route_1207,43.72082,10.3539,64
+29981,Via del Borghetto 102,Conad La Vettola,route_1207,43.72068,10.35388,65
+29982,Via del Borghetto 102,Conad La Vettola,route_1207,43.72021,10.35377,66
+29983,Via del Borghetto 102,Conad La Vettola,route_1207,43.7186,10.35336,67
+29984,Via del Borghetto 102,Conad La Vettola,route_1207,43.71283,10.35194,68

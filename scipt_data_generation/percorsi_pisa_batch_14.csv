@@ -1,0 +1,726 @@
+id,start,end,route_id,lat,lon,idx
+8317,Polo Fibonacci,Farmacia Cisanello,route_390,43.71899,10.4074,0
+8318,Polo Fibonacci,Farmacia Cisanello,route_390,43.71848,10.40738,1
+8319,Polo Fibonacci,Farmacia Cisanello,route_390,43.71748,10.40734,2
+8320,Polo Fibonacci,Farmacia Cisanello,route_390,43.71686,10.40729,3
+8321,Polo Fibonacci,Farmacia Cisanello,route_390,43.71677,10.40731,4
+8322,Polo Fibonacci,Farmacia Cisanello,route_390,43.71665,10.40732,5
+8323,Polo Fibonacci,Farmacia Cisanello,route_390,43.71661,10.40735,6
+8324,Polo Fibonacci,Farmacia Cisanello,route_390,43.7166,10.40738,7
+8325,Polo Fibonacci,Farmacia Cisanello,route_390,43.71657,10.40744,8
+8326,Polo Fibonacci,Farmacia Cisanello,route_390,43.71656,10.40749,9
+8327,Polo Fibonacci,Farmacia Cisanello,route_390,43.7168,10.40872,10
+8328,Polo Fibonacci,Farmacia Cisanello,route_390,43.71686,10.40874,11
+8329,Polo Fibonacci,Farmacia Cisanello,route_390,43.71695,10.40879,12
+8330,Polo Fibonacci,Farmacia Cisanello,route_390,43.71862,10.41041,13
+8331,Polo Fibonacci,Farmacia Cisanello,route_390,43.71872,10.41046,14
+8332,Polo Fibonacci,Farmacia Cisanello,route_390,43.71879,10.41046,15
+8333,Polo Fibonacci,Farmacia Cisanello,route_390,43.71885,10.4111,16
+8334,Polo Fibonacci,Farmacia Cisanello,route_390,43.71926,10.41634,17
+8335,Polo Fibonacci,Farmacia Cisanello,route_390,43.71935,10.41737,18
+8336,Polo Fibonacci,Farmacia Cisanello,route_390,43.7194,10.41822,19
+8337,Polo Fibonacci,Farmacia Cisanello,route_390,43.7194,10.41833,20
+8338,Polo Fibonacci,Farmacia Cisanello,route_390,43.71936,10.41865,21
+8339,Polo Fibonacci,Farmacia Cisanello,route_390,43.71933,10.41881,22
+8340,Polo Fibonacci,Farmacia Cisanello,route_390,43.71929,10.41893,23
+8341,Polo Fibonacci,Farmacia Cisanello,route_390,43.71924,10.41903,24
+8342,Polo Fibonacci,Farmacia Cisanello,route_390,43.71916,10.41911,25
+8343,Polo Fibonacci,Farmacia Cisanello,route_390,43.71892,10.41922,26
+8344,Polo Fibonacci,Farmacia Cisanello,route_390,43.71876,10.41921,27
+8345,Polo Fibonacci,Farmacia Cisanello,route_390,43.71869,10.41923,28
+8346,Polo Fibonacci,Farmacia Cisanello,route_390,43.71865,10.41925,29
+8347,Polo Fibonacci,Farmacia Cisanello,route_390,43.71859,10.41932,30
+8348,Polo Fibonacci,Farmacia Cisanello,route_390,43.71855,10.41941,31
+8349,Polo Fibonacci,Farmacia Cisanello,route_390,43.71854,10.4195,32
+8350,Polo Fibonacci,Farmacia Cisanello,route_390,43.71853,10.4196,33
+8351,Polo Fibonacci,Farmacia Cisanello,route_390,43.7185,10.41976,34
+8352,Polo Fibonacci,Farmacia Cisanello,route_390,43.71844,10.41995,35
+8353,Polo Fibonacci,Farmacia Cisanello,route_390,43.71834,10.42015,36
+8354,Polo Fibonacci,Farmacia Cisanello,route_390,43.71829,10.42021,37
+8355,Polo Fibonacci,Farmacia Cisanello,route_390,43.71718,10.42142,38
+8356,Polo Fibonacci,Farmacia Cisanello,route_390,43.71709,10.42151,39
+8357,Polo Fibonacci,Farmacia Cisanello,route_390,43.71694,10.42161,40
+8358,Polo Fibonacci,Farmacia Cisanello,route_390,43.71683,10.42167,41
+8359,Polo Fibonacci,Farmacia Cisanello,route_390,43.71661,10.42176,42
+8360,Polo Fibonacci,Farmacia Cisanello,route_390,43.71649,10.42178,43
+8361,Polo Fibonacci,Farmacia Cisanello,route_390,43.7163,10.4218,44
+8362,Polo Fibonacci,Farmacia Cisanello,route_390,43.71608,10.42178,45
+8363,Polo Fibonacci,Farmacia Cisanello,route_390,43.71498,10.42148,46
+8364,Polo Fibonacci,Farmacia Cisanello,route_390,43.71348,10.42113,47
+8365,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71899,10.4074,0
+8366,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71848,10.40738,1
+8367,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71748,10.40734,2
+8368,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71686,10.40729,3
+8369,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71677,10.40731,4
+8370,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71665,10.40732,5
+8371,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71661,10.40735,6
+8372,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.7166,10.40738,7
+8373,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71657,10.40744,8
+8374,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71656,10.40749,9
+8375,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.7168,10.40872,10
+8376,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71686,10.40874,11
+8377,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71695,10.40879,12
+8378,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71862,10.41041,13
+8379,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71872,10.41046,14
+8380,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71879,10.41046,15
+8381,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71885,10.4111,16
+8382,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71926,10.41634,17
+8383,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71935,10.41737,18
+8384,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.7194,10.41822,19
+8385,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.7194,10.41833,20
+8386,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71936,10.41865,21
+8387,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71933,10.41881,22
+8388,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71929,10.41893,23
+8389,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71924,10.41903,24
+8390,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71916,10.41911,25
+8391,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71892,10.41922,26
+8392,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.7189,10.41921,27
+8393,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71889,10.41917,28
+8394,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71888,10.41913,29
+8395,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71869,10.41895,30
+8396,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71858,10.4188,31
+8397,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71841,10.41855,32
+8398,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71769,10.41735,33
+8399,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71713,10.41645,34
+8400,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71675,10.41587,35
+8401,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71621,10.41509,36
+8402,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71616,10.415,37
+8403,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71609,10.41484,38
+8404,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71578,10.41341,39
+8405,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71556,10.41263,40
+8406,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71553,10.41248,41
+8407,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71536,10.41169,42
+8408,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71492,10.40977,43
+8409,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71479,10.40916,44
+8410,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71478,10.40897,45
+8411,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.7147,10.40895,46
+8412,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71421,10.40873,47
+8413,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.7141,10.40867,48
+8414,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.7139,10.40851,49
+8415,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71384,10.40863,50
+8416,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71382,10.40869,51
+8417,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71375,10.40881,52
+8418,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71363,10.40896,53
+8419,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71343,10.40916,54
+8420,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71329,10.40926,55
+8421,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71311,10.40938,56
+8422,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71297,10.40944,57
+8423,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71286,10.40947,58
+8424,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71281,10.40947,59
+8425,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71141,10.40947,60
+8426,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71076,10.40944,61
+8427,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71019,10.40941,62
+8428,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.7101,10.40935,63
+8429,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71005,10.40929,64
+8430,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71003,10.40924,65
+8431,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71001,10.40915,66
+8432,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71007,10.40776,67
+8433,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71014,10.40774,68
+8434,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71018,10.40769,69
+8435,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71019,10.40765,70
+8436,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.7102,10.4076,71
+8437,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71019,10.40752,72
+8438,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71017,10.40749,73
+8439,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71014,10.40745,74
+8440,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.7101,10.40743,75
+8441,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71008,10.40743,76
+8442,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71015,10.4061,77
+8443,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71019,10.4058,78
+8444,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71021,10.40573,79
+8445,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71027,10.40559,80
+8446,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.7104,10.4055,81
+8447,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71043,10.40545,82
+8448,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71044,10.40536,83
+8449,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71044,10.4053,84
+8450,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71041,10.40524,85
+8451,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71035,10.4052,86
+8452,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.7103,10.4052,87
+8453,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71019,10.40527,88
+8454,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.7101,10.40527,89
+8455,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.71006,10.40525,90
+8456,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70988,10.40513,91
+8457,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70974,10.40512,92
+8458,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70969,10.40513,93
+8459,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70959,10.4052,94
+8460,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70953,10.40562,95
+8461,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70919,10.40552,96
+8462,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70824,10.40505,97
+8463,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70776,10.40479,98
+8464,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70741,10.40576,99
+8465,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70675,10.40529,100
+8466,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70611,10.40711,101
+8467,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70609,10.40749,102
+8468,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70609,10.40762,103
+8469,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70611,10.40773,104
+8470,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70614,10.40784,105
+8471,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70623,10.40805,106
+8472,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70638,10.40833,107
+8473,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70581,10.40886,108
+8474,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70568,10.40859,109
+8475,Polo Fibonacci,Ristorante Il Mio Capriccio,route_391,43.70578,10.40849,110
+8476,Polo Fibonacci,Via del Borghetto 102,route_392,43.71899,10.4074,0
+8477,Polo Fibonacci,Via del Borghetto 102,route_392,43.71935,10.40741,1
+8478,Polo Fibonacci,Via del Borghetto 102,route_392,43.71973,10.40736,2
+8479,Polo Fibonacci,Via del Borghetto 102,route_392,43.71972,10.40631,3
+8480,Polo Fibonacci,Via del Borghetto 102,route_392,43.71974,10.40577,4
+8481,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71899,10.4074,0
+8482,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71848,10.40738,1
+8483,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71748,10.40734,2
+8484,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71686,10.40729,3
+8485,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71677,10.40731,4
+8486,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71665,10.40732,5
+8487,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71661,10.40735,6
+8488,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.7166,10.40738,7
+8489,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71657,10.40744,8
+8490,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71656,10.40749,9
+8491,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.7168,10.40872,10
+8492,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71686,10.40874,11
+8493,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71695,10.40879,12
+8494,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71862,10.41041,13
+8495,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71872,10.41046,14
+8496,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71879,10.41046,15
+8497,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71885,10.4111,16
+8498,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71926,10.41634,17
+8499,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71935,10.41737,18
+8500,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.7194,10.41822,19
+8501,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.7194,10.41833,20
+8502,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71936,10.41865,21
+8503,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71933,10.41881,22
+8504,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71929,10.41893,23
+8505,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71924,10.41903,24
+8506,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71916,10.41911,25
+8507,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71892,10.41922,26
+8508,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71876,10.41921,27
+8509,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71869,10.41923,28
+8510,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71865,10.41925,29
+8511,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71859,10.41932,30
+8512,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71855,10.41941,31
+8513,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71854,10.4195,32
+8514,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71853,10.4196,33
+8515,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.7185,10.41976,34
+8516,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71844,10.41995,35
+8517,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71834,10.42015,36
+8518,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71829,10.42021,37
+8519,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71718,10.42142,38
+8520,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71709,10.42151,39
+8521,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71694,10.42161,40
+8522,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71683,10.42167,41
+8523,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71661,10.42176,42
+8524,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71649,10.42178,43
+8525,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.7163,10.4218,44
+8526,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71608,10.42178,45
+8527,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71498,10.42148,46
+8528,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71505,10.42054,47
+8529,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71401,10.42029,48
+8530,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71343,10.42016,49
+8531,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71351,10.41958,50
+8532,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71351,10.41952,51
+8533,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71348,10.4195,52
+8534,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71266,10.41937,53
+8535,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.7128,10.41885,54
+8536,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71292,10.4183,55
+8537,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71339,10.41835,56
+8538,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71342,10.4184,57
+8539,Polo Fibonacci,Parcheggio di Cisanello,route_393,43.71361,10.41843,58
+8540,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71899,10.4074,0
+8541,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71848,10.40738,1
+8542,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71748,10.40734,2
+8543,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71686,10.40729,3
+8544,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71677,10.40731,4
+8545,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71665,10.40732,5
+8546,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71661,10.40735,6
+8547,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.7166,10.40738,7
+8548,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71657,10.40744,8
+8549,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71656,10.40749,9
+8550,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.7168,10.40872,10
+8551,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71686,10.40874,11
+8552,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71695,10.40879,12
+8553,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71862,10.41041,13
+8554,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71872,10.41046,14
+8555,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71879,10.41046,15
+8556,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71885,10.4111,16
+8557,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71926,10.41634,17
+8558,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71935,10.41737,18
+8559,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.7194,10.41822,19
+8560,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.7194,10.41833,20
+8561,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71936,10.41865,21
+8562,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71933,10.41881,22
+8563,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71929,10.41893,23
+8564,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71924,10.41903,24
+8565,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71916,10.41911,25
+8566,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71892,10.41922,26
+8567,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71876,10.41921,27
+8568,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71869,10.41923,28
+8569,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71865,10.41925,29
+8570,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71859,10.41932,30
+8571,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71855,10.41941,31
+8572,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71854,10.4195,32
+8573,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71853,10.4196,33
+8574,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.7185,10.41976,34
+8575,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71844,10.41995,35
+8576,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71834,10.42015,36
+8577,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71829,10.42021,37
+8578,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71718,10.42142,38
+8579,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71709,10.42151,39
+8580,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71694,10.42161,40
+8581,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71683,10.42167,41
+8582,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71661,10.42176,42
+8583,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71649,10.42178,43
+8584,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.7163,10.4218,44
+8585,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71608,10.42178,45
+8586,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71498,10.42148,46
+8587,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71196,10.42076,47
+8588,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71128,10.42061,48
+8589,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71109,10.42055,49
+8590,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71108,10.42055,50
+8591,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71102,10.42034,51
+8592,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71095,10.41991,52
+8593,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71091,10.41974,53
+8594,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71068,10.41746,54
+8595,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71037,10.41529,55
+8596,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.70997,10.41245,56
+8597,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.70992,10.41199,57
+8598,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.70991,10.41172,58
+8599,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.7099,10.41147,59
+8600,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.70999,10.41147,60
+8601,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71006,10.41143,61
+8602,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71033,10.41113,62
+8603,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71033,10.411,63
+8604,Polo Fibonacci,Carrefour Express Pisanova,route_394,43.71032,10.41095,64
+8605,Polo Fibonacci,OBI Pisa,route_395,43.71899,10.4074,0
+8606,Polo Fibonacci,OBI Pisa,route_395,43.71935,10.40741,1
+8607,Polo Fibonacci,OBI Pisa,route_395,43.71973,10.40736,2
+8608,Polo Fibonacci,OBI Pisa,route_395,43.71999,10.40735,3
+8609,Polo Fibonacci,OBI Pisa,route_395,43.72213,10.40733,4
+8610,Polo Fibonacci,OBI Pisa,route_395,43.72272,10.40686,5
+8611,Polo Fibonacci,OBI Pisa,route_395,43.72307,10.40728,6
+8612,Polo Fibonacci,OBI Pisa,route_395,43.7232,10.40743,7
+8613,Polo Fibonacci,OBI Pisa,route_395,43.72345,10.40777,8
+8614,Polo Fibonacci,OBI Pisa,route_395,43.72353,10.40787,9
+8615,Polo Fibonacci,OBI Pisa,route_395,43.72356,10.40789,10
+8616,Polo Fibonacci,OBI Pisa,route_395,43.72363,10.40807,11
+8617,Polo Fibonacci,OBI Pisa,route_395,43.72364,10.4081,12
+8618,Polo Fibonacci,OBI Pisa,route_395,43.72367,10.40814,13
+8619,Polo Fibonacci,OBI Pisa,route_395,43.72372,10.40815,14
+8620,Polo Fibonacci,OBI Pisa,route_395,43.72375,10.40813,15
+8621,Polo Fibonacci,OBI Pisa,route_395,43.72378,10.40807,16
+8622,Polo Fibonacci,OBI Pisa,route_395,43.72438,10.4084,17
+8623,Polo Fibonacci,OBI Pisa,route_395,43.72441,10.40848,18
+8624,Polo Fibonacci,OBI Pisa,route_395,43.72446,10.40882,19
+8625,Polo Fibonacci,OBI Pisa,route_395,43.72444,10.40889,20
+8626,Polo Fibonacci,OBI Pisa,route_395,43.72443,10.40894,21
+8627,Polo Fibonacci,OBI Pisa,route_395,43.72444,10.409,22
+8628,Polo Fibonacci,OBI Pisa,route_395,43.72445,10.40904,23
+8629,Polo Fibonacci,OBI Pisa,route_395,43.72447,10.40908,24
+8630,Polo Fibonacci,OBI Pisa,route_395,43.7245,10.40912,25
+8631,Polo Fibonacci,OBI Pisa,route_395,43.72453,10.40914,26
+8632,Polo Fibonacci,OBI Pisa,route_395,43.7246,10.40914,27
+8633,Polo Fibonacci,OBI Pisa,route_395,43.72464,10.40913,28
+8634,Polo Fibonacci,OBI Pisa,route_395,43.72467,10.4091,29
+8635,Polo Fibonacci,OBI Pisa,route_395,43.72471,10.40903,30
+8636,Polo Fibonacci,OBI Pisa,route_395,43.72472,10.40896,31
+8637,Polo Fibonacci,OBI Pisa,route_395,43.72471,10.40886,32
+8638,Polo Fibonacci,OBI Pisa,route_395,43.72467,10.40879,33
+8639,Polo Fibonacci,OBI Pisa,route_395,43.72462,10.40875,34
+8640,Polo Fibonacci,OBI Pisa,route_395,43.72455,10.40875,35
+8641,Polo Fibonacci,OBI Pisa,route_395,43.72447,10.40862,36
+8642,Polo Fibonacci,OBI Pisa,route_395,43.72441,10.40848,37
+8643,Polo Fibonacci,OBI Pisa,route_395,43.72438,10.4084,38
+8644,Polo Fibonacci,OBI Pisa,route_395,43.72411,10.40731,39
+8645,Polo Fibonacci,OBI Pisa,route_395,43.72371,10.40559,40
+8646,Polo Fibonacci,OBI Pisa,route_395,43.72284,10.40176,41
+8647,Polo Fibonacci,OBI Pisa,route_395,43.72347,10.39894,42
+8648,Polo Fibonacci,OBI Pisa,route_395,43.72359,10.39853,43
+8649,Polo Fibonacci,OBI Pisa,route_395,43.724,10.39723,44
+8650,Polo Fibonacci,OBI Pisa,route_395,43.72409,10.39685,45
+8651,Polo Fibonacci,OBI Pisa,route_395,43.72469,10.39364,46
+8652,Polo Fibonacci,OBI Pisa,route_395,43.7249,10.3925,47
+8653,Polo Fibonacci,OBI Pisa,route_395,43.72495,10.39213,48
+8654,Polo Fibonacci,OBI Pisa,route_395,43.72497,10.39193,49
+8655,Polo Fibonacci,OBI Pisa,route_395,43.72494,10.39137,50
+8656,Polo Fibonacci,OBI Pisa,route_395,43.72498,10.39135,51
+8657,Polo Fibonacci,OBI Pisa,route_395,43.72501,10.39131,52
+8658,Polo Fibonacci,OBI Pisa,route_395,43.72501,10.39126,53
+8659,Polo Fibonacci,OBI Pisa,route_395,43.72501,10.39123,54
+8660,Polo Fibonacci,OBI Pisa,route_395,43.725,10.39119,55
+8661,Polo Fibonacci,OBI Pisa,route_395,43.72496,10.39116,56
+8662,Polo Fibonacci,OBI Pisa,route_395,43.72493,10.39115,57
+8663,Polo Fibonacci,OBI Pisa,route_395,43.7249,10.39116,58
+8664,Polo Fibonacci,OBI Pisa,route_395,43.72435,10.38669,59
+8665,Polo Fibonacci,OBI Pisa,route_395,43.72391,10.38318,60
+8666,Polo Fibonacci,OBI Pisa,route_395,43.7237,10.38149,61
+8667,Polo Fibonacci,OBI Pisa,route_395,43.72353,10.37997,62
+8668,Polo Fibonacci,OBI Pisa,route_395,43.72352,10.37959,63
+8669,Polo Fibonacci,OBI Pisa,route_395,43.72353,10.37953,64
+8670,Polo Fibonacci,OBI Pisa,route_395,43.72356,10.37946,65
+8671,Polo Fibonacci,OBI Pisa,route_395,43.72356,10.37941,66
+8672,Polo Fibonacci,OBI Pisa,route_395,43.72356,10.37936,67
+8673,Polo Fibonacci,OBI Pisa,route_395,43.72354,10.37931,68
+8674,Polo Fibonacci,OBI Pisa,route_395,43.72352,10.37927,69
+8675,Polo Fibonacci,OBI Pisa,route_395,43.72349,10.37925,70
+8676,Polo Fibonacci,OBI Pisa,route_395,43.72345,10.37923,71
+8677,Polo Fibonacci,OBI Pisa,route_395,43.72341,10.37924,72
+8678,Polo Fibonacci,OBI Pisa,route_395,43.72338,10.37925,73
+8679,Polo Fibonacci,OBI Pisa,route_395,43.72335,10.37929,74
+8680,Polo Fibonacci,OBI Pisa,route_395,43.72326,10.37945,75
+8681,Polo Fibonacci,OBI Pisa,route_395,43.72318,10.37955,76
+8682,Polo Fibonacci,OBI Pisa,route_395,43.72295,10.3797,77
+8683,Polo Fibonacci,OBI Pisa,route_395,43.71749,10.38194,78
+8684,Polo Fibonacci,OBI Pisa,route_395,43.71746,10.38193,79
+8685,Polo Fibonacci,OBI Pisa,route_395,43.7173,10.38192,80
+8686,Polo Fibonacci,OBI Pisa,route_395,43.71717,10.38189,81
+8687,Polo Fibonacci,OBI Pisa,route_395,43.71714,10.38183,82
+8688,Polo Fibonacci,OBI Pisa,route_395,43.71711,10.3818,83
+8689,Polo Fibonacci,OBI Pisa,route_395,43.71708,10.38179,84
+8690,Polo Fibonacci,OBI Pisa,route_395,43.71703,10.38179,85
+8691,Polo Fibonacci,OBI Pisa,route_395,43.71699,10.38181,86
+8692,Polo Fibonacci,OBI Pisa,route_395,43.71696,10.38184,87
+8693,Polo Fibonacci,OBI Pisa,route_395,43.71694,10.38189,88
+8694,Polo Fibonacci,OBI Pisa,route_395,43.71692,10.38195,89
+8695,Polo Fibonacci,OBI Pisa,route_395,43.71692,10.382,90
+8696,Polo Fibonacci,OBI Pisa,route_395,43.71688,10.38212,91
+8697,Polo Fibonacci,OBI Pisa,route_395,43.71683,10.38219,92
+8698,Polo Fibonacci,OBI Pisa,route_395,43.71678,10.38224,93
+8699,Polo Fibonacci,OBI Pisa,route_395,43.71586,10.38263,94
+8700,Polo Fibonacci,OBI Pisa,route_395,43.71348,10.38361,95
+8701,Polo Fibonacci,OBI Pisa,route_395,43.7133,10.38364,96
+8702,Polo Fibonacci,OBI Pisa,route_395,43.71318,10.38364,97
+8703,Polo Fibonacci,OBI Pisa,route_395,43.71306,10.38361,98
+8704,Polo Fibonacci,OBI Pisa,route_395,43.71292,10.38355,99
+8705,Polo Fibonacci,OBI Pisa,route_395,43.71286,10.38351,100
+8706,Polo Fibonacci,OBI Pisa,route_395,43.71285,10.38347,101
+8707,Polo Fibonacci,OBI Pisa,route_395,43.7128,10.38342,102
+8708,Polo Fibonacci,OBI Pisa,route_395,43.71277,10.38341,103
+8709,Polo Fibonacci,OBI Pisa,route_395,43.71271,10.3834,104
+8710,Polo Fibonacci,OBI Pisa,route_395,43.71267,10.38342,105
+8711,Polo Fibonacci,OBI Pisa,route_395,43.71264,10.38346,106
+8712,Polo Fibonacci,OBI Pisa,route_395,43.71262,10.38349,107
+8713,Polo Fibonacci,OBI Pisa,route_395,43.7126,10.38353,108
+8714,Polo Fibonacci,OBI Pisa,route_395,43.71259,10.3836,109
+8715,Polo Fibonacci,OBI Pisa,route_395,43.71256,10.3837,110
+8716,Polo Fibonacci,OBI Pisa,route_395,43.71252,10.38376,111
+8717,Polo Fibonacci,OBI Pisa,route_395,43.71243,10.38387,112
+8718,Polo Fibonacci,OBI Pisa,route_395,43.71233,10.38396,113
+8719,Polo Fibonacci,OBI Pisa,route_395,43.71215,10.3841,114
+8720,Polo Fibonacci,OBI Pisa,route_395,43.71177,10.38429,115
+8721,Polo Fibonacci,OBI Pisa,route_395,43.71172,10.38437,116
+8722,Polo Fibonacci,OBI Pisa,route_395,43.71106,10.38465,117
+8723,Polo Fibonacci,OBI Pisa,route_395,43.71043,10.3849,118
+8724,Polo Fibonacci,OBI Pisa,route_395,43.70998,10.38502,119
+8725,Polo Fibonacci,OBI Pisa,route_395,43.70928,10.38523,120
+8726,Polo Fibonacci,OBI Pisa,route_395,43.70908,10.38529,121
+8727,Polo Fibonacci,OBI Pisa,route_395,43.70895,10.38528,122
+8728,Polo Fibonacci,OBI Pisa,route_395,43.70886,10.38525,123
+8729,Polo Fibonacci,OBI Pisa,route_395,43.70882,10.38519,124
+8730,Polo Fibonacci,OBI Pisa,route_395,43.70878,10.38515,125
+8731,Polo Fibonacci,OBI Pisa,route_395,43.70871,10.38514,126
+8732,Polo Fibonacci,OBI Pisa,route_395,43.70865,10.38515,127
+8733,Polo Fibonacci,OBI Pisa,route_395,43.70861,10.3852,128
+8734,Polo Fibonacci,OBI Pisa,route_395,43.70859,10.38527,129
+8735,Polo Fibonacci,OBI Pisa,route_395,43.70852,10.38534,130
+8736,Polo Fibonacci,OBI Pisa,route_395,43.70847,10.38539,131
+8737,Polo Fibonacci,OBI Pisa,route_395,43.70842,10.38541,132
+8738,Polo Fibonacci,OBI Pisa,route_395,43.70751,10.38564,133
+8739,Polo Fibonacci,OBI Pisa,route_395,43.70737,10.38569,134
+8740,Polo Fibonacci,OBI Pisa,route_395,43.70729,10.38573,135
+8741,Polo Fibonacci,OBI Pisa,route_395,43.70409,10.38652,136
+8742,Polo Fibonacci,OBI Pisa,route_395,43.70371,10.3866,137
+8743,Polo Fibonacci,OBI Pisa,route_395,43.70339,10.38672,138
+8744,Polo Fibonacci,OBI Pisa,route_395,43.70325,10.38673,139
+8745,Polo Fibonacci,OBI Pisa,route_395,43.7031,10.3867,140
+8746,Polo Fibonacci,OBI Pisa,route_395,43.70306,10.38666,141
+8747,Polo Fibonacci,OBI Pisa,route_395,43.70293,10.38661,142
+8748,Polo Fibonacci,OBI Pisa,route_395,43.70273,10.38649,143
+8749,Polo Fibonacci,OBI Pisa,route_395,43.70261,10.38638,144
+8750,Polo Fibonacci,OBI Pisa,route_395,43.70233,10.38598,145
+8751,Polo Fibonacci,OBI Pisa,route_395,43.70201,10.38547,146
+8752,Polo Fibonacci,OBI Pisa,route_395,43.70116,10.3842,147
+8753,Polo Fibonacci,OBI Pisa,route_395,43.70076,10.38359,148
+8754,Polo Fibonacci,OBI Pisa,route_395,43.70069,10.38352,149
+8755,Polo Fibonacci,OBI Pisa,route_395,43.70073,10.38348,150
+8756,Polo Fibonacci,OBI Pisa,route_395,43.70073,10.38346,151
+8757,Polo Fibonacci,Ristorante La Greppia,route_396,43.71899,10.4074,0
+8758,Polo Fibonacci,Ristorante La Greppia,route_396,43.71848,10.40738,1
+8759,Polo Fibonacci,Ristorante La Greppia,route_396,43.71748,10.40734,2
+8760,Polo Fibonacci,Ristorante La Greppia,route_396,43.71686,10.40729,3
+8761,Polo Fibonacci,Ristorante La Greppia,route_396,43.71677,10.40731,4
+8762,Polo Fibonacci,Ristorante La Greppia,route_396,43.71665,10.40732,5
+8763,Polo Fibonacci,Ristorante La Greppia,route_396,43.71661,10.40735,6
+8764,Polo Fibonacci,Ristorante La Greppia,route_396,43.7166,10.40738,7
+8765,Polo Fibonacci,Ristorante La Greppia,route_396,43.71657,10.40744,8
+8766,Polo Fibonacci,Ristorante La Greppia,route_396,43.71656,10.40749,9
+8767,Polo Fibonacci,Ristorante La Greppia,route_396,43.7168,10.40872,10
+8768,Polo Fibonacci,Ristorante La Greppia,route_396,43.71686,10.40874,11
+8769,Polo Fibonacci,Ristorante La Greppia,route_396,43.71695,10.40879,12
+8770,Polo Fibonacci,Ristorante La Greppia,route_396,43.71862,10.41041,13
+8771,Polo Fibonacci,Ristorante La Greppia,route_396,43.71872,10.41046,14
+8772,Polo Fibonacci,Ristorante La Greppia,route_396,43.71879,10.41046,15
+8773,Polo Fibonacci,Ristorante La Greppia,route_396,43.71885,10.4111,16
+8774,Polo Fibonacci,Ristorante La Greppia,route_396,43.71926,10.41634,17
+8775,Polo Fibonacci,Ristorante La Greppia,route_396,43.71935,10.41737,18
+8776,Polo Fibonacci,Ristorante La Greppia,route_396,43.7194,10.41822,19
+8777,Polo Fibonacci,Ristorante La Greppia,route_396,43.7194,10.41833,20
+8778,Polo Fibonacci,Ristorante La Greppia,route_396,43.71936,10.41865,21
+8779,Polo Fibonacci,Ristorante La Greppia,route_396,43.71933,10.41881,22
+8780,Polo Fibonacci,Ristorante La Greppia,route_396,43.71929,10.41893,23
+8781,Polo Fibonacci,Ristorante La Greppia,route_396,43.71924,10.41903,24
+8782,Polo Fibonacci,Ristorante La Greppia,route_396,43.71916,10.41911,25
+8783,Polo Fibonacci,Ristorante La Greppia,route_396,43.71892,10.41922,26
+8784,Polo Fibonacci,Ristorante La Greppia,route_396,43.7189,10.41921,27
+8785,Polo Fibonacci,Ristorante La Greppia,route_396,43.71889,10.41917,28
+8786,Polo Fibonacci,Ristorante La Greppia,route_396,43.71888,10.41913,29
+8787,Polo Fibonacci,Ristorante La Greppia,route_396,43.71869,10.41895,30
+8788,Polo Fibonacci,Ristorante La Greppia,route_396,43.71858,10.4188,31
+8789,Polo Fibonacci,Ristorante La Greppia,route_396,43.71841,10.41855,32
+8790,Polo Fibonacci,Ristorante La Greppia,route_396,43.71769,10.41735,33
+8791,Polo Fibonacci,Ristorante La Greppia,route_396,43.71713,10.41645,34
+8792,Polo Fibonacci,Ristorante La Greppia,route_396,43.71675,10.41587,35
+8793,Polo Fibonacci,Ristorante La Greppia,route_396,43.71621,10.41509,36
+8794,Polo Fibonacci,Ristorante La Greppia,route_396,43.71616,10.415,37
+8795,Polo Fibonacci,Ristorante La Greppia,route_396,43.71609,10.41484,38
+8796,Polo Fibonacci,Ristorante La Greppia,route_396,43.71578,10.41341,39
+8797,Polo Fibonacci,Ristorante La Greppia,route_396,43.71556,10.41263,40
+8798,Polo Fibonacci,Ristorante La Greppia,route_396,43.71553,10.41248,41
+8799,Polo Fibonacci,Ristorante La Greppia,route_396,43.71536,10.41169,42
+8800,Polo Fibonacci,Ristorante La Greppia,route_396,43.71492,10.40977,43
+8801,Polo Fibonacci,Ristorante La Greppia,route_396,43.71479,10.40916,44
+8802,Polo Fibonacci,Ristorante La Greppia,route_396,43.71478,10.40897,45
+8803,Polo Fibonacci,Ristorante La Greppia,route_396,43.7147,10.40895,46
+8804,Polo Fibonacci,Ristorante La Greppia,route_396,43.71421,10.40873,47
+8805,Polo Fibonacci,Ristorante La Greppia,route_396,43.7141,10.40867,48
+8806,Polo Fibonacci,Ristorante La Greppia,route_396,43.7139,10.40851,49
+8807,Polo Fibonacci,Ristorante La Greppia,route_396,43.71384,10.40863,50
+8808,Polo Fibonacci,Ristorante La Greppia,route_396,43.71382,10.40869,51
+8809,Polo Fibonacci,Ristorante La Greppia,route_396,43.71375,10.40881,52
+8810,Polo Fibonacci,Ristorante La Greppia,route_396,43.71363,10.40896,53
+8811,Polo Fibonacci,Ristorante La Greppia,route_396,43.71343,10.40916,54
+8812,Polo Fibonacci,Ristorante La Greppia,route_396,43.71329,10.40926,55
+8813,Polo Fibonacci,Ristorante La Greppia,route_396,43.71311,10.40938,56
+8814,Polo Fibonacci,Ristorante La Greppia,route_396,43.71297,10.40944,57
+8815,Polo Fibonacci,Ristorante La Greppia,route_396,43.71286,10.40947,58
+8816,Polo Fibonacci,Ristorante La Greppia,route_396,43.71281,10.40947,59
+8817,Polo Fibonacci,Ristorante La Greppia,route_396,43.71141,10.40947,60
+8818,Polo Fibonacci,Ristorante La Greppia,route_396,43.71076,10.40944,61
+8819,Polo Fibonacci,Ristorante La Greppia,route_396,43.71019,10.40941,62
+8820,Polo Fibonacci,Ristorante La Greppia,route_396,43.7101,10.40935,63
+8821,Polo Fibonacci,Ristorante La Greppia,route_396,43.71005,10.40929,64
+8822,Polo Fibonacci,Ristorante La Greppia,route_396,43.71003,10.40924,65
+8823,Polo Fibonacci,Ristorante La Greppia,route_396,43.71001,10.40915,66
+8824,Polo Fibonacci,Ristorante La Greppia,route_396,43.71007,10.40776,67
+8825,Polo Fibonacci,Ristorante La Greppia,route_396,43.71014,10.40774,68
+8826,Polo Fibonacci,Ristorante La Greppia,route_396,43.71018,10.40769,69
+8827,Polo Fibonacci,Ristorante La Greppia,route_396,43.71019,10.40765,70
+8828,Polo Fibonacci,Ristorante La Greppia,route_396,43.7102,10.4076,71
+8829,Polo Fibonacci,Ristorante La Greppia,route_396,43.71019,10.40752,72
+8830,Polo Fibonacci,Ristorante La Greppia,route_396,43.71017,10.40749,73
+8831,Polo Fibonacci,Ristorante La Greppia,route_396,43.71014,10.40745,74
+8832,Polo Fibonacci,Ristorante La Greppia,route_396,43.7101,10.40743,75
+8833,Polo Fibonacci,Ristorante La Greppia,route_396,43.71008,10.40743,76
+8834,Polo Fibonacci,Ristorante La Greppia,route_396,43.71015,10.4061,77
+8835,Polo Fibonacci,Ristorante La Greppia,route_396,43.71019,10.4058,78
+8836,Polo Fibonacci,Ristorante La Greppia,route_396,43.71021,10.40573,79
+8837,Polo Fibonacci,Ristorante La Greppia,route_396,43.71027,10.40559,80
+8838,Polo Fibonacci,Ristorante La Greppia,route_396,43.7104,10.4055,81
+8839,Polo Fibonacci,Ristorante La Greppia,route_396,43.71043,10.40545,82
+8840,Polo Fibonacci,Ristorante La Greppia,route_396,43.71044,10.40536,83
+8841,Polo Fibonacci,Ristorante La Greppia,route_396,43.71044,10.4053,84
+8842,Polo Fibonacci,Ristorante La Greppia,route_396,43.71041,10.40524,85
+8843,Polo Fibonacci,Ristorante La Greppia,route_396,43.71035,10.4052,86
+8844,Polo Fibonacci,Ristorante La Greppia,route_396,43.7103,10.4052,87
+8845,Polo Fibonacci,Ristorante La Greppia,route_396,43.71019,10.40527,88
+8846,Polo Fibonacci,Ristorante La Greppia,route_396,43.7101,10.40527,89
+8847,Polo Fibonacci,Ristorante La Greppia,route_396,43.71006,10.40525,90
+8848,Polo Fibonacci,Ristorante La Greppia,route_396,43.70988,10.40513,91
+8849,Polo Fibonacci,Ristorante La Greppia,route_396,43.70974,10.40502,92
+8850,Polo Fibonacci,Ristorante La Greppia,route_396,43.70967,10.40492,93
+8851,Polo Fibonacci,Ristorante La Greppia,route_396,43.70965,10.40486,94
+8852,Polo Fibonacci,Ristorante La Greppia,route_396,43.70975,10.40422,95
+8853,Polo Fibonacci,Ristorante La Greppia,route_396,43.70988,10.40324,96
+8854,Polo Fibonacci,Ristorante La Greppia,route_396,43.70958,10.40294,97
+8855,Polo Fibonacci,Ristorante La Greppia,route_396,43.70931,10.40264,98
+8856,Polo Fibonacci,Ristorante La Greppia,route_396,43.70908,10.40242,99
+8857,Polo Fibonacci,Ristorante La Greppia,route_396,43.7087,10.40213,100
+8858,Polo Fibonacci,Ristorante La Greppia,route_396,43.70831,10.40184,101
+8859,Polo Fibonacci,Ristorante La Greppia,route_396,43.70795,10.40155,102
+8860,Polo Fibonacci,Ristorante La Greppia,route_396,43.70789,10.40152,103
+8861,Polo Fibonacci,Ristorante La Greppia,route_396,43.70786,10.40151,104
+8862,Polo Fibonacci,Ristorante La Greppia,route_396,43.7078,10.40151,105
+8863,Polo Fibonacci,Ristorante La Greppia,route_396,43.70777,10.40153,106
+8864,Polo Fibonacci,Ristorante La Greppia,route_396,43.70771,10.40159,107
+8865,Polo Fibonacci,Ristorante La Greppia,route_396,43.70765,10.40172,108
+8866,Polo Fibonacci,Ristorante La Greppia,route_396,43.70712,10.40318,109
+8867,Polo Fibonacci,Ristorante La Greppia,route_396,43.70614,10.40251,110
+8868,Polo Fibonacci,Ristorante La Greppia,route_396,43.70553,10.40214,111
+8869,Polo Fibonacci,Ristorante La Greppia,route_396,43.70547,10.40207,112
+8870,Polo Fibonacci,Ristorante La Greppia,route_396,43.70535,10.40184,113
+8871,Polo Fibonacci,Ristorante La Greppia,route_396,43.7053,10.40178,114
+8872,Polo Fibonacci,Ristorante La Greppia,route_396,43.70524,10.40171,115
+8873,Polo Fibonacci,Ristorante La Greppia,route_396,43.70471,10.40133,116
+8874,Polo Fibonacci,Ristorante La Greppia,route_396,43.70455,10.40124,117
+8875,Polo Fibonacci,Ristorante La Greppia,route_396,43.70276,10.40076,118
+8876,Polo Fibonacci,Ristorante La Greppia,route_396,43.70252,10.40069,119
+8877,Polo Fibonacci,Ristorante La Greppia,route_396,43.70247,10.40067,120
+8878,Polo Fibonacci,Ristorante La Greppia,route_396,43.70244,10.40064,121
+8879,Polo Fibonacci,Ristorante La Greppia,route_396,43.70245,10.40061,122
+8880,Polo Fibonacci,Ristorante La Greppia,route_396,43.70245,10.40056,123
+8881,Polo Fibonacci,Ristorante La Greppia,route_396,43.70244,10.40052,124
+8882,Polo Fibonacci,Ristorante La Greppia,route_396,43.7024,10.40047,125
+8883,Polo Fibonacci,Ristorante La Greppia,route_396,43.70243,10.40034,126
+8884,Polo Fibonacci,Ristorante La Greppia,route_396,43.7025,10.39945,127
+8885,Polo Fibonacci,Ristorante La Greppia,route_396,43.7025,10.39922,128
+8886,Polo Fibonacci,Ristorante La Greppia,route_396,43.70247,10.399,129
+8887,Polo Fibonacci,Ristorante La Greppia,route_396,43.70244,10.39887,130
+8888,Polo Fibonacci,Ristorante La Greppia,route_396,43.70238,10.39866,131
+8889,Polo Fibonacci,Ristorante La Greppia,route_396,43.70231,10.39852,132
+8890,Polo Fibonacci,Ristorante La Greppia,route_396,43.70222,10.39838,133
+8891,Polo Fibonacci,Ristorante La Greppia,route_396,43.70211,10.39825,134
+8892,Polo Fibonacci,Ristorante La Greppia,route_396,43.70199,10.39815,135
+8893,Polo Fibonacci,Ristorante La Greppia,route_396,43.70098,10.39752,136
+8894,Polo Fibonacci,Ristorante La Greppia,route_396,43.7008,10.3974,137
+8895,Polo Fibonacci,Ristorante La Greppia,route_396,43.70065,10.39723,138
+8896,Polo Fibonacci,Ristorante La Greppia,route_396,43.70058,10.39707,139
+8897,Polo Fibonacci,Ristorante La Greppia,route_396,43.70053,10.39683,140
+8898,Polo Fibonacci,Ristorante La Greppia,route_396,43.70053,10.39669,141
+8899,Polo Fibonacci,Ristorante La Greppia,route_396,43.70055,10.39644,142
+8900,Polo Fibonacci,Ristorante La Greppia,route_396,43.70065,10.39604,143
+8901,Polo Fibonacci,Ristorante La Greppia,route_396,43.70076,10.39611,144
+8902,Polo Fibonacci,Ristorante La Greppia,route_396,43.70138,10.39664,145
+8903,Polo Fibonacci,Ristorante La Greppia,route_396,43.70178,10.39694,146
+8904,Polo Fibonacci,Ristorante La Greppia,route_396,43.70257,10.39752,147
+8905,Polo Fibonacci,Ristorante La Greppia,route_396,43.70293,10.39775,148
+8906,Polo Fibonacci,Ristorante La Greppia,route_396,43.70326,10.398,149
+8907,Polo Fibonacci,Ristorante La Greppia,route_396,43.70344,10.39813,150
+8908,Polo Fibonacci,Ristorante La Greppia,route_396,43.70363,10.39827,151
+8909,Polo Fibonacci,Ristorante La Greppia,route_396,43.70434,10.39885,152
+8910,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71899,10.4074,0
+8911,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71848,10.40738,1
+8912,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71748,10.40734,2
+8913,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71686,10.40729,3
+8914,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71677,10.40731,4
+8915,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71665,10.40732,5
+8916,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71661,10.40735,6
+8917,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.7166,10.40738,7
+8918,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71657,10.40744,8
+8919,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71656,10.40749,9
+8920,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.7168,10.40872,10
+8921,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71686,10.40874,11
+8922,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71695,10.40879,12
+8923,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71862,10.41041,13
+8924,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71872,10.41046,14
+8925,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71879,10.41046,15
+8926,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71885,10.4111,16
+8927,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71926,10.41634,17
+8928,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71935,10.41737,18
+8929,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.7194,10.41822,19
+8930,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.7194,10.41833,20
+8931,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71936,10.41865,21
+8932,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71933,10.41881,22
+8933,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71929,10.41893,23
+8934,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71924,10.41903,24
+8935,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71916,10.41911,25
+8936,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71892,10.41922,26
+8937,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.7189,10.41921,27
+8938,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71889,10.41917,28
+8939,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71888,10.41913,29
+8940,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71869,10.41895,30
+8941,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71858,10.4188,31
+8942,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71841,10.41855,32
+8943,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71769,10.41735,33
+8944,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71713,10.41645,34
+8945,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71675,10.41587,35
+8946,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71621,10.41509,36
+8947,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71616,10.415,37
+8948,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71609,10.41484,38
+8949,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71578,10.41341,39
+8950,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71556,10.41263,40
+8951,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71553,10.41248,41
+8952,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71536,10.41169,42
+8953,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71492,10.40977,43
+8954,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71479,10.40916,44
+8955,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71478,10.40897,45
+8956,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.7147,10.40895,46
+8957,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71421,10.40873,47
+8958,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.7141,10.40867,48
+8959,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.7139,10.40851,49
+8960,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71384,10.40863,50
+8961,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71382,10.40869,51
+8962,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71375,10.40881,52
+8963,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71363,10.40896,53
+8964,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71343,10.40916,54
+8965,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71329,10.40926,55
+8966,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71311,10.40938,56
+8967,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71297,10.40944,57
+8968,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71286,10.40947,58
+8969,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71281,10.40947,59
+8970,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71141,10.40947,60
+8971,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71076,10.40944,61
+8972,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71019,10.40941,62
+8973,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.7101,10.40935,63
+8974,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71005,10.40929,64
+8975,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71003,10.40924,65
+8976,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71001,10.40915,66
+8977,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71007,10.40776,67
+8978,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71014,10.40774,68
+8979,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71018,10.40769,69
+8980,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71019,10.40765,70
+8981,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.7102,10.4076,71
+8982,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71019,10.40752,72
+8983,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71017,10.40749,73
+8984,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71014,10.40745,74
+8985,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.7101,10.40743,75
+8986,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71008,10.40743,76
+8987,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71015,10.4061,77
+8988,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71019,10.4058,78
+8989,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71021,10.40573,79
+8990,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71027,10.40559,80
+8991,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.7104,10.4055,81
+8992,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71043,10.40545,82
+8993,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71044,10.40536,83
+8994,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71044,10.4053,84
+8995,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71041,10.40524,85
+8996,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71035,10.4052,86
+8997,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.7103,10.4052,87
+8998,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71019,10.40527,88
+8999,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.7101,10.40527,89
+9000,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.71006,10.40525,90
+9001,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70988,10.40513,91
+9002,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70974,10.40502,92
+9003,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70967,10.40492,93
+9004,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70965,10.40486,94
+9005,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70975,10.40422,95
+9006,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70988,10.40324,96
+9007,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70958,10.40294,97
+9008,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70931,10.40264,98
+9009,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70908,10.40242,99
+9010,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.7087,10.40213,100
+9011,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70831,10.40184,101
+9012,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70795,10.40155,102
+9013,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70789,10.40152,103
+9014,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70786,10.40151,104
+9015,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.7078,10.40151,105
+9016,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70777,10.40153,106
+9017,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70771,10.40159,107
+9018,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70765,10.40172,108
+9019,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70712,10.40318,109
+9020,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70614,10.40251,110
+9021,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70553,10.40214,111
+9022,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70547,10.40207,112
+9023,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70535,10.40184,113
+9024,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.7053,10.40178,114
+9025,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70524,10.40171,115
+9026,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70471,10.40133,116
+9027,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70449,10.4017,117
+9028,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70372,10.40311,118
+9029,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70318,10.40409,119
+9030,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70341,10.40424,120
+9031,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.7038,10.40446,121
+9032,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70398,10.40457,122
+9033,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70413,10.40468,123
+9034,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70417,10.40473,124
+9035,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70429,10.40492,125
+9036,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70432,10.40493,126
+9037,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70436,10.40492,127
+9038,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70448,10.40465,128
+9039,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70541,10.40223,129
+9040,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.7056,10.4024,130
+9041,Polo Fibonacci,Ristorante Pizzeria Il Pellicano,route_397,43.70546,10.40277,131

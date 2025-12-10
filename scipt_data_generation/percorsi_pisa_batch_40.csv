@@ -1,0 +1,322 @@
+id,start,end,route_id,lat,lon,idx
+28673,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71974,10.40577,0
+28674,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71974,10.40559,1
+28675,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.7197,10.40409,2
+28676,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.7197,10.40322,3
+28677,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71905,10.40317,4
+28678,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71831,10.40315,5
+28679,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71825,10.4039,6
+28680,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71751,10.40392,7
+28681,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71752,10.40381,8
+28682,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.7172,10.40378,9
+28683,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71643,10.40367,10
+28684,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.7162,10.40361,11
+28685,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71591,10.40346,12
+28686,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71557,10.40465,13
+28687,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71546,10.40496,14
+28688,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71525,10.40549,15
+28689,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71463,10.40691,16
+28690,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71428,10.40766,17
+28691,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71397,10.40838,18
+28692,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.7139,10.40851,19
+28693,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71307,10.40778,20
+28694,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.7136,10.40622,21
+28695,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71372,10.40591,22
+28696,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71412,10.40501,23
+28697,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71493,10.40327,24
+28698,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71519,10.40267,25
+28699,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.7154,10.40214,26
+28700,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71555,10.40168,27
+28701,Via del Borghetto 102,Via Angelo Battelli 5,route_1170,43.71621,10.40211,28
+28702,Via del Borghetto 102,Via Gabriele Vettori 18,route_1171,43.71974,10.40577,0
+28703,Via del Borghetto 102,Via Gabriele Vettori 18,route_1171,43.71974,10.40559,1
+28704,Via del Borghetto 102,Via Gabriele Vettori 18,route_1171,43.7197,10.40409,2
+28705,Via del Borghetto 102,Via Gabriele Vettori 18,route_1171,43.7197,10.40322,3
+28706,Via del Borghetto 102,Via Gabriele Vettori 18,route_1171,43.71905,10.40317,4
+28707,Via del Borghetto 102,Via Gabriele Vettori 18,route_1171,43.71831,10.40315,5
+28708,Via del Borghetto 102,Via Gabriele Vettori 18,route_1171,43.71825,10.4039,6
+28709,Via del Borghetto 102,Via Gabriele Vettori 18,route_1171,43.71751,10.40392,7
+28710,Via del Borghetto 102,Via Gabriele Vettori 18,route_1171,43.71752,10.40381,8
+28711,Via del Borghetto 102,Via Gabriele Vettori 18,route_1171,43.7172,10.40378,9
+28712,Via del Borghetto 102,Via Gabriele Vettori 18,route_1171,43.71687,10.40374,10
+28713,Via del Borghetto 102,Via Gabriele Vettori 18,route_1171,43.71689,10.40402,11
+28714,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71974,10.40577,0
+28715,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71974,10.40559,1
+28716,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.7197,10.40409,2
+28717,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.7197,10.40322,3
+28718,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71905,10.40317,4
+28719,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71831,10.40315,5
+28720,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71824,10.40412,6
+28721,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71824,10.40424,7
+28722,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.7183,10.40516,8
+28723,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71787,10.40533,9
+28724,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71772,10.40538,10
+28725,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71681,10.4055,11
+28726,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71648,10.40552,12
+28727,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71635,10.40554,13
+28728,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.7163,10.40557,14
+28729,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71617,10.40557,15
+28730,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71613,10.40598,16
+28731,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71592,10.40592,17
+28732,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71587,10.40606,18
+28733,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71581,10.40621,19
+28734,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71573,10.40649,20
+28735,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71559,10.40706,21
+28736,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71554,10.40711,22
+28737,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71614,10.40717,23
+28738,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71645,10.40719,24
+28739,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71652,10.40718,25
+28740,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71635,10.4062,26
+28741,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71635,10.40613,27
+28742,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71636,10.40594,28
+28743,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71747,10.40586,29
+28744,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.7178,10.40585,30
+28745,Via del Borghetto 102,Facolta di Ingegneria Polo A,route_1172,43.71799,10.40583,31
+28746,Via del Borghetto 102,Polo Fibonacci,route_1173,43.71974,10.40577,0
+28747,Via del Borghetto 102,Polo Fibonacci,route_1173,43.71974,10.40559,1
+28748,Via del Borghetto 102,Polo Fibonacci,route_1173,43.7197,10.40409,2
+28749,Via del Borghetto 102,Polo Fibonacci,route_1173,43.7197,10.40322,3
+28750,Via del Borghetto 102,Polo Fibonacci,route_1173,43.71905,10.40317,4
+28751,Via del Borghetto 102,Polo Fibonacci,route_1173,43.71831,10.40315,5
+28752,Via del Borghetto 102,Polo Fibonacci,route_1173,43.71824,10.40412,6
+28753,Via del Borghetto 102,Polo Fibonacci,route_1173,43.71824,10.40424,7
+28754,Via del Borghetto 102,Polo Fibonacci,route_1173,43.7183,10.40516,8
+28755,Via del Borghetto 102,Polo Fibonacci,route_1173,43.71842,10.40618,9
+28756,Via del Borghetto 102,Polo Fibonacci,route_1173,43.71847,10.4067,10
+28757,Via del Borghetto 102,Polo Fibonacci,route_1173,43.71855,10.40739,11
+28758,Via del Borghetto 102,Polo Fibonacci,route_1173,43.71899,10.4074,12
+28759,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71974,10.40577,0
+28760,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71974,10.40559,1
+28761,Via del Borghetto 102,Stazione Leopolda,route_1174,43.7197,10.40409,2
+28762,Via del Borghetto 102,Stazione Leopolda,route_1174,43.7197,10.40322,3
+28763,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71905,10.40317,4
+28764,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71831,10.40315,5
+28765,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71825,10.4039,6
+28766,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71751,10.40392,7
+28767,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71752,10.40381,8
+28768,Via del Borghetto 102,Stazione Leopolda,route_1174,43.7172,10.40378,9
+28769,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71643,10.40367,10
+28770,Via del Borghetto 102,Stazione Leopolda,route_1174,43.7162,10.40361,11
+28771,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71591,10.40346,12
+28772,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71557,10.40465,13
+28773,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71546,10.40496,14
+28774,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71525,10.40549,15
+28775,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71463,10.40691,16
+28776,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71428,10.40766,17
+28777,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71397,10.40838,18
+28778,Via del Borghetto 102,Stazione Leopolda,route_1174,43.7139,10.40851,19
+28779,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71307,10.40778,20
+28780,Via del Borghetto 102,Stazione Leopolda,route_1174,43.7136,10.40622,21
+28781,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71372,10.40591,22
+28782,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71412,10.40501,23
+28783,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71493,10.40327,24
+28784,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71519,10.40267,25
+28785,Via del Borghetto 102,Stazione Leopolda,route_1174,43.7154,10.40214,26
+28786,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71551,10.40181,27
+28787,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71566,10.40129,28
+28788,Via del Borghetto 102,Stazione Leopolda,route_1174,43.7157,10.40111,29
+28789,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71576,10.40067,30
+28790,Via del Borghetto 102,Stazione Leopolda,route_1174,43.7158,10.40037,31
+28791,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71583,10.39998,32
+28792,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71583,10.39968,33
+28793,Via del Borghetto 102,Stazione Leopolda,route_1174,43.7158,10.39919,34
+28794,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71577,10.39888,35
+28795,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71523,10.39891,36
+28796,Via del Borghetto 102,Stazione Leopolda,route_1174,43.7149,10.39892,37
+28797,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71473,10.3989,38
+28798,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71402,10.39876,39
+28799,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71386,10.39871,40
+28800,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71345,10.3985,41
+28801,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71333,10.39846,42
+28802,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71318,10.39848,43
+28803,Via del Borghetto 102,Stazione Leopolda,route_1174,43.7128,10.39854,44
+28804,Via del Borghetto 102,Stazione Leopolda,route_1174,43.7124,10.39857,45
+28805,Via del Borghetto 102,Stazione Leopolda,route_1174,43.71197,10.39863,46
+28806,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71974,10.40577,0
+28807,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71974,10.40559,1
+28808,Via del Borghetto 102,Stazione San Rossore,route_1175,43.7197,10.40409,2
+28809,Via del Borghetto 102,Stazione San Rossore,route_1175,43.7197,10.40322,3
+28810,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71905,10.40317,4
+28811,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71831,10.40315,5
+28812,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71825,10.4039,6
+28813,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71751,10.40392,7
+28814,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71752,10.40381,8
+28815,Via del Borghetto 102,Stazione San Rossore,route_1175,43.7172,10.40378,9
+28816,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71643,10.40367,10
+28817,Via del Borghetto 102,Stazione San Rossore,route_1175,43.7162,10.40361,11
+28818,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71591,10.40346,12
+28819,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71557,10.40465,13
+28820,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71546,10.40496,14
+28821,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71525,10.40549,15
+28822,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71463,10.40691,16
+28823,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71428,10.40766,17
+28824,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71397,10.40838,18
+28825,Via del Borghetto 102,Stazione San Rossore,route_1175,43.7139,10.40851,19
+28826,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71307,10.40778,20
+28827,Via del Borghetto 102,Stazione San Rossore,route_1175,43.7136,10.40622,21
+28828,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71372,10.40591,22
+28829,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71412,10.40501,23
+28830,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71493,10.40327,24
+28831,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71526,10.4025,25
+28832,Via del Borghetto 102,Stazione San Rossore,route_1175,43.7154,10.40214,26
+28833,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71555,10.40168,27
+28834,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71566,10.40129,28
+28835,Via del Borghetto 102,Stazione San Rossore,route_1175,43.7157,10.40111,29
+28836,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71576,10.40067,30
+28837,Via del Borghetto 102,Stazione San Rossore,route_1175,43.7158,10.40037,31
+28838,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71583,10.39998,32
+28839,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71583,10.39968,33
+28840,Via del Borghetto 102,Stazione San Rossore,route_1175,43.7158,10.39919,34
+28841,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71577,10.39888,35
+28842,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71571,10.39854,36
+28843,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71565,10.39827,37
+28844,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71557,10.39791,38
+28845,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71542,10.39746,39
+28846,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71511,10.3966,40
+28847,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71508,10.39645,41
+28848,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71496,10.39619,42
+28849,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71481,10.39588,43
+28850,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71421,10.39466,44
+28851,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71376,10.39381,45
+28852,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71333,10.39296,46
+28853,Via del Borghetto 102,Stazione San Rossore,route_1175,43.7129,10.39217,47
+28854,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71261,10.39159,48
+28855,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71248,10.39131,49
+28856,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71241,10.3912,50
+28857,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71236,10.39115,51
+28858,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71187,10.39133,52
+28859,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71178,10.39133,53
+28860,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71172,10.3913,54
+28861,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71162,10.39112,55
+28862,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71157,10.39094,56
+28863,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71149,10.39071,57
+28864,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71113,10.38974,58
+28865,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71103,10.38981,59
+28866,Via del Borghetto 102,Stazione San Rossore,route_1175,43.71107,10.38995,60
+28867,Via del Borghetto 102,Parco San Rossore,route_1176,43.71974,10.40577,0
+28868,Via del Borghetto 102,Parco San Rossore,route_1176,43.71974,10.40559,1
+28869,Via del Borghetto 102,Parco San Rossore,route_1176,43.7197,10.40409,2
+28870,Via del Borghetto 102,Parco San Rossore,route_1176,43.7197,10.40322,3
+28871,Via del Borghetto 102,Parco San Rossore,route_1176,43.71905,10.40317,4
+28872,Via del Borghetto 102,Parco San Rossore,route_1176,43.71831,10.40315,5
+28873,Via del Borghetto 102,Parco San Rossore,route_1176,43.71825,10.4039,6
+28874,Via del Borghetto 102,Parco San Rossore,route_1176,43.71751,10.40392,7
+28875,Via del Borghetto 102,Parco San Rossore,route_1176,43.71752,10.40381,8
+28876,Via del Borghetto 102,Parco San Rossore,route_1176,43.7172,10.40378,9
+28877,Via del Borghetto 102,Parco San Rossore,route_1176,43.71643,10.40367,10
+28878,Via del Borghetto 102,Parco San Rossore,route_1176,43.7162,10.40361,11
+28879,Via del Borghetto 102,Parco San Rossore,route_1176,43.71591,10.40346,12
+28880,Via del Borghetto 102,Parco San Rossore,route_1176,43.71557,10.40465,13
+28881,Via del Borghetto 102,Parco San Rossore,route_1176,43.71546,10.40496,14
+28882,Via del Borghetto 102,Parco San Rossore,route_1176,43.71525,10.40549,15
+28883,Via del Borghetto 102,Parco San Rossore,route_1176,43.71463,10.40691,16
+28884,Via del Borghetto 102,Parco San Rossore,route_1176,43.71428,10.40766,17
+28885,Via del Borghetto 102,Parco San Rossore,route_1176,43.71397,10.40838,18
+28886,Via del Borghetto 102,Parco San Rossore,route_1176,43.7139,10.40851,19
+28887,Via del Borghetto 102,Parco San Rossore,route_1176,43.71307,10.40778,20
+28888,Via del Borghetto 102,Parco San Rossore,route_1176,43.7136,10.40622,21
+28889,Via del Borghetto 102,Parco San Rossore,route_1176,43.71372,10.40591,22
+28890,Via del Borghetto 102,Parco San Rossore,route_1176,43.71412,10.40501,23
+28891,Via del Borghetto 102,Parco San Rossore,route_1176,43.71493,10.40327,24
+28892,Via del Borghetto 102,Parco San Rossore,route_1176,43.71526,10.4025,25
+28893,Via del Borghetto 102,Parco San Rossore,route_1176,43.7154,10.40214,26
+28894,Via del Borghetto 102,Parco San Rossore,route_1176,43.71555,10.40168,27
+28895,Via del Borghetto 102,Parco San Rossore,route_1176,43.71566,10.40129,28
+28896,Via del Borghetto 102,Parco San Rossore,route_1176,43.7157,10.40111,29
+28897,Via del Borghetto 102,Parco San Rossore,route_1176,43.71576,10.40067,30
+28898,Via del Borghetto 102,Parco San Rossore,route_1176,43.7158,10.40037,31
+28899,Via del Borghetto 102,Parco San Rossore,route_1176,43.71583,10.39998,32
+28900,Via del Borghetto 102,Parco San Rossore,route_1176,43.71583,10.39968,33
+28901,Via del Borghetto 102,Parco San Rossore,route_1176,43.7158,10.39919,34
+28902,Via del Borghetto 102,Parco San Rossore,route_1176,43.71577,10.39888,35
+28903,Via del Borghetto 102,Parco San Rossore,route_1176,43.71571,10.39854,36
+28904,Via del Borghetto 102,Parco San Rossore,route_1176,43.71565,10.39827,37
+28905,Via del Borghetto 102,Parco San Rossore,route_1176,43.71557,10.39791,38
+28906,Via del Borghetto 102,Parco San Rossore,route_1176,43.71542,10.39746,39
+28907,Via del Borghetto 102,Parco San Rossore,route_1176,43.71511,10.3966,40
+28908,Via del Borghetto 102,Parco San Rossore,route_1176,43.71508,10.39645,41
+28909,Via del Borghetto 102,Parco San Rossore,route_1176,43.71496,10.39619,42
+28910,Via del Borghetto 102,Parco San Rossore,route_1176,43.71481,10.39588,43
+28911,Via del Borghetto 102,Parco San Rossore,route_1176,43.71421,10.39466,44
+28912,Via del Borghetto 102,Parco San Rossore,route_1176,43.71376,10.39381,45
+28913,Via del Borghetto 102,Parco San Rossore,route_1176,43.71333,10.39296,46
+28914,Via del Borghetto 102,Parco San Rossore,route_1176,43.7129,10.39217,47
+28915,Via del Borghetto 102,Parco San Rossore,route_1176,43.71261,10.39159,48
+28916,Via del Borghetto 102,Parco San Rossore,route_1176,43.71248,10.39131,49
+28917,Via del Borghetto 102,Parco San Rossore,route_1176,43.71241,10.3912,50
+28918,Via del Borghetto 102,Parco San Rossore,route_1176,43.71236,10.39115,51
+28919,Via del Borghetto 102,Parco San Rossore,route_1176,43.71187,10.39133,52
+28920,Via del Borghetto 102,Parco San Rossore,route_1176,43.71178,10.39133,53
+28921,Via del Borghetto 102,Parco San Rossore,route_1176,43.71172,10.3913,54
+28922,Via del Borghetto 102,Parco San Rossore,route_1176,43.71162,10.39112,55
+28923,Via del Borghetto 102,Parco San Rossore,route_1176,43.71157,10.39094,56
+28924,Via del Borghetto 102,Parco San Rossore,route_1176,43.71149,10.39071,57
+28925,Via del Borghetto 102,Parco San Rossore,route_1176,43.71112,10.3897,58
+28926,Via del Borghetto 102,Parco San Rossore,route_1176,43.71068,10.38834,59
+28927,Via del Borghetto 102,Parco San Rossore,route_1176,43.71052,10.38788,60
+28928,Via del Borghetto 102,Parco San Rossore,route_1176,43.71045,10.38769,61
+28929,Via del Borghetto 102,Parco San Rossore,route_1176,43.70995,10.38612,62
+28930,Via del Borghetto 102,Parco San Rossore,route_1176,43.70992,10.3859,63
+28931,Via del Borghetto 102,Parco San Rossore,route_1176,43.70996,10.38589,64
+28932,Via del Borghetto 102,Parco San Rossore,route_1176,43.70998,10.38587,65
+28933,Via del Borghetto 102,Parco San Rossore,route_1176,43.70999,10.38584,66
+28934,Via del Borghetto 102,Parco San Rossore,route_1176,43.71,10.38579,67
+28935,Via del Borghetto 102,Parco San Rossore,route_1176,43.70998,10.38574,68
+28936,Via del Borghetto 102,Parco San Rossore,route_1176,43.70995,10.38571,69
+28937,Via del Borghetto 102,Parco San Rossore,route_1176,43.70991,10.3857,70
+28938,Via del Borghetto 102,Parco San Rossore,route_1176,43.70989,10.38571,71
+28939,Via del Borghetto 102,Parco San Rossore,route_1176,43.70986,10.38575,72
+28940,Via del Borghetto 102,Parco San Rossore,route_1176,43.70985,10.38581,73
+28941,Via del Borghetto 102,Parco San Rossore,route_1176,43.70986,10.38586,74
+28942,Via del Borghetto 102,Parco San Rossore,route_1176,43.70977,10.38592,75
+28943,Via del Borghetto 102,Parco San Rossore,route_1176,43.70908,10.38601,76
+28944,Via del Borghetto 102,Parco San Rossore,route_1176,43.70978,10.38807,77
+28945,Via del Borghetto 102,Parco San Rossore,route_1176,43.70999,10.38795,78
+28946,Via del Borghetto 102,Lidl Pisa,route_1177,43.71974,10.40577,0
+28947,Via del Borghetto 102,Lidl Pisa,route_1177,43.71974,10.40559,1
+28948,Via del Borghetto 102,Lidl Pisa,route_1177,43.7197,10.40409,2
+28949,Via del Borghetto 102,Lidl Pisa,route_1177,43.7197,10.40322,3
+28950,Via del Borghetto 102,Lidl Pisa,route_1177,43.71905,10.40317,4
+28951,Via del Borghetto 102,Lidl Pisa,route_1177,43.71831,10.40315,5
+28952,Via del Borghetto 102,Lidl Pisa,route_1177,43.71825,10.4039,6
+28953,Via del Borghetto 102,Lidl Pisa,route_1177,43.71751,10.40392,7
+28954,Via del Borghetto 102,Lidl Pisa,route_1177,43.71752,10.40381,8
+28955,Via del Borghetto 102,Lidl Pisa,route_1177,43.7172,10.40378,9
+28956,Via del Borghetto 102,Lidl Pisa,route_1177,43.71643,10.40367,10
+28957,Via del Borghetto 102,Lidl Pisa,route_1177,43.7162,10.40361,11
+28958,Via del Borghetto 102,Lidl Pisa,route_1177,43.71591,10.40346,12
+28959,Via del Borghetto 102,Lidl Pisa,route_1177,43.71557,10.40465,13
+28960,Via del Borghetto 102,Lidl Pisa,route_1177,43.71546,10.40496,14
+28961,Via del Borghetto 102,Lidl Pisa,route_1177,43.71525,10.40549,15
+28962,Via del Borghetto 102,Lidl Pisa,route_1177,43.71463,10.40691,16
+28963,Via del Borghetto 102,Lidl Pisa,route_1177,43.71428,10.40766,17
+28964,Via del Borghetto 102,Lidl Pisa,route_1177,43.71397,10.40838,18
+28965,Via del Borghetto 102,Lidl Pisa,route_1177,43.7139,10.40851,19
+28966,Via del Borghetto 102,Lidl Pisa,route_1177,43.71307,10.40778,20
+28967,Via del Borghetto 102,Lidl Pisa,route_1177,43.7136,10.40622,21
+28968,Via del Borghetto 102,Lidl Pisa,route_1177,43.71372,10.40591,22
+28969,Via del Borghetto 102,Lidl Pisa,route_1177,43.71412,10.40501,23
+28970,Via del Borghetto 102,Lidl Pisa,route_1177,43.71493,10.40327,24
+28971,Via del Borghetto 102,Lidl Pisa,route_1177,43.71526,10.4025,25
+28972,Via del Borghetto 102,Lidl Pisa,route_1177,43.7154,10.40214,26
+28973,Via del Borghetto 102,Lidl Pisa,route_1177,43.71555,10.40168,27
+28974,Via del Borghetto 102,Lidl Pisa,route_1177,43.71566,10.40129,28
+28975,Via del Borghetto 102,Lidl Pisa,route_1177,43.7157,10.40111,29
+28976,Via del Borghetto 102,Lidl Pisa,route_1177,43.71576,10.40067,30
+28977,Via del Borghetto 102,Lidl Pisa,route_1177,43.7158,10.40037,31
+28978,Via del Borghetto 102,Lidl Pisa,route_1177,43.71583,10.39998,32
+28979,Via del Borghetto 102,Lidl Pisa,route_1177,43.71583,10.39968,33
+28980,Via del Borghetto 102,Lidl Pisa,route_1177,43.7158,10.39919,34
+28981,Via del Borghetto 102,Lidl Pisa,route_1177,43.71577,10.39888,35
+28982,Via del Borghetto 102,Lidl Pisa,route_1177,43.71571,10.39854,36
+28983,Via del Borghetto 102,Lidl Pisa,route_1177,43.71565,10.39827,37
+28984,Via del Borghetto 102,Lidl Pisa,route_1177,43.71557,10.39791,38
+28985,Via del Borghetto 102,Lidl Pisa,route_1177,43.71542,10.39746,39
+28986,Via del Borghetto 102,Lidl Pisa,route_1177,43.71511,10.3966,40
+28987,Via del Borghetto 102,Lidl Pisa,route_1177,43.71508,10.39645,41
+28988,Via del Borghetto 102,Lidl Pisa,route_1177,43.71496,10.39619,42
+28989,Via del Borghetto 102,Lidl Pisa,route_1177,43.71481,10.39588,43
+28990,Via del Borghetto 102,Lidl Pisa,route_1177,43.71421,10.39466,44
+28991,Via del Borghetto 102,Lidl Pisa,route_1177,43.71376,10.39381,45
+28992,Via del Borghetto 102,Lidl Pisa,route_1177,43.71333,10.39296,46
+28993,Via del Borghetto 102,Lidl Pisa,route_1177,43.71287,10.39212,47

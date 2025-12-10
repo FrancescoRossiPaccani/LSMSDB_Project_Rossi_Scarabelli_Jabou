@@ -1,0 +1,680 @@
+id,start,end,route_id,lat,lon,idx
+9697,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71197,10.39863,0
+9698,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71112,10.39874,1
+9699,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71102,10.39875,2
+9700,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71099,10.39875,3
+9701,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71095,10.39871,4
+9702,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71088,10.3985,5
+9703,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71079,10.39835,6
+9704,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71075,10.39827,7
+9705,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71086,10.39786,8
+9706,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.7109,10.39782,9
+9707,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71092,10.39778,10
+9708,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71092,10.39774,11
+9709,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71091,10.39769,12
+9710,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71089,10.39767,13
+9711,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71084,10.39765,14
+9712,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.7108,10.39767,15
+9713,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.7107,10.39765,16
+9714,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71041,10.39762,17
+9715,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71022,10.39766,18
+9716,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71018,10.39764,19
+9717,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71013,10.39764,20
+9718,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71009,10.39768,21
+9719,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71006,10.39775,22
+9720,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71006,10.39784,23
+9721,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.71001,10.39838,24
+9722,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70997,10.3988,25
+9723,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70992,10.39879,26
+9724,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70989,10.39881,27
+9725,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70986,10.39884,28
+9726,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70984,10.3989,29
+9727,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70919,10.39873,30
+9728,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70913,10.39873,31
+9729,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70908,10.39875,32
+9730,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70905,10.3988,33
+9731,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70883,10.39942,34
+9732,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.7086,10.40011,35
+9733,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70815,10.40138,36
+9734,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70805,10.40164,37
+9735,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70795,10.40155,38
+9736,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70789,10.40152,39
+9737,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70786,10.40151,40
+9738,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.7078,10.40151,41
+9739,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70777,10.40153,42
+9740,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70771,10.40159,43
+9741,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70765,10.40172,44
+9742,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70712,10.40318,45
+9743,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70614,10.40251,46
+9744,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70553,10.40214,47
+9745,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70547,10.40207,48
+9746,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70535,10.40184,49
+9747,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.7053,10.40178,50
+9748,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70524,10.40171,51
+9749,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70471,10.40133,52
+9750,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70449,10.4017,53
+9751,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70372,10.40311,54
+9752,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70318,10.40409,55
+9753,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70341,10.40424,56
+9754,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.7038,10.40446,57
+9755,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70398,10.40457,58
+9756,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70413,10.40468,59
+9757,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70417,10.40473,60
+9758,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70429,10.40492,61
+9759,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70432,10.40493,62
+9760,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70436,10.40492,63
+9761,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70448,10.40465,64
+9762,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70541,10.40223,65
+9763,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.7056,10.4024,66
+9764,Stazione Leopolda,Ristorante Pizzeria Il Pellicano,route_450,43.70546,10.40277,67
+9765,Stazione Leopolda,Via San Ranieri 9,route_451,43.71197,10.39863,0
+9766,Stazione Leopolda,Via San Ranieri 9,route_451,43.71112,10.39874,1
+9767,Stazione Leopolda,Via San Ranieri 9,route_451,43.71102,10.39875,2
+9768,Stazione Leopolda,Via San Ranieri 9,route_451,43.71099,10.39875,3
+9769,Stazione Leopolda,Via San Ranieri 9,route_451,43.71095,10.39871,4
+9770,Stazione Leopolda,Via San Ranieri 9,route_451,43.71088,10.3985,5
+9771,Stazione Leopolda,Via San Ranieri 9,route_451,43.71079,10.39835,6
+9772,Stazione Leopolda,Via San Ranieri 9,route_451,43.71075,10.39827,7
+9773,Stazione Leopolda,Via San Ranieri 9,route_451,43.71086,10.39786,8
+9774,Stazione Leopolda,Via San Ranieri 9,route_451,43.7109,10.39782,9
+9775,Stazione Leopolda,Via San Ranieri 9,route_451,43.71092,10.39778,10
+9776,Stazione Leopolda,Via San Ranieri 9,route_451,43.71092,10.39774,11
+9777,Stazione Leopolda,Via San Ranieri 9,route_451,43.71091,10.39769,12
+9778,Stazione Leopolda,Via San Ranieri 9,route_451,43.71089,10.39767,13
+9779,Stazione Leopolda,Via San Ranieri 9,route_451,43.71084,10.39765,14
+9780,Stazione Leopolda,Via San Ranieri 9,route_451,43.7108,10.39767,15
+9781,Stazione Leopolda,Via San Ranieri 9,route_451,43.7107,10.39765,16
+9782,Stazione Leopolda,Via San Ranieri 9,route_451,43.71041,10.39762,17
+9783,Stazione Leopolda,Via San Ranieri 9,route_451,43.71022,10.39766,18
+9784,Stazione Leopolda,Via San Ranieri 9,route_451,43.71018,10.39764,19
+9785,Stazione Leopolda,Via San Ranieri 9,route_451,43.71013,10.39764,20
+9786,Stazione Leopolda,Via San Ranieri 9,route_451,43.71009,10.39768,21
+9787,Stazione Leopolda,Via San Ranieri 9,route_451,43.71006,10.39775,22
+9788,Stazione Leopolda,Via San Ranieri 9,route_451,43.71006,10.39784,23
+9789,Stazione Leopolda,Via San Ranieri 9,route_451,43.71001,10.39838,24
+9790,Stazione Leopolda,Via San Ranieri 9,route_451,43.70997,10.3988,25
+9791,Stazione Leopolda,Via San Ranieri 9,route_451,43.70992,10.39879,26
+9792,Stazione Leopolda,Via San Ranieri 9,route_451,43.70989,10.39881,27
+9793,Stazione Leopolda,Via San Ranieri 9,route_451,43.70986,10.39884,28
+9794,Stazione Leopolda,Via San Ranieri 9,route_451,43.70984,10.3989,29
+9795,Stazione Leopolda,Via San Ranieri 9,route_451,43.70984,10.39895,30
+9796,Stazione Leopolda,Via San Ranieri 9,route_451,43.70986,10.399,31
+9797,Stazione Leopolda,Via San Ranieri 9,route_451,43.7099,10.39904,32
+9798,Stazione Leopolda,Via San Ranieri 9,route_451,43.70994,10.39905,33
+9799,Stazione Leopolda,Via San Ranieri 9,route_451,43.70994,10.39992,34
+9800,Stazione Leopolda,Via San Ranieri 9,route_451,43.70997,10.40207,35
+9801,Stazione Leopolda,Via San Ranieri 9,route_451,43.70997,10.40252,36
+9802,Stazione Leopolda,Via San Ranieri 9,route_451,43.70988,10.40324,37
+9803,Stazione Leopolda,Via San Ranieri 9,route_451,43.70975,10.40422,38
+9804,Stazione Leopolda,Via San Ranieri 9,route_451,43.70959,10.4052,39
+9805,Stazione Leopolda,Via San Ranieri 9,route_451,43.70953,10.40562,40
+9806,Stazione Leopolda,Via San Ranieri 9,route_451,43.70953,10.40571,41
+9807,Stazione Leopolda,Via San Ranieri 9,route_451,43.70954,10.40577,42
+9808,Stazione Leopolda,Via San Ranieri 9,route_451,43.70958,10.40585,43
+9809,Stazione Leopolda,Via San Ranieri 9,route_451,43.70962,10.40589,44
+9810,Stazione Leopolda,Via San Ranieri 9,route_451,43.7097,10.40593,45
+9811,Stazione Leopolda,Via San Ranieri 9,route_451,43.70981,10.40586,46
+9812,Stazione Leopolda,Via San Ranieri 9,route_451,43.70996,10.40588,47
+9813,Stazione Leopolda,Via San Ranieri 9,route_451,43.71001,10.4059,48
+9814,Stazione Leopolda,Via San Ranieri 9,route_451,43.71007,10.40596,49
+9815,Stazione Leopolda,Via San Ranieri 9,route_451,43.71009,10.40599,50
+9816,Stazione Leopolda,Via San Ranieri 9,route_451,43.71015,10.4061,51
+9817,Stazione Leopolda,Via San Ranieri 9,route_451,43.71008,10.40743,52
+9818,Stazione Leopolda,Via San Ranieri 9,route_451,43.71004,10.40744,53
+9819,Stazione Leopolda,Via San Ranieri 9,route_451,43.71001,10.40747,54
+9820,Stazione Leopolda,Via San Ranieri 9,route_451,43.70998,10.40751,55
+9821,Stazione Leopolda,Via San Ranieri 9,route_451,43.70997,10.40755,56
+9822,Stazione Leopolda,Via San Ranieri 9,route_451,43.70997,10.40763,57
+9823,Stazione Leopolda,Via San Ranieri 9,route_451,43.70998,10.40769,58
+9824,Stazione Leopolda,Via San Ranieri 9,route_451,43.71003,10.40774,59
+9825,Stazione Leopolda,Via San Ranieri 9,route_451,43.71007,10.40776,60
+9826,Stazione Leopolda,Via San Ranieri 9,route_451,43.71014,10.40774,61
+9827,Stazione Leopolda,Via San Ranieri 9,route_451,43.71018,10.40769,62
+9828,Stazione Leopolda,Via San Ranieri 9,route_451,43.71027,10.40767,63
+9829,Stazione Leopolda,Via San Ranieri 9,route_451,43.71063,10.40769,64
+9830,Stazione Leopolda,Via San Ranieri 9,route_451,43.71112,10.40773,65
+9831,Stazione Leopolda,Via San Ranieri 9,route_451,43.71118,10.40776,66
+9832,Stazione Leopolda,Via San Ranieri 9,route_451,43.71127,10.40782,67
+9833,Stazione Leopolda,Via San Ranieri 9,route_451,43.71131,10.40786,68
+9834,Stazione Leopolda,Via San Ranieri 9,route_451,43.71138,10.40789,69
+9835,Stazione Leopolda,Via San Ranieri 9,route_451,43.71204,10.40793,70
+9836,Stazione Leopolda,Via San Ranieri 9,route_451,43.71261,10.40789,71
+9837,Stazione Leopolda,Via San Ranieri 9,route_451,43.71299,10.40783,72
+9838,Stazione Leopolda,Via San Ranieri 9,route_451,43.71305,10.40781,73
+9839,Stazione Leopolda,Via San Ranieri 9,route_451,43.71307,10.40778,74
+9840,Stazione Leopolda,Via San Ranieri 9,route_451,43.7139,10.40851,75
+9841,Stazione Leopolda,Via San Ranieri 9,route_451,43.7141,10.40867,76
+9842,Stazione Leopolda,Via San Ranieri 9,route_451,43.71421,10.40873,77
+9843,Stazione Leopolda,Via San Ranieri 9,route_451,43.7147,10.40895,78
+9844,Stazione Leopolda,Via San Ranieri 9,route_451,43.71478,10.40897,79
+9845,Stazione Leopolda,Via San Ranieri 9,route_451,43.71514,10.40902,80
+9846,Stazione Leopolda,Via San Ranieri 9,route_451,43.71597,10.40908,81
+9847,Stazione Leopolda,Via San Ranieri 9,route_451,43.71617,10.40905,82
+9848,Stazione Leopolda,Via San Ranieri 9,route_451,43.71637,10.40896,83
+9849,Stazione Leopolda,Via San Ranieri 9,route_451,43.7167,10.40875,84
+9850,Stazione Leopolda,Via San Ranieri 9,route_451,43.7168,10.40872,85
+9851,Stazione Leopolda,Via San Ranieri 9,route_451,43.71686,10.40874,86
+9852,Stazione Leopolda,Via San Ranieri 9,route_451,43.71695,10.40879,87
+9853,Stazione Leopolda,Via San Ranieri 9,route_451,43.71862,10.41041,88
+9854,Stazione Leopolda,Via San Ranieri 9,route_451,43.71872,10.41046,89
+9855,Stazione Leopolda,Via San Ranieri 9,route_451,43.71879,10.41046,90
+9856,Stazione Leopolda,Via San Ranieri 9,route_451,43.71885,10.4111,91
+9857,Stazione Leopolda,Via San Ranieri 9,route_451,43.71926,10.41634,92
+9858,Stazione Leopolda,Via San Ranieri 9,route_451,43.71935,10.41737,93
+9859,Stazione Leopolda,Via San Ranieri 9,route_451,43.7194,10.41822,94
+9860,Stazione Leopolda,Via San Ranieri 9,route_451,43.7194,10.41833,95
+9861,Stazione Leopolda,Via San Ranieri 9,route_451,43.71936,10.41865,96
+9862,Stazione Leopolda,Via San Ranieri 9,route_451,43.71933,10.41881,97
+9863,Stazione Leopolda,Via San Ranieri 9,route_451,43.71929,10.41893,98
+9864,Stazione Leopolda,Via San Ranieri 9,route_451,43.71924,10.41903,99
+9865,Stazione Leopolda,Via San Ranieri 9,route_451,43.71916,10.41911,100
+9866,Stazione Leopolda,Via San Ranieri 9,route_451,43.71892,10.41922,101
+9867,Stazione Leopolda,Via San Ranieri 9,route_451,43.7189,10.41921,102
+9868,Stazione Leopolda,Via San Ranieri 9,route_451,43.71889,10.41917,103
+9869,Stazione Leopolda,Via San Ranieri 9,route_451,43.71888,10.41913,104
+9870,Stazione Leopolda,Via San Ranieri 9,route_451,43.71869,10.41895,105
+9871,Stazione Leopolda,Via San Ranieri 9,route_451,43.71858,10.4188,106
+9872,Stazione Leopolda,Via San Ranieri 9,route_451,43.71841,10.41855,107
+9873,Stazione Leopolda,Via San Ranieri 9,route_451,43.71769,10.41735,108
+9874,Stazione Leopolda,Via San Ranieri 9,route_451,43.71675,10.41587,109
+9875,Stazione Leopolda,Via San Ranieri 9,route_451,43.71563,10.41723,110
+9876,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71197,10.39863,0
+9877,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71112,10.39874,1
+9878,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71102,10.39875,2
+9879,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71099,10.39875,3
+9880,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71095,10.39871,4
+9881,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71088,10.3985,5
+9882,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71079,10.39835,6
+9883,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71075,10.39827,7
+9884,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71086,10.39786,8
+9885,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.7109,10.39782,9
+9886,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71092,10.39778,10
+9887,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71092,10.39774,11
+9888,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71091,10.39769,12
+9889,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71089,10.39767,13
+9890,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71084,10.39765,14
+9891,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.7108,10.39767,15
+9892,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.7107,10.39765,16
+9893,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71041,10.39762,17
+9894,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71022,10.39766,18
+9895,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71018,10.39764,19
+9896,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71013,10.39764,20
+9897,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71009,10.39768,21
+9898,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71006,10.39775,22
+9899,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71006,10.39784,23
+9900,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.71001,10.39838,24
+9901,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70997,10.3988,25
+9902,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70992,10.39879,26
+9903,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70989,10.39881,27
+9904,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70986,10.39884,28
+9905,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70984,10.3989,29
+9906,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70919,10.39873,30
+9907,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70913,10.39873,31
+9908,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70908,10.39875,32
+9909,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70905,10.3988,33
+9910,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70883,10.39942,34
+9911,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.7086,10.40011,35
+9912,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70815,10.40138,36
+9913,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70805,10.40164,37
+9914,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70795,10.40155,38
+9915,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70789,10.40152,39
+9916,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70786,10.40151,40
+9917,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.7078,10.40151,41
+9918,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70777,10.40153,42
+9919,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70771,10.40159,43
+9920,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70765,10.40172,44
+9921,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70712,10.40318,45
+9922,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70614,10.40251,46
+9923,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70558,10.40217,47
+9924,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70553,10.40214,48
+9925,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70547,10.40207,49
+9926,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70544,10.40191,50
+9927,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70537,10.40167,51
+9928,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70504,10.40081,52
+9929,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.705,10.40076,53
+9930,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70504,10.40057,54
+9931,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70524,10.3999,55
+9932,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70534,10.3996,56
+9933,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70563,10.39979,57
+9934,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70582,10.39989,58
+9935,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70585,10.3997,59
+9936,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70588,10.39936,60
+9937,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70593,10.39894,61
+9938,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70603,10.39837,62
+9939,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70608,10.39812,63
+9940,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70613,10.39793,64
+9941,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70622,10.39768,65
+9942,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70625,10.39761,66
+9943,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70641,10.39743,67
+9944,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70661,10.39725,68
+9945,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70682,10.39704,69
+9946,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70686,10.39696,70
+9947,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70696,10.39666,71
+9948,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.707,10.39643,72
+9949,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70702,10.39603,73
+9950,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70706,10.39571,74
+9951,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70717,10.39505,75
+9952,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70719,10.39483,76
+9953,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.7072,10.39425,77
+9954,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70719,10.39277,78
+9955,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70597,10.39285,79
+9956,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70594,10.39284,80
+9957,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70592,10.3928,81
+9958,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70591,10.39274,82
+9959,Stazione Leopolda,Supermercato Coop San Giusto,route_452,43.70591,10.3922,83
+9960,Stazione Leopolda,Via Montanelli 66,route_453,43.71197,10.39863,0
+9961,Stazione Leopolda,Via Montanelli 66,route_453,43.71112,10.39874,1
+9962,Stazione Leopolda,Via Montanelli 66,route_453,43.71102,10.39875,2
+9963,Stazione Leopolda,Via Montanelli 66,route_453,43.71099,10.39875,3
+9964,Stazione Leopolda,Via Montanelli 66,route_453,43.71095,10.39871,4
+9965,Stazione Leopolda,Via Montanelli 66,route_453,43.71088,10.3985,5
+9966,Stazione Leopolda,Via Montanelli 66,route_453,43.71079,10.39835,6
+9967,Stazione Leopolda,Via Montanelli 66,route_453,43.71075,10.39827,7
+9968,Stazione Leopolda,Via Montanelli 66,route_453,43.71086,10.39786,8
+9969,Stazione Leopolda,Via Montanelli 66,route_453,43.7109,10.39782,9
+9970,Stazione Leopolda,Via Montanelli 66,route_453,43.71092,10.39778,10
+9971,Stazione Leopolda,Via Montanelli 66,route_453,43.71092,10.39774,11
+9972,Stazione Leopolda,Via Montanelli 66,route_453,43.71091,10.39769,12
+9973,Stazione Leopolda,Via Montanelli 66,route_453,43.71089,10.39767,13
+9974,Stazione Leopolda,Via Montanelli 66,route_453,43.71084,10.39765,14
+9975,Stazione Leopolda,Via Montanelli 66,route_453,43.7108,10.39767,15
+9976,Stazione Leopolda,Via Montanelli 66,route_453,43.7107,10.39765,16
+9977,Stazione Leopolda,Via Montanelli 66,route_453,43.71041,10.39762,17
+9978,Stazione Leopolda,Via Montanelli 66,route_453,43.71022,10.39766,18
+9979,Stazione Leopolda,Via Montanelli 66,route_453,43.71018,10.39764,19
+9980,Stazione Leopolda,Via Montanelli 66,route_453,43.71013,10.39764,20
+9981,Stazione Leopolda,Via Montanelli 66,route_453,43.71009,10.39768,21
+9982,Stazione Leopolda,Via Montanelli 66,route_453,43.71006,10.39775,22
+9983,Stazione Leopolda,Via Montanelli 66,route_453,43.71006,10.39784,23
+9984,Stazione Leopolda,Via Montanelli 66,route_453,43.71001,10.39838,24
+9985,Stazione Leopolda,Via Montanelli 66,route_453,43.70997,10.3988,25
+9986,Stazione Leopolda,Via Montanelli 66,route_453,43.70992,10.39879,26
+9987,Stazione Leopolda,Via Montanelli 66,route_453,43.70989,10.39881,27
+9988,Stazione Leopolda,Via Montanelli 66,route_453,43.70986,10.39884,28
+9989,Stazione Leopolda,Via Montanelli 66,route_453,43.70984,10.3989,29
+9990,Stazione Leopolda,Via Montanelli 66,route_453,43.70984,10.39895,30
+9991,Stazione Leopolda,Via Montanelli 66,route_453,43.70986,10.399,31
+9992,Stazione Leopolda,Via Montanelli 66,route_453,43.7099,10.39904,32
+9993,Stazione Leopolda,Via Montanelli 66,route_453,43.70994,10.39905,33
+9994,Stazione Leopolda,Via Montanelli 66,route_453,43.70994,10.39992,34
+9995,Stazione Leopolda,Via Montanelli 66,route_453,43.70997,10.40207,35
+9996,Stazione Leopolda,Via Montanelli 66,route_453,43.70997,10.40252,36
+9997,Stazione Leopolda,Via Montanelli 66,route_453,43.70988,10.40324,37
+9998,Stazione Leopolda,Via Montanelli 66,route_453,43.70975,10.40422,38
+9999,Stazione Leopolda,Via Montanelli 66,route_453,43.70959,10.4052,39
+10000,Stazione Leopolda,Via Montanelli 66,route_453,43.70953,10.40562,40
+10001,Stazione Leopolda,Via Montanelli 66,route_453,43.70953,10.40571,41
+10002,Stazione Leopolda,Via Montanelli 66,route_453,43.70954,10.40577,42
+10003,Stazione Leopolda,Via Montanelli 66,route_453,43.70958,10.40585,43
+10004,Stazione Leopolda,Via Montanelli 66,route_453,43.70962,10.40589,44
+10005,Stazione Leopolda,Via Montanelli 66,route_453,43.7097,10.40593,45
+10006,Stazione Leopolda,Via Montanelli 66,route_453,43.70981,10.40586,46
+10007,Stazione Leopolda,Via Montanelli 66,route_453,43.71027,10.40559,47
+10008,Stazione Leopolda,Via Montanelli 66,route_453,43.7104,10.4055,48
+10009,Stazione Leopolda,Via Montanelli 66,route_453,43.71043,10.40545,49
+10010,Stazione Leopolda,Via Montanelli 66,route_453,43.71044,10.40536,50
+10011,Stazione Leopolda,Via Montanelli 66,route_453,43.71044,10.4053,51
+10012,Stazione Leopolda,Via Montanelli 66,route_453,43.71044,10.40507,52
+10013,Stazione Leopolda,Via Montanelli 66,route_453,43.71053,10.40511,53
+10014,Stazione Leopolda,Via Montanelli 66,route_453,43.71123,10.40543,54
+10015,Stazione Leopolda,Via Montanelli 66,route_453,43.71133,10.40545,55
+10016,Stazione Leopolda,Via Montanelli 66,route_453,43.71143,10.40549,56
+10017,Stazione Leopolda,Via Montanelli 66,route_453,43.71169,10.4056,57
+10018,Stazione Leopolda,Via Montanelli 66,route_453,43.71176,10.40569,58
+10019,Stazione Leopolda,Via Montanelli 66,route_453,43.71192,10.40577,59
+10020,Stazione Leopolda,Via Montanelli 66,route_453,43.71316,10.40636,60
+10021,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71197,10.39863,0
+10022,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71112,10.39874,1
+10023,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71102,10.39875,2
+10024,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71099,10.39875,3
+10025,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71095,10.39871,4
+10026,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71088,10.3985,5
+10027,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71079,10.39835,6
+10028,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71075,10.39827,7
+10029,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71086,10.39786,8
+10030,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.7109,10.39782,9
+10031,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71092,10.39778,10
+10032,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71092,10.39774,11
+10033,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71091,10.39769,12
+10034,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71089,10.39767,13
+10035,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71084,10.39765,14
+10036,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.7108,10.39767,15
+10037,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.7107,10.39765,16
+10038,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71041,10.39762,17
+10039,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71022,10.39766,18
+10040,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71018,10.39764,19
+10041,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71013,10.39764,20
+10042,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71009,10.39768,21
+10043,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71006,10.39775,22
+10044,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71006,10.39784,23
+10045,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71001,10.39838,24
+10046,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70997,10.3988,25
+10047,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70992,10.39879,26
+10048,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70989,10.39881,27
+10049,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70986,10.39884,28
+10050,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70984,10.3989,29
+10051,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70984,10.39895,30
+10052,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70986,10.399,31
+10053,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.7099,10.39904,32
+10054,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70994,10.39905,33
+10055,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70994,10.39992,34
+10056,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70997,10.40207,35
+10057,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70997,10.40252,36
+10058,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70988,10.40324,37
+10059,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70975,10.40422,38
+10060,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70959,10.4052,39
+10061,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70953,10.40562,40
+10062,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70953,10.40571,41
+10063,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70954,10.40577,42
+10064,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70958,10.40585,43
+10065,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70962,10.40589,44
+10066,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.7097,10.40593,45
+10067,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70981,10.40586,46
+10068,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70996,10.40588,47
+10069,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71001,10.4059,48
+10070,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71007,10.40596,49
+10071,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71009,10.40599,50
+10072,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71015,10.4061,51
+10073,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71008,10.40743,52
+10074,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71004,10.40744,53
+10075,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71001,10.40747,54
+10076,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70998,10.40751,55
+10077,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70997,10.40755,56
+10078,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70997,10.40763,57
+10079,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70998,10.40769,58
+10080,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71003,10.40774,59
+10081,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71007,10.40776,60
+10082,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70998,10.40978,61
+10083,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70992,10.41005,62
+10084,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70987,10.41009,63
+10085,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70983,10.41016,64
+10086,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70982,10.41022,65
+10087,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70983,10.4103,66
+10088,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70985,10.41035,67
+10089,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70988,10.4104,68
+10090,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70993,10.41076,69
+10091,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.7099,10.41147,70
+10092,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70991,10.41172,71
+10093,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70992,10.41199,72
+10094,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70997,10.41245,73
+10095,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71037,10.41529,74
+10096,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71068,10.41746,75
+10097,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71085,10.41915,76
+10098,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71078,10.41912,77
+10099,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71051,10.41919,78
+10100,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.71025,10.41928,79
+10101,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70985,10.41949,80
+10102,Stazione Leopolda,Ristorante Tuscany 2,route_454,43.70994,10.42005,81
+10103,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71197,10.39863,0
+10104,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71112,10.39874,1
+10105,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71102,10.39875,2
+10106,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71099,10.39875,3
+10107,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71095,10.39871,4
+10108,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71088,10.3985,5
+10109,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71079,10.39835,6
+10110,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71075,10.39827,7
+10111,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71086,10.39786,8
+10112,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.7109,10.39782,9
+10113,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71092,10.39778,10
+10114,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71092,10.39774,11
+10115,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71091,10.39769,12
+10116,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71089,10.39767,13
+10117,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71084,10.39765,14
+10118,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.7108,10.39767,15
+10119,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.7107,10.39765,16
+10120,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71041,10.39762,17
+10121,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71022,10.39766,18
+10122,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71018,10.39764,19
+10123,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71013,10.39764,20
+10124,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71009,10.39768,21
+10125,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71006,10.39775,22
+10126,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71006,10.39784,23
+10127,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71001,10.39838,24
+10128,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70997,10.3988,25
+10129,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70992,10.39879,26
+10130,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70989,10.39881,27
+10131,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70986,10.39884,28
+10132,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70984,10.3989,29
+10133,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70984,10.39895,30
+10134,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70986,10.399,31
+10135,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.7099,10.39904,32
+10136,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70994,10.39905,33
+10137,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70994,10.39992,34
+10138,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70997,10.40207,35
+10139,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70997,10.40252,36
+10140,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70988,10.40324,37
+10141,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70975,10.40422,38
+10142,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70959,10.4052,39
+10143,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70953,10.40562,40
+10144,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70953,10.40571,41
+10145,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70954,10.40577,42
+10146,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70958,10.40585,43
+10147,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70962,10.40589,44
+10148,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.7097,10.40593,45
+10149,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70981,10.40586,46
+10150,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70996,10.40588,47
+10151,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71001,10.4059,48
+10152,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71007,10.40596,49
+10153,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71009,10.40599,50
+10154,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71015,10.4061,51
+10155,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71008,10.40743,52
+10156,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71004,10.40744,53
+10157,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71001,10.40747,54
+10158,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70998,10.40751,55
+10159,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70997,10.40755,56
+10160,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70997,10.40763,57
+10161,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70998,10.40769,58
+10162,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71003,10.40774,59
+10163,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.71007,10.40776,60
+10164,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70998,10.40978,61
+10165,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70992,10.41005,62
+10166,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70987,10.41009,63
+10167,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70983,10.41016,64
+10168,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70982,10.41022,65
+10169,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70983,10.4103,66
+10170,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70985,10.41035,67
+10171,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70988,10.4104,68
+10172,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70993,10.41076,69
+10173,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.7099,10.41147,70
+10174,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70991,10.41172,71
+10175,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70992,10.41199,72
+10176,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.7098,10.41201,73
+10177,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70964,10.41211,74
+10178,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70956,10.41218,75
+10179,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70912,10.41268,76
+10180,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70819,10.41357,77
+10181,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70812,10.41342,78
+10182,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70784,10.41271,79
+10183,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70752,10.41198,80
+10184,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70725,10.41239,81
+10185,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70714,10.4126,82
+10186,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.707,10.41288,83
+10187,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70682,10.41331,84
+10188,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70655,10.4141,85
+10189,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70644,10.41447,86
+10190,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70636,10.41485,87
+10191,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.7063,10.41518,88
+10192,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70662,10.41532,89
+10193,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70665,10.41537,90
+10194,Stazione Leopolda,Euronics Pisa Cisanello,route_455,43.70685,10.41483,91
+10195,Stazione Leopolda,Hotel San Ranieri,route_456,43.71197,10.39863,0
+10196,Stazione Leopolda,Hotel San Ranieri,route_456,43.71112,10.39874,1
+10197,Stazione Leopolda,Hotel San Ranieri,route_456,43.71102,10.39875,2
+10198,Stazione Leopolda,Hotel San Ranieri,route_456,43.71099,10.39875,3
+10199,Stazione Leopolda,Hotel San Ranieri,route_456,43.71095,10.39871,4
+10200,Stazione Leopolda,Hotel San Ranieri,route_456,43.71088,10.3985,5
+10201,Stazione Leopolda,Hotel San Ranieri,route_456,43.71079,10.39835,6
+10202,Stazione Leopolda,Hotel San Ranieri,route_456,43.71075,10.39827,7
+10203,Stazione Leopolda,Hotel San Ranieri,route_456,43.71086,10.39786,8
+10204,Stazione Leopolda,Hotel San Ranieri,route_456,43.7109,10.39782,9
+10205,Stazione Leopolda,Hotel San Ranieri,route_456,43.71092,10.39778,10
+10206,Stazione Leopolda,Hotel San Ranieri,route_456,43.71092,10.39774,11
+10207,Stazione Leopolda,Hotel San Ranieri,route_456,43.71091,10.39769,12
+10208,Stazione Leopolda,Hotel San Ranieri,route_456,43.71089,10.39767,13
+10209,Stazione Leopolda,Hotel San Ranieri,route_456,43.71084,10.39765,14
+10210,Stazione Leopolda,Hotel San Ranieri,route_456,43.7108,10.39767,15
+10211,Stazione Leopolda,Hotel San Ranieri,route_456,43.7107,10.39765,16
+10212,Stazione Leopolda,Hotel San Ranieri,route_456,43.71041,10.39762,17
+10213,Stazione Leopolda,Hotel San Ranieri,route_456,43.71022,10.39766,18
+10214,Stazione Leopolda,Hotel San Ranieri,route_456,43.71018,10.39764,19
+10215,Stazione Leopolda,Hotel San Ranieri,route_456,43.71013,10.39764,20
+10216,Stazione Leopolda,Hotel San Ranieri,route_456,43.71009,10.39768,21
+10217,Stazione Leopolda,Hotel San Ranieri,route_456,43.71006,10.39775,22
+10218,Stazione Leopolda,Hotel San Ranieri,route_456,43.71006,10.39784,23
+10219,Stazione Leopolda,Hotel San Ranieri,route_456,43.71001,10.39838,24
+10220,Stazione Leopolda,Hotel San Ranieri,route_456,43.70997,10.3988,25
+10221,Stazione Leopolda,Hotel San Ranieri,route_456,43.70992,10.39879,26
+10222,Stazione Leopolda,Hotel San Ranieri,route_456,43.70989,10.39881,27
+10223,Stazione Leopolda,Hotel San Ranieri,route_456,43.70986,10.39884,28
+10224,Stazione Leopolda,Hotel San Ranieri,route_456,43.70984,10.3989,29
+10225,Stazione Leopolda,Hotel San Ranieri,route_456,43.70984,10.39895,30
+10226,Stazione Leopolda,Hotel San Ranieri,route_456,43.70986,10.399,31
+10227,Stazione Leopolda,Hotel San Ranieri,route_456,43.7099,10.39904,32
+10228,Stazione Leopolda,Hotel San Ranieri,route_456,43.70994,10.39905,33
+10229,Stazione Leopolda,Hotel San Ranieri,route_456,43.70994,10.39992,34
+10230,Stazione Leopolda,Hotel San Ranieri,route_456,43.70997,10.40207,35
+10231,Stazione Leopolda,Hotel San Ranieri,route_456,43.70997,10.40252,36
+10232,Stazione Leopolda,Hotel San Ranieri,route_456,43.70988,10.40324,37
+10233,Stazione Leopolda,Hotel San Ranieri,route_456,43.70975,10.40422,38
+10234,Stazione Leopolda,Hotel San Ranieri,route_456,43.70959,10.4052,39
+10235,Stazione Leopolda,Hotel San Ranieri,route_456,43.70953,10.40562,40
+10236,Stazione Leopolda,Hotel San Ranieri,route_456,43.70953,10.40571,41
+10237,Stazione Leopolda,Hotel San Ranieri,route_456,43.70954,10.40577,42
+10238,Stazione Leopolda,Hotel San Ranieri,route_456,43.70958,10.40585,43
+10239,Stazione Leopolda,Hotel San Ranieri,route_456,43.70962,10.40589,44
+10240,Stazione Leopolda,Hotel San Ranieri,route_456,43.7097,10.40593,45
+10241,Stazione Leopolda,Hotel San Ranieri,route_456,43.70981,10.40586,46
+10242,Stazione Leopolda,Hotel San Ranieri,route_456,43.70996,10.40588,47
+10243,Stazione Leopolda,Hotel San Ranieri,route_456,43.71001,10.4059,48
+10244,Stazione Leopolda,Hotel San Ranieri,route_456,43.71007,10.40596,49
+10245,Stazione Leopolda,Hotel San Ranieri,route_456,43.71009,10.40599,50
+10246,Stazione Leopolda,Hotel San Ranieri,route_456,43.71015,10.4061,51
+10247,Stazione Leopolda,Hotel San Ranieri,route_456,43.71008,10.40743,52
+10248,Stazione Leopolda,Hotel San Ranieri,route_456,43.71004,10.40744,53
+10249,Stazione Leopolda,Hotel San Ranieri,route_456,43.71001,10.40747,54
+10250,Stazione Leopolda,Hotel San Ranieri,route_456,43.70998,10.40751,55
+10251,Stazione Leopolda,Hotel San Ranieri,route_456,43.70997,10.40755,56
+10252,Stazione Leopolda,Hotel San Ranieri,route_456,43.70997,10.40763,57
+10253,Stazione Leopolda,Hotel San Ranieri,route_456,43.70998,10.40769,58
+10254,Stazione Leopolda,Hotel San Ranieri,route_456,43.71003,10.40774,59
+10255,Stazione Leopolda,Hotel San Ranieri,route_456,43.71007,10.40776,60
+10256,Stazione Leopolda,Hotel San Ranieri,route_456,43.70998,10.40978,61
+10257,Stazione Leopolda,Hotel San Ranieri,route_456,43.70992,10.41005,62
+10258,Stazione Leopolda,Hotel San Ranieri,route_456,43.70987,10.41009,63
+10259,Stazione Leopolda,Hotel San Ranieri,route_456,43.70983,10.41016,64
+10260,Stazione Leopolda,Hotel San Ranieri,route_456,43.70982,10.41022,65
+10261,Stazione Leopolda,Hotel San Ranieri,route_456,43.70983,10.4103,66
+10262,Stazione Leopolda,Hotel San Ranieri,route_456,43.70985,10.41035,67
+10263,Stazione Leopolda,Hotel San Ranieri,route_456,43.70988,10.4104,68
+10264,Stazione Leopolda,Hotel San Ranieri,route_456,43.70993,10.41076,69
+10265,Stazione Leopolda,Hotel San Ranieri,route_456,43.7099,10.41147,70
+10266,Stazione Leopolda,Hotel San Ranieri,route_456,43.70991,10.41172,71
+10267,Stazione Leopolda,Hotel San Ranieri,route_456,43.70992,10.41199,72
+10268,Stazione Leopolda,Hotel San Ranieri,route_456,43.70997,10.41245,73
+10269,Stazione Leopolda,Hotel San Ranieri,route_456,43.71037,10.41529,74
+10270,Stazione Leopolda,Hotel San Ranieri,route_456,43.71068,10.41746,75
+10271,Stazione Leopolda,Hotel San Ranieri,route_456,43.71091,10.41974,76
+10272,Stazione Leopolda,Hotel San Ranieri,route_456,43.7109,10.4199,77
+10273,Stazione Leopolda,Hotel San Ranieri,route_456,43.71092,10.4202,78
+10274,Stazione Leopolda,Hotel San Ranieri,route_456,43.71094,10.42031,79
+10275,Stazione Leopolda,Hotel San Ranieri,route_456,43.71098,10.42043,80
+10276,Stazione Leopolda,Hotel San Ranieri,route_456,43.71101,10.42058,81
+10277,Stazione Leopolda,Hotel San Ranieri,route_456,43.711,10.42062,82
+10278,Stazione Leopolda,Hotel San Ranieri,route_456,43.71101,10.42067,83
+10279,Stazione Leopolda,Hotel San Ranieri,route_456,43.71103,10.4207,84
+10280,Stazione Leopolda,Hotel San Ranieri,route_456,43.71105,10.42071,85
+10281,Stazione Leopolda,Hotel San Ranieri,route_456,43.71109,10.4207,86
+10282,Stazione Leopolda,Hotel San Ranieri,route_456,43.71111,10.42068,87
+10283,Stazione Leopolda,Hotel San Ranieri,route_456,43.71223,10.42094,88
+10284,Stazione Leopolda,Hotel San Ranieri,route_456,43.71242,10.4202,89
+10285,Stazione Leopolda,Hotel San Ranieri,route_456,43.71277,10.42033,90
+10286,Stazione Leopolda,Hotel San Ranieri,route_456,43.71319,10.42041,91
+10287,Stazione Leopolda,Hotel San Ranieri,route_456,43.71322,10.42041,92
+10288,Stazione Leopolda,Hotel San Ranieri,route_456,43.71328,10.42038,93
+10289,Stazione Leopolda,Hotel San Ranieri,route_456,43.7133,10.42035,94
+10290,Stazione Leopolda,Hotel San Ranieri,route_456,43.71332,10.42025,95
+10291,Stazione Leopolda,Hotel San Ranieri,route_456,43.71343,10.42016,96
+10292,Stazione Leopolda,Hotel San Ranieri,route_456,43.71439,10.42038,97
+10293,Stazione Leopolda,Hotel San Ranieri,route_456,43.71422,10.4206,98
+10294,Stazione Leopolda,Hotel San Ranieri,route_456,43.71414,10.42117,99
+10295,Stazione Leopolda,Hotel San Ranieri,route_456,43.71446,10.42125,100
+10296,Stazione Leopolda,Hotel San Ranieri,route_456,43.71451,10.4208,101
+10297,Stazione Leopolda,Esselunga Cisanello,route_457,43.71197,10.39863,0
+10298,Stazione Leopolda,Esselunga Cisanello,route_457,43.71112,10.39874,1
+10299,Stazione Leopolda,Esselunga Cisanello,route_457,43.71102,10.39875,2
+10300,Stazione Leopolda,Esselunga Cisanello,route_457,43.71099,10.39875,3
+10301,Stazione Leopolda,Esselunga Cisanello,route_457,43.71095,10.39871,4
+10302,Stazione Leopolda,Esselunga Cisanello,route_457,43.71088,10.3985,5
+10303,Stazione Leopolda,Esselunga Cisanello,route_457,43.71079,10.39835,6
+10304,Stazione Leopolda,Esselunga Cisanello,route_457,43.71075,10.39827,7
+10305,Stazione Leopolda,Esselunga Cisanello,route_457,43.71086,10.39786,8
+10306,Stazione Leopolda,Esselunga Cisanello,route_457,43.7109,10.39782,9
+10307,Stazione Leopolda,Esselunga Cisanello,route_457,43.71092,10.39778,10
+10308,Stazione Leopolda,Esselunga Cisanello,route_457,43.71092,10.39774,11
+10309,Stazione Leopolda,Esselunga Cisanello,route_457,43.71091,10.39769,12
+10310,Stazione Leopolda,Esselunga Cisanello,route_457,43.71089,10.39767,13
+10311,Stazione Leopolda,Esselunga Cisanello,route_457,43.71084,10.39765,14
+10312,Stazione Leopolda,Esselunga Cisanello,route_457,43.7108,10.39767,15
+10313,Stazione Leopolda,Esselunga Cisanello,route_457,43.7107,10.39765,16
+10314,Stazione Leopolda,Esselunga Cisanello,route_457,43.71041,10.39762,17
+10315,Stazione Leopolda,Esselunga Cisanello,route_457,43.71022,10.39766,18
+10316,Stazione Leopolda,Esselunga Cisanello,route_457,43.71018,10.39764,19
+10317,Stazione Leopolda,Esselunga Cisanello,route_457,43.71013,10.39764,20
+10318,Stazione Leopolda,Esselunga Cisanello,route_457,43.71009,10.39768,21
+10319,Stazione Leopolda,Esselunga Cisanello,route_457,43.71006,10.39775,22
+10320,Stazione Leopolda,Esselunga Cisanello,route_457,43.71006,10.39784,23
+10321,Stazione Leopolda,Esselunga Cisanello,route_457,43.71001,10.39838,24
+10322,Stazione Leopolda,Esselunga Cisanello,route_457,43.70997,10.3988,25
+10323,Stazione Leopolda,Esselunga Cisanello,route_457,43.70992,10.39879,26
+10324,Stazione Leopolda,Esselunga Cisanello,route_457,43.70989,10.39881,27
+10325,Stazione Leopolda,Esselunga Cisanello,route_457,43.70986,10.39884,28
+10326,Stazione Leopolda,Esselunga Cisanello,route_457,43.70984,10.3989,29
+10327,Stazione Leopolda,Esselunga Cisanello,route_457,43.70984,10.39895,30
+10328,Stazione Leopolda,Esselunga Cisanello,route_457,43.70986,10.399,31
+10329,Stazione Leopolda,Esselunga Cisanello,route_457,43.7099,10.39904,32
+10330,Stazione Leopolda,Esselunga Cisanello,route_457,43.70994,10.39905,33
+10331,Stazione Leopolda,Esselunga Cisanello,route_457,43.70994,10.39992,34
+10332,Stazione Leopolda,Esselunga Cisanello,route_457,43.70997,10.40207,35
+10333,Stazione Leopolda,Esselunga Cisanello,route_457,43.70997,10.40252,36
+10334,Stazione Leopolda,Esselunga Cisanello,route_457,43.70988,10.40324,37
+10335,Stazione Leopolda,Esselunga Cisanello,route_457,43.70975,10.40422,38
+10336,Stazione Leopolda,Esselunga Cisanello,route_457,43.70959,10.4052,39
+10337,Stazione Leopolda,Esselunga Cisanello,route_457,43.70953,10.40562,40
+10338,Stazione Leopolda,Esselunga Cisanello,route_457,43.70953,10.40571,41
+10339,Stazione Leopolda,Esselunga Cisanello,route_457,43.70954,10.40577,42
+10340,Stazione Leopolda,Esselunga Cisanello,route_457,43.70958,10.40585,43
+10341,Stazione Leopolda,Esselunga Cisanello,route_457,43.70962,10.40589,44
+10342,Stazione Leopolda,Esselunga Cisanello,route_457,43.7097,10.40593,45
+10343,Stazione Leopolda,Esselunga Cisanello,route_457,43.70981,10.40586,46
+10344,Stazione Leopolda,Esselunga Cisanello,route_457,43.70996,10.40588,47
+10345,Stazione Leopolda,Esselunga Cisanello,route_457,43.71001,10.4059,48
+10346,Stazione Leopolda,Esselunga Cisanello,route_457,43.71007,10.40596,49
+10347,Stazione Leopolda,Esselunga Cisanello,route_457,43.71009,10.40599,50
+10348,Stazione Leopolda,Esselunga Cisanello,route_457,43.71015,10.4061,51
+10349,Stazione Leopolda,Esselunga Cisanello,route_457,43.71008,10.40743,52
+10350,Stazione Leopolda,Esselunga Cisanello,route_457,43.71004,10.40744,53
+10351,Stazione Leopolda,Esselunga Cisanello,route_457,43.71001,10.40747,54
+10352,Stazione Leopolda,Esselunga Cisanello,route_457,43.70998,10.40751,55
+10353,Stazione Leopolda,Esselunga Cisanello,route_457,43.70997,10.40755,56
+10354,Stazione Leopolda,Esselunga Cisanello,route_457,43.70997,10.40763,57
+10355,Stazione Leopolda,Esselunga Cisanello,route_457,43.70998,10.40769,58
+10356,Stazione Leopolda,Esselunga Cisanello,route_457,43.71003,10.40774,59
+10357,Stazione Leopolda,Esselunga Cisanello,route_457,43.71007,10.40776,60
+10358,Stazione Leopolda,Esselunga Cisanello,route_457,43.70998,10.40978,61
+10359,Stazione Leopolda,Esselunga Cisanello,route_457,43.70992,10.41005,62
+10360,Stazione Leopolda,Esselunga Cisanello,route_457,43.70987,10.41009,63
+10361,Stazione Leopolda,Esselunga Cisanello,route_457,43.70983,10.41016,64
+10362,Stazione Leopolda,Esselunga Cisanello,route_457,43.70982,10.41022,65
+10363,Stazione Leopolda,Esselunga Cisanello,route_457,43.70983,10.4103,66
+10364,Stazione Leopolda,Esselunga Cisanello,route_457,43.70985,10.41035,67
+10365,Stazione Leopolda,Esselunga Cisanello,route_457,43.70988,10.4104,68
+10366,Stazione Leopolda,Esselunga Cisanello,route_457,43.70993,10.41076,69
+10367,Stazione Leopolda,Esselunga Cisanello,route_457,43.7099,10.41147,70
+10368,Stazione Leopolda,Esselunga Cisanello,route_457,43.70991,10.41172,71
+10369,Stazione Leopolda,Esselunga Cisanello,route_457,43.70992,10.41199,72
+10370,Stazione Leopolda,Esselunga Cisanello,route_457,43.70997,10.41245,73
+10371,Stazione Leopolda,Esselunga Cisanello,route_457,43.71037,10.41529,74
+10372,Stazione Leopolda,Esselunga Cisanello,route_457,43.71068,10.41746,75
+10373,Stazione Leopolda,Esselunga Cisanello,route_457,43.71091,10.41974,76
+10374,Stazione Leopolda,Esselunga Cisanello,route_457,43.7109,10.4199,77
+10375,Stazione Leopolda,Esselunga Cisanello,route_457,43.71092,10.42019,78

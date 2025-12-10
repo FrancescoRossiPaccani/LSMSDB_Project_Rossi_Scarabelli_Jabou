@@ -1,0 +1,588 @@
+id,start,end,route_id,lat,lon,idx
+26486,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71348,10.42113,0
+26487,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71128,10.42061,1
+26488,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71109,10.42055,2
+26489,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71108,10.42055,3
+26490,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71102,10.42034,4
+26491,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71095,10.41991,5
+26492,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71091,10.41974,6
+26493,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71068,10.41746,7
+26494,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71037,10.41529,8
+26495,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70997,10.41245,9
+26496,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70992,10.41199,10
+26497,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70991,10.41172,11
+26498,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.7099,10.41147,12
+26499,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70993,10.41076,13
+26500,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70994,10.41066,14
+26501,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70995,10.41058,15
+26502,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71002,10.41043,16
+26503,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71006,10.4104,17
+26504,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71008,10.41036,18
+26505,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.7101,10.41032,19
+26506,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71011,10.41027,20
+26507,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71011,10.41022,21
+26508,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.7101,10.41017,22
+26509,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71009,10.41013,23
+26510,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71006,10.41009,24
+26511,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71002,10.41005,25
+26512,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70998,10.40978,26
+26513,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71007,10.40776,27
+26514,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71014,10.40774,28
+26515,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71018,10.40769,29
+26516,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71019,10.40765,30
+26517,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.7102,10.4076,31
+26518,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71019,10.40752,32
+26519,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71017,10.40749,33
+26520,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71014,10.40745,34
+26521,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.7101,10.40743,35
+26522,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71008,10.40743,36
+26523,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71015,10.4061,37
+26524,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71019,10.4058,38
+26525,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71021,10.40573,39
+26526,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71027,10.40559,40
+26527,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.7104,10.4055,41
+26528,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71043,10.40545,42
+26529,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71044,10.40536,43
+26530,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71044,10.4053,44
+26531,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71041,10.40524,45
+26532,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71035,10.4052,46
+26533,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.7103,10.4052,47
+26534,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71019,10.40527,48
+26535,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.7101,10.40527,49
+26536,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.71006,10.40525,50
+26537,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70988,10.40513,51
+26538,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70974,10.40512,52
+26539,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70969,10.40513,53
+26540,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70959,10.4052,54
+26541,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70953,10.40562,55
+26542,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70919,10.40552,56
+26543,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70824,10.40505,57
+26544,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70776,10.40479,58
+26545,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70741,10.40576,59
+26546,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70675,10.40529,60
+26547,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70611,10.40711,61
+26548,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70609,10.40749,62
+26549,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70609,10.40762,63
+26550,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70611,10.40773,64
+26551,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70614,10.40784,65
+26552,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70623,10.40805,66
+26553,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70638,10.40833,67
+26554,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70581,10.40886,68
+26555,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70568,10.40859,69
+26556,Farmacia Cisanello,Ristorante Il Mio Capriccio,route_1080,43.70578,10.40849,70
+26557,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71348,10.42113,0
+26558,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71128,10.42061,1
+26559,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71109,10.42055,2
+26560,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71108,10.42055,3
+26561,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71102,10.42034,4
+26562,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71095,10.41991,5
+26563,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71091,10.41974,6
+26564,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71068,10.41746,7
+26565,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71037,10.41529,8
+26566,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.70997,10.41245,9
+26567,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.70992,10.41199,10
+26568,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.70991,10.41172,11
+26569,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.7099,10.41147,12
+26570,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.70993,10.41076,13
+26571,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.70994,10.41066,14
+26572,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.70995,10.41058,15
+26573,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71002,10.41043,16
+26574,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71006,10.4104,17
+26575,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71008,10.41036,18
+26576,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.7101,10.41032,19
+26577,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71011,10.41027,20
+26578,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71011,10.41022,21
+26579,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.7101,10.41017,22
+26580,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71009,10.41013,23
+26581,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71006,10.41009,24
+26582,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71002,10.41005,25
+26583,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.70998,10.40978,26
+26584,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71007,10.40776,27
+26585,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71014,10.40774,28
+26586,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71018,10.40769,29
+26587,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71027,10.40767,30
+26588,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71063,10.40769,31
+26589,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71112,10.40773,32
+26590,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71118,10.40776,33
+26591,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71127,10.40782,34
+26592,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71131,10.40786,35
+26593,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71138,10.40789,36
+26594,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71204,10.40793,37
+26595,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71261,10.40789,38
+26596,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71299,10.40783,39
+26597,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71305,10.40781,40
+26598,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71307,10.40778,41
+26599,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.7139,10.40851,42
+26600,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.7141,10.40867,43
+26601,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71421,10.40873,44
+26602,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.7147,10.40895,45
+26603,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71478,10.40897,46
+26604,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71514,10.40902,47
+26605,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71597,10.40908,48
+26606,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71617,10.40905,49
+26607,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71637,10.40896,50
+26608,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.7167,10.40875,51
+26609,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.7168,10.40872,52
+26610,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71686,10.40874,53
+26611,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71695,10.40879,54
+26612,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71862,10.41041,55
+26613,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71872,10.41046,56
+26614,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71879,10.41046,57
+26615,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71868,10.40905,58
+26616,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71855,10.40739,59
+26617,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71935,10.40741,60
+26618,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71973,10.40736,61
+26619,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71972,10.40631,62
+26620,Farmacia Cisanello,Via del Borghetto 102,route_1081,43.71974,10.40577,63
+26621,Farmacia Cisanello,Parcheggio di Cisanello,route_1082,43.71348,10.42113,0
+26622,Farmacia Cisanello,Parcheggio di Cisanello,route_1082,43.71226,10.42083,1
+26623,Farmacia Cisanello,Parcheggio di Cisanello,route_1082,43.71242,10.4202,2
+26624,Farmacia Cisanello,Parcheggio di Cisanello,route_1082,43.71253,10.41978,3
+26625,Farmacia Cisanello,Parcheggio di Cisanello,route_1082,43.71266,10.41937,4
+26626,Farmacia Cisanello,Parcheggio di Cisanello,route_1082,43.7128,10.41885,5
+26627,Farmacia Cisanello,Parcheggio di Cisanello,route_1082,43.71292,10.4183,6
+26628,Farmacia Cisanello,Parcheggio di Cisanello,route_1082,43.71339,10.41835,7
+26629,Farmacia Cisanello,Parcheggio di Cisanello,route_1082,43.71342,10.4184,8
+26630,Farmacia Cisanello,Parcheggio di Cisanello,route_1082,43.71361,10.41843,9
+26631,Farmacia Cisanello,Carrefour Express Pisanova,route_1083,43.71348,10.42113,0
+26632,Farmacia Cisanello,Carrefour Express Pisanova,route_1083,43.71128,10.42061,1
+26633,Farmacia Cisanello,Carrefour Express Pisanova,route_1083,43.71109,10.42055,2
+26634,Farmacia Cisanello,Carrefour Express Pisanova,route_1083,43.71108,10.42055,3
+26635,Farmacia Cisanello,Carrefour Express Pisanova,route_1083,43.71102,10.42034,4
+26636,Farmacia Cisanello,Carrefour Express Pisanova,route_1083,43.71095,10.41991,5
+26637,Farmacia Cisanello,Carrefour Express Pisanova,route_1083,43.71091,10.41974,6
+26638,Farmacia Cisanello,Carrefour Express Pisanova,route_1083,43.71068,10.41746,7
+26639,Farmacia Cisanello,Carrefour Express Pisanova,route_1083,43.71037,10.41529,8
+26640,Farmacia Cisanello,Carrefour Express Pisanova,route_1083,43.70997,10.41245,9
+26641,Farmacia Cisanello,Carrefour Express Pisanova,route_1083,43.70992,10.41199,10
+26642,Farmacia Cisanello,Carrefour Express Pisanova,route_1083,43.70991,10.41172,11
+26643,Farmacia Cisanello,Carrefour Express Pisanova,route_1083,43.7099,10.41147,12
+26644,Farmacia Cisanello,Carrefour Express Pisanova,route_1083,43.70999,10.41147,13
+26645,Farmacia Cisanello,Carrefour Express Pisanova,route_1083,43.71006,10.41143,14
+26646,Farmacia Cisanello,Carrefour Express Pisanova,route_1083,43.71033,10.41113,15
+26647,Farmacia Cisanello,Carrefour Express Pisanova,route_1083,43.71033,10.411,16
+26648,Farmacia Cisanello,Carrefour Express Pisanova,route_1083,43.71032,10.41095,17
+26649,Farmacia Cisanello,OBI Pisa,route_1084,43.71348,10.42113,0
+26650,Farmacia Cisanello,OBI Pisa,route_1084,43.71128,10.42061,1
+26651,Farmacia Cisanello,OBI Pisa,route_1084,43.71109,10.42055,2
+26652,Farmacia Cisanello,OBI Pisa,route_1084,43.71108,10.42055,3
+26653,Farmacia Cisanello,OBI Pisa,route_1084,43.71102,10.42034,4
+26654,Farmacia Cisanello,OBI Pisa,route_1084,43.71095,10.41991,5
+26655,Farmacia Cisanello,OBI Pisa,route_1084,43.71091,10.41974,6
+26656,Farmacia Cisanello,OBI Pisa,route_1084,43.71068,10.41746,7
+26657,Farmacia Cisanello,OBI Pisa,route_1084,43.71037,10.41529,8
+26658,Farmacia Cisanello,OBI Pisa,route_1084,43.70997,10.41245,9
+26659,Farmacia Cisanello,OBI Pisa,route_1084,43.70992,10.41199,10
+26660,Farmacia Cisanello,OBI Pisa,route_1084,43.70991,10.41172,11
+26661,Farmacia Cisanello,OBI Pisa,route_1084,43.7099,10.41147,12
+26662,Farmacia Cisanello,OBI Pisa,route_1084,43.70993,10.41076,13
+26663,Farmacia Cisanello,OBI Pisa,route_1084,43.70994,10.41066,14
+26664,Farmacia Cisanello,OBI Pisa,route_1084,43.70995,10.41058,15
+26665,Farmacia Cisanello,OBI Pisa,route_1084,43.71002,10.41043,16
+26666,Farmacia Cisanello,OBI Pisa,route_1084,43.71006,10.4104,17
+26667,Farmacia Cisanello,OBI Pisa,route_1084,43.71008,10.41036,18
+26668,Farmacia Cisanello,OBI Pisa,route_1084,43.7101,10.41032,19
+26669,Farmacia Cisanello,OBI Pisa,route_1084,43.71011,10.41027,20
+26670,Farmacia Cisanello,OBI Pisa,route_1084,43.71011,10.41022,21
+26671,Farmacia Cisanello,OBI Pisa,route_1084,43.7101,10.41017,22
+26672,Farmacia Cisanello,OBI Pisa,route_1084,43.71009,10.41013,23
+26673,Farmacia Cisanello,OBI Pisa,route_1084,43.71006,10.41009,24
+26674,Farmacia Cisanello,OBI Pisa,route_1084,43.71002,10.41005,25
+26675,Farmacia Cisanello,OBI Pisa,route_1084,43.70998,10.40978,26
+26676,Farmacia Cisanello,OBI Pisa,route_1084,43.71007,10.40776,27
+26677,Farmacia Cisanello,OBI Pisa,route_1084,43.71014,10.40774,28
+26678,Farmacia Cisanello,OBI Pisa,route_1084,43.71018,10.40769,29
+26679,Farmacia Cisanello,OBI Pisa,route_1084,43.71019,10.40765,30
+26680,Farmacia Cisanello,OBI Pisa,route_1084,43.7102,10.4076,31
+26681,Farmacia Cisanello,OBI Pisa,route_1084,43.71019,10.40752,32
+26682,Farmacia Cisanello,OBI Pisa,route_1084,43.71017,10.40749,33
+26683,Farmacia Cisanello,OBI Pisa,route_1084,43.71014,10.40745,34
+26684,Farmacia Cisanello,OBI Pisa,route_1084,43.7101,10.40743,35
+26685,Farmacia Cisanello,OBI Pisa,route_1084,43.71008,10.40743,36
+26686,Farmacia Cisanello,OBI Pisa,route_1084,43.71015,10.4061,37
+26687,Farmacia Cisanello,OBI Pisa,route_1084,43.71019,10.4058,38
+26688,Farmacia Cisanello,OBI Pisa,route_1084,43.71021,10.40573,39
+26689,Farmacia Cisanello,OBI Pisa,route_1084,43.71027,10.40559,40
+26690,Farmacia Cisanello,OBI Pisa,route_1084,43.7104,10.4055,41
+26691,Farmacia Cisanello,OBI Pisa,route_1084,43.71043,10.40545,42
+26692,Farmacia Cisanello,OBI Pisa,route_1084,43.71044,10.40536,43
+26693,Farmacia Cisanello,OBI Pisa,route_1084,43.71044,10.4053,44
+26694,Farmacia Cisanello,OBI Pisa,route_1084,43.71041,10.40524,45
+26695,Farmacia Cisanello,OBI Pisa,route_1084,43.71035,10.4052,46
+26696,Farmacia Cisanello,OBI Pisa,route_1084,43.7103,10.4052,47
+26697,Farmacia Cisanello,OBI Pisa,route_1084,43.71019,10.40527,48
+26698,Farmacia Cisanello,OBI Pisa,route_1084,43.7101,10.40527,49
+26699,Farmacia Cisanello,OBI Pisa,route_1084,43.71006,10.40525,50
+26700,Farmacia Cisanello,OBI Pisa,route_1084,43.70988,10.40513,51
+26701,Farmacia Cisanello,OBI Pisa,route_1084,43.70974,10.40502,52
+26702,Farmacia Cisanello,OBI Pisa,route_1084,43.70967,10.40492,53
+26703,Farmacia Cisanello,OBI Pisa,route_1084,43.70965,10.40486,54
+26704,Farmacia Cisanello,OBI Pisa,route_1084,43.70975,10.40422,55
+26705,Farmacia Cisanello,OBI Pisa,route_1084,43.70988,10.40324,56
+26706,Farmacia Cisanello,OBI Pisa,route_1084,43.70958,10.40294,57
+26707,Farmacia Cisanello,OBI Pisa,route_1084,43.70931,10.40264,58
+26708,Farmacia Cisanello,OBI Pisa,route_1084,43.70908,10.40242,59
+26709,Farmacia Cisanello,OBI Pisa,route_1084,43.7087,10.40213,60
+26710,Farmacia Cisanello,OBI Pisa,route_1084,43.70831,10.40184,61
+26711,Farmacia Cisanello,OBI Pisa,route_1084,43.70795,10.40155,62
+26712,Farmacia Cisanello,OBI Pisa,route_1084,43.70789,10.40152,63
+26713,Farmacia Cisanello,OBI Pisa,route_1084,43.70786,10.40151,64
+26714,Farmacia Cisanello,OBI Pisa,route_1084,43.7078,10.40151,65
+26715,Farmacia Cisanello,OBI Pisa,route_1084,43.70777,10.40153,66
+26716,Farmacia Cisanello,OBI Pisa,route_1084,43.70771,10.40159,67
+26717,Farmacia Cisanello,OBI Pisa,route_1084,43.70765,10.40172,68
+26718,Farmacia Cisanello,OBI Pisa,route_1084,43.70712,10.40318,69
+26719,Farmacia Cisanello,OBI Pisa,route_1084,43.70614,10.40251,70
+26720,Farmacia Cisanello,OBI Pisa,route_1084,43.70553,10.40214,71
+26721,Farmacia Cisanello,OBI Pisa,route_1084,43.70547,10.40207,72
+26722,Farmacia Cisanello,OBI Pisa,route_1084,43.70535,10.40184,73
+26723,Farmacia Cisanello,OBI Pisa,route_1084,43.7053,10.40178,74
+26724,Farmacia Cisanello,OBI Pisa,route_1084,43.70524,10.40171,75
+26725,Farmacia Cisanello,OBI Pisa,route_1084,43.70471,10.40133,76
+26726,Farmacia Cisanello,OBI Pisa,route_1084,43.70455,10.40124,77
+26727,Farmacia Cisanello,OBI Pisa,route_1084,43.70276,10.40076,78
+26728,Farmacia Cisanello,OBI Pisa,route_1084,43.70252,10.40069,79
+26729,Farmacia Cisanello,OBI Pisa,route_1084,43.70247,10.40067,80
+26730,Farmacia Cisanello,OBI Pisa,route_1084,43.70244,10.40064,81
+26731,Farmacia Cisanello,OBI Pisa,route_1084,43.70245,10.40061,82
+26732,Farmacia Cisanello,OBI Pisa,route_1084,43.70245,10.40056,83
+26733,Farmacia Cisanello,OBI Pisa,route_1084,43.70244,10.40052,84
+26734,Farmacia Cisanello,OBI Pisa,route_1084,43.7024,10.40047,85
+26735,Farmacia Cisanello,OBI Pisa,route_1084,43.70237,10.40046,86
+26736,Farmacia Cisanello,OBI Pisa,route_1084,43.70234,10.40046,87
+26737,Farmacia Cisanello,OBI Pisa,route_1084,43.70231,10.40048,88
+26738,Farmacia Cisanello,OBI Pisa,route_1084,43.70229,10.40051,89
+26739,Farmacia Cisanello,OBI Pisa,route_1084,43.70228,10.40054,90
+26740,Farmacia Cisanello,OBI Pisa,route_1084,43.70227,10.40058,91
+26741,Farmacia Cisanello,OBI Pisa,route_1084,43.70215,10.40059,92
+26742,Farmacia Cisanello,OBI Pisa,route_1084,43.7018,10.40051,93
+26743,Farmacia Cisanello,OBI Pisa,route_1084,43.70155,10.40042,94
+26744,Farmacia Cisanello,OBI Pisa,route_1084,43.70036,10.3998,95
+26745,Farmacia Cisanello,OBI Pisa,route_1084,43.70022,10.39969,96
+26746,Farmacia Cisanello,OBI Pisa,route_1084,43.70002,10.39958,97
+26747,Farmacia Cisanello,OBI Pisa,route_1084,43.69981,10.39948,98
+26748,Farmacia Cisanello,OBI Pisa,route_1084,43.69978,10.39945,99
+26749,Farmacia Cisanello,OBI Pisa,route_1084,43.69975,10.39939,100
+26750,Farmacia Cisanello,OBI Pisa,route_1084,43.69973,10.39932,101
+26751,Farmacia Cisanello,OBI Pisa,route_1084,43.69971,10.39917,102
+26752,Farmacia Cisanello,OBI Pisa,route_1084,43.69979,10.39842,103
+26753,Farmacia Cisanello,OBI Pisa,route_1084,43.69985,10.39803,104
+26754,Farmacia Cisanello,OBI Pisa,route_1084,43.69986,10.39795,105
+26755,Farmacia Cisanello,OBI Pisa,route_1084,43.69986,10.39785,106
+26756,Farmacia Cisanello,OBI Pisa,route_1084,43.69985,10.39773,107
+26757,Farmacia Cisanello,OBI Pisa,route_1084,43.69984,10.39757,108
+26758,Farmacia Cisanello,OBI Pisa,route_1084,43.69985,10.39744,109
+26759,Farmacia Cisanello,OBI Pisa,route_1084,43.6999,10.39727,110
+26760,Farmacia Cisanello,OBI Pisa,route_1084,43.69998,10.39716,111
+26761,Farmacia Cisanello,OBI Pisa,route_1084,43.70003,10.3971,112
+26762,Farmacia Cisanello,OBI Pisa,route_1084,43.70009,10.39713,113
+26763,Farmacia Cisanello,OBI Pisa,route_1084,43.70014,10.39713,114
+26764,Farmacia Cisanello,OBI Pisa,route_1084,43.70018,10.39714,115
+26765,Farmacia Cisanello,OBI Pisa,route_1084,43.70025,10.3972,116
+26766,Farmacia Cisanello,OBI Pisa,route_1084,43.70032,10.3973,117
+26767,Farmacia Cisanello,OBI Pisa,route_1084,43.7004,10.39742,118
+26768,Farmacia Cisanello,OBI Pisa,route_1084,43.70048,10.39756,119
+26769,Farmacia Cisanello,OBI Pisa,route_1084,43.70052,10.39767,120
+26770,Farmacia Cisanello,OBI Pisa,route_1084,43.70055,10.39782,121
+26771,Farmacia Cisanello,OBI Pisa,route_1084,43.70057,10.39795,122
+26772,Farmacia Cisanello,OBI Pisa,route_1084,43.70058,10.39808,123
+26773,Farmacia Cisanello,OBI Pisa,route_1084,43.70055,10.39822,124
+26774,Farmacia Cisanello,OBI Pisa,route_1084,43.70052,10.3983,125
+26775,Farmacia Cisanello,OBI Pisa,route_1084,43.70047,10.39837,126
+26776,Farmacia Cisanello,OBI Pisa,route_1084,43.70042,10.39841,127
+26777,Farmacia Cisanello,OBI Pisa,route_1084,43.70038,10.39842,128
+26778,Farmacia Cisanello,OBI Pisa,route_1084,43.70033,10.39842,129
+26779,Farmacia Cisanello,OBI Pisa,route_1084,43.70026,10.3984,130
+26780,Farmacia Cisanello,OBI Pisa,route_1084,43.70023,10.39837,131
+26781,Farmacia Cisanello,OBI Pisa,route_1084,43.70019,10.39831,132
+26782,Farmacia Cisanello,OBI Pisa,route_1084,43.70014,10.39817,133
+26783,Farmacia Cisanello,OBI Pisa,route_1084,43.70014,10.39808,134
+26784,Farmacia Cisanello,OBI Pisa,route_1084,43.70016,10.3977,135
+26785,Farmacia Cisanello,OBI Pisa,route_1084,43.70013,10.39718,136
+26786,Farmacia Cisanello,OBI Pisa,route_1084,43.70016,10.39669,137
+26787,Farmacia Cisanello,OBI Pisa,route_1084,43.70016,10.39634,138
+26788,Farmacia Cisanello,OBI Pisa,route_1084,43.70014,10.39574,139
+26789,Farmacia Cisanello,OBI Pisa,route_1084,43.70011,10.39535,140
+26790,Farmacia Cisanello,OBI Pisa,route_1084,43.70005,10.39477,141
+26791,Farmacia Cisanello,OBI Pisa,route_1084,43.69972,10.39251,142
+26792,Farmacia Cisanello,OBI Pisa,route_1084,43.69964,10.39173,143
+26793,Farmacia Cisanello,OBI Pisa,route_1084,43.69962,10.39127,144
+26794,Farmacia Cisanello,OBI Pisa,route_1084,43.69963,10.39086,145
+26795,Farmacia Cisanello,OBI Pisa,route_1084,43.69966,10.3904,146
+26796,Farmacia Cisanello,OBI Pisa,route_1084,43.69981,10.38975,147
+26797,Farmacia Cisanello,OBI Pisa,route_1084,43.69988,10.38958,148
+26798,Farmacia Cisanello,OBI Pisa,route_1084,43.69994,10.38947,149
+26799,Farmacia Cisanello,OBI Pisa,route_1084,43.70001,10.38938,150
+26800,Farmacia Cisanello,OBI Pisa,route_1084,43.70014,10.38924,151
+26801,Farmacia Cisanello,OBI Pisa,route_1084,43.70025,10.38915,152
+26802,Farmacia Cisanello,OBI Pisa,route_1084,43.70058,10.38895,153
+26803,Farmacia Cisanello,OBI Pisa,route_1084,43.70094,10.38877,154
+26804,Farmacia Cisanello,OBI Pisa,route_1084,43.70137,10.38851,155
+26805,Farmacia Cisanello,OBI Pisa,route_1084,43.70158,10.38833,156
+26806,Farmacia Cisanello,OBI Pisa,route_1084,43.70163,10.38828,157
+26807,Farmacia Cisanello,OBI Pisa,route_1084,43.70172,10.38815,158
+26808,Farmacia Cisanello,OBI Pisa,route_1084,43.70195,10.38796,159
+26809,Farmacia Cisanello,OBI Pisa,route_1084,43.70218,10.38777,160
+26810,Farmacia Cisanello,OBI Pisa,route_1084,43.70243,10.38759,161
+26811,Farmacia Cisanello,OBI Pisa,route_1084,43.70275,10.38734,162
+26812,Farmacia Cisanello,OBI Pisa,route_1084,43.70284,10.38726,163
+26813,Farmacia Cisanello,OBI Pisa,route_1084,43.70302,10.38699,164
+26814,Farmacia Cisanello,OBI Pisa,route_1084,43.70308,10.38696,165
+26815,Farmacia Cisanello,OBI Pisa,route_1084,43.70312,10.3869,166
+26816,Farmacia Cisanello,OBI Pisa,route_1084,43.70313,10.38686,167
+26817,Farmacia Cisanello,OBI Pisa,route_1084,43.70313,10.38678,168
+26818,Farmacia Cisanello,OBI Pisa,route_1084,43.7031,10.3867,169
+26819,Farmacia Cisanello,OBI Pisa,route_1084,43.70306,10.38666,170
+26820,Farmacia Cisanello,OBI Pisa,route_1084,43.70293,10.38661,171
+26821,Farmacia Cisanello,OBI Pisa,route_1084,43.70273,10.38649,172
+26822,Farmacia Cisanello,OBI Pisa,route_1084,43.70261,10.38638,173
+26823,Farmacia Cisanello,OBI Pisa,route_1084,43.70233,10.38598,174
+26824,Farmacia Cisanello,OBI Pisa,route_1084,43.70201,10.38547,175
+26825,Farmacia Cisanello,OBI Pisa,route_1084,43.70116,10.3842,176
+26826,Farmacia Cisanello,OBI Pisa,route_1084,43.70076,10.38359,177
+26827,Farmacia Cisanello,OBI Pisa,route_1084,43.70069,10.38352,178
+26828,Farmacia Cisanello,OBI Pisa,route_1084,43.70073,10.38348,179
+26829,Farmacia Cisanello,OBI Pisa,route_1084,43.70073,10.38346,180
+26830,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71348,10.42113,0
+26831,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71128,10.42061,1
+26832,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71109,10.42055,2
+26833,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71108,10.42055,3
+26834,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71102,10.42034,4
+26835,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71095,10.41991,5
+26836,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71091,10.41974,6
+26837,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71068,10.41746,7
+26838,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71037,10.41529,8
+26839,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70997,10.41245,9
+26840,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70992,10.41199,10
+26841,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70991,10.41172,11
+26842,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.7099,10.41147,12
+26843,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70993,10.41076,13
+26844,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70994,10.41066,14
+26845,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70995,10.41058,15
+26846,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71002,10.41043,16
+26847,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71006,10.4104,17
+26848,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71008,10.41036,18
+26849,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.7101,10.41032,19
+26850,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71011,10.41027,20
+26851,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71011,10.41022,21
+26852,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.7101,10.41017,22
+26853,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71009,10.41013,23
+26854,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71006,10.41009,24
+26855,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71002,10.41005,25
+26856,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70998,10.40978,26
+26857,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71007,10.40776,27
+26858,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71014,10.40774,28
+26859,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71018,10.40769,29
+26860,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71019,10.40765,30
+26861,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.7102,10.4076,31
+26862,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71019,10.40752,32
+26863,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71017,10.40749,33
+26864,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71014,10.40745,34
+26865,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.7101,10.40743,35
+26866,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71008,10.40743,36
+26867,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71015,10.4061,37
+26868,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71019,10.4058,38
+26869,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71021,10.40573,39
+26870,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71027,10.40559,40
+26871,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.7104,10.4055,41
+26872,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71043,10.40545,42
+26873,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71044,10.40536,43
+26874,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71044,10.4053,44
+26875,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71041,10.40524,45
+26876,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71035,10.4052,46
+26877,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.7103,10.4052,47
+26878,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71019,10.40527,48
+26879,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.7101,10.40527,49
+26880,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.71006,10.40525,50
+26881,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70988,10.40513,51
+26882,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70974,10.40502,52
+26883,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70967,10.40492,53
+26884,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70965,10.40486,54
+26885,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70975,10.40422,55
+26886,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70988,10.40324,56
+26887,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70958,10.40294,57
+26888,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70931,10.40264,58
+26889,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70908,10.40242,59
+26890,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.7087,10.40213,60
+26891,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70831,10.40184,61
+26892,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70795,10.40155,62
+26893,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70789,10.40152,63
+26894,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70786,10.40151,64
+26895,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.7078,10.40151,65
+26896,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70777,10.40153,66
+26897,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70771,10.40159,67
+26898,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70765,10.40172,68
+26899,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70712,10.40318,69
+26900,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70614,10.40251,70
+26901,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70553,10.40214,71
+26902,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70547,10.40207,72
+26903,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70535,10.40184,73
+26904,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.7053,10.40178,74
+26905,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70524,10.40171,75
+26906,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70471,10.40133,76
+26907,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70455,10.40124,77
+26908,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70276,10.40076,78
+26909,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70252,10.40069,79
+26910,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70247,10.40067,80
+26911,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70244,10.40064,81
+26912,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70245,10.40061,82
+26913,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70245,10.40056,83
+26914,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70244,10.40052,84
+26915,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.7024,10.40047,85
+26916,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70243,10.40034,86
+26917,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.7025,10.39945,87
+26918,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.7025,10.39922,88
+26919,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70247,10.399,89
+26920,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70244,10.39887,90
+26921,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70238,10.39866,91
+26922,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70231,10.39852,92
+26923,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70222,10.39838,93
+26924,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70211,10.39825,94
+26925,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70199,10.39815,95
+26926,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70098,10.39752,96
+26927,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.7008,10.3974,97
+26928,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70065,10.39723,98
+26929,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70058,10.39707,99
+26930,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70053,10.39683,100
+26931,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70053,10.39669,101
+26932,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70055,10.39644,102
+26933,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70065,10.39604,103
+26934,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70076,10.39611,104
+26935,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70138,10.39664,105
+26936,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70178,10.39694,106
+26937,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70257,10.39752,107
+26938,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70293,10.39775,108
+26939,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70326,10.398,109
+26940,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70344,10.39813,110
+26941,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70363,10.39827,111
+26942,Farmacia Cisanello,Ristorante La Greppia,route_1085,43.70434,10.39885,112
+26943,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71348,10.42113,0
+26944,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71128,10.42061,1
+26945,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71109,10.42055,2
+26946,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71108,10.42055,3
+26947,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71102,10.42034,4
+26948,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71095,10.41991,5
+26949,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71091,10.41974,6
+26950,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71068,10.41746,7
+26951,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71037,10.41529,8
+26952,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70997,10.41245,9
+26953,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70992,10.41199,10
+26954,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70991,10.41172,11
+26955,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.7099,10.41147,12
+26956,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70993,10.41076,13
+26957,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70994,10.41066,14
+26958,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70995,10.41058,15
+26959,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71002,10.41043,16
+26960,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71006,10.4104,17
+26961,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71008,10.41036,18
+26962,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.7101,10.41032,19
+26963,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71011,10.41027,20
+26964,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71011,10.41022,21
+26965,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.7101,10.41017,22
+26966,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71009,10.41013,23
+26967,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71006,10.41009,24
+26968,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71002,10.41005,25
+26969,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70998,10.40978,26
+26970,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71007,10.40776,27
+26971,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71014,10.40774,28
+26972,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71018,10.40769,29
+26973,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71019,10.40765,30
+26974,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.7102,10.4076,31
+26975,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71019,10.40752,32
+26976,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71017,10.40749,33
+26977,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71014,10.40745,34
+26978,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.7101,10.40743,35
+26979,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71008,10.40743,36
+26980,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71015,10.4061,37
+26981,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71019,10.4058,38
+26982,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71021,10.40573,39
+26983,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71027,10.40559,40
+26984,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.7104,10.4055,41
+26985,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71043,10.40545,42
+26986,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71044,10.40536,43
+26987,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71044,10.4053,44
+26988,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71041,10.40524,45
+26989,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71035,10.4052,46
+26990,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.7103,10.4052,47
+26991,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71019,10.40527,48
+26992,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.7101,10.40527,49
+26993,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.71006,10.40525,50
+26994,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70988,10.40513,51
+26995,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70974,10.40502,52
+26996,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70967,10.40492,53
+26997,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70965,10.40486,54
+26998,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70975,10.40422,55
+26999,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70988,10.40324,56
+27000,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70958,10.40294,57
+27001,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70931,10.40264,58
+27002,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70908,10.40242,59
+27003,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.7087,10.40213,60
+27004,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70831,10.40184,61
+27005,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70795,10.40155,62
+27006,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70789,10.40152,63
+27007,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70786,10.40151,64
+27008,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.7078,10.40151,65
+27009,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70777,10.40153,66
+27010,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70771,10.40159,67
+27011,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70765,10.40172,68
+27012,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70712,10.40318,69
+27013,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70614,10.40251,70
+27014,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70553,10.40214,71
+27015,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70547,10.40207,72
+27016,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70535,10.40184,73
+27017,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.7053,10.40178,74
+27018,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70524,10.40171,75
+27019,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70471,10.40133,76
+27020,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70449,10.4017,77
+27021,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70372,10.40311,78
+27022,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70318,10.40409,79
+27023,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70341,10.40424,80
+27024,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.7038,10.40446,81
+27025,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70398,10.40457,82
+27026,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70413,10.40468,83
+27027,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70417,10.40473,84
+27028,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70429,10.40492,85
+27029,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70432,10.40493,86
+27030,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70436,10.40492,87
+27031,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70448,10.40465,88
+27032,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70541,10.40223,89
+27033,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.7056,10.4024,90
+27034,Farmacia Cisanello,Ristorante Pizzeria Il Pellicano,route_1086,43.70546,10.40277,91
+27035,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71348,10.42113,0
+27036,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71226,10.42083,1
+27037,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71223,10.42094,2
+27038,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71497,10.42159,3
+27039,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71609,10.42188,4
+27040,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71632,10.4219,5
+27041,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71651,10.42189,6
+27042,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71665,10.42186,7
+27043,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71677,10.42181,8
+27044,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71695,10.42173,9
+27045,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71711,10.42161,10
+27046,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71725,10.42149,11
+27047,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71836,10.42028,12
+27048,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71845,10.42022,13
+27049,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71854,10.42019,14
+27050,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71879,10.42017,15
+27051,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71892,10.42014,16
+27052,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71905,10.4201,17
+27053,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.7191,10.42007,18
+27054,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71913,10.42003,19
+27055,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71915,10.41996,20
+27056,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71917,10.41984,21
+27057,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71917,10.41971,22
+27058,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71916,10.41963,23
+27059,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71914,10.41951,24
+27060,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71912,10.41946,25
+27061,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71908,10.4194,26
+27062,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71901,10.41929,27
+27063,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71892,10.41922,28
+27064,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.7189,10.41921,29
+27065,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71889,10.41917,30
+27066,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71888,10.41913,31
+27067,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71869,10.41895,32
+27068,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71858,10.4188,33
+27069,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71841,10.41855,34
+27070,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71769,10.41735,35
+27071,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71675,10.41587,36
+27072,Farmacia Cisanello,Via San Ranieri 9,route_1087,43.71563,10.41723,37
