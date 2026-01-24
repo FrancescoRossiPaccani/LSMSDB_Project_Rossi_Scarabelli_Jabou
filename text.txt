@@ -1,4 +1,4 @@
-We have to implement an application for passage-sharing like "bla-bla car".
+We have to implement an application for car-pooling like "bla-bla car".
 In the system there will be 3 actors, the sistem, the drivers and the passangers.
 The last two are the Users of the system.
 An User can register in the system and can manage his profile.
