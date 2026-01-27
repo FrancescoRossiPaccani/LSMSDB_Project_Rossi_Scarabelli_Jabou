@@ -1,0 +1,77 @@
+version: '3.8'
+
+services:
+  # --- MONGODB REPLICA SET (3 Nodi) ---
+  mongo1:
+    image: mongo:6.0
+    container_name: mongo_primary
+    ports:
+      - "27017:27017"
+    command: ["--replSet", "rs0", "--bind_ip_all", "--port", "27017"]
+    volumes:
+      - ./data/mongo1:/data/db
+
+  mongo2:
+    image: mongo:6.0
+    container_name: mongo_secondary1
+    ports:
+      - "27018:27018"
+    command: ["--replSet", "rs0", "--bind_ip_all", "--port", "27018"]
+    volumes:
+      - ./data/mongo2:/data/db
+    depends_on:
+      - mongo1
+
+  mongo3:
+    image: mongo:6.0
+    container_name: mongo_secondary2
+    ports:
+      - "27019:27019"
+    command: ["--replSet", "rs0", "--bind_ip_all", "--port", "27019"]
+    volumes:
+      - ./data/mongo3:/data/db
+    depends_on:
+      - mongo1
+
+  # --- REDIS (Master + 2 Replicas) ---
+  redis-master:
+    image: redis:7.0
+    container_name: redis_master
+    ports:
+      - "6379:6379"
+    volumes:
+      - ./data/redis_master:/data
+
+  redis-replica1:
+    image: redis:7.0
+    container_name: redis_replica1
+    ports:
+      - "6380:6379"
+    command: redis-server --replicaof redis-master 6379
+    volumes:
+      - ./data/redis_replica1:/data
+    depends_on:
+      - redis-master
+
+  redis-replica2:
+    image: redis:7.0
+    container_name: redis_replica2
+    ports:
+      - "6381:6379"
+    command: redis-server --replicaof redis-master 6379
+    volumes:
+      - ./data/redis_replica2:/data
+    depends_on:
+      - redis-master
+
+  # --- NEO4J (Istanza Singola) ---
+  neo4j:
+    image: neo4j:5.12-community
+    container_name: neo4j_db
+    ports:
+      - "7474:7474" # HTTP Browser
+      - "7687:7687" # Bolt (Driver Java)
+    environment:
+      - NEO4J_AUTH=neo4j/passwordProgetto2026 # CAMBIA SE VUOI
+    volumes:
+      - ./data/neo4j:/data
