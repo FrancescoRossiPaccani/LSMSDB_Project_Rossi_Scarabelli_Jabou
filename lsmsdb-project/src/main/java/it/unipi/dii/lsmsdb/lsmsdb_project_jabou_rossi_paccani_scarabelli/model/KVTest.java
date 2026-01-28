@@ -4,15 +4,15 @@ import org.springframework.data.annotation.Id;
 import org.springframework.data.redis.core.RedisHash;
 
 @RedisHash("sessions") // Questo dice a Redis di creare una "tabella" di hash
-public class UserSession {
+public class KVTest {
 
     @Id
     private String id;
     private String lastLogin;
 
-    public UserSession() {}
+    public KVTest() {}
 
-    public UserSession(String id, String lastLogin) {
+    public KVTest(String id, String lastLogin) {
         this.id = id;
         this.lastLogin = lastLogin;
     }

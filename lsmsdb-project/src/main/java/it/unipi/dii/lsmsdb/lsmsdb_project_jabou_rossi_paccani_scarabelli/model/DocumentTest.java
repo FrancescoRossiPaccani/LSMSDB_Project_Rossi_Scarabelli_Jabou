@@ -4,7 +4,7 @@ import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 @Document(collection = "users")
-public class User {
+public class DocumentTest {
 
     @Id
     private String id;
@@ -13,11 +13,11 @@ public class User {
     private int age;
 
     // 1. Costruttore Vuoto (Obbligatorio per Spring)
-    public User() {
+    public DocumentTest() {
     }
 
     // 2. Costruttore con parametri (Per noi, per creare l'oggetto facilmente)
-    public User(String id, String username, String email, int age) {
+    public DocumentTest(String id, String username, String email, int age) {
         this.id = id;
         this.username = username;
         this.email = email;

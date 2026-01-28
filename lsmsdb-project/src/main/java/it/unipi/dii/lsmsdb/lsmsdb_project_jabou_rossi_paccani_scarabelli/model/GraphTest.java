@@ -5,15 +5,15 @@ import org.springframework.data.neo4j.core.schema.Id;
 import org.springframework.data.neo4j.core.schema.Node;
 
 @Node("Person") // Questo crea un Nodo con etichetta :Person nel grafo
-public class Person {
+public class GraphTest {
 
     @Id @GeneratedValue // Neo4j gestisce gli ID internamente
     private Long id;
     private String name;
 
-    public Person() {}
+    public GraphTest() {}
 
-    public Person(String name) {
+    public GraphTest(String name) {
         this.name = name;
     }
 
