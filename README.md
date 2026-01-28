@@ -67,19 +67,33 @@ docker exec -it mongo_primary mongosh --port 27017 --eval 'rs.initiate({
 ## ▶️ How to Run the Application
 
 1. Open IntelliJ IDEA.
-2. Select File > Open and choose the lsmsdb-project folder.
+2. Select File > Open and choose the pom.xml file LSMSDB_Project/lsmsdb-project/pom.xml
 3. Let Maven download all dependencies.
 4. If prompted "Project JDK is not defined", select JDK 17 (or higher).
 5. Locate the main class:
-   src/main/java/it/unipi/dii/lsmsdb/lsmsdb_project_jabou_rossi_paccani_scarabelli/LsmsdbProjectJabouRossiPaccaniScarabelliApplication.java
-6. Click the Run (Green Play Button).
+   src/test/java/it/unipi/dii/lsmsdb/lsmsdb_project_jabou_rossi_paccani_scarabelli/Test_0.java
+6. Right click on the Test_0 file and Run.
 
 ### ✅ Verification 
-If the setup is correct, you will see green logs in the console:
-🚀  STARTING MULTI-DATABASE TEST  🚀
-🍃 Test MongoDB... ✅ Salvato su Mongo
-🔴 Test Redis...   ✅ Salvato e Letto da Redis
-🕸️ Test Neo4j...   ✅ Salvato Nodo Neo4j
+If the setup is correct, you will see green logs in the console (ignore warnings):
+🚀 STARTING FULL SYSTEM CHECK...
+✅ MONGODB: User saved successfully (ID: 6979f1d0ac9137ab738cb4f9)
+✅ MONGODB: Ride saved successfully (ID: 6979f1d1ac9137ab738cb4fa)
+✅ NEO4J: City saved and retrieved (ID: 8)
+✅ REDIS: Session saved and retrieved.
+✅ REDIS: Booking Request saved.
+🎉 ALL SYSTEMS OPERATIONAL!
+
+🧹 STARTING DATABASE CLEANUP...
+🗑️ Mongo: Ride removed.
+🗑️ Mongo: User removed.
+🗑️ Neo4j: City removed.
+🗑️ Redis: Session removed.
+🗑️ Redis: BookingRequest removed.
+✨ CLEANUP COMPLETED: DB is fresh.
+
+
+Process finished with exit code 0
 
 ---
 
