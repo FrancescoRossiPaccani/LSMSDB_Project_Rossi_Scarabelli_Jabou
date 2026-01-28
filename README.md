@@ -76,26 +76,46 @@ docker exec -it mongo_primary mongosh --port 27017 --eval 'rs.initiate({
 
 ### ✅ Verification 
 If the setup is correct, you will see green logs in the console (ignore warnings):
-🚀 STARTING FULL SYSTEM CHECK...
-✅ MONGODB: User saved successfully (ID: 6979f1d0ac9137ab738cb4f9)
-✅ MONGODB: Ride saved successfully (ID: 6979f1d1ac9137ab738cb4fa)
-✅ NEO4J: City saved and retrieved (ID: 8)
-✅ REDIS: Session saved and retrieved.
-✅ REDIS: Booking Request saved.
-🎉 ALL SYSTEMS OPERATIONAL!
+```text
+==================================================================
+TEST REPORT: POLYGLOT PERSISTENCE INTEGRATION CHECK
+==================================================================
 
-🧹 STARTING DATABASE CLEANUP...
-🗑️ Mongo: Ride removed.
-🗑️ Mongo: User removed.
-🗑️ Neo4j: City removed.
-🗑️ Redis: Session removed.
-🗑️ Redis: BookingRequest removed.
-✨ CLEANUP COMPLETED: DB is fresh.
+### 1. MongoDB Integration Test
+---------------------------------
+> Status: Initializing User object...
+> Status: Saving to MongoDB...
+> [SUCCESS] User saved successfully.
+> [INFO] Generated ID: 697a12335b634c8db72ed23e
 
+### 2. Neo4j Integration Test
+---------------------------------
+> Status: Initializing City node...
+> Status: Saving to Neo4j...
+> [SUCCESS] City node saved successfully.
+> [INFO] Generated ID: 8
+
+### 3. Redis Integration Test
+---------------------------------
+> Status: Initializing BookingRequest hash...
+> Status: Saving to Redis...
+> [SUCCESS] Request stored successfully.
+> [INFO] Key Used: req_test_1769607733279
+
+==================================================================
+TEST RESULT: PASSED (All databases operational)
+==================================================================
+
+
+--- TEARDOWN & CLEANUP REPORT ---
+[CLEANUP] Redis: Removed key req_test_1769607733279
+[CLEANUP] Neo4j: Removed node 8
+[CLEANUP] MongoDB: Removed document 697a12335b634c8db72ed23e
+--- END OF REPORT ---
 
 Process finished with exit code 0
 
----
+```
 
 ## 🛠️ Troubleshooting
 

@@ -8,113 +8,132 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import java.time.LocalDateTime;
-
 @SpringBootTest
 class Test_0 {
 
-    // --- Iniezione dei Repository ---
+    // --- Repositories Injection ---
     @Autowired private UserRepository userRepository;               // MongoDB
     @Autowired private CityRepository cityRepository;               // Neo4j
     @Autowired private BookingRequestRepository requestRepository;  // Redis
 
-    // --- Variabili per memorizzare gli ID dei dati di test ---
+    // --- Test Data IDs ---
     private String testUserId;
     private Long testCityId;
     private String testRequestId;
 
     @Test
     void testPolyglotPersistence() {
-        System.out.println("----------------------------------------------------------------");
-        System.out.println("AVVIO TEST_0: Verifica Connessione MongoDB, Neo4j e Redis");
-        System.out.println("----------------------------------------------------------------");
+        // HEADER
+        System.out.println("==================================================================");
+        System.out.println("  TEST REPORT: POLYGLOT PERSISTENCE INTEGRATION CHECK");
+        System.out.println("==================================================================");
 
         // ---------------------------------------------------------
-        // 1. TEST MONGODB (Creazione User)
+        // 1. MONGODB SECTION
         // ---------------------------------------------------------
-        System.out.println("[MONGODB] Tento il salvataggio di un utente...");
+        System.out.println("\n### 1. MongoDB Integration Test");
+        System.out.println("---------------------------------");
+        System.out.println("> Status: Initializing User object...");
+
         User user = new User();
         user.setUsername("TestUser_01");
         user.setEmail("test01@example.com");
-        user.setPassword("passwordSegreta");
+        user.setPassword("secretPassword");
         user.setRole("PASSENGER");
-        user.setPhoneNumber("333998877"); // Uso int come da tuo file attuale
+        user.setPhoneNumber("333998877");
 
+        System.out.println("> Status: Saving to MongoDB...");
         User savedUser = userRepository.save(user);
-        testUserId = savedUser.getId(); // Salvo l'ID per cancellarlo dopo
+        testUserId = savedUser.getId();
 
-        Assertions.assertNotNull(testUserId, "L'ID dell'utente MongoDB non dovrebbe essere null");
-        System.out.println("[MONGODB] SUCCESSO: Utente salvato con ID: " + testUserId);
+        Assertions.assertNotNull(testUserId, "MongoDB User ID should not be null");
+        System.out.println("> [SUCCESS] User saved successfully.");
+        System.out.println("> [INFO] Generated ID: " + testUserId);
 
 
         // ---------------------------------------------------------
-        // 2. TEST NEO4J (Creazione City)
+        // 2. NEO4J SECTION
         // ---------------------------------------------------------
-        System.out.println("[NEO4J] Tento il salvataggio di una città...");
+        System.out.println("\n### 2. Neo4j Integration Test");
+        System.out.println("---------------------------------");
+        System.out.println("> Status: Initializing City node...");
+
         City city = new City();
-        city.setName("Città_Test_0");
-        city.setAddress("Via dei Test, 0");
+        city.setName("TestCity_0");
+        city.setAddress("Test Street, 0");
         city.setLatitude(45.00);
         city.setLongitude(11.00);
 
+        System.out.println("> Status: Saving to Neo4j...");
         City savedCity = cityRepository.save(city);
-        testCityId = savedCity.getId(); // Salvo l'ID per cancellarlo dopo
+        testCityId = savedCity.getId();
 
-        Assertions.assertNotNull(testCityId, "L'ID della città Neo4j non dovrebbe essere null");
-        System.out.println("[NEO4J] SUCCESSO: Città salvata con ID: " + testCityId);
+        Assertions.assertNotNull(testCityId, "Neo4j City ID should not be null");
+        System.out.println("> [SUCCESS] City node saved successfully.");
+        System.out.println("> [INFO] Generated ID: " + testCityId);
 
 
         // ---------------------------------------------------------
-        // 3. TEST REDIS (Creazione BookingRequest)
+        // 3. REDIS SECTION
         // ---------------------------------------------------------
-        System.out.println("[REDIS] Tento il salvataggio di una richiesta...");
+        System.out.println("\n### 3. Redis Integration Test");
+        System.out.println("---------------------------------");
+        System.out.println("> Status: Initializing BookingRequest hash...");
+
         BookingRequest request = new BookingRequest();
-        // Redis spesso richiede di settare l'ID manualmente se non è autogenerato
         String customRedisId = "req_test_" + System.currentTimeMillis();
         request.setId(customRedisId);
-        request.setPassengerId(testUserId); // Collego (logicamente) all'utente appena creato
+        request.setPassengerId(testUserId);
         request.setSeatsRequested(1);
         request.setProposedPrice(15.50);
 
+        System.out.println("> Status: Saving to Redis...");
         BookingRequest savedRequest = requestRepository.save(request);
         testRequestId = savedRequest.getId();
 
-        // Verifica immediata di lettura
         boolean existsRedis = requestRepository.existsById(testRequestId);
-        Assertions.assertTrue(existsRedis, "La richiesta dovrebbe esistere in Redis");
-        System.out.println("[REDIS] SUCCESSO: Richiesta salvata con ID: " + testRequestId);
+        Assertions.assertTrue(existsRedis, "Request key should exist in Redis");
 
-        System.out.println("----------------------------------------------------------------");
-        System.out.println("TUTTI I TEST DI SCRITTURA COMPLETATI CON SUCCESSO");
-        System.out.println("----------------------------------------------------------------");
+        System.out.println("> [SUCCESS] Request stored successfully.");
+        System.out.println("> [INFO] Key Used: " + testRequestId);
+
+        // FOOTER
+        System.out.println("\n==================================================================");
+        System.out.println("  TEST RESULT: PASSED (All databases operational)");
+        System.out.println("==================================================================");
     }
 
     // ---------------------------------------------------------
-    // CLEANUP (Ripristino dello stato iniziale)
-    // Questo metodo viene eseguito SEMPRE alla fine, anche se il test fallisce.
+    // CLEANUP PHASE
     // ---------------------------------------------------------
     @AfterEach
     void tearDown() {
-        System.out.println("--- INIZIO PULIZIA DATI DI TEST ---");
+        System.out.println("\n\n--- TEARDOWN & CLEANUP REPORT ---");
 
-        // 1. Pulizia Redis
+        // 1. Redis Cleanup
         if (testRequestId != null && requestRepository.existsById(testRequestId)) {
             requestRepository.deleteById(testRequestId);
-            System.out.println("[REDIS] Cancellata richiesta di test: " + testRequestId);
+            System.out.println("[CLEANUP] Redis: Removed key " + testRequestId);
+        } else {
+            System.out.println("[CLEANUP] Redis: Nothing to remove.");
         }
 
-        // 2. Pulizia Neo4j
+        // 2. Neo4j Cleanup
         if (testCityId != null && cityRepository.existsById(testCityId)) {
             cityRepository.deleteById(testCityId);
-            System.out.println("[NEO4J] Cancellata città di test: " + testCityId);
+            System.out.println("[CLEANUP] Neo4j: Removed node " + testCityId);
+        } else {
+            System.out.println("[CLEANUP] Neo4j: Nothing to remove.");
         }
 
-        // 3. Pulizia MongoDB
+        // 3. MongoDB Cleanup
         if (testUserId != null && userRepository.existsById(testUserId)) {
             userRepository.deleteById(testUserId);
-            System.out.println("[MONGODB] Cancellato utente di test: " + testUserId);
+            System.out.println("[CLEANUP] MongoDB: Removed document " + testUserId);
+        } else {
+            System.out.println("[CLEANUP] MongoDB: Nothing to remove.");
         }
 
-        System.out.println("--- PULIZIA COMPLETATA: DATABASE RIPRISTINATO ---");
+        System.out.println("--- END OF REPORT ---");
     }
 }
