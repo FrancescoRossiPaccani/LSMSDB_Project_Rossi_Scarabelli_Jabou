@@ -74,7 +74,10 @@ docker exec -it mongo_primary mongosh --port 27017 --eval 'rs.initiate({
    src/main/java/it/unipi/dii/lsmsdb/lsmsdb_project_jabou_rossi_paccani_scarabelli/LsmsdbProjectJabouRossiPaccaniScarabelliApplication.java
 6. Click the Run (Green Play Button).
 
-### ✅ Verification
+### ✅ Verification 
+🚨🚨🚨⚠️⚠️⚠️
+TEST REMOVED BEFORE PULL LOL SORRY 💔
+⚠️⚠️⚠️🚨🚨🚨
 If the setup is correct, you will see green logs in the console:
 🚀  STARTING MULTI-DATABASE TEST  🚀
 🍃 Test MongoDB... ✅ Salvato su Mongo
