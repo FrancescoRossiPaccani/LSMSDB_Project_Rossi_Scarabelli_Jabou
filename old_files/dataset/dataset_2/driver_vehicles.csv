@@ -1,0 +1,301 @@
+driver_id,car_plate,brand,model,color
+1,BC172OC,AUDI,A4,Blue
+2,RK680XU,Mazda,AZ-Offroad,Silver
+3,AT323NS,MERCEDES,BENZ CLS 450,Black
+4,PS192TX,GMC,Hummer EV Omega Edition,Brown
+5,MM686EK,Tata Motors,Tiago EV,Blue
+6,JT041GY,HYUNDAI,Palisade,Blue
+7,SO899QJ,TOYOTA,TUNDRA HYBRID,Blue
+8,UA186JQ,Volkswagen,Golf Alltrack,Black
+9,BD050AD,FERRARI,PORTOFINO,White
+10,YL166MA,Bugatti,Chiron Super Sport,Blue
+11,AL412HE,Acura,TLX A-Spec Sedan,Black
+12,LK437AM,Nissan,Gloria Gran Turismo,Silver
+13,AS084KM,Tata Motors,Tigor EV,Brown
+14,FJ222JY,AUDI,S3 SEDAN,Silver
+15,UQ602LI,Mazda,Millenia S,Black
+16,PB691PZ,Jeep,Wrangler 4xe,Black
+17,DT228RM,Tata Motors,Tigor,Green
+18,NO676JY,ROLLS ROYCE,WRAITH EAGLE VIII,White
+19,KT702KJ,TOYOTA,INNOVA HYCROSS,Black
+20,SJ563AB,HYUNDAI,SANTA FE,Gray
+21,AD951MK,Chevrolet,Tahoe RST,Black
+22,AD685OC,TOYOTA,FORTUNER GR SPORT,Blue
+23,EZ356CC,Nissan,NX Coupe,Red
+24,TH862SK,ROLLS ROYCE,PHANTOM,Green
+25,OZ558GS,Acura,MDX Elite,Black
+26,HO314DM,Nissan,Xterra,Black
+27,QR674YJ,HYUNDAI,IONIQ 6,Gray
+28,YR892VN,Porsche,911 Turbo,Red
+29,CO142JJ,Chevrolet,Silverado 3500HD High Country,Gray
+30,IL118GO,TOYOTA,HIGHLANDER HYBRID,Gray
+31,SZ111GR,Jeep,Wrangler,Silver
+32,PU742HY,Porsche,Panamera 4S ,Brown
+33,EA719BH,TOYOTA,PROACE VERSO ELECTRIC,White
+34,HJ495WB,Mazda,Mazda3 Hatchback,Silver
+35,NZ744WQ,BMW,116D EFFICIENTDYNAMICS,Black
+36,GL776ST,Nissan,Titan XD,Silver
+37,QG534PB,Nissan,X-Trail Tekna,Brown
+38,FS763UI,Ford,Mustang Mach-E,Gray
+39,NM763UG,Kia,Forte LXS,Red
+40,UW406BY,Ford,KA+,Gray
+41,XE753KO,Kia,Niro Touring,Red
+42,UP840YW,BMW,Mclaren 720s,Gray
+43,SG974MA,Jaguar Land Rover,Jaguar F-Type 75th Anniversary Edition,Red
+44,PK343CQ,ASTON MARTIN,VANQUISH,Silver
+45,CA096MW,Peugeot,5008 Allure Premium,Black
+46,CJ577OQ,Volkswagen,Passat Variant,White
+47,NP021YP,Chevrolet,Spark,Gray
+48,WB418ER,Volkswagen,Golf R Cabriolet,Silver
+49,VV172UO,Cadillac,Lyriq EV,Silver
+50,AT980MJ,Cadillac,XT4,Silver
+51,SC264AP,Peugeot,5008 GT,Black
+52,FJ484HV,Mitsubishi,Lancer GLX,White
+53,XD493OI,Nissan,NV350 Caravan,Black
+54,DE789LG,Mazda,CX-7,Red
+55,AJ174ZR,Nissan,Gloria,Gray
+56,GC355KP,ASTON MARTIN,VALKYRIE,Gray
+57,TW650FP,Acura,RDX Turbo SH-AWD,Red
+58,RO754VU,Nissan,Patrol Legend Edition,Silver
+59,FC802GT,Mazda,Autozam AZ-1,Gray
+60,VS023ZR,Peugeot,Expert L2H1,Red
+61,AD742LL,HONDA,CIVIC TYPE R,Blue
+62,RD690DM,Mitsubishi,Town Box,Black
+63,JX987AE,Mazda,RX-3,Beige
+64,QD663QO,Volkswagen,Volkswagen XL1,Gray
+65,XM304VU,Mazda,RX-5,White
+66,OM728HL,Volkswagen,Scirocco,Brown
+67,XJ789YS,ASTON MARTIN,LAGONDA TARAF,Brown
+68,MP953HC,HYUNDAI,Venue,Black
+69,KR341KV,Mitsubishi,Eclipse Cross PHEV,Red
+70,JL222GJ,Jaguar Land Rover,Jaguar I-PACE,Black
+71,HJ935ET,Ford,Expedition,White
+72,XE919CA,Mazda,1200,Black
+73,XA833CD,ROLLS ROYCE,CULLINAN FUX ORANGE,Black
+74,WI782CX,ROLLS ROYCE,CULLINAN BLACK BADGE SUV,Gray
+75,KX924JA,Kia,Telluride EX,White
+76,NZ224CY,Tesla,Roadster 2,Gray
+77,MC767CH,Peugeot,508,Brown
+78,ST176JA,GMC,Canyon,Black
+79,GK929XO,Ford,Bronco Raptor,Black
+80,WR460MZ,Tata Motors,Nexon EV Max,White
+81,BS845XN,Porsche,Panamera,White
+82,VJ711UM,Ford,Ranger Raptor,Gray
+83,ZG438BE,LAMBORGHINI,AVENTADOR S,Gray
+84,TB534SH,Mitsubishi,eK X,White
+85,LS833KD,Jaguar Land Rover,Jaguar XE SE,Black
+86,TO929VN,BMW,M4 GTS,Gray
+87,LR457DK,Mitsubishi,Fuso Canter Eco Hybrid,Gray
+88,HS740FT,Acura,TLX PMC Edition,Red
+89,GV038MA,Kia,Soul Turbo,Gray
+90,JP153CJ,Jaguar Land Rover,Jaguar F-Type Coupe R,Gray
+91,XN122IY,Peugeot,308 GTI,Black
+92,QZ084OE,Mazda,T2000,Silver
+93,JG509KN,Porsche,Taycan GTS,Silver
+94,BP471NV,Volkswagen,Golf GTI,Black
+95,XR340HW,Kia,EV6 First Edition,Gray
+96,MX370YA,TOYOTA,GR COROLLA,Black
+97,AB808JU,BMW,M550i XDRIVE,Black
+98,WI992XA,Porsche,Macan Base,Red
+99,SJ171WX,Porsche,Macan T,Black
+100,YG422KW,GMC,Canyon AT4X Edition 1,White
+101,JG008SG,HONDA,CR-V,Black
+102,PY878LF,Peugeot,508 GT,Black
+103,PO483HS,Mazda,Spiano,Gray
+104,CK000CD,Peugeot,508 Allure,White
+105,JI198NW,TOYOTA,BZ4X,White
+106,XI771MC,Acura,RDX Turbo AWD,Gray
+107,UV248MO,Nissan,Titan Warrior,Silver
+108,PP365KK,Nissan,Skyline NISMO,Gray
+109,EM225XO,TOYOTA,TOYOTA SEQUOIA,Silver
+110,BW033YX,KIA,SPORTAGE PHEV,White
+111,CB578LX,AUDI,R8 V10 PLUS,Silver
+112,ED438FK,Nissan,Patrol Black Edition,Blue
+113,XC024UI,Mitsubishi,Pajero Final Edition,Silver
+114,TL580BW,Nissan,Evalia,Black
+115,UH579KB,Toyota,4Runner (6th Gen),Silver
+116,WT961AL,BMW,X3 M COMPETITION,White
+117,ZR952NP,NISSAN,SENTRA,Silver
+118,KK342RE,Volkswagen,Jetta SportWagen,Green
+119,QO212RX,Porsche,Macan S,Black
+120,EB298HY,Volkswagen,Beetle,Gray
+121,JE049QQ,Mazda,Carol,Silver
+122,PS750EG,NISSAN,PATHFINDER,Black
+123,VG039ST,Mitsubishi,Triton GLX-R,Black
+124,PP279GY,Mazda,Capella Cargo,Gray
+125,ZK302QW,Jaguar Land Rover,Jaguar E-PACE S,White
+126,EZ968CU,Peugeot,3008 PSE,Blue
+127,FJ447HM,Nissan,Laurel,White
+128,UM273RA,Peugeot,e-208,Blue
+129,IU020MQ,Jaguar Land Rover,Jaguar XJ Supercharged,Gray
+130,AW334LP,GMC,Yukon,Silver
+131,LA849IO,Kia,Telluride Nightfall Edition,Black
+132,TI126GC,GMC,Sierra 2500HD Denali Black Edition,Silver
+133,NK530WI,Volkswagen,Crafter,White
+134,BE169TS,MERCEDES,BENZ GLC 350 ,Red
+135,GD822NJ,Mitsubishi,Pajero,Red
+136,NT657LL,Mazda,MX-5 Superlight Concept,White
+137,NC908EX,Porsche,Panamera 4 E-Hybrid,Red
+138,SF867UU,Kia,Carnival SX Prestige,Black
+139,OP638II,Mitsubishi,eK Space,Red
+140,ML129GR,TOYOTA,TACOMA,White
+141,MK149KO,Porsche,911 Carrera 4 GTS,Silver
+142,RF991VT,Volkswagen,Jetta GLI 35th,White
+143,YP660IZ,BMW,120i M SPORT,Silver
+144,TY978LO,TOYOTA,LAND CRUISER PRADO,Blue
+145,DT351ZU,GMC,Sierra 3500HD AT4,White
+146,LG847OS,Nissan,Qashqai Tekna,Silver
+147,KX429VA,Nissan,Avenir,Silver
+148,SQ378SV,MERCEDES,BENZ E-CLASS E 63 S,Gray
+149,TF461CS,Kia,Soul S,Silver
+150,TZ684FL,Jeep,Grand Wagoneer,Gray
+151,NK472FD,Jaguar Land Rover,Jaguar F-PACE S 30t AWD,Gray
+152,YV871MF,GMC,Sierra 1500 AT4X,Gray
+153,WY854TR,NISSAN,TITAN,Red
+154,IW383NB,Jaguar Land Rover,Jaguar F-Type V6 S Convertible,Black
+155,XO728SS,Chevrolet,Bolt EV Premier,Beige
+156,XF199NL,Nissan,Cabstar,Red
+157,TY990YL,TOYOTA,COROLLA HATCHBACK XSE,Gray
+158,ME460VH,Tesla,Model Y,Red
+159,BD473FC,BMW,M2 CS,White
+160,QV315TY,ASTON MARTIN,DBX,Gray
+161,YE564CS,Mitsubishi,Space Star,Blue
+162,KV843BF,ASTON MARTIN,VANTAGE ,Gray
+163,LO915YH,Jaguar Land Rover,Jaguar I-PACE EV400 HSE,Black
+164,HS932TQ,Porsche,Cayenne S,Black
+165,YZ809CE,GMC,Sierra EV Denali,Black
+166,CN627SA,Nissan,Patrol,Silver
+167,ZS168UQ,Acura,TLX Type S PMC Edition,Silver
+168,DK775GR,GMC,Yukon XL,Brown
+169,MJ935JW,Volkswagen,Beetle Final Edition,White
+170,CF354GG,Volkswagen,Taos,Brown
+171,BH574XD,Porsche,911 GT3 Cup,Gray
+172,UM239IX,GMC,Acadia SLE,Black
+173,CT296YY,KIA,SPORTAGE EX,White
+174,IB254TH,Cadillac,Escalade ESV,White
+175,YG977UD,Nissan,Sunny California,Gray
+176,RH997ZD,Nissan,March,Blue
+177,IT013FU,Tata Motors,Nano GenX,Black
+178,FC970QA,Mazda,Verisa,Black
+179,AI592FH,Mazda,Tribute,Black
+180,WM857EN,FERRARI,ROMA SPIDER,Blue
+181,SU376SU,TOYOTA,BZ3,Black
+182,LQ574UW,Volkswagen,Arteon 280 TSI,Silver
+183,ST365AM,KIA,SPORTAGE 2024(SX TURBO AWD),Brown
+184,QH361NT,Ford,Focus ST,Black
+185,VR064AS,Kia,Sorento Hybrid EX,White
+186,MA233JT,Mazda,CX-60,Black
+187,HF409GV,Ford,Bronco,Red
+188,XK679SQ,Volkswagen,Jetta GLI,Gray
+189,AM504IU,Cadillac,XT5 Sport,Gray
+190,HS980PJ,Mazda,Astina,Blue
+191,CW394UE,Chevrolet,Spark LS,White
+192,AF013MZ,Ford,Mustang Shelby GT350,Black
+193,WP129QS,Mazda,RX-2,White
+194,DB306HZ,Mitsubishi,ASX Exceed,Brown
+195,AL546MF,Tata Motors,Punch,White
+196,CU336XA,BMW,M3 COMPETITION,Red
+197,XA928HJ,ROLLS ROYCE,PHANTOM CELESTIAL,Silver
+198,DX952ED,Kia,Soul GT Designer Edition,Gray
+199,OT202LV,GMC,Yukon Denali,Red
+200,QS173ZR,Tata Motors,Manza,Gray
+201,UJ222YJ,Nissan,Urvan,White
+202,EM777JZ,Chevrolet,Tahoe Sport Edition,Gray
+203,CD056OB,Acura,NSX GT3 (Track Version),Blue
+204,ST838CE,Ford,Explorer Plug-in Hybrid,Blue
+205,MV203WM,KIA,SPORTAGE 2024(BASE MODEL),Black
+206,NO909JX,Nissan,Bluebird Z,Silver
+207,NG481AH,GMC,Canyon SLT,Red
+208,ES925ZK,Peugeot,3008 Active,Blue
+209,VV201WB,Nissan,Sunny NISMO Edition,Blue
+210,PP137NY,Nissan,200SX,White
+211,TP535MS,MARUTI SUZUKI,SWIFT,Gray
+212,LK988QY,TOYOTA,LAND CRUISER 300,White
+213,CI502LK,Volkswagen,Passat Alltrack TDI,Gray
+214,TA676LA,TOYOTA,CROWN,Blue
+215,GA395YZ,Mazda,MPV,White
+216,EZ095ZL,TOYOTA,TOYOTA 86,Black
+217,FL228DB,HYUNDAI,Ioniq,White
+218,BD659WY,Porsche,Macan T,Red
+219,FA404MH,Jeep,Grand Cherokee Summit Reserve,Blue
+220,GB537YS,Jaguar Land Rover,Jaguar XE P300 R-Dynamic,Silver
+221,YW721OT,Mitsubishi,ASX Dynamic,White
+222,BG203VW,ROLLS ROYCE,WRAITH KRYPTOS,Silver
+223,NA021CY,Nissan,Almera,White
+224,DA259IW,Nissan,Qashqai,White
+225,TF718OA,FERRARI,F8 TRIBUTO,Gray
+226,TE849CB,Nissan,Cima,Black
+227,ZX713RJ,Volkswagen,Caddy Maxi,Gray
+228,BK731XP,Peugeot,208,White
+229,GY661OX,Volkswagen,ID.3 Pro,Gray
+230,RI832WA,Nissan,GT-R Black Edition,White
+231,LY321HF,TOYOTA,HIGHLANDER,Red
+232,ET854WD,Jeep,Gladiator Mojave Edition,White
+233,ME827YV,Porsche,911 Dakar Limited Edition,White
+234,SU058WD,Mitsubishi,Delica D:5,Black
+235,IS265WD,Nissan,X-Trail Hybrid,Red
+236,NF836EN,Acura,ILX Premium,Black
+237,EC959IQ,GMC,Sierra 3500HD,Red
+238,UT656TR,Mitsubishi,Delica Van,Blue
+239,IT668QK,Chevrolet,Bolt EV 2LT,Silver
+240,TL041NP,Ford,F-150 Platinum,Orange
+241,IX882AC,BMW,M135i XDRIVE,Black
+242,PI869IM,Jeep,Wrangler Rubicon,Orange
+243,LK080OX,Peugeot,Expert,White
+244,FS370TE,Mazda,323F,Silver
+245,KQ608XI,ASTON MARTIN,RAPIDE AMR,Gray
+246,YC047DH,BMW,116D,Silver
+247,CK833DA,Mitsubishi,Grand Lancer,Gray
+248,NH797AN,Jaguar Land Rover,Jaguar F-Type R-Dynamic,White
+249,TC458AW,Mitsubishi,ASX (Outlander Sport),White
+250,TP647XC,KIA,SPORTAGE 2024(PLUG-IN HYBRID AWD),Blue
+251,RZ544OD,LAMBORGHINI,AVENTADOR ULTIMAE,White
+252,CO076QM,GMC,Sierra 2500HD Denali,Silver
+253,HQ081CR,TOYOTA,CENTURY SUV,Black
+254,DI251IM,Volkswagen,Arteon 4MOTION,Blue
+255,AE793QG,ROLLS ROYCE,DAWN CONVERTIBLE,Orange
+256,XH132NJ,MARUTI SUZUKI,BREZZA,Gray
+257,MU189AL,Volkswagen,Tiguan eHybrid,Red
+258,JY195SQ,Porsche,718 Boxster T,Silver
+259,IB658NT,Jeep,Gladiator,Gray
+260,HF107ZX,Chevrolet,Tahoe RST,Black
+261,YS783IC,Chevrolet,Tahoe Z71,White
+262,PY526YW,Chevrolet,Spark Activ,Red
+263,GQ797WD,AUDI,E-TRON SPORTBACK,Gray
+264,MV483UA,AUDI,Q3,Orange
+265,WT414OG,Mazda,1500,Red
+266,HT642SY,Nissan,Almera Tino,Gray
+267,GS097KG,Chevrolet,Colorado ZR2,Gray
+268,QI875TP,Kia,Seltos EX,Black
+269,YV604XH,GMC,Terrain,Silver
+270,NM987SR,Mazda,CX-90,Silver
+271,MX138KZ,Volkswagen,Touareg V8,Blue
+272,QI176PB,Nissan,Mistral,Blue
+273,TF436TG,Nissan,Pathfinder Rock Creek Edition,White
+274,BU232MT,Kia,Seltos Nightfall Edition,Black
+275,VF268RV,Chevrolet,Camaro SS,White
+276,FU251RH,Nissan,Skyline 50th Anniversary,Gray
+277,FW279RJ,Nissan,Tiida,White
+278,KK075PT,Nissan,Terrano II,Silver
+279,LB435FH,Nissan,Sylphy,Gray
+280,MV564BZ,Mitsubishi,Xpander Cross,Black
+281,ZQ996TI,Kia,Carnival MPV EX,Black
+282,TS459LN,Nissan,Patrol Titanium,Black
+283,PD253CD,Volkswagen,Tiguan R-Line,Black
+284,ZA217MD,Porsche,718 Cayman GT4 RS,Black
+285,NR967SZ,TOYOTA,TUNDRA,Blue
+286,XE650PS,MERCEDES,BENZ MAYBACH S 680,Gray
+287,HP529BB,Chevrolet,Colorado,White
+288,GD346JX,BMW,M4 COMPETITION,Blue
+289,KD094NE,Chevrolet,Malibu LT,White
+290,KC614TH,Peugeot,308 Saloon,Silver
+291,FE448HO,TOYOTA,TOYOTA  GR86,Blue
+292,IK019WK,Volkswagen,Karmann Ghia,Green
+293,BK602PX,Ford,F-150 Limited,Gray
+294,HN060MU,BMW,X5 M COMPETITION,Silver
+295,XS329CN,BMW,128ti,Blue
+296,KN027ZH,Kia,Rio,Blue
+297,OY408TK,Ford,F-150 Lightning,Green
+298,XJ285GQ,Volkswagen,ID. Buzz Cargo Pro,Red
+299,HD966WQ,Jeep,Grand Cherokee,Black
+300,DB288VG,Mitsubishi,Montero Sport,Black

@@ -3,6 +3,9 @@ package it.unipi.dii.lsmsdb.lsmsdb_project_jabou_rossi_paccani_scarabelli.model;
 import org.springframework.data.neo4j.core.schema.GeneratedValue;
 import org.springframework.data.neo4j.core.schema.Id;
 import org.springframework.data.neo4j.core.schema.Node;
+import org.springframework.data.neo4j.core.schema.Relationship;
+import java.util.ArrayList;
+import java.util.List;
 
 @Node("City")
 public class City {
@@ -13,8 +16,14 @@ public class City {
     private String name;
     private double latitude;
     private double longitude;
+    @Relationship(type = "TRAVELS_TO", direction = Relationship.Direction.OUTGOING)
+    private List<RouteSegment> outgoingRides = new ArrayList<>();
 
     public City() {
+    }
+
+    public List<RouteSegment> getOutgoingRides() {
+        return outgoingRides;
     }
 
     public Long getId() {

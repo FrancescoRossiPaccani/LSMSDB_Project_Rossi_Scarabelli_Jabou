@@ -10,7 +10,6 @@ public class Booking {
     private String id;
     private LocalDateTime bookingDate;
     private int seatCount;
-    private String status;
     private double proposedPrice;
     private String pickupCode;
     private double finalPrice;
@@ -44,14 +43,6 @@ public class Booking {
 
     public void setSeatCount(int seatCount) {
         this.seatCount = seatCount;
-    }
-
-    public String getStatus() {
-        return status;
-    }
-
-    public void setStatus(String status) {
-        this.status = status;
     }
 
     public double getProposedPrice() {

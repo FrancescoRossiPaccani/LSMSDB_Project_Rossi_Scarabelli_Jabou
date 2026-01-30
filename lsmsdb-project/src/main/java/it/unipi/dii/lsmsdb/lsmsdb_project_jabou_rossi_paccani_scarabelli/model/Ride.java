@@ -9,6 +9,7 @@ public class Ride {
     @Id
     private String id;
     private LocalDateTime departureTime;
+    private LocalDateTime arrivalTime;
     private double pricePerSeat;
     private int availableSeats;
     private String status;
@@ -18,6 +19,14 @@ public class Ride {
     private String destination;
 
     public Ride() {
+    }
+
+    public LocalDateTime getArrivalTime() {
+        return arrivalTime;
+    }
+
+    public void setArrivalTime(LocalDateTime arrivalTime) {
+        this.arrivalTime = arrivalTime;
     }
 
     public String getId() {

@@ -14,13 +14,31 @@ public class User {
     private String password;
     private String bio;
     private String role;
+    private boolean isLicenseVerified;
     private String phoneNumber;
-    private double averageRating;
-    private boolean isIdentityVerified;
+    private double averageRatingPassenger;
+    private double averageRatingDriver;
+    private boolean isIDVerified;
     private String bankAccountId;
     private List<Car> cars = new ArrayList<>();
 
     public User() {
+    }
+
+    public boolean isLicenseVerified() {
+        return isLicenseVerified;
+    }
+
+    public void setLicenseVerified(boolean licenseVerified) {
+        isLicenseVerified = licenseVerified;
+    }
+
+    public boolean isIDVerified() {
+        return isIDVerified;
+    }
+
+    public void setIDVerified(boolean IDVerified) {
+        isIDVerified = IDVerified;
     }
 
     public String getId() {
@@ -79,22 +97,6 @@ public class User {
         this.phoneNumber = phoneNumber;
     }
 
-    public double getAverageRating() {
-        return averageRating;
-    }
-
-    public void setAverageRating(double averageRating) {
-        this.averageRating = averageRating;
-    }
-
-    public boolean isIdentityVerified() {
-        return isIdentityVerified;
-    }
-
-    public void setIdentityVerified(boolean identityVerified) {
-        isIdentityVerified = identityVerified;
-    }
-
     public String getBankAccountId() {
         return bankAccountId;
     }
@@ -109,5 +111,21 @@ public class User {
 
     public void setCars(List<Car> cars) {
         this.cars = cars;
+    }
+
+    public double getAverageRatingPassenger() {
+        return averageRatingPassenger;
+    }
+
+    public void setAverageRatingPassenger(double averageRatingPassenger) {
+        this.averageRatingPassenger = averageRatingPassenger;
+    }
+
+    public double getAverageRatingDriver() {
+        return averageRatingDriver;
+    }
+
+    public void setAverageRatingDriver(double averageRatingDriver) {
+        this.averageRatingDriver = averageRatingDriver;
     }
 }

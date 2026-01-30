@@ -1,0 +1,33 @@
+[
+      {
+        "id": 8,
+        "bookingDate": "2025-05-15T10:00:00",
+        "seatPosition": "FR",
+        "proposedPrice": 8,
+        "pickupCode": "ABE789",
+        "finalPrice": 9,
+        "paymentStatus": "done",
+        "fundsReleasedAt": "2025-05-27T00:00:00",
+        "passengerId": 8,
+        "reviews": [
+          {
+            "id": "rev_901",
+            "ride_id": "ride_123",
+            "author_id": 8,
+            "author_role": "PASSENGER",
+            "rating": 5,
+            "comment": "Good ride",
+            "created_at": "2025-05-25T16:00:00"
+          },
+          {
+            "id": "rev_804",
+            "ride_id": "ride_123",
+            "author_id": 2,
+            "author_role": "Driver",
+            "rating": 5,
+            "comment": "Good passenger",
+            "created_at": "2025-05-25T17:00:00"
+          }
+        ]
+      }
+]

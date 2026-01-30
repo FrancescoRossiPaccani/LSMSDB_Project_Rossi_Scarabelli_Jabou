@@ -72,6 +72,7 @@ services:
       - "7474:7474" # HTTP Browser
       - "7687:7687" # Bolt (Driver Java)
     environment:
-      - NEO4J_AUTH=neo4j/passwordProgetto2026 # CAMBIA SE VUOI
+      # Questa password DEVE coincidere con quella in application.properties
+      - NEO4J_AUTH=neo4j/passwordProgetto2026
     volumes:
       - ./data/neo4j:/data

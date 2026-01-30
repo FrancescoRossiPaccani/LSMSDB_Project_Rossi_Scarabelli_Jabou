@@ -6,7 +6,6 @@ public class Car {
     private String brand;
     private String model;
     private String engine;
-    private int power;
     private int seats;
     private int fuel;
     private int horsePower;
@@ -53,14 +52,6 @@ public class Car {
 
     public void setEngine(String engine) {
         this.engine = engine;
-    }
-
-    public int getPower() {
-        return power;
-    }
-
-    public void setPower(int power) {
-        this.power = power;
     }
 
     public int getSeats() {
