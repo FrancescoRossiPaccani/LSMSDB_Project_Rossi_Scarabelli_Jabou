@@ -64,57 +64,10 @@ docker exec -it mongo_primary mongosh --port 27017 --eval 'rs.initiate({
 
 ---
 
-## ▶️ How to Run the Application
-
-1. Open IntelliJ IDEA.
-2. Select File > Open and choose the pom.xml file LSMSDB_Project/lsmsdb-project/pom.xml
-3. Let Maven download all dependencies.
-4. If prompted "Project JDK is not defined", select JDK 17 (or higher).
-5. Locate the main class:
-   src/test/java/it/unipi/dii/lsmsdb/lsmsdb_project_jabou_rossi_paccani_scarabelli/Test_0.java
-6. Right click on the Test_0 file and Run.
-
-### ✅ Verification 
-If the setup is correct, you will see green logs in the console (ignore warnings):
+## ▶️ How to Populate the DBs
+Just run the PopulateDb.sh file using
 ```text
-==================================================================
-TEST REPORT: POLYGLOT PERSISTENCE INTEGRATION CHECK
-==================================================================
-
-### 1. MongoDB Integration Test
----------------------------------
-> Status: Initializing User object...
-> Status: Saving to MongoDB...
-> [SUCCESS] User saved successfully.
-> [INFO] Generated ID: 697a12335b634c8db72ed23e
-
-### 2. Neo4j Integration Test
----------------------------------
-> Status: Initializing City node...
-> Status: Saving to Neo4j...
-> [SUCCESS] City node saved successfully.
-> [INFO] Generated ID: 8
-
-### 3. Redis Integration Test
----------------------------------
-> Status: Initializing BookingRequest hash...
-> Status: Saving to Redis...
-> [SUCCESS] Request stored successfully.
-> [INFO] Key Used: req_test_1769607733279
-
-==================================================================
-TEST RESULT: PASSED (All databases operational)
-==================================================================
-
-
---- TEARDOWN & CLEANUP REPORT ---
-[CLEANUP] Redis: Removed key req_test_1769607733279
-[CLEANUP] Neo4j: Removed node 8
-[CLEANUP] MongoDB: Removed document 697a12335b634c8db72ed23e
---- END OF REPORT ---
-
-Process finished with exit code 0
-
+sudo ./populateDB.sh
 ```
 
 ## 🛠️ Troubleshooting
