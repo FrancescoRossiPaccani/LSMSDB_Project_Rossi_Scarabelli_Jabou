@@ -32,12 +32,11 @@
     ]
   },
 
-  "rating": {
-    "average": 4.7,  // avg* count + new_vote / counts + 1
-    "count": 21
+  "reviews": {
+    "average_rating": 4.7,  // avg* count + new_vote / counts + 1
+    "count": 21,
+    "review": {"idrew1", "...", "idrewN"};  
   },
-
-  "review": {"idrew1", "...", "idrewN"};  
 
   "status": "ACTIVE"
 }
