@@ -43,6 +43,32 @@
   "status": "ACTIVE"
 }
 
+
+//cars 
+{
+  "_id": "car_6679",
+  "owner_id": "user_001","user_008",
+  "details": {
+    "brand": "Fiat",
+    "model": "Panda",
+    "engine": "1.2 Fire",
+    "power": "69 HP",
+    "fuel": "Petrol",
+    "seats": 4,
+    "color": "White"
+  },
+  "registration": {
+    "plate_number": "MO043BD",
+    "country": "IT",
+    "isValid": true
+  },
+  "metadata": {
+    "comfort_level": "BASIC",
+    "added_at": "2026-01-30T17:32:16Z",
+    "added_by":"user_001"
+  }
+}
+
 //review (occhio qua)
 {
   "id_rew": "1",
