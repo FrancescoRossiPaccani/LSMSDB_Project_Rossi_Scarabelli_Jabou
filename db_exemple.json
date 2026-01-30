@@ -129,7 +129,11 @@
         "passengerId": 8,
         "review_refs": {
           "passenger_to_driver": "rev_901",
-          "driver_to_passenger": "rev_804"
+          "driver_to_passenger": "rev_804",
+          "locations": {
+              "pickup": { "city": "Pisa", "id": "loc_001" },
+              "dropoff": { "city": "Florence", "id": "loc_002" },
+              },
           }
        
 
