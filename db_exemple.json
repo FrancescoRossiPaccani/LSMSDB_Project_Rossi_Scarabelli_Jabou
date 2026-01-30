@@ -1,0 +1,81 @@
+
+//Users
+
+{
+  "_id": "user_001",
+  "personalInfo": {
+    "name": "Mario",
+    "surname": "Rossi",
+    "email": "mario.rossi@email.com"
+  },
+
+  "documents": [
+    {
+      "type": "ID_CARD",
+      "documentId": "AB123456",
+      "expirationDate": "2030-01-01",
+      "isValid": true
+    }
+  ],
+
+  "driverInfo": {
+    "license": {
+      "licenseId": "D123456",
+      "expirationDate": "2028-05-01",
+      "isValid": true
+    },
+    "cars": [
+      {
+        "carId": "car_001",
+        "plate": "AA111AA",
+        "model": "Fiat Panda",
+        "seats": 4,
+        "isCompliant": true
+      }
+    ]
+  },
+
+  "rating": {
+    "average": 4.7,  // avg* count + new_vote / counts + 1
+    "count": 21
+  },
+
+  "review": {"idrew1", "...", "idrewN"};
+
+  "status": "ACTIVE"
+}
+
+//review (occhio qua)
+{
+  "id_rew": "1",
+  //...
+
+}
+//routes/ride
+{
+  "id" : "1",
+  "rider": "",
+  "form": "[1234, 1234, 5]", //coordinates
+  "to"  : "[]", //coordinates
+  "trajectory_id": "route_51",
+  "start time": "",
+  "price_for_seat":"",
+  "number_of_seat":"",
+}
+//trajectory
+{
+  //percorsi_pisa_totale.csv
+}
+
+//Booking
+{
+  // ... 
+  
+  "Payment_info" :{
+    "payment_id": "",
+    "state" : "",
+    ...
+  }
+}
+// notification (KV)
+//request (KV)
