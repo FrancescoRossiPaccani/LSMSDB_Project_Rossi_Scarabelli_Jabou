@@ -27,10 +27,7 @@
     "cars": [
       {
         "carId": "car_001",
-        "plate": "AA111AA",
         "model": "Fiat Panda",
-        "seats": 4,
-        "isCompliant": true
       }
     ]
   },
@@ -40,7 +37,7 @@
     "count": 21
   },
 
-  "review": {"idrew1", "...", "idrewN"};
+  "review": {"idrew1", "...", "idrewN"};  
 
   "status": "ACTIVE"
 }
