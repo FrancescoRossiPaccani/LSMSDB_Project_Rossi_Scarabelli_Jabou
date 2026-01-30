@@ -104,5 +104,18 @@
 ]
 }
 
+//platform analysis
+{
+  "id" : "some_stuff", //mybe hash
+  "total_bookings" : "", //int
+  "rides_completed": "", //int
+  "seat_occ_rate":"", //int
+  "n_users":"",//int
+  "n_cars":"",//int
+  "avg_ride_payments": "", //int,
+  "avg_time_to_be_booked": "",//int
+  "acceptance_of_changed_publication_ride": "",
+}
+
 // notification (KV)
 //request (KV)
