@@ -8,6 +8,7 @@
   "personalInfo": {
     "name": "Mario",
     "surname": "Rossi",
+    "age": 24,
     "email": "mario.rossi@email.com",
     "profile_picture": "url_to_photo",
     "phone": "+393331234567"
