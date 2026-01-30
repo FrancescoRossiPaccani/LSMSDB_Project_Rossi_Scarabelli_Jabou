@@ -24,11 +24,6 @@
   ],
 
   "driverInfo": {
-    "license": {
-      "licenseId": "D123456",
-      "expirationDate": "2028-05-01",
-      "isValid": true
-    },
     "cars": [
       {
         "carId": "car_001",
