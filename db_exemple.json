@@ -2,8 +2,6 @@
 //Users
 
 
-//"avg_acceptance_rate":"",
-//"number_of_acceptance": ""
 
 {
   "_id": "user_001",
@@ -54,6 +52,18 @@
 }
 
 
+
+//reviews 
+{
+  "_id": "rev_901",
+  "booking_id": "book_8",
+  "author_id": "user_099", // The passenger
+  "target_id": "user_001", // The driver
+  "rating": 5,
+  "comment": "Very punctual and friendly!",
+  "created_at": "2026-02-15T11:00:00Z"
+}
+
 //cars ( a car is used only by one user) 
 {
   "_id": "car_6679",
@@ -91,108 +101,93 @@
   "avg_time_to_be_booked": "",//int
 }
 
-//booking & rewiew
-[
+//platform analytics: a collection where each document represents one day of platform activity.
+{
+  "_id": "stats_2026_01_30", // Date-based ID for fast lookups
+  "period": "2026-01-30",
+  
+  "user_metrics": {
+    "total_users": 10500,
+    "new_users_today": 45,
+    "active_drivers_today": 120
+  },
+
+  "booking_metrics": {
+    "total_bookings_created": 450,
+    "rides_completed": 380,
+    "cancellation_rate": 0.05, // (Cancelled / Total)
+    "seat_occupancy_rate": 0.78 // (Occupied Seats / Total Seats Offered)
+  },
+
+  "financial_metrics": {
+    "gross_merchandise_value": 5700.00, // Total money moved
+    "platform_revenue": 855.00, // Your service fees
+    "avg_payment_per_ride": 15.00
+  },
+
+  "efficiency_metrics": {
+    "avg_time_to_be_booked_mins": 12.5, // Time from publish to first booking
+    "avg_negotiation_discount": 0.12 // % difference between base and final price
+  }
+}
+
+//booking 
+
       {
         "id": 8,
         "bookingDate": "2025-05-15T10:00:00",
-        "seatPosition": "FR", //BL, BR, BM
         "pickupCode": "ABE789",
+        "ride_id": "ride_5001",
         "finalPrice": 9,
-        "paymentStatus": "done",
+        "paymentStatus": "RELEASED",//INITIALIZED, AUTHORIZED, CAPTURED, RELEASED, REFUNDED
         "fundsReleasedAt": "2025-05-27T00:00:00",
         "passengerId": 8,
-        "reviews": [
-          {
-            "id": "rev_901",
-            "author_id": 8,
-            "author_role": "PASSENGER",
-            "rating": 5,
-            "comment": "Good ride",
-            "created_at": "2025-05-25T16:00:00"
-          },
-          {
-            "id": "rev_804",
-            "author_id": 2,
-            "author_role": "Driver",
-            "rating": 5,
-            "comment": "Good passenger",
-            "created_at": "2025-05-25T17:00:00"
+        "review_refs": {
+          "passenger_to_driver": "rev_901",
+          "driver_to_passenger": "rev_804"
           }
-        ],
-      "ride_id": "rev_901"
-      }
        
-]
+
 //rides
-[
-  {
-    "id": 90,
-    "departureDateTime": "2025-05-20T14:30:00",
-    "arrivalDateTime" : "2025-05-20T17:00:00",
-    "pricePerSeat": 10,
-    "availableSeats": 3,
-    "status": "SCHEDULED",
-    "driverId": 8,
-    "vehicleUsedId": 78,
-    "origin": "Milan",
-    "destination": "Bologna",
-    "start_loc_id": "",
-    "end_loc_id": "",
-  }
-]
 
 {
   "_id": "ride_5001",
-  "status": "OPEN", 
+  "status": "OPEN", // Managed by logic checking against the Key-Value counters
   
-  "driver_snapshot": {
-    "user_id": "user_001",
+  /* 1. SNAPSHOTS (Single-Query Retrieval) */
+  "driver": {
+    "id": "user_001",
     "name": "Mario Rossi",
-    "rating": 4.8,
-    "is_verified": true
+    "avatar": "url_to_photo",
+    "phone": "+393331234567",
+    "avg_acceptance_rate": 0.92 // From your previous notes
   },
-  "car_snapshot": {
-    "car_id": "car_6679",
-    "display_name": "Fiat Panda",
+  "car": {
+    "model": "Fiat Panda",
     "plate": "MO043BD",
-    "color": "White",
-    "comfort_level": "BASIC"
+    "comfort": "BASIC"
   },
 
+  /* 2. THE ROUTE (Static Data) */
   "route": {
-    "origin": {
-      "name": "Pisa Centrale",
-      "coordinates": { "lat": 43.7085, "lng": 10.3985 }
-    },
-    "destination": {
-      "name": "Firenze Santa Maria Novella",
-      "coordinates": { "lat": 43.7765, "lng": 11.2478 }
-    },
-    "stops": [] 
-  },
-  "schedule": {
-    "departure_time": "2026-02-15T08:30:00Z",
-    "estimated_arrival": "2026-02-15T10:00:00Z"
+    "origin": { "city": "Pisa", "id": "loc_001" },
+    "destination": { "city": "Florence", "id": "loc_002" },
+    "distance_km": 82
   },
 
-
-  "pricing": {
-    "base_price": 15.00,
-    "currency": "EUR",
-    "negotiation_allowed": true,
+  /* 3. DYNAMIC LINKS TO KEY-VALUE DATA */
+  "booking_state": {
+    "total_seats": 4,
+    "available_seats": 3, 
+    "has_waiting_list": false // Set to true if Key-Value WaitingList is not empty
   },
 
-  "seats": {
-    "total": 4,
-    "available": 3,
-    "occupied_by": ["user_099"] 
-  },
+  /* 4. PRICING & NEGOTIATION BOUNDARIES */
+
+  "base_price": 15.00,
 
 
   "metadata": {
     "created_at": "2026-01-30T18:00:00Z",
-    "tags": ["no_smoking", "pets_allowed"],
-    "version": 1
   }
 }
