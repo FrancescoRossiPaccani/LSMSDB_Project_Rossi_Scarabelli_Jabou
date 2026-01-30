@@ -6,7 +6,9 @@
   "personalInfo": {
     "name": "Mario",
     "surname": "Rossi",
-    "email": "mario.rossi@email.com"
+    "email": "mario.rossi@email.com",
+    "profile_picture": "url_to_photo",
+    "phone": "+393331234567"
   },
 
   "documents": [
