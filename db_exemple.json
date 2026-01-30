@@ -1,12 +1,18 @@
 
 //Users
 
+
+//"avg_acceptance_rate":"",
+//"number_of_acceptance": ""
+
 {
   "_id": "user_001",
   "personalInfo": {
     "name": "Mario",
     "surname": "Rossi",
-    "email": "mario.rossi@email.com"
+    "email": "mario.rossi@email.com",
+    "profile_picture": "url_to_photo",
+    "phone": "+393331234567"
   },
 
   "documents": [
@@ -27,25 +33,98 @@
     "cars": [
       {
         "carId": "car_001",
-        "plate": "AA111AA",
-        "model": "Fiat Panda",
-        "seats": 4,
-        "isCompliant": true
+        "model": "Fiat Panda"
       }
     ]
   },
 
-  "rating": {
-    "average": 4.7,  // avg* count + new_vote / counts + 1
-    "count": 21
+  "reviews_driver": {
+    "average_rating": 4.7,  // avg* count + new_vote / counts + 1
+    "count": 21,
+    "review": {"idrew1", "...", "idrewN"};  
   },
 
-  "review": {"idrew1", "...", "idrewN"};
+  "reviews_passanger": {
+    "average_rating": 4.7,  // avg* count_old + new_vote / counts_new (counts_old + 1)
+    "count": 21,
+    "review": {"idrew1", "...", "idrewN"};  
+  },
 
   "status": "ACTIVE"
 }
 
-//ride
+
+//cars ( a car is used only by one user) 
+{
+  "_id": "car_6679",
+  "owner_id": "user_001",
+  "details": {
+    "brand": "Fiat",
+    "model": "Panda",
+    "engine": "1.2 Fire",
+    "power": "69 HP",
+    "fuel": "Petrol",
+    "seats": 4,
+    "color": "White"
+  },
+  "registration": {
+    "plate_number": "MO043BD",
+    "country": "IT",
+    "isValid": true
+  },
+  "metadata": {
+    "comfort_level": "BASIC",
+    "added_at": "2026-01-30T17:32:16Z",
+  }
+}
+
+
+//platform analysis
+{
+  "id" : "some_stuff", //mybe hash
+  "total_bookings" : "", //int
+  "rides_completed": "", //int
+  "seat_occ_rate":"", //int
+  "n_users":"",//int
+  "n_cars":"",//int
+  "avg_ride_payments": "", //int,
+  "avg_time_to_be_booked": "",//int
+}
+
+//booking & rewiew
+[
+      {
+        "id": 8,
+        "bookingDate": "2025-05-15T10:00:00",
+        "seatPosition": "FR", //BL, BR, BM
+        "pickupCode": "ABE789",
+        "finalPrice": 9,
+        "paymentStatus": "done",
+        "fundsReleasedAt": "2025-05-27T00:00:00",
+        "passengerId": 8,
+        "reviews": [
+          {
+            "id": "rev_901",
+            "author_id": 8,
+            "author_role": "PASSENGER",
+            "rating": 5,
+            "comment": "Good ride",
+            "created_at": "2025-05-25T16:00:00"
+          },
+          {
+            "id": "rev_804",
+            "author_id": 2,
+            "author_role": "Driver",
+            "rating": 5,
+            "comment": "Good passenger",
+            "created_at": "2025-05-25T17:00:00"
+          }
+        ],
+      "ride_id": "rev_901"
+      }
+       
+]
+//rides
 [
   {
     "id": 90,
@@ -58,64 +137,62 @@
     "vehicleUsedId": 78,
     "origin": "Milan",
     "destination": "Bologna",
-    "start_loc_id": 56,
-    "end_loc_id": 12
+    "start_loc_id": "",
+    "end_loc_id": "",
   }
 ]
-//trajectory
-{
-  //percorsi_pisa_totale.csv
-}
 
-//Booking and Reviews
 {
-  [
-      {
-        "id": 8,
-        "bookingDate": "2025-05-15T10:00:00",
-        "seatPosition": "FR",
-        "proposedPrice": 8,
-        "pickupCode": "ABE789",
-        "finalPrice": 9,
-        "paymentStatus": "done",
-        "fundsReleasedAt": "2025-05-27T00:00:00",
-        "passengerId": 8,
-        "reviews": [
-          {
-            "id": "rev_901",
-            "ride_id": "ride_123",
-            "author_id": 8,
-            "author_role": "PASSENGER",
-            "rating": 5,
-            "comment": "Good ride",
-            "created_at": "2025-05-25T16:00:00"
-          },
-          {
-            "id": "rev_804",
-            "ride_id": "ride_123",
-            "author_id": 2,
-            "author_role": "Driver",
-            "rating": 5,
-            "comment": "Good passenger",
-            "created_at": "2025-05-25T17:00:00"
-          }
-        ]
-      }
-]
-}
+  "_id": "ride_5001",
+  "status": "OPEN", 
+  
+  "driver_snapshot": {
+    "user_id": "user_001",
+    "name": "Mario Rossi",
+    "rating": 4.8,
+    "is_verified": true
+  },
+  "car_snapshot": {
+    "car_id": "car_6679",
+    "display_name": "Fiat Panda",
+    "plate": "MO043BD",
+    "color": "White",
+    "comfort_level": "BASIC"
+  },
 
-//platform analysis
-{
-  "id" : "some_stuff", //mybe hash
-  "total_bookings" : "", //int
-  "rides_completed": "", //int
-  "seat_occ_rate":"", //int
-  "n_users":"",//int
-  "n_cars":"",//int
-  "avg_ride_payments": "", //int,
-  "avg_time_to_be_booked": "",//int
-  "acceptance_of_changed_publication_ride": "",
-}
+  "route": {
+    "origin": {
+      "name": "Pisa Centrale",
+      "coordinates": { "lat": 43.7085, "lng": 10.3985 }
+    },
+    "destination": {
+      "name": "Firenze Santa Maria Novella",
+      "coordinates": { "lat": 43.7765, "lng": 11.2478 }
+    },
+    "stops": [] 
+  },
+  "schedule": {
+    "departure_time": "2026-02-15T08:30:00Z",
+    "estimated_arrival": "2026-02-15T10:00:00Z"
+  },
 
-// notification (KV)
-//request (KV)
+
+  "pricing": {
+    "base_price": 15.00,
+    "currency": "EUR",
+    "negotiation_allowed": true,
+  },
+
+  "seats": {
+    "total": 4,
+    "available": 3,
+    "occupied_by": ["user_099"] 
+  },
+
+
+  "metadata": {
+    "created_at": "2026-01-30T18:00:00Z",
+    "tags": ["no_smoking", "pets_allowed"],
+    "version": 1
+  }
+}
