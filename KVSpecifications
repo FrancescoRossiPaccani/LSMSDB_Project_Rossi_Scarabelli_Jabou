@@ -1,0 +1,56 @@
+KV db has to manage notifications, booking requests and user session data
+- NOTIFICATIONS: when a notification has to be send to a user it gets created and loaded inside the KV db; this allows a fast retrival of the notification when the user opens the application
+	FORMAT: 
+		- Key: user:inbox:{userId}
+		- Value: list of all notifications about the specific user
+	EXAMPLE:
+		- key -> user:inbox:user_123
+		- value ->
+			[
+			  {
+				"msg_id": "msg_001",
+				"type": "RIDE_UPDATE",
+				"content": "Il driver Andrea ha accettato la tua offerta per Pisa-Bologna.",
+				"timestamp": "2026-06-16T09:35:00Z",
+				"read": false
+			  },
+			  {
+				"msg_id": "msg_002",
+				"type": "PAYMENT_REMINDER",
+				"content": "Hai 10 minuti per completare il pagamento.",
+				"timestamp": "2026-06-16T09:36:00Z",
+				"read": false
+			  }
+			]
+		
+- BOOKING REQUESTS: when a user try to purchase a seat for a published ride, his request is added to the KV db and stays there until the driver accept/decline his request. If the request is accepted we update the ride document in MONGOdb with the correct number of avilable seats
+	FORMAT:
+		- Key: booking:req:{requestId}
+		- Value: details like passenger, ride, number of seats requested, state of the booking request
+		- TTL: used to manage auto-expirependig requests
+	EXAMPLE:
+		- key -> booking:req:BR-998877
+		- value -> 
+			{
+			  "user_id": "user_123",
+			  "ride_id": "ride_555",
+			  "status": "PENDING_DRIVER_APPROVAL",
+			  "seats_requested": 2,
+			  "price_proposed": 15.50,
+			  "created_at": "2026-06-16T09:30:00Z",
+			  "expires_at": "2026-06-16T09:40:00Z"
+			}
+- SESSION DATA: when a user is logged in, we save his information in order to not make the user sing-in every time he wants to perform an action (examples: view profile, book a ride, see his reviews)
+	FORMAT:
+		- Key: session:{token}
+		- Value: user details needed to not access the other databases every api we call
+	EXAMPLE:
+		- key -> session:token:abc-123-xyz
+		- value -> 
+			{
+			  "user_id": "user_123",
+			  "email": "johanna.doe@example.com",
+			  "role": "PASSENGER",
+			  "is_verified": true,
+			  "last_access": "2026-06-16T10:05:00Z"
+			}
