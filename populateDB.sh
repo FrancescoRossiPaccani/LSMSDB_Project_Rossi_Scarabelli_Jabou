@@ -17,3 +17,52 @@ sudo docker exec mongo_primary mongoimport --db lsmsdb --collection cars --file 
 
 echo "Cars processed!"
 echo "-----------------------------------"
+
+echo ""
+echo "-----------------------------------"
+echo "Adding routes to modgodb"
+if sudo docker exec mongo_primary [ ! -f /tmp/routes_collection.json ]; then
+    sudo docker cp DataSeederJson/routes_collection.json mongo_primary:/tmp/routes_collection.json
+fi
+sudo docker exec mongo_primary mongoimport --db lsmsdb --collection routes --file /tmp/routes_collection.json --jsonArray --mode upsert --quiet
+
+echo "Routes processed!"
+echo "-----------------------------------"
+
+echo ""
+echo "-----------------------------------"
+echo "Adding rides to modgodb"
+if sudo docker exec mongo_primary [ ! -f /tmp/rides_collection.json ]; then
+    sudo docker cp DataSeederJson/rides_collection.json mongo_primary:/tmp/rides_collection.json
+fi
+sudo docker exec mongo_primary mongoimport --db lsmsdb --collection rides --file /tmp/rides_collection.json --jsonArray --mode upsert --quiet
+
+echo "Rides processed!"
+echo "-----------------------------------"
+
+
+echo ""
+echo "-----------------------------------"
+echo "Adding rides to modgodb"
+if sudo docker exec mongo_primary [ ! -f /tmp/rides_collection.json ]; then
+    sudo docker cp DataSeederJson/rides_collection.json mongo_primary:/tmp/rides_collection.json
+fi
+sudo docker exec mongo_primary mongoimport --db lsmsdb --collection rides --file /tmp/rides_collection.json --jsonArray --mode upsert --quiet
+
+echo "Rides processed!"
+echo "-----------------------------------"
+
+echo ""
+echo "-----------------------------------"
+echo "Adding bookings to modgodb"
+if sudo docker exec mongo_primary [ ! -f /tmp/bookings_collection.json ]; then
+    sudo docker cp DataSeederJson/bookings_collection.json mongo_primary:/tmp/bookings_collection.json
+fi
+sudo docker exec mongo_primary mongoimport --db lsmsdb --collection bookings --file /tmp/bookings_collection.json --jsonArray --mode upsert --quiet
+
+echo "Bookings processed!"
+echo "-----------------------------------"
+
+
+
+
