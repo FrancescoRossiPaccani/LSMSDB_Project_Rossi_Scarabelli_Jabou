@@ -42,17 +42,6 @@ echo "-----------------------------------"
 
 echo ""
 echo "-----------------------------------"
-echo "Adding reviews to mongodb"
-if sudo docker exec mongo_primary [ ! -f /tmp/reviews_collection.json ]; then
-    sudo docker cp DataSeederJson/reviews_collection.json mongo_primary:/tmp/reviews_collection.json
-fi
-sudo docker exec mongo_primary mongoimport --db lsmsdb --collection reviews --file /tmp/reviews_collection.json --jsonArray --mode upsert --quiet
-
-echo "reviews processed!"
-echo "-----------------------------------"
-
-echo ""
-echo "-----------------------------------"
 echo "Adding rides to mongodb"
 if sudo docker exec mongo_primary [ ! -f /tmp/rides_collection.json ]; then
     sudo docker cp DataSeederJson/rides_collection.json mongo_primary:/tmp/rides_collection.json
