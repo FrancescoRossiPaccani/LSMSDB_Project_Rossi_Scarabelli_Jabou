@@ -1,0 +1,68 @@
+{
+  "project_name": "LSMSDB Carpooling Project - Jabou Integrated Engine",
+  "developer": "Selim",
+  "base_url": "http://localhost:8080/api",
+  "description": "Integrated Master's level carpooling engine combining MongoDB high-volume analytics with Redis performance logic.",
+  "standard_endpoints": {
+    "search": "GET /rides/search?from=Torre&to=Stazione Pisa Centrale (Find available rides)",
+    "collections": [
+      "http://localhost:8080/api/rides",
+      "http://localhost:8080/api/users",
+      "http://localhost:8080/api/cars",
+      "http://localhost:8080/api/bookings",
+      "http://localhost:8080/api/analytics"
+    ]
+  },
+  "booking_management": {
+    "find_by_user": "GET /bookings/user/user_4378 (Find all bookings of a user by userId)",
+    "find_by_id": "GET /bookings/book_9a595cda (Get specific booking by ID)",
+    "passenger_trips": "GET /bookings/passenger/user_4378 (User can see all their confirmed trips)",
+    "driver_bookings": "GET /bookings/driver/user_003 (FindBookingsByDriverId)",
+    "cancel_booking": "DELETE /bookings/book_23499b05 (CANCEL BOOKING)",
+    "finalize_booking": {
+      "endpoint": "POST /bookings/finalize",
+      "logic": "Decrements available seats in Redis; prevents seats from going below 0.",
+      "request_payload": {
+        "user_id": "user_006",
+        "ride_id": "ride_194d7ff7",
+        "seats_requested": 1,
+        "pickup": "Polo Fibonacci",
+        "dropoff": "Pizzeria Colignola"
+      }
+    }
+  },
+  "user_and_feedback": {
+    "user_summary": "GET /users/user_001/summary (DTO ensuring only public info like name/rating is sent)",
+    "update_rating": "PUT /bookings/user/user_4378/rate?stars=5 (Updates user rating)",
+    "update_ride_status": "PUT /bookings/rides/ride_79085914/status?status=COMPLETED",
+    "passenger_to_driver_feedback": {
+      "endpoint": "POST /bookings/book_492670bf/feedback/driver",
+      "payload": { "rating": 5, "comment": "James was fantastic!" }
+    },
+    "driver_to_passenger_feedback": {
+      "endpoint": "POST /bookings/book_9a595cda/feedback",
+      "description": "Driver feedback saved and Driver rating updated!",
+      "payload": { "rating": 5, "comment": "James was a fantastic passenger!" }
+    }
+  },
+  "advanced_analytics": {
+    "price_advisor": "GET /bookings/analytics/price-stats?dist=5 (Average price per KM to suggest for drivers)",
+    "top_destinations": "GET /bookings/analytics/top-destinations",
+    "revenue_reporting": "GET /bookings/analytics/revenue?start=2026-01-01T00:00:00&end=2026-01-31T23:59:59 (Revenue with date filter)",
+    "complex_queries": [
+      {
+        "title": "High-Value Churn Analysis",
+        "endpoint": "GET /bookings/analytics/high-value-churners?days=0",
+        "logic_description": "Finds users who spent a lot of money in the past but haven't booked anything recently. Uses $lookup to join 45,000+ records and $dateDiff for recency calculation.",
+        "pipeline_stages": ["$match rating >= 4.0", "$limit 100", "$lookup bookings", "$project TotalSpent & LastRide", "$sort spenders"]
+      },
+      {
+        "title": "Elite Driver Leaderboard",
+        "endpoint": "GET /bookings/leaderboard/top-drivers",
+        "logic_description": "Calculates an 'Elite Driver' score by weighting verified legal documentation, acceptance rates, and passenger ratings natively in the engine.",
+        "scoring_weights": { "Verified Identity": 50, "Driver License": 30, "Passport": 20 },
+        "formula": "trustPoints * average_rating * avg_acceptance_rate"
+      }
+    ]
+  }
+}
