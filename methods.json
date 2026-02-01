@@ -1,3 +1,10 @@
+http://localhost:8080/api/routes/match?latA=43.723&lonA=10.398&latB=43.709&lonB=10.397  // This test uses the coordinates to find the names, then searches MongoDB for the top 10 cheapest rides with seats. 
+
+
+http://localhost:8080/api/routes/path?from=Torre&to=Stazione Pisa Centrale // SHORTEST PATH 
+
+
+
 {
   "project_name": "LSMSDB Carpooling Project - Jabou Integrated Engine",
   "developer": "Selim",
