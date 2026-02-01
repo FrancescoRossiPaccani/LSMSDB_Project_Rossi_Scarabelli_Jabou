@@ -88,8 +88,7 @@
 
 //platform analytics: a collection where each document represents one day of platform activity.
 {
-  "_id": "stats_2026_01_30", // Date-based ID for fast lookups
-  "period": "2026-01-30",
+  "_id": "2026-01-30", // Date-based ID for fast lookups
   
   "user_metrics": {
     "total_users": 10500,
