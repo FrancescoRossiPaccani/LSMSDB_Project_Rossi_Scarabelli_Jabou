@@ -76,3 +76,4 @@ services:
       - NEO4J_AUTH=neo4j/passwordProgetto2026
     volumes:
       - ./data/neo4j:/data
+      - ./import:/var/lib/neo4j/import
