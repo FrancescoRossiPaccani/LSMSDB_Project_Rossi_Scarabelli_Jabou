@@ -1,103 +1,87 @@
 package it.unipi.dii.lsmsdb.lsmsdb_project_jabou_rossi_paccani_scarabelli.model;
 
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
-import java.time.LocalDateTime;
+import org.springframework.data.mongodb.core.mapping.Field;
 
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
 @Document(collection = "rides")
 public class Ride {
+
     @Id
     private String id;
-    private LocalDateTime departureTime;
-    private LocalDateTime arrivalTime;
-    private double pricePerSeat;
-    private int availableSeats;
+
     private String status;
-    private String driverId;
-    private Car vehicleUsed;
-    private String origin;
-    private String destination;
 
-    public Ride() {
+    private Double base_price;
+
+    // --- NESTED SECTIONS (Matching your JSON) ---
+
+    private DriverInfo driver;
+
+    private CarInfo car;
+
+    private RouteInfo route;
+
+    @Field("booking_state")
+    private BookingState bookingState;
+
+    private Metadata metadata;
+
+    // --- INNER CLASSES ---
+
+    @Data
+    @NoArgsConstructor
+    public static class DriverInfo {
+        @Field("id")
+        private String id;
+
+        @Field("name")
+        private String name;
+
+        @Field("phone")
+        private String phone;
+
+        @Field("avg_acceptance_rate")
+        private Double avgAcceptanceRate;    }
+
+    @Data
+    @NoArgsConstructor
+    public static class CarInfo {
+        private String model;
+        private String plate;
+        private String comfort;
     }
 
-    public LocalDateTime getArrivalTime() {
-        return arrivalTime;
+    @Data
+    @NoArgsConstructor
+    public static class RouteInfo {
+        private String origin;
+        private String destination;
+        @Field("route_id")
+        private String routeId;
     }
 
-    public void setArrivalTime(LocalDateTime arrivalTime) {
-        this.arrivalTime = arrivalTime;
+    @Data
+    @NoArgsConstructor
+    public static class BookingState {
+        @Field("total_seats")
+        private Integer totalSeats;
+        @Field("available_seats")
+        private Integer availableSeats;
+        @Field("has_waiting_list")
+        private Boolean hasWaitingList;
     }
 
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
-    }
-
-    public LocalDateTime getDepartureTime() {
-        return departureTime;
-    }
-
-    public void setDepartureTime(LocalDateTime departureTime) {
-        this.departureTime = departureTime;
-    }
-
-    public double getPricePerSeat() {
-        return pricePerSeat;
-    }
-
-    public void setPricePerSeat(double pricePerSeat) {
-        this.pricePerSeat = pricePerSeat;
-    }
-
-    public int getAvailableSeats() {
-        return availableSeats;
-    }
-
-    public void setAvailableSeats(int availableSeats) {
-        this.availableSeats = availableSeats;
-    }
-
-    public String getStatus() {
-        return status;
-    }
-
-    public void setStatus(String status) {
-        this.status = status;
-    }
-
-    public String getDriverId() {
-        return driverId;
-    }
-
-    public void setDriverId(String driverId) {
-        this.driverId = driverId;
-    }
-
-    public Car getVehicleUsed() {
-        return vehicleUsed;
-    }
-
-    public void setVehicleUsed(Car vehicleUsed) {
-        this.vehicleUsed = vehicleUsed;
-    }
-
-    public String getOrigin() {
-        return origin;
-    }
-
-    public void setOrigin(String origin) {
-        this.origin = origin;
-    }
-
-    public String getDestination() {
-        return destination;
-    }
-
-    public void setDestination(String destination) {
-        this.destination = destination;
+    @Data
+    @NoArgsConstructor
+    public static class Metadata {
+        @Field("created_at")
+        private String createdAt;
     }
 }
