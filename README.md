@@ -53,13 +53,13 @@ docker compose up -d
 ### 4. Initialize MongoDB Replica Set (First Time Only)
 By default, the 3 Mongo nodes are independent. You must link them into a Replica Set (rs0) for the application to work. Run this command in your terminal:
 
-docker exec -it mongo_primary mongosh --port 27017 --eval 'rs.initiate({
-  _id: "rs0",
-  members: [
-    { _id: 0, host: "mongo_primary:27017" },
-    { _id: 1, host: "mongo_secondary1:27018" },
-    { _id: 2, host: "mongo_secondary2:27019" }
-  ]
+docker exec -it mongo0 mongosh --eval 'rs.initiate({ 
+  _id: "rs0", 
+  members: [ 
+    { _id: 0, host: "mongo0:27017" }, 
+    { _id: 1, host: "mongo1:27017" }, 
+    { _id: 2, host: "mongo2:27017" } 
+  ] 
 })'
 
 ---
