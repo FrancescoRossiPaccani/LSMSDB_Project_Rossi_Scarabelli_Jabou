@@ -1,0 +1,151 @@
+{
+  "project_name": "Click&Go - LSMSDB Project (Integrated & Updated)",
+  "apis": [
+    {
+      "name": "User & Car Management API",
+      "description": "Manages users and cars. Cars are saved in a 'cars' collection and as a summary within 'users'.",
+      "signature": "GET /api/users/{id}, POST /api/users, POST /api/cars",
+      "services": [
+        {
+          "name": "UserService",
+          "description": "Handles registration, profiles, and adding cars to drivers.",
+          "signature": "getUserById(String id), registerUser(User user), addCarToDriver(String userId, Car car)",
+          "repositories": [
+            {
+              "name": "UserRepository",
+              "description": "MongoRepository. Manages nested data (personalInfo, driverInfo).",
+              "signature": "findById(String id), findByEmail(String email), save(User user)",
+              "repositories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ride Publication & Search API",
+      "description": "Cross-database search (Neo4j for paths, Mongo for details).",
+      "signature": "POST /api/rides, GET /api/rides/search?from={x}&to={y}, PUT /api/rides/{id}/status",
+      "services": [
+        {
+          "name": "RideSearchService",
+          "description": "Finds rides via Neo4j (including intermediate stops) and retrieves details from Mongo.",
+          "signature": "searchRides(String fromCity, String toCity), publishRide(Ride ride)",
+          "repositories": [
+            {
+              "name": "RouteRepository",
+              "description": "Neo4jRepository. Searches for route_id in the GPS points graph.",
+              "signature": "findRideIdsBetweenLocations(String from, String to)",
+              "repositories": []
+            },
+            {
+              "name": "RideRepository",
+              "description": "MongoRepository. Filters for OPEN status and available seats.",
+              "signature": "findAllById(Iterable ids), save(Ride ride)",
+              "repositories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Booking Flow API (Redis + Mongo)",
+      "description": "Booking lifecycle: transient state on Redis and persistence on Mongo.",
+      "signature": "POST /api/bookings/finalize, DELETE /api/bookings/{id}, GET /api/bookings/user/{id}",
+      "services": [
+        {
+          "name": "BookingProcessService",
+          "description": "Orchestrates the transition from Redis to Mongo, updates seats, and maps complex DTOs.",
+          "signature": "createTemporaryReservation(BookingRequestDTO dto), finalizeBooking(BookingRequestDTO requestData)",
+          "repositories": [
+            {
+              "name": "BookingRequestRepository",
+              "description": "Redis Repository. Manages temporary bookings (TTL 30m).",
+              "signature": "save(BookingRequest req)",
+              "repositories": []
+            },
+            {
+              "name": "BookingRepository",
+              "description": "MongoRepository. Saves final bookings with Driver/Passenger summaries.",
+              "signature": "save(Booking b), findByPassengerId(String id), findByDriverId(String id)",
+              "repositories": []
+            },
+            {
+              "name": "RideRepository",
+              "description": "Atomically updates available_seats within booking_state.",
+              "signature": "findById(String id), save(Ride ride)",
+              "repositories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Analytics & Statistics API",
+      "description": "Financial metrics and price suggestions based on aggregations.",
+      "signature": "GET /api/bookings/analytics/price-stats, /api/analytics/revenue",
+      "services": [
+        {
+          "name": "AnalyticsService",
+          "description": "Provides historical reports and calculates suggested prices per km.",
+          "signature": "getRevenueStats(String start, String end), getPriceStats(int distanceKm)",
+          "repositories": [
+            {
+              "name": "AnalyticsRepository",
+              "description": "MongoRepository. Range query on the 'analytics' collection.",
+              "signature": "findReportsBetweenDates(String start, String end)",
+              "repositories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Feedback & Rating API",
+      "description": "Bidirectional reviews with automatic user average rating recalculation.",
+      "signature": "POST /api/bookings/{id}/feedback/driver",
+      "services": [
+        {
+          "name": "FeedbackService",
+          "description": "Saves reviews and updates the ReviewStats (averageRating) object for the user.",
+          "signature": "submitDriverFeedback(String bookingId, FeedbackDTO feedbackDTO)",
+          "repositories": [
+            {
+              "name": "ReviewRepository",
+              "description": "MongoRepository. Stores comments and scores.",
+              "signature": "save(Review r), findByTargetUserId(String id)",
+              "repositories": []
+            },
+            {
+              "name": "UserRepository",
+              "description": "Updates reviewsDriver or reviewsPassenger fields.",
+              "signature": "findById(String id), save(User user)",
+              "repositories": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "data_transfer_objects": [
+    {
+      "name": "BookingRequestDTO",
+      "usage": "Input for the booking request and finalization phase.",
+      "fields": "userId, rideId, seatsRequested, pickup, dropoff"
+    },
+    {
+      "name": "BookingResponseDTO",
+      "usage": "Detailed output for the frontend; aggregates data from Booking, Ride, and User.",
+      "fields": "id, rideId, bookingDate, paymentStatus, finalPrice, carPlate, driver (UserSummaryDTO), passenger (UserSummaryDTO), locations (LocationDTO)"
+    },
+    {
+      "name": "UserSummaryDTO",
+      "usage": "Lightweight user representation to avoid sending sensitive or heavy data.",
+      "fields": "id, name, profilePicture, rating"
+    },
+    {
+      "name": "FeedbackDTO",
+      "usage": "Data transport for submitting reviews and ratings.",
+      "fields": "rating, comment"
+    }
+  ]
+}

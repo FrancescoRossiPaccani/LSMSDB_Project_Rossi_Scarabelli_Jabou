@@ -65,10 +65,7 @@ docker exec -it mongo0 mongosh --eval 'rs.initiate({
 ---
 
 ## ▶️ How to Populate the DBs
-Just run the PopulateDb.sh file using
-```text
-sudo ./populateDB.sh
-```
+Just run the PopulateDb.sh or PopulateDb.ps1 file
 
 ## 🛠️ Troubleshooting
 

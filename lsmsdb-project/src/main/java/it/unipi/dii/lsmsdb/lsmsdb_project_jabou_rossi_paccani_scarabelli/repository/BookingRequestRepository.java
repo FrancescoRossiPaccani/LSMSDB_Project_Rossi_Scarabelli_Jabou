@@ -8,4 +8,7 @@ import java.util.List;
 
 @Repository
 public interface BookingRequestRepository extends CrudRepository<BookingRequest, String> {
+
+    // Grazie a @Indexed su passengerId nella classe modello, possiamo fare questa ricerca su Redis
+    List<BookingRequest> findByPassengerId(String passengerId);
 }
