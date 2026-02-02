@@ -1,11 +1,12 @@
 package it.unipi.dii.lsmsdb.lsmsdb_project.model;
 
+import java.io.Serializable;
+
 import org.springframework.data.annotation.Id;
 import org.springframework.data.redis.core.RedisHash;
 import org.springframework.data.redis.core.index.Indexed;
-import java.io.Serializable;
 
-// TTL 30 minuti (1800 secondi)
+// TTL 30 minutes = 1800 s
 @RedisHash(value = "booking_requests", timeToLive = 1800)
 public class BookingRequest implements Serializable {
 

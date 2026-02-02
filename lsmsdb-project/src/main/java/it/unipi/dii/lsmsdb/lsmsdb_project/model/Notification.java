@@ -1,19 +1,20 @@
 package it.unipi.dii.lsmsdb.lsmsdb_project.model;
 
-import org.springframework.data.annotation.Id;
-import org.springframework.data.redis.core.RedisHash;
-import org.springframework.data.redis.core.index.Indexed;
 import java.io.Serializable;
 import java.time.LocalDateTime;
 
-// TTL di 7 giorni (604800 secondi)
+import org.springframework.data.annotation.Id;
+import org.springframework.data.redis.core.RedisHash;
+import org.springframework.data.redis.core.index.Indexed;
+
+// TTL 7 days = 604800 s
 @RedisHash(value = "notifications", timeToLive = 604800)
 public class Notification implements Serializable {
 
     @Id
     private String id;
 
-    @Indexed // FONDAMENTALE: Ci permette di fare findByRecipientUserId
+    @Indexed // ESSENTIAL: It allows us to do findByRecipientUserId
     private String recipientUserId;
 
     private String type; // es. "BOOKING_CONFIRMED", "RIDE_CANCELLED"

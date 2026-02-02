@@ -54,16 +54,16 @@ public class Ride {
 
     public static class RouteInfo {
         private String origin;
-        private Double originLat; // NUOVO
-        private Double originLon; // NUOVO
+        private Double originLat;
+        private Double originLon;
 
         private String destination;
-        private Double destLat;   // NUOVO
-        private Double destLon;   // NUOVO
+        private Double destLat;
+        private Double destLon;
 
         @Field("route_id") private String routeId;
 
-        // --- GETTERS E SETTERS AGGIORNATI ---
+        // Getters/Setters standard
         public String getOrigin() { return origin; }
         public void setOrigin(String origin) { this.origin = origin; }
         public Double getOriginLat() { return originLat; }

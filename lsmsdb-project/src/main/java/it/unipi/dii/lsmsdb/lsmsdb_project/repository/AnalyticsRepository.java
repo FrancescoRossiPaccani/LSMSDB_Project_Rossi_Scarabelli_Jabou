@@ -7,6 +7,5 @@ import java.util.List;
 
 @Repository
 public interface AnalyticsRepository extends MongoRepository<Analytics, String> {
-    // Poiché l'ID è la data (YYYY-MM-DD), possiamo usare Between sulle stringhe
     List<Analytics> findByDateBetween(String startDate, String endDate);
 }

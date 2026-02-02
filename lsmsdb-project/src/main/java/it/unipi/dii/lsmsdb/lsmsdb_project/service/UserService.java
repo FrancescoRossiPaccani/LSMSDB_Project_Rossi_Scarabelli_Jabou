@@ -1,11 +1,13 @@
 package it.unipi.dii.lsmsdb.lsmsdb_project.service;
 
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
 import it.unipi.dii.lsmsdb.lsmsdb_project.dto.UserSummaryDTO;
 import it.unipi.dii.lsmsdb.lsmsdb_project.model.User;
 import it.unipi.dii.lsmsdb.lsmsdb_project.repository.UserRepository;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
-import java.util.List;
 
 @Service
 public class UserService {
@@ -20,7 +22,6 @@ public class UserService {
         return userRepository.findById(id).orElse(null);
     }
 
-    // Metodo del collega adattato: trasforma il documento pesante in un DTO leggero
     public UserSummaryDTO getPublicProfile(String userId) {
         User user = userRepository.findById(userId)
                 .orElseThrow(() -> new RuntimeException("User not found"));

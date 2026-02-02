@@ -4,6 +4,7 @@ import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.data.mongodb.core.mapping.Field;
 import java.util.List;
+import java.util.ArrayList;
 
 @Document(collection = "users")
 public class User {
@@ -70,10 +71,30 @@ public class User {
         @Field("avg_acceptance_rate") private double avgAcceptanceRate;
         @Field("number_of_acceptance") private int numberOfAcceptance;
 
+        private List<EmbeddedCar> cars = new ArrayList<>();
+
         public double getAvgAcceptanceRate() { return avgAcceptanceRate; }
         public void setAvgAcceptanceRate(double avgAcceptanceRate) { this.avgAcceptanceRate = avgAcceptanceRate; }
         public int getNumberOfAcceptance() { return numberOfAcceptance; }
         public void setNumberOfAcceptance(int numberOfAcceptance) { this.numberOfAcceptance = numberOfAcceptance; }
+        public List<EmbeddedCar> getCars() { return cars; }
+        public void setCars(List<EmbeddedCar> cars) { this.cars = cars; }
+    }
+
+    public static class EmbeddedCar {
+        private String carId;
+        private String model;
+
+        public EmbeddedCar() {}
+        public EmbeddedCar(String carId, String model) {
+            this.carId = carId;
+            this.model = model;
+        }
+
+        public String getCarId() { return carId; }
+        public void setCarId(String carId) { this.carId = carId; }
+        public String getModel() { return model; }
+        public void setModel(String model) { this.model = model; }
     }
 
     public static class ReviewStats {

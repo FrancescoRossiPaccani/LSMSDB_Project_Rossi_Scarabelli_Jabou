@@ -1,16 +1,16 @@
 package it.unipi.dii.lsmsdb.lsmsdb_project.repository;
 
-import it.unipi.dii.lsmsdb.lsmsdb_project.model.Location;
+import java.util.List;
+
 import org.springframework.data.neo4j.repository.Neo4jRepository;
 import org.springframework.data.neo4j.repository.query.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
-import java.util.List;
+
+import it.unipi.dii.lsmsdb.lsmsdb_project.model.Location;
 
 @Repository
 public interface RouteRepository extends Neo4jRepository<Location, String> {
-
-    // --- LOGICA DEL COLLEGA (Geospatial) ---
     @Query("MATCH (l:Location) " +
             "WHERE l.name IS NOT NULL " +
             "WITH l, point.distance(point({latitude: l.lat, longitude: l.lon}), " +
@@ -26,8 +26,6 @@ public interface RouteRepository extends Neo4jRepository<Location, String> {
         String getName();
         Double getDistance();
     }
-
-    // --- LOGICA DINAMICA PERFETTA (Crea Nodi con Coordinate) ---
     @Query("MERGE (a:Location {name: $from}) " +
             "ON CREATE SET a.lat = $fromLat, a.lon = $fromLon " +
             "MERGE (b:Location {name: $to}) " +

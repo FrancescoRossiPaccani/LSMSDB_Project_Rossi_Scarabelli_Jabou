@@ -1,18 +1,35 @@
 package it.unipi.dii.lsmsdb.lsmsdb_project;
 
-import it.unipi.dii.lsmsdb.lsmsdb_project.dto.BookingRequestDTO;
-import it.unipi.dii.lsmsdb.lsmsdb_project.dto.LoginRequest;
-import it.unipi.dii.lsmsdb.lsmsdb_project.dto.UserSummaryDTO;
-import it.unipi.dii.lsmsdb.lsmsdb_project.model.*;
-import it.unipi.dii.lsmsdb.lsmsdb_project.repository.*;
-import it.unipi.dii.lsmsdb.lsmsdb_project.service.*;
+import java.util.List;
+
 import org.bson.Document;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
-import java.util.List;
+import it.unipi.dii.lsmsdb.lsmsdb_project.dto.BookingRequestDTO;
+import it.unipi.dii.lsmsdb.lsmsdb_project.dto.LoginRequest;
+import it.unipi.dii.lsmsdb.lsmsdb_project.dto.UserSummaryDTO;
+import it.unipi.dii.lsmsdb.lsmsdb_project.model.Booking;
+import it.unipi.dii.lsmsdb.lsmsdb_project.model.Car;
+import it.unipi.dii.lsmsdb.lsmsdb_project.model.Notification;
+import it.unipi.dii.lsmsdb.lsmsdb_project.model.Ride;
+import it.unipi.dii.lsmsdb.lsmsdb_project.model.User;
+import it.unipi.dii.lsmsdb.lsmsdb_project.repository.BookingRepository;
+import it.unipi.dii.lsmsdb.lsmsdb_project.repository.BookingRequestRepository;
+import it.unipi.dii.lsmsdb.lsmsdb_project.repository.CarRepository;
+import it.unipi.dii.lsmsdb.lsmsdb_project.repository.NotificationRepository;
+import it.unipi.dii.lsmsdb.lsmsdb_project.repository.RideRepository;
+import it.unipi.dii.lsmsdb.lsmsdb_project.repository.RouteRepository;
+import it.unipi.dii.lsmsdb.lsmsdb_project.repository.SessionRepository;
+import it.unipi.dii.lsmsdb.lsmsdb_project.repository.UserRepository;
+import it.unipi.dii.lsmsdb.lsmsdb_project.service.AuthService;
+import it.unipi.dii.lsmsdb.lsmsdb_project.service.BookingAnalyticsService;
+import it.unipi.dii.lsmsdb.lsmsdb_project.service.BookingProcessService;
+import it.unipi.dii.lsmsdb.lsmsdb_project.service.CarService;
+import it.unipi.dii.lsmsdb.lsmsdb_project.service.RideService;
+import it.unipi.dii.lsmsdb.lsmsdb_project.service.UserService;
 
 @SpringBootApplication
 public class LsmsdbProjectApplication {
@@ -43,11 +60,10 @@ public class LsmsdbProjectApplication {
     ) {
         return args -> {
             System.out.println("\n\n================================================================");
-            System.out.println("🚀 STARTING FULL DEMO (LSMSDB PROJECT - ALL FEATURES)");
+            System.out.println(" STARTING DEMO ");
             System.out.println("================================================================\n");
 
-            // --- 1. FULL CLEANUP ---
-            System.out.println("🧹 [STEP 1] Cleaning Databases (Mongo, Redis)...");
+            //Cleanup
             userRepo.deleteAll();
             rideRepo.deleteAll();
             bookingRepo.deleteAll();
@@ -55,12 +71,10 @@ public class LsmsdbProjectApplication {
             redisBookingRepo.deleteAll();
             notificationRepo.deleteAll();
             sessionRepo.deleteAll();
-            // Note: Neo4j is handled dynamically using MERGE, so strict deletion is not mandatory,
-            // but if you want a fresh graph: neo4jRepo.deleteAll();
+            // Note: Neo4j is handled dynamically using MERGE, so strict deletion is not mandatory.
+            //neo4jRepo.deleteAll();
 
-            // --- 2. USER REGISTRATION ---
-            System.out.println("👤 [STEP 2] Creating Actors (Driver & Passenger)...");
-
+            //User registration
             // DRIVER: Mario
             User driver = new User();
             driver.setPersonalInfo(new User.PersonalInfo());
@@ -82,7 +96,7 @@ public class LsmsdbProjectApplication {
             driver.setReviewsDriver(dStats);
 
             userRepo.save(driver);
-            System.out.println("   ✅ Driver registered: Mario Rossi (" + driver.getId() + ")");
+            System.out.println(" Driver registered: Mario Rossi (" + driver.getId() + ")");
 
             // PASSENGER: Luigi
             User passenger = new User();
@@ -92,18 +106,20 @@ public class LsmsdbProjectApplication {
             passenger.getPersonalInfo().setEmail("luigi@passenger.com");
             passenger.setStatus("ACTIVE");
 
-            // Stats for Churner analysis
+            // Stats for analysis
             User.ReviewStats pStats = new User.ReviewStats();
             pStats.setAverageRating(5.0);
             pStats.setCount(5);
             passenger.setReviewsPassenger(pStats);
 
             userRepo.save(passenger);
-            System.out.println("   ✅ Passenger registered: Luigi Verdi (" + passenger.getId() + ")");
+            System.out.println("Passenger registered: Luigi Verdi (" + passenger.getId() + ")");
 
-            // --- 3. FLEET MANAGEMENT (CARS) ---
-            System.out.println("\n🚗 [STEP 3] Adding Car to Fleet...");
+            //Cars testing
+            System.out.println("\nAdding Car");
             Car car = new Car();
+            // REMOVED: car.setOwnerId(driver.getId()); -> Now handled by Service logic via Embedding
+
             Car.CarDetails details = new Car.CarDetails();
             details.setBrand("Fiat");
             details.setModel("Panda 4x4");
@@ -111,39 +127,39 @@ public class LsmsdbProjectApplication {
             details.setSeats(4);
             car.setDetails(details);
 
-            carService.saveCar(car);
+            // CHANGED: We now pass the owner ID explicitly to the service
+            carService.saveCar(car, driver.getId());
 
+            // This now fetches cars by looking up the User's embedded list first
             List<Car> driverCars = carService.getCarsByOwner(driver.getId());
             if (!driverCars.isEmpty()) {
-                System.out.println("   ✅ Car added successfully: " + driverCars.get(0).getDetails().getModel());
+                System.out.println("Car added successfully: " + driverCars.get(0).getDetails().getModel());
             } else {
-                System.err.println("   ❌ Error: Car not found.");
+                System.err.println("Error: Car not found.");
             }
 
-            // --- 4. LOGIN (REDIS) ---
-            System.out.println("\n🔐 [STEP 4] Authentication (Redis Sessions)...");
+            // LOGIN (redis)
+            System.out.println("\n Authentication");
             LoginRequest login = new LoginRequest();
             login.setEmail("luigi@passenger.com");
             login.setPassword("password123");
 
             String token = authService.login(login);
-            System.out.println("   ✅ Login successful. Redis Token: " + token);
+            System.out.println("Login successful. Token: " + token);
 
             // Verify on Redis
             if (sessionRepo.existsById(token)) {
-                System.out.println("   ✅ Session verified on Redis.");
+                System.out.println("Session verified on Redis.");
             }
 
-            // --- 5. RIDE PUBLICATION (MONGO + NEO4J SYNC) ---
-            System.out.println("\n🗺️ [STEP 5] Publishing Ride (Sync Mongo -> Neo4j)...");
+            //RIDE PUBLICATION
+            System.out.println("\n Publishing Ride");
             Ride ride = new Ride();
 
-            // Driver Info
             ride.setDriver(new Ride.DriverInfo());
             ride.getDriver().setId(driver.getId());
             ride.getDriver().setName("Mario Rossi");
 
-            // Car Info
             Ride.CarInfo cInfo = new Ride.CarInfo();
             cInfo.setModel("Fiat Panda 4x4");
             ride.setCar(cInfo);
@@ -154,7 +170,7 @@ public class LsmsdbProjectApplication {
             ride.getBookingState().setAvailableSeats(4);
             ride.setBasePrice(10.0);
 
-            // ROUTE (With Coordinates for Neo4j)
+            // ROUTE (with Coordinates for Neo4j)
             Ride.RouteInfo route = new Ride.RouteInfo();
             route.setOrigin("Pisa");
             route.setOriginLat(43.7228);
@@ -167,86 +183,79 @@ public class LsmsdbProjectApplication {
             ride.setRoute(route);
 
             Ride savedRide = rideService.createRide(ride);
-            System.out.println("   ✅ Ride saved on Mongo: " + savedRide.getId());
-            System.out.println("   ✅ Nodes and Relationship created on Neo4j (with lat/lon).");
+            System.out.println("Ride saved on Mongo: " + savedRide.getId());
+            System.out.println("Nodes and Relationship created on Neo4j");
 
-            // --- 6. GEOSPATIAL SEARCH (RADIUS) ---
-            System.out.println("\n🔍 [STEP 6] Proximity Search (Radius Search)...");
+            //GEOSPATIAL SEARCH
+            System.out.println("\n Proximity Search");
             // User simulates being near Pisa
             List<Ride> matches = rideService.searchMatchingRides(43.72, 10.40, 43.77, 11.25);
 
             if (!matches.isEmpty()) {
-                System.out.println("   ✅ Ideal ride found ID: " + matches.get(0).getId());
-                System.out.println("      -> Price: " + matches.get(0).getBasePrice() + "€");
+                System.out.println("Ideal ride found ID: " + matches.get(0).getId());
+                System.out.println("-> Price: " + matches.get(0).getBasePrice() + "€");
             } else {
-                System.err.println("   ❌ No rides found (Neo4j coordinates issue?).");
+                System.err.println("No rides found");
             }
 
-            // --- 7. PUBLIC PROFILE ---
-            System.out.println("\n👀 [STEP 7] Viewing Driver Public Profile...");
+            //DRIVER PROFILE
+            System.out.println("\nDriver profile:");
             UserSummaryDTO profile = userService.getPublicProfile(driver.getId());
-            System.out.println("   ✅ Profile downloaded: " + profile.getName() + " | Rating: " + profile.getAverageRating() + "⭐");
+            System.out.println("Profile downloaded: " + profile.getName() + " | Rating: " + profile.getAverageRating() + "satrs");
 
-            // --- 8. BOOKING (REDIS -> MONGO) ---
-            System.out.println("\n🎟️ [STEP 8] Complete Booking Flow...");
-
-            // Phase A: Request (Redis)
+            //BOOKING
+            System.out.println("\nBooking Flow: ");
+            //Request (Redis)
             BookingRequestDTO req = new BookingRequestDTO();
             req.setUserId(passenger.getId());
             req.setRideId(savedRide.getId());
             req.setSeatsRequested(2);
-
             String reqId = bookingService.createTemporaryReservation(req);
-            System.out.println("   [A] Request buffered on Redis. ID: " + reqId);
+            System.out.println("Request buffered on Redis. ID: " + reqId);
 
-            // Phase B: Confirm (Mongo Atomic)
+            //Confirm (Mongo)
             Booking booking = bookingService.finalizeBooking(reqId);
-            System.out.println("   [B] Booking finalized on Mongo. ID: " + booking.getId());
-
-            // Seat Verification
+            System.out.println("Booking finalized on Mongo. ID: " + booking.getId());
+            // Seat verification
             Ride updatedRide = rideRepo.findById(savedRide.getId()).get();
             int seatsLeft = updatedRide.getBookingState().getAvailableSeats();
-            System.out.println("   [C] Seat Verification: " + seatsLeft + "/4 remaining.");
-            if(seatsLeft == 2) System.out.println("   ✅ Consistency OK.");
-            else System.err.println("   ❌ SEAT CONSISTENCY ERROR.");
+            System.out.println("Seat Verification: " + seatsLeft + " remaining.");
+            if(seatsLeft == 2) System.out.println("OK.");
+            else System.err.println("SEAT CONSISTENCY ERROR."); //never happen if everithing is done alright
 
-            // --- 9. NOTIFICATIONS (REDIS) ---
-            System.out.println("\n🔔 [STEP 9] Checking Notifications...");
+            //NOTIFICATIONS
+            System.out.println("\nChecking Notifications");
             List<Notification> notifs = notificationRepo.findByRecipientUserId(driver.getId());
             if (!notifs.isEmpty()) {
-                System.out.println("   ✅ Notification received by Driver: " + notifs.get(0).getMessage());
+                System.out.println("Notification received by Driver: " + notifs.get(0).getMessage());
             } else {
-                System.err.println("   ❌ No notifications found.");
+                System.err.println("No notifications found.");
             }
 
-            // --- 10. ANALYTICS ---
-            System.out.println("\n📊 [STEP 10] Testing Analytics Aggregations...");
-
-            // A. Revenue
+            //ANALYTICS
+            System.out.println("\nTesting Analytics Aggregations");
             Document revenue = analyticsService.getRevenueStats("2020-01-01", "2030-12-31");
             if(revenue != null)
-                System.out.println("   💰 Total Revenue: " + revenue.get("totalRevenue") + "€ (From 1 booking)");
+                System.out.println("Total Revenue: " + revenue.get("totalRevenue"));
 
-            // B. Leaderboard
             List<Document> leaders = analyticsService.getTopDriverLeaderboard();
             if(!leaders.isEmpty())
-                System.out.println("   🏆 Top Driver: " + leaders.get(0).getString("name") + " (Score: " + leaders.get(0).get("performanceScore") + ")");
+                System.out.println("Tops Driver: " + leaders.get(0).getString("name") + " (Score: " + leaders.get(0).get("performanceScore") + ")");
 
-            // C. Churners
             List<Document> churners = analyticsService.getHighValueChurners(30);
-            System.out.println("   📉 Churner Analysis executed (" + churners.size() + " at-risk users found).");
+            System.out.println("Churner Analysis executed (" + churners.size() + " at-risk users found).");
 
-            // --- 11. LOGOUT ---
-            System.out.println("\n🚪 [STEP 11] Logout...");
+            //LOGOUT
+            System.out.println("\nLogout");
             authService.logout(token);
             if (!sessionRepo.existsById(token)) {
-                System.out.println("   ✅ Logout successful. Redis key removed.");
+                System.out.println("Logout successful. Redis key removed.");
             } else {
-                System.err.println("   ❌ Logout Error: Key still exists.");
+                System.err.println("Logout Error: Key still exists.");
             }
 
             System.out.println("\n================================================================");
-            System.out.println("🏁 DEMO COMPLETED SUCCESSFULLY. ALL SYSTEMS OPERATIONAL.");
+            System.out.println(" DEMO COMPLETED SUCCESSFULLY. ALL SYSTEMS OPERATIONAL.");
             System.out.println("================================================================\n");
         };
     }

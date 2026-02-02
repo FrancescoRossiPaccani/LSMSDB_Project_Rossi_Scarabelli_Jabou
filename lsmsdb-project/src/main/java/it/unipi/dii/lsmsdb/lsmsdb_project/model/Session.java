@@ -1,20 +1,20 @@
 package it.unipi.dii.lsmsdb.lsmsdb_project.model;
 
+import java.io.Serializable;
+
 import org.springframework.data.annotation.Id;
 import org.springframework.data.redis.core.RedisHash;
 import org.springframework.data.redis.core.index.Indexed;
-import java.io.Serializable;
 
-// TTL: 24 ore (86400 secondi)
+// TTL: 24h = 86400 s
 @RedisHash(value = "sessions", timeToLive = 86400)
 public class Session implements Serializable {
 
     @Id
-    private String id; // Il token di sessione (UUID)
+    private String id; // Session token (UUID)
 
     @Indexed
-    private String userId; // L'ID dell'utente loggato
-
+    private String userId;
     private String username;
 
     public Session() {}

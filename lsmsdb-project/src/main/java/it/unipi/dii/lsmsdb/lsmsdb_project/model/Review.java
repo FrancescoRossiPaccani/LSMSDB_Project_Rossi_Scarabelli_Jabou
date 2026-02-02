@@ -1,8 +1,9 @@
 package it.unipi.dii.lsmsdb.lsmsdb_project.model;
 
+import java.time.LocalDateTime;
+
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
-import java.time.LocalDateTime;
 
 @Document(collection = "reviews")
 public class Review {
@@ -15,7 +16,7 @@ public class Review {
 
     private String comment;
     private int rating;
-    private String date; // Salviamo come String per semplicità JSON
+    private String date;
     private String role; // "DRIVER_REVIEW" o "PASSENGER_REVIEW"
 
     public Review() {
