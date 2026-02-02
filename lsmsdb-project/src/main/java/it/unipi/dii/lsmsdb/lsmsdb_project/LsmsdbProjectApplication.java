@@ -104,7 +104,6 @@ public class LsmsdbProjectApplication {
             // --- 3. FLEET MANAGEMENT (CARS) ---
             System.out.println("\n🚗 [STEP 3] Adding Car to Fleet...");
             Car car = new Car();
-            car.setOwnerId(driver.getId());
             Car.CarDetails details = new Car.CarDetails();
             details.setBrand("Fiat");
             details.setModel("Panda 4x4");
