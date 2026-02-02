@@ -1,1 +1,0 @@
-# LSMSDB_Project_Rossi_Scarabelli_Jabou
