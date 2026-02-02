@@ -2,36 +2,36 @@ version: '3.8'
 
 services:
   # --- MONGODB REPLICA SET (3 Nodi Neutri) ---
-  mongo0:
-    image: mongo:6.0
-    container_name: mongo0
-    ports:
-      - "27017:27017"
-    command: ["--replSet", "rs0", "--bind_ip_all"]
-    volumes:
-      - ./data/mongo0:/data/db
-
   mongo1:
     image: mongo:6.0
     container_name: mongo1
     ports:
-      - "27018:27017" 
+      - "27017:27017"
     command: ["--replSet", "rs0", "--bind_ip_all"]
     volumes:
       - ./data/mongo1:/data/db
-    depends_on:
-      - mongo0
 
   mongo2:
     image: mongo:6.0
     container_name: mongo2
     ports:
-      - "27019:27017"
+      - "27018:27017" 
     command: ["--replSet", "rs0", "--bind_ip_all"]
     volumes:
       - ./data/mongo2:/data/db
     depends_on:
-      - mongo0
+      - mongo1
+
+  mongo3:
+    image: mongo:6.0
+    container_name: mongo3
+    ports:
+      - "27019:27017"
+    command: ["--replSet", "rs0", "--bind_ip_all"]
+    volumes:
+      - ./data/mongo3:/data/db
+    depends_on:
+      - mongo1
 
   # --- REDIS (Master + 2 Replicas) ---
   redis-master:
