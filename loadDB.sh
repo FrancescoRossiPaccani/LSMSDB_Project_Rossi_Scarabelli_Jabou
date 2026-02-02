@@ -1,6 +1,11 @@
 #!/bin/bash
-TARGET_CONTAINER="mongo0"
-MONGO_URI="mongodb://mongo0:27017,mongo1:27017,mongo2:27017/lsmsdb?replicaSet=rs0"
+# 1. NOME CONTAINER CORRETTO (da mongo0 a mongo1)
+TARGET_CONTAINER="mongo1"
+
+# 2. URI CORRETTA
+# Dato che sei in network_mode: host sulla VM1, puoi usare localhost o l'IP della VM1 (10.1.1.39).
+# Non usare nomi host come 'mongo0' se non sono nel /etc/hosts.
+MONGO_URI="mongodb://127.0.0.1:27017/lsmsdb?replicaSet=rs0"
 
 echo "-----------------------------------"
 echo "Waiting 10 seconds for Replica Set election to stabilize..."
@@ -15,10 +20,16 @@ import_collection() {
     echo "-----------------------------------"
     echo "Processing collection: $COLLECTION"
 
-    if sudo docker exec $TARGET_CONTAINER [ ! -f $TARGET_PATH ]; then
-        sudo docker cp "$FILE_PATH" $TARGET_CONTAINER:$TARGET_PATH
+    # Controllo esistenza file locale
+    if [ ! -f "$FILE_PATH" ]; then
+        echo "ERROR: File $FILE_PATH does not exist locally!"
+        return
     fi
 
+    # Copia nel container corretto
+    sudo docker cp "$FILE_PATH" $TARGET_CONTAINER:$TARGET_PATH
+
+    # Esecuzione mongoimport nel container corretto
     sudo docker exec $TARGET_CONTAINER mongoimport --uri "$MONGO_URI" --collection "$COLLECTION" --file $TARGET_PATH --jsonArray --mode upsert 
     
     echo "$COLLECTION processed!"
@@ -40,10 +51,17 @@ echo ""
 echo "-----------------------------------"
 echo "Populating neo4j db"
 
+# 3. NOME CONTAINER NEO4J CORRETTO (da neo4j_db a neo4j)
+NEO4J_CONTAINER="neo4j"
+
 if [ -f "DataSet/routes.csv" ]; then
-    sudo docker cp DataSet/routes.csv neo4j_db:/var/lib/neo4j/import/
+    # Copia nel container corretto
+    sudo docker cp DataSet/routes.csv $NEO4J_CONTAINER:/var/lib/neo4j/import/
     
-    cat graph_db_import_data_query.cypher | sudo docker exec -i neo4j_db cypher-shell -u neo4j -p passwordProgetto2026
+    # Importazione Cypher
+    # Nota: Rimosso user/pass perché nel docker-compose hai messo NEO4J_AUTH=none
+    cat DataSet/graph_db_import_data_query.cypher | sudo docker exec -i $NEO4J_CONTAINER cypher-shell
+    
     echo "Graph db succesfully populated"
 else
     echo "ERROR: File DataSet/routes.csv not found!"

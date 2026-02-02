@@ -6,6 +6,7 @@ import org.springframework.data.neo4j.repository.Neo4jRepository;
 import org.springframework.data.neo4j.repository.query.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
+import java.util.Optional;
 
 import it.unipi.dii.lsmsdb.lsmsdb_project.model.Location;
 
@@ -40,4 +41,16 @@ public interface RouteRepository extends Neo4jRepository<Location, String> {
                                 @Param("toLon") Double toLon,
                                 @Param("rideId") String rideId,
                                 @Param("price") Double price);
+
+    @Query("MATCH (start:Location {name: $from}), (end:Location {name: $to}) " +
+            "MATCH path = shortestPath((start)-[:HAS_RIDE*]->(end)) " +
+            "RETURN [n IN nodes(path) | n.name] AS pathNames, " +
+            "reduce(cost = 0.0, r IN relationships(path) | cost + r.price) AS totalCost")
+    Optional<ShortestPathResult> findShortestPath(@Param("from") String from, @Param("to") String to);
+
+    interface ShortestPathResult {
+        List<String> getPathNames();
+        Double getTotalCost();
+    }
+
 }

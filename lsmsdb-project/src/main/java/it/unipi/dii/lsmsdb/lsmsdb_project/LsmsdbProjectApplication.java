@@ -11,6 +11,7 @@ import org.springframework.context.annotation.Bean;
 import it.unipi.dii.lsmsdb.lsmsdb_project.dto.BookingRequestDTO;
 import it.unipi.dii.lsmsdb.lsmsdb_project.dto.LoginRequest;
 import it.unipi.dii.lsmsdb.lsmsdb_project.dto.UserSummaryDTO;
+import it.unipi.dii.lsmsdb.lsmsdb_project.dto.PathResponseDTO;
 import it.unipi.dii.lsmsdb.lsmsdb_project.model.Booking;
 import it.unipi.dii.lsmsdb.lsmsdb_project.model.Car;
 import it.unipi.dii.lsmsdb.lsmsdb_project.model.Notification;
@@ -25,6 +26,7 @@ import it.unipi.dii.lsmsdb.lsmsdb_project.repository.RouteRepository;
 import it.unipi.dii.lsmsdb.lsmsdb_project.repository.SessionRepository;
 import it.unipi.dii.lsmsdb.lsmsdb_project.repository.UserRepository;
 import it.unipi.dii.lsmsdb.lsmsdb_project.service.AuthService;
+import it.unipi.dii.lsmsdb.lsmsdb_project.service.RouteService; // Assicurati che questo import ci sia
 import it.unipi.dii.lsmsdb.lsmsdb_project.service.BookingAnalyticsService;
 import it.unipi.dii.lsmsdb.lsmsdb_project.service.BookingProcessService;
 import it.unipi.dii.lsmsdb.lsmsdb_project.service.CarService;
@@ -49,6 +51,7 @@ public class LsmsdbProjectApplication {
             AuthService authService,
             BookingAnalyticsService analyticsService,
             CarService carService,
+            RouteService routeService, // <--- AGGIUNTO QUI!
             UserRepository userRepo,
             RideRepository rideRepo,
             BookingRepository bookingRepo,
@@ -71,8 +74,6 @@ public class LsmsdbProjectApplication {
             redisBookingRepo.deleteAll();
             notificationRepo.deleteAll();
             sessionRepo.deleteAll();
-            // Note: Neo4j is handled dynamically using MERGE, so strict deletion is not mandatory.
-            //neo4jRepo.deleteAll();
 
             //User registration
             // DRIVER: Mario
@@ -82,11 +83,11 @@ public class LsmsdbProjectApplication {
             driver.getPersonalInfo().setSurname("Rossi");
             driver.getPersonalInfo().setEmail("mario@driver.com");
             driver.getPersonalInfo().setLocation("Pisa");
-            driver.getPersonalInfo().setIdentityVerified(true); // Important for Leaderboard score
+            driver.getPersonalInfo().setIdentityVerified(true);
             driver.setStatus("ACTIVE");
 
             User.DriverInfo dInfo = new User.DriverInfo();
-            dInfo.setAvgAcceptanceRate(0.99); // Excellent driver
+            dInfo.setAvgAcceptanceRate(0.99);
             dInfo.setNumberOfAcceptance(100);
             driver.setDriverInfo(dInfo);
 
@@ -106,7 +107,6 @@ public class LsmsdbProjectApplication {
             passenger.getPersonalInfo().setEmail("luigi@passenger.com");
             passenger.setStatus("ACTIVE");
 
-            // Stats for analysis
             User.ReviewStats pStats = new User.ReviewStats();
             pStats.setAverageRating(5.0);
             pStats.setCount(5);
@@ -118,8 +118,6 @@ public class LsmsdbProjectApplication {
             //Cars testing
             System.out.println("\nAdding Car");
             Car car = new Car();
-            // REMOVED: car.setOwnerId(driver.getId()); -> Now handled by Service logic via Embedding
-
             Car.CarDetails details = new Car.CarDetails();
             details.setBrand("Fiat");
             details.setModel("Panda 4x4");
@@ -127,10 +125,8 @@ public class LsmsdbProjectApplication {
             details.setSeats(4);
             car.setDetails(details);
 
-            // CHANGED: We now pass the owner ID explicitly to the service
             carService.saveCar(car, driver.getId());
 
-            // This now fetches cars by looking up the User's embedded list first
             List<Car> driverCars = carService.getCarsByOwner(driver.getId());
             if (!driverCars.isEmpty()) {
                 System.out.println("Car added successfully: " + driverCars.get(0).getDetails().getModel());
@@ -147,7 +143,6 @@ public class LsmsdbProjectApplication {
             String token = authService.login(login);
             System.out.println("Login successful. Token: " + token);
 
-            // Verify on Redis
             if (sessionRepo.existsById(token)) {
                 System.out.println("Session verified on Redis.");
             }
@@ -164,13 +159,11 @@ public class LsmsdbProjectApplication {
             cInfo.setModel("Fiat Panda 4x4");
             ride.setCar(cInfo);
 
-            // Booking State
             ride.setBookingState(new Ride.BookingState());
             ride.getBookingState().setTotalSeats(4);
             ride.getBookingState().setAvailableSeats(4);
             ride.setBasePrice(10.0);
 
-            // ROUTE (with Coordinates for Neo4j)
             Ride.RouteInfo route = new Ride.RouteInfo();
             route.setOrigin("Pisa");
             route.setOriginLat(43.7228);
@@ -188,7 +181,6 @@ public class LsmsdbProjectApplication {
 
             //GEOSPATIAL SEARCH
             System.out.println("\n Proximity Search");
-            // User simulates being near Pisa
             List<Ride> matches = rideService.searchMatchingRides(43.72, 10.40, 43.77, 11.25);
 
             if (!matches.isEmpty()) {
@@ -205,7 +197,6 @@ public class LsmsdbProjectApplication {
 
             //BOOKING
             System.out.println("\nBooking Flow: ");
-            //Request (Redis)
             BookingRequestDTO req = new BookingRequestDTO();
             req.setUserId(passenger.getId());
             req.setRideId(savedRide.getId());
@@ -213,15 +204,14 @@ public class LsmsdbProjectApplication {
             String reqId = bookingService.createTemporaryReservation(req);
             System.out.println("Request buffered on Redis. ID: " + reqId);
 
-            //Confirm (Mongo)
             Booking booking = bookingService.finalizeBooking(reqId);
             System.out.println("Booking finalized on Mongo. ID: " + booking.getId());
-            // Seat verification
+
             Ride updatedRide = rideRepo.findById(savedRide.getId()).get();
             int seatsLeft = updatedRide.getBookingState().getAvailableSeats();
             System.out.println("Seat Verification: " + seatsLeft + " remaining.");
             if(seatsLeft == 2) System.out.println("OK.");
-            else System.err.println("SEAT CONSISTENCY ERROR."); //never happen if everithing is done alright
+            else System.err.println("SEAT CONSISTENCY ERROR.");
 
             //NOTIFICATIONS
             System.out.println("\nChecking Notifications");
@@ -244,6 +234,22 @@ public class LsmsdbProjectApplication {
 
             List<Document> churners = analyticsService.getHighValueChurners(30);
             System.out.println("Churner Analysis executed (" + churners.size() + " at-risk users found).");
+
+            System.out.println("\n Testing Shortest Path (Neo4j)");
+            try {
+                // Test con i dati creati dalla demo (Pisa -> Firenze)
+                // Nota: Funziona solo se 'createRide' ha creato i nodi con name="Pisa" e "Firenze" su Neo4j
+                PathResponseDTO path = routeService.getShortestPath("Pisa", "Firenze");
+                if (!path.getPath().isEmpty()) {
+                    System.out.println("Path found: " + path.getPath());
+                    System.out.println("Total Cost: " + path.getEstimatedCost());
+                } else {
+                    System.err.println("No path found between Pisa and Firenze");
+                }
+            } catch (Exception e) {
+                System.err.println("Error testing path: " + e.getMessage());
+            }
+            // --------------------------------------------------
 
             //LOGOUT
             System.out.println("\nLogout");
