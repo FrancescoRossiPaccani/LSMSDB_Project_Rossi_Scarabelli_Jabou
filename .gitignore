@@ -1,0 +1,13 @@
+# Ignora i dati dei database locali
+data/
+**/*.wt
+**/*.rdb
+**/*.lock
+
+# Ignora i file di compilazione Java
+**/target/
+**/*.class
+
+# Ignora i file specifici del tuo IDE (IntelliJ)
+.idea/
+**/*.iml
